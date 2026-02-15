@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Lore/Species")
+    order:
+      - file.name
+      - brawn
+      - agility
+      - intellect
+      - cunning
+      - willpower
+      - presence
+      - experience
+      - strain
+      - wound
+    sort:
+      - property: wound
+        direction: ASC

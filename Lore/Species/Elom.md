@@ -12,8 +12,7 @@ experience: 0
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Elom
 ---
 # Elom
-
-- **Special Abilities:** Eloms begin the game with one rank in [Resilience](https://star-wars-rpg-ffg.fandom.com/wiki/Resilience_\(Br\) "Resilience (Br)"). They still may not train [Resilience](https://star-wars-rpg-ffg.fandom.com/wiki/Resilience_\(Br\) "Resilience (Br)") above rank 2 during character creation.
+## Special Abilities:
+Eloms begin the game with one rank in [Resilience](https://star-wars-rpg-ffg.fandom.com/wiki/Resilience_\(Br\) "Resilience (Br)"). They still may not train [Resilience](https://star-wars-rpg-ffg.fandom.com/wiki/Resilience_\(Br\) "Resilience (Br)") above rank 2 during character creation.
+## Additional information
 - **Digging Claws:** Before using a maneuver to move, an Elom may spend a maneuver to dig, allowing the Elom to use that move maneuver to travel through loose soil or similar terrain. At the Game Master's discretion, this excavation can result in a low, narrow tunnel that others can use.
-
-1. [Forged in Battle](https://star-wars-rpg-ffg.fandom.com/wiki/Category:Soldier "Category:Soldier"): _A Sourcebook for Soldiers_ (Page 18-21)

@@ -12,10 +12,8 @@ experience: 140
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Geonosian
 ---
 # Geonosian
-
 ## Special Abilities
 Geonosians begin with one rank in a skill of their choice. They still may not train this skill above rank 2 at character creation.
-
 ## Additional information
 - **Industrious**: A Geonosian who provides assistance adds a boost die to the check, in addition to the normal benefits of assistance, and the Geonosian heals 1 strain.
 - **Winged**: Geonosians can fly.

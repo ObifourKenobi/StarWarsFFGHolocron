@@ -12,9 +12,7 @@ experience: 100
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Umbaran
 ---
 # Umbaran
-
 ## Special Abilities
-Umbarans begin the game with one rank in Deception. They still may not train Deception above rank 2 during character creation.
-## Additional information
+Umbarans begin the game with one rank in Deception. They still may not train Deception above rank 2 during character creation.## Additional information
 - **Entrancing Gaze**: Umbarans add a boost die to Charm, Deception, and Negotiation checks.
 - **Shadow Dweller**: When making skill checks, Umbarans remove up to two setback dice imposed due to darkness. Umbarans add a setback die to all checks they make while in bright natural light, such as direct sunlight.

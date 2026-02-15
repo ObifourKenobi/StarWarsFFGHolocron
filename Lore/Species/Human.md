@@ -12,6 +12,5 @@ experience: 110
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Human
 ---
 # Human
-
 ## Special Abilities
 Humans start the game with one rank each in two different non-career skills of their choice. They still may not train these skills above rank 2 at character creation.
