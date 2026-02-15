@@ -11,13 +11,14 @@
             "id": "2d8b135f9c4ec659",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Lore/Species table.base",
-                "viewName": "Table"
+                "file": "Lore/Species/Xexto.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Species table"
+              "icon": "lucide-file",
+              "title": "Xexto"
             }
           }
         ]
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Species/Aqualish.md",
+                "file": "Lore/Species/Xexto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Aqualish"
+              "title": "Rétrolien pour Xexto"
             }
           },
           {
@@ -185,34 +186,34 @@
   },
   "active": "2d8b135f9c4ec659",
   "lastOpenFiles": [
+    "Lore/Species/Verpine.md",
+    "Lore/Species/Thisspiasian.md",
+    "Lore/Species/Sullustan.md",
+    "Lore/Species/Shistavanen.md",
+    "Lore/Species/Selonian.md",
+    "Lore/Species/Sathari.md",
+    "Lore/Species/Rodian.md",
+    "Lore/Species/Mirialan.md",
+    "Lore/Species/Lasat.md",
+    "Lore/Species/Human-Mandalorian.md",
+    "Lore/Species/Hutt.md",
+    "Lore/Species/Iakaru.md",
+    "Lore/Species/Kalleran.md",
+    "Lore/Species/Karkarodon.md",
+    "Lore/Species/Klatooinian.md",
+    "Lore/Species/Kyuzo.md",
+    "Lore/Species/Dug.md",
+    "Lore/Species/Chadra-Fan.md",
+    "Lore/Species/Aleena.md",
+    "Lore/Species/Besalisk.md",
     "Lore/Species/Anx.md",
+    "Lore/Species/Xexto.md",
+    "Lore/Species table.base",
     "Lore/Species/Dathomirian.md",
     "Lore/Species/Droid.md",
     "Lore/Species/Gank.md",
     "Lore/Species/Melitto.md",
-    "Lore/Species table.base",
-    "Lore/Species/Aqualish.md",
     "Sans titre.base",
-    "Sans titre.md",
-    "Lore/Species/Kalleran.md",
-    "Lore/Species/Nikto.md",
-    "Lore/Species/Mustafarian.md",
-    "Lore/Species/Lasat.md",
-    "Lore/Species/Nautolan.md",
-    "Lore/Species/Trandoshan.md",
-    "Lore/Species/Wookiee.md",
-    "Lore/Species/Whiphid.md",
-    "Lore/Species/Weequay.md",
-    "Lore/Species/Umbaran.md",
-    "Lore/Species/Tusken-Raider.md",
-    "Lore/Species/Tholothian.md",
-    "Lore/Species/Karkarodon.md",
-    "Lore/Species/Hutt.md",
-    "Lore/Species/Dowutin.md",
-    "Lore/Species/Elom.md",
-    "Lore/Species/Geonosian.md",
-    "Lore/Species/Gigoran.md",
-    "Lore/Species/Human.md",
     "Lore/Species",
     "Lore"
   ]
