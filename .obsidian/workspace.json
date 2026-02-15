@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Species/Neimoidian.md",
+                "file": "Lore/Species/Zabrak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neimoidian"
+              "title": "Zabrak"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Species/Neimoidian.md",
+                "file": "Lore/Species/Zabrak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Neimoidian"
+              "title": "Rétrolien pour Zabrak"
             }
           },
           {
@@ -186,32 +186,32 @@
   },
   "active": "9ac11c7d9df7f7ef",
   "lastOpenFiles": [
-    "Lore/Species/Dug.md",
-    "Lore/Species/Duros.md",
-    "Lore/Species/Chevin.md",
-    "Lore/Species/Aqualish.md",
-    "Lore/Species/Anx.md",
-    "Lore/Species/Aleena.md",
-    "Lore/Species/Neimoidian.md",
-    "Lore/Species/Wookiee.md",
-    "Lore/Species/Xexto.md",
-    "Lore/Species/Rodian.md",
-    "Lore/Species/Skakoan.md",
-    "Lore/Species/Sakiyan.md",
-    "Lore/Species/Quermian.md",
+    "Lore/Species/Toydarian.md",
+    "Lore/Species/Tognath.md",
+    "Lore/Species/Selonian.md",
+    "Lore/Species/Quarren.md",
     "Lore/Species/Polis Massan.md",
-    "Lore/Species/Muun.md",
-    "Lore/Species/Mustafarian.md",
-    "Lore/Species/Mon Calamari.md",
-    "Lore/Species/Lannik.md",
-    "Lore/Species/Kaminoan.md",
+    "Lore/Species/Phydolon.md",
+    "Lore/Species/Pau'an.md",
+    "Lore/Species/Mikkian.md",
+    "Lore/Species/Kubaz.md",
+    "Lore/Species/Kyuzo.md",
+    "Lore/Species/Kel Dor.md",
     "Lore/Species/Ishi Tib.md",
-    "Lore/Species/Elomin.md",
-    "Lore/Species/Elom.md",
-    "Lore/Species/Drall.md",
-    "Lore/Species/Cosian.md",
-    "Lore/Species/Chiss.md",
-    "Lore/Species/Chadra-Fan.md",
+    "Lore/Species/Ithorian.md",
+    "Lore/Species/Iktotchi.md",
+    "Lore/Species/Hutt.md",
+    "Lore/Species/Iakaru.md",
+    "Lore/Species/Human-Corellian.md",
+    "Lore/Species/Human-Mandalorian.md",
+    "Lore/Species/Gank.md",
+    "Lore/Species/Dressellian.md",
+    "Lore/Species/Chagrian.md",
+    "Lore/Species/Caamasi.md",
+    "Lore/Species/Bardottan.md",
+    "Lore/Species/Arcona.md",
+    "Lore/Species/Arkanian.md",
+    "Lore/Species/Weequay.md",
     "Lore/Species table.base",
     "Sans titre.base",
     "Lore/Species",
