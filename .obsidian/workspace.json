@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "6e0c249f57b81af4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b683a6eb41375552",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d8b135f9c4ec659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Species/Aqualish.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aqualish"
+            }
+          },
+          {
+            "id": "0b0f4be26b8056a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Species/Wookiee.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wookiee"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f5395ec6f95a1fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ca20d3d2252f3ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f05a3b55656d745",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "2fd107206d389d75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "a4729e3ca0a0f4d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1403d303e8107e7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b64b73c36d65fc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f49c96ed01a4fea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lore/Species/Aqualish.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Aqualish"
+            }
+          },
+          {
+            "id": "7da98ac0e1123fd0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lore/Species/Aqualish.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Aqualish"
+            }
+          },
+          {
+            "id": "fddfd0eae53f17ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "0c56ae82bf858be3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "ebc956cdbd3c0147",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lore/Species/Aqualish.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Aqualish"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0b0f4be26b8056a7",
+  "lastOpenFiles": [
+    "Lore/Species/Whiphid.md",
+    "Lore/Species/Weequay.md",
+    "Lore/Species/Umbaran.md",
+    "Lore/Species/Tusken-Raider.md",
+    "Lore/Species/Tholothian.md",
+    "Lore/Species/Trandoshan.md",
+    "Lore/Species/Gank.md",
+    "Lore/Species/Nikto.md",
+    "Lore/Species/Nautolan.md",
+    "Lore/Species/Mustafarian.md",
+    "Lore/Species/Melitto.md",
+    "Lore/Species/Lasat.md",
+    "Lore/Species/Karkarodon.md",
+    "Lore/Species/Kalleran.md",
+    "Lore/Species/Hutt.md",
+    "Lore/Species/Dowutin.md",
+    "Lore/Species/Droid.md",
+    "Lore/Species/Elom.md",
+    "Lore/Species/Geonosian.md",
+    "Lore/Species/Gigoran.md",
+    "Lore/Species/Human.md",
+    "Lore/Species/Human-Corellian.md",
+    "Lore/Species/Human-Mandalorian.md",
+    "Lore/Species/Dathomirian.md",
+    "Lore/Species/Clone.md",
+    "Lore/Species/Anx.md",
+    "Sans titre.base",
+    "Lore/Species",
+    "Lore"
+  ]
+}
