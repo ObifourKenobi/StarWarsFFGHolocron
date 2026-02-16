@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Characteristic/Brawn.md",
-                "mode": "source",
-                "source": false
+                "file": "Lore/Careers/Technician.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Brawn"
+              "title": "Technician"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Willpower",
+                "query": "[Survival](https://star-wars-rpg-ffg.fandom.com/wiki/Sur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,34 +185,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ff477791099ceb3",
+  "active": "5f05a3b55656d745",
   "lastOpenFiles": [
-    "Lore/Careers/Bounty Hunter.md",
-    "Lore/Careers/Colonist.md",
-    "Lore/Careers/Explorer.md",
-    "Lore/Pictogram.md",
-    "Assets",
-    "Lore/Careers/Technician.md",
-    "Lore/Careers/Smuggler.md",
     "Lore/Careers/Hired Gun.md",
-    "Lore/Characteristic/Agility.md",
-    "Lore/Characteristic/Willpower.md",
-    "Lore/Species/Pau'an.md",
-    "Lore/Species/Jawa.md",
-    "Lore/Species/Gotal.md",
-    "Lore/Characteristic/Presence.md",
     "Lore/Characteristic/Intellect.md",
-    "Lore/Characteristic/Cunning.md",
-    "Lore/Characteristic/Brawn.md",
-    "Lore/Species/Selonian.md",
+    "Lore/Skills/Survival.md",
+    "Lore/Skills/Ranged (Heavy).md",
+    "Lore/Species/Zabrak.md",
+    "Lore/Skills/Coercion.md",
+    "Lore/Species/Whiphid.md",
     "Lore/Species/Nikto.md",
-    "Lore/Species/Gank.md",
-    "Lore/Species/Droid.md",
+    "Lore/Species/Nautolan.md",
+    "Lore/Species/Mon Calamari.md",
+    "Lore/Species/Iktotchi.md",
+    "Lore/Species/Human Mandalorian.md",
+    "Lore/Species/Drabatan.md",
     "Lore/Species/Cosian.md",
-    "Lore/Species/Aleena.md",
+    "Lore/Species/Bith.md",
+    "Lore/Species/Arkanian.md",
     "Lore/Species/Anx.md",
-    "Lore/Skills/Brawl.md",
+    "Lore/Skills/Perception.md",
+    "Lore/Skills/Knowledge (Xenology).md",
     "Lore/Skills/Athletics.md",
+    "Lore/Characteristic/Presence.md",
+    "Lore/Characteristic/Agility.md",
+    "Lore/Careers/Technician.md",
+    "Lore/Books/Age of Rebellion Beginner Game - Adventure Book.md",
+    "Lore/Careers/Explorer.md",
+    "Lore/Characteristic/Brawn.md",
+    "Assets",
     "Lore/Characteristic",
     "Lore/Talents",
     "Sans titre.canvas",

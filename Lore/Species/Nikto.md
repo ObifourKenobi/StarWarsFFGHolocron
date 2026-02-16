@@ -37,7 +37,7 @@ Originating in the forests and temperate coastal regions of Kintan, the Kadas'sa
 
 The bluish-gray Esral'sa'Niktos, or Mountain Niktos, evolved in the mountainous hinterlands of Kintan.
 
-**Special Abilities:** Esral'sa'Niktos begin the game with one rank in [Survival](https://star-wars-rpg-ffg.fandom.com/wiki/Survival_\(Cun\) "Survival (Cun)"). They still may not train [Survival](https://star-wars-rpg-ffg.fandom.com/wiki/Survival_\(Cun\) "Survival (Cun)") above rank 2 during character creation. They also gain the [Natural Outdoorsman talent](https://star-wars-rpg-ffg.fandom.com/wiki/Natural_Outdoorsman_talent "Natural Outdoorsman talent") (once per game session, a Mountain Nikto may reroll any one [Resilience](https://star-wars-rpg-ffg.fandom.com/wiki/Resilience_\(Br\) "Resilience (Br)") or [Survival](https://star-wars-rpg-ffg.fandom.com/wiki/Survival_\(Cun\) "Survival (Cun)") check).
+**Special Abilities:** Esral'sa'Niktos begin the game with one rank in [[Survival]]. They still may not train [[Survival]] above rank 2 during character creation. They also gain the [Natural Outdoorsman talent](https://star-wars-rpg-ffg.fandom.com/wiki/Natural_Outdoorsman_talent "Natural Outdoorsman talent") (once per game session, a Mountain Nikto may reroll any one [Resilience](https://star-wars-rpg-ffg.fandom.com/wiki/Resilience_\(Br\) "Resilience (Br)") or [[Survival]] check).
 
 ### GLUSS'SA'NIKTOS (PALE NIKTOS)
 
