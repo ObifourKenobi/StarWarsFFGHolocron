@@ -12,7 +12,10 @@ experience: 100
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Nikto
 ---
 # Nikto
-**Special Abilities:** Each Nikto subspecies has its own special abilities, listed here.
+## Special Abilities
+Each Nikto subspecies has its own special abilities, listed here.
+
+## Additional information
 
 ### KAJAIN'SA'NIKTOS (RED NIKTOS)
 

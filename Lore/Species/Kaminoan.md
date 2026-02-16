@@ -14,6 +14,5 @@ source: https://star-wars-rpg-ffg.fandom.com/wiki/Kaminoan
 # Kaminoan
 ## Special Abilities
 Kaminoans begin the game with one rank in [Medicine](https://star-wars-rpg-ffg.fandom.com/wiki/Medicine_\(Int\) "Medicine (Int)"). They still may not train [Medicine](https://star-wars-rpg-ffg.fandom.com/wiki/Medicine_\(Int\) "Medicine (Int)") above rank 2 during character creation. They also start the game with one rank in the [Researcher talent](https://star-wars-rpg-ffg.fandom.com/wiki/Researcher_talent "Researcher talent").
-
 ## Additional information
 - **Expressionless:** Kaminoans add a [setback](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Setback_\(Black\) "Narrative Dice") die to all [Charm](https://star-wars-rpg-ffg.fandom.com/wiki/Charm_\(Pr\) "Charm (Pr)") checks they make. Other characters add a [setback](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Setback_\(Black\) "Narrative Dice") die to all Social skill checks they make when targeting Kaminoans.

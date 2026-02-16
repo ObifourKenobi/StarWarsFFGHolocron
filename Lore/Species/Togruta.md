@@ -15,6 +15,5 @@ source: https://star-wars-rpg-ffg.fandom.com/wiki/Togruta
 A carnivorous humanoid species from the planet Shili, Togrutas are easily recognized by the combination of their head-tails and hornlike montrals.
 ## Special Abilities
 Togrutas begin the game with one rank in [Perception](https://star-wars-rpg-ffg.fandom.com/wiki/Perception_\(Cun\) "Perception (Cun)"). They still may not train [Perception](https://star-wars-rpg-ffg.fandom.com/wiki/Perception_\(Cun\) "Perception (Cun)") above rank 2 during character creation.
-
 ## Additional information
 - **Pack Instincts:** When performing the assist maneuver, Togrutas grant two [boost](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Boost_\(Blue\) "Narrative Dice") dice instead of one [boost](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Boost_\(Blue\) "Narrative Dice") die.

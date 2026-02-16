@@ -12,6 +12,7 @@ experience: 140
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Geonosian
 ---
 # Geonosian
+A winged, insectoid species, Geonosians have a slim, humanoid build.
 ## Special Abilities
 Geonosians begin with one rank in a skill of their choice. They still may not train this skill above rank 2 at character creation.
 ## Additional information

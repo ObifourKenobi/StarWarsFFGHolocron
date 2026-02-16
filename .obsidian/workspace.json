@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Species/Zabrak.md",
+                "file": "Lore/Species/Cosian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zabrak"
+              "title": "Cosian"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "trandos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Species/Zabrak.md",
+                "file": "Lore/Species/Cosian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Zabrak"
+              "title": "Rétrolien pour Cosian"
             }
           },
           {
@@ -156,21 +156,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Species/Aqualish.md",
+                "file": "Lore/Species/Cosian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Aqualish"
+              "title": "Plan de Cosian"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,34 +186,34 @@
   },
   "active": "9ac11c7d9df7f7ef",
   "lastOpenFiles": [
-    "Lore/Species/Toydarian.md",
-    "Lore/Species/Tognath.md",
-    "Lore/Species/Selonian.md",
-    "Lore/Species/Quarren.md",
-    "Lore/Species/Polis Massan.md",
-    "Lore/Species/Phydolon.md",
-    "Lore/Species/Pau'an.md",
-    "Lore/Species/Mikkian.md",
-    "Lore/Species/Kubaz.md",
-    "Lore/Species/Kyuzo.md",
-    "Lore/Species/Kel Dor.md",
-    "Lore/Species/Ishi Tib.md",
-    "Lore/Species/Ithorian.md",
-    "Lore/Species/Iktotchi.md",
-    "Lore/Species/Hutt.md",
-    "Lore/Species/Iakaru.md",
-    "Lore/Species/Human-Corellian.md",
-    "Lore/Species/Human-Mandalorian.md",
-    "Lore/Species/Gank.md",
-    "Lore/Species/Dressellian.md",
-    "Lore/Species/Chagrian.md",
-    "Lore/Species/Caamasi.md",
-    "Lore/Species/Bardottan.md",
-    "Lore/Species/Arcona.md",
-    "Lore/Species/Arkanian.md",
-    "Lore/Species/Weequay.md",
-    "Lore/Species table.base",
+    "Sans titre 1.base",
     "Sans titre.base",
+    "Lore/Species/Cosian.md",
+    "Lore/Species/Chagrian.md",
+    "Lore/Species/Bardottan.md",
+    "Lore/Species/Aleena.md",
+    "Lore/Species/Aqualish.md",
+    "Lore/Species/Anx.md",
+    "Lore/Species/Bothan.md",
+    "Lore/Species/Bith.md",
+    "Lore/Species/Gigoran.md",
+    "Lore/Species/Klatooinian.md",
+    "Lore/Species/Lannik.md",
+    "Lore/Species/Polis Massan.md",
+    "Lore/Species/Quermian.md",
+    "Lore/Species/Sakiyan.md",
+    "Lore/Species/Trandoshan.md",
+    "Lore/Species/Ishi Tib.md",
+    "Lore/Species table.base",
+    "Lore/Species/Zabrak.md",
+    "Lore/Species/Xexto.md",
+    "Lore/Species/Wookiee.md",
+    "Lore/Species/Whiphid.md",
+    "Lore/Species/Weequay.md",
+    "Lore/Species/Vurk.md",
+    "Lore/Species/Verpine.md",
+    "Lore/Species/Umbaran.md",
+    "Lore/Species/Twi'Lek.md",
     "Lore/Species",
     "Lore"
   ]

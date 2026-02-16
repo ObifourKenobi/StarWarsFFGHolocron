@@ -16,5 +16,7 @@ views:
       - strain
       - wound
     sort:
+      - property: file.name
+        direction: ASC
       - property: wound
         direction: ASC

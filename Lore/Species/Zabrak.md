@@ -15,6 +15,5 @@ source: https://star-wars-rpg-ffg.fandom.com/wiki/Zabrak
 Zabrak resemble humans in skin tone and physique, but they are easily distinguished by their vestigial horns.
 ## Special Abilities
 Zabrak begin the game with one rank in [Survival](https://star-wars-rpg-ffg.fandom.com/wiki/Survival_\(Cun\) "Survival (Cun)"). They still may not train [Survival](https://star-wars-rpg-ffg.fandom.com/wiki/Survival_\(Cun\) "Survival (Cun)") above rank 2 during character creation.
-
 ## Additional information
 - **Fearsome Countenance:** Zabrak add an automatic [advantage](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Advantage "Narrative Dice") result to all [Coercion](https://star-wars-rpg-ffg.fandom.com/wiki/Coercion_\(Will\) "Coercion (Will)") checks the make.
