@@ -10,6 +10,8 @@ wound: 10
 strain: 9
 experience: 100
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Gran
+tags:
+  - Canon
 ---
 # Gran
 The humanoid, three-eyed Gran are a familiar sight throughout the galaxy.
@@ -17,3 +19,6 @@ The humanoid, three-eyed Gran are a familiar sight throughout the galaxy.
 Gran begin the game with one rank in [Charm](https://star-wars-rpg-ffg.fandom.com/wiki/Charm_\(Pr\) "Charm (Pr)") or [Negotiation](https://star-wars-rpg-ffg.fandom.com/wiki/Negotiation_\(Pr\) "Negotiation (Pr)"). They still may not train [Charm](https://star-wars-rpg-ffg.fandom.com/wiki/Charm_\(Pr\) "Charm (Pr)") or [Negotiation](https://star-wars-rpg-ffg.fandom.com/wiki/Negotiation_\(Pr\) "Negotiation (Pr)") above rank 2 in character creation.
 ## Additional information
 - **Enhanced Vision:** When making ranged combat or [Perception](https://star-wars-rpg-ffg.fandom.com/wiki/Perception_\(Cun\) "Perception (Cun)") checks, Gran remove up to two [setback](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Setback_\(Black\) "Narrative Dice") dice imposed due to environmental conditions or concealment (but not defense).
+## Sources
+- [[Far Horizons]]:22-23
+- [[Age of Rebellion Core Rulebook]]:56-57

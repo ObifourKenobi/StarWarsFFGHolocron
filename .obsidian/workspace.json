@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Species/Cosian.md",
+                "file": "Lore/Careers/Technician.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosian"
+              "title": "Technician"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trandos",
+                "query": "SWE04",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Species/Cosian.md",
+                "file": "Lore/Careers/Technician.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Cosian"
+              "title": "Rétrolien pour Technician"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Species/Cosian.md",
+                "file": "Lore/Careers/Technician.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Cosian"
+              "title": "Plan de Technician"
             }
           }
         ],
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,25 +187,25 @@
   },
   "active": "9ac11c7d9df7f7ef",
   "lastOpenFiles": [
-    "Sans titre 1.base",
-    "Sans titre.base",
-    "Lore/Species/Cosian.md",
-    "Lore/Species/Chagrian.md",
-    "Lore/Species/Bardottan.md",
-    "Lore/Species/Aleena.md",
-    "Lore/Species/Aqualish.md",
-    "Lore/Species/Anx.md",
-    "Lore/Species/Bothan.md",
-    "Lore/Species/Bith.md",
-    "Lore/Species/Gigoran.md",
-    "Lore/Species/Klatooinian.md",
-    "Lore/Species/Lannik.md",
-    "Lore/Species/Polis Massan.md",
-    "Lore/Species/Quermian.md",
-    "Lore/Species/Sakiyan.md",
-    "Lore/Species/Trandoshan.md",
-    "Lore/Species/Ishi Tib.md",
-    "Lore/Species table.base",
+    "Lore/Skills/Perception.md",
+    "Lore/Careers/Technician.md",
+    "Lore/Skills/Brawl.md",
+    "Lore/Skills/Vigilance.md",
+    "Lore/Skills/Streetwise.md",
+    "Lore/Skills/Ranged (Heavy).md",
+    "Lore/Skills/Piloting (Space).md",
+    "Lore/Skills/Piloting (Planetary).md",
+    "Lore/Skills/Athletics.md",
+    "Lore/Skills",
+    "Lore/Careers/Colonist.md",
+    "Lore/Careers/Bounty Hunter.md",
+    "Lore/Careers/Explorer.md",
+    "Lore/Careers/Hired Gun.md",
+    "Lore/Careers/Smuggler.md",
+    "Lore/Careers",
+    "Lore/Books/Hidden Depths.md",
+    "Bienvenue.md",
+    "Lore/Species/Kaminoan.md",
     "Lore/Species/Zabrak.md",
     "Lore/Species/Xexto.md",
     "Lore/Species/Wookiee.md",
@@ -214,6 +215,11 @@
     "Lore/Species/Verpine.md",
     "Lore/Species/Umbaran.md",
     "Lore/Species/Twi'Lek.md",
+    "Lore/Books.base",
+    "Lore/Books",
+    "Sans titre 1.base",
+    "Sans titre.base",
+    "Lore/Species table.base",
     "Lore/Species",
     "Lore"
   ]

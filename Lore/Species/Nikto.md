@@ -10,6 +10,8 @@ wound: 11
 strain: 10
 experience: 100
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Nikto
+tags:
+  - Canon
 ---
 # Nikto
 ## Special Abilities
@@ -50,3 +52,5 @@ Native to the rocky Gluss'elta Islands of their homeworld, Gluss'sa'Niktos, or P
 The Southern Niktos have cream, white, yellow, or orange skin and lack the horns and prominent facial ridges common to other Niktos.
 
 **Special Abilities:** M'shento'su'Niktos begin the game with one rank in [Perception](https://star-wars-rpg-ffg.fandom.com/wiki/Perception_\(Cun\) "Perception (Cun)"). They still may not train [Perception](https://star-wars-rpg-ffg.fandom.com/wiki/Perception_\(Cun\) "Perception (Cun)") above rank 2 during character creation. Southern Niktos may add a [boost](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Boost_\(Blue\) "Narrative Dice") die to [Perception](https://star-wars-rpg-ffg.fandom.com/wiki/Perception_\(Cun\) "Perception (Cun)") and [Vigilance](https://star-wars-rpg-ffg.fandom.com/wiki/Vigilance_\(Will\) "Vigilance (Will)") checks to detect sounds.
+## Sources
+- [[Lords of Nal Hutta]]:96-98

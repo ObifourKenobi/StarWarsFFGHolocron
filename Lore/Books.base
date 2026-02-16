@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Lore/Books")
+    order:
+      - file.name
+      - key
+      - initials

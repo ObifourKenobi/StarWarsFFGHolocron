@@ -10,6 +10,8 @@ wound: 10
 strain: 10
 experience: 100
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Bith
+tags:
+  - Canon
 ---
 # Bith
 With their large eyes, high cranial bone, and lack of prominent nasal organ, the Bith are one of the more recognizable species.
@@ -17,3 +19,5 @@ With their large eyes, high cranial bone, and lack of prominent nasal organ, the
 Bith begin the game with one rank in Perception. They still may not train Perception above rank 2 during character creation
 ## Additional information
 - **Sensitive Hearing:** Bith add a [boost](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Boost_\(Blue\) "Narrative Dice") die whenever they make a hearing-base Perception check. When Bith suffer strain due to loud noises (such as from sonic weapons), they suffer twice the amount of strain. Wearing ear protection negates both effects of this ability.
+## Sources
+- [[Fully Operational|Fully Operational:18-19]]

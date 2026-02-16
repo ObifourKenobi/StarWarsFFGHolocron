@@ -10,6 +10,8 @@ wound: 10
 strain: 10
 experience: 100
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Balosar
+tags:
+  - Canon
 ---
 # Balosar
 Across the galaxy, Balosars are regarded as untrustworthy grifters and con artists.
@@ -17,3 +19,5 @@ Across the galaxy, Balosars are regarded as untrustworthy grifters and con artis
 Balosars begin the game with one free ranks of [Streetwise](https://star-wars-rpg-ffg.fandom.com/wiki/Streetwise_\(Cun\) "Streetwise (Cun)"). They still may not train [Streetwise](https://star-wars-rpg-ffg.fandom.com/wiki/Streetwise_\(Cun\) "Streetwise (Cun)") above rank 2 during character creation.
 ## Additional information
 - **Antennapalps:** Balosars add two automatic [advantage](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Advantage "Narrative Dice") results to [Vigilance](https://star-wars-rpg-ffg.fandom.com/wiki/Vigilance_\(Will\) "Vigilance (Will)") checks they make.
+## Sources
+- [[Cyphers and Masks|Cyphers and Masks:19-20]]

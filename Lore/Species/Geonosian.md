@@ -10,6 +10,8 @@ wound: 9
 strain: 9
 experience: 140
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Geonosian
+tags:
+  - Canon
 ---
 # Geonosian
 A winged, insectoid species, Geonosians have a slim, humanoid build.
@@ -18,3 +20,5 @@ Geonosians begin with one rank in a skill of their choice. They still may not tr
 ## Additional information
 - **Industrious**: A Geonosian who provides assistance adds a boost die to the check, in addition to the normal benefits of assistance, and the Geonosian heals 1 strain.
 - **Winged**: Geonosians can fly.
+## Sources
+- [[Rise of the Separatists]]:12-13

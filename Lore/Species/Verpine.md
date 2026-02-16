@@ -10,6 +10,8 @@ wound: 9
 strain: 12
 experience: 80
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Verpine
+tags:
+  - Canon
 ---
 # Verpine
 ## Special Abilities
@@ -17,3 +19,5 @@ Verpine begin the game with one rank in [Mechanics](https://star-wars-rpg-ffg.fa
 ## Additional information
 - **Microvision:** The compound eyes of a Verpine are capable of seeing tiny, even microscopic, details. While closely examining an object, Verpine characters add a [boost](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Boost_\(Blue\) "Narrative Dice") die to their [Perception](https://star-wars-rpg-ffg.fandom.com/wiki/Perception_\(Cun\) "Perception (Cun)") checks.
 - **Radio-wave Communication:** Verpine can produce and hear radio waves, which allows them to silently communicate with other Verpine and specially tuned comlinks within a 100-kilometer range.
+## Sources
+- [[Strongholds of Resistance]]:102-103

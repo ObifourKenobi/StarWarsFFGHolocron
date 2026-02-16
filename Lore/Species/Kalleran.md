@@ -10,9 +10,13 @@ wound: 8
 strain: 12
 experience: 90
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Kalleran
+tags:
+  - Canon
 ---
 # Kalleran
 ## Special Abilities:
 Kallerans begin the game with one rank in [Streetwise](https://star-wars-rpg-ffg.fandom.com/wiki/Streetwise_\(Cun\) "Streetwise (Cun)"). They still may not train [Streetwise](https://star-wars-rpg-ffg.fandom.com/wiki/Streetwise_\(Cun\) "Streetwise (Cun)") above rank 2 during character creation.
 ## Additional information
 - **Hypersensitive Antennae:** Kallerans begin the game with the [Heightened Awareness talent](https://star-wars-rpg-ffg.fandom.com/wiki/Heightened_Awareness_talent "Heightened Awareness talent").
+## Sources
+- [[Allies and Adversaries]]:92

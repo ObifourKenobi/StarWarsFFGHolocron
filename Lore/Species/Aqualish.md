@@ -10,6 +10,8 @@ wound: 11
 strain: 8
 experience: 90
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Aqualish
+tags:
+  - Canon
 ---
 # Aqualish
 ## Special Abilities
@@ -19,3 +21,5 @@ All Aqualish are capable of breathing underwater. In addition, they begin the ga
 - **Aquala Sub-Species Options**: Aquala begin the game with one rank in Resilience. Furthermore, Aquala may remove a setback die imposed due to any cold or wet conditions.
 - **Ualaq Sub-Species Options**: Ualaq begin the game with one rank in Survival or one rank in Perception. Furthermore, Ualaq may remove a setback die imposed due to dark conditions, but suffer a setback die to Perception checks in brightly lit environments.
 - **Quara Sub-Species Options**: Quara begin the game with one rank in Athletics or one rank in Coercion. Furthermore, Quara may remove a setback die when attempting to track anything through a natural environment.
+## Sources
+- [[Dangerous Covenants|Dangerous Covenants:19-20]]

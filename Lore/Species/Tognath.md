@@ -10,6 +10,8 @@ wound: 9
 strain: 9
 experience: 95
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Tognath
+tags:
+  - Canon
 ---
 # Tognath
 Hailing from the planet Yar Togna, the mysterious Tognaths are tall, quiet humanoids adorned with cybernetic enhancements and life-support equipment..
@@ -23,3 +25,5 @@ Cybernetic implants and specialized lenses for their compound eyes grant Tognath
 ## Additional information
 - **Primitive Nerves:** Add two [setback](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Setback_\(Black\) "Narrative Dice") dice to [Coercion](https://star-wars-rpg-ffg.fandom.com/wiki/Coercion_\(Will\) "Coercion (Will)") checks targeting Tognath characters.
 - **Atmospheric Requirement:** Tognaths must wear a specialized mask or breathing apparatus to breathe outside their native atmosphere. Tognath characters start the game with a [breath mask](https://star-wars-rpg-ffg.fandom.com/wiki/Breath_Mask_and_Respirator "Breath Mask and Respirator") and treat oxygen as a corrosive atmosphere with rating 5. However, they can survive in vacuum for up to five minutes before suffering its effects..
+## Sources
+- [[Dawn of Rebellion]]:96-97

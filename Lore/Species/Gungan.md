@@ -10,6 +10,8 @@ wound: 10
 strain: 10
 experience: 100
 source: https://star-wars-rpg-ffg.fandom.com/wiki/Gungan
+tags:
+  - Canon
 ---
 # Gungan
 Few Gungans travel away from their homeworld of Naboo.
@@ -17,3 +19,5 @@ Few Gungans travel away from their homeworld of Naboo.
 Gungans begin the game with one rank in [Athletics](https://star-wars-rpg-ffg.fandom.com/wiki/Athletics_\(Br\) "Athletics (Br)"). They still may not train [Athletics](https://star-wars-rpg-ffg.fandom.com/wiki/Athletics_\(Br\) "Athletics (Br)") above rank 2 during character creation.
 ## Additional information
 - **Amphibious:** Gungans may breathe underwater without penalty and never suffer movement penalties for traveling through water.
+## Sources
+- [[Nexus of Power]]:101
