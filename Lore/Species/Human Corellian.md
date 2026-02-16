@@ -15,6 +15,6 @@ tags:
 ---
 # Human (Corellian)
 ## Special Abilities
-Corellians begin the game with one rank in Piloting (Planetary) or Piloting (Space). Because Corellians are naturally exceptional pilots and grow up handling swoops, airspeeders, and spacecraft from a young age, they may train Piloting up to rank 3 during character creation
+Corellians begin the game with one rank in [[Piloting-Planetary]] or [[Piloting-Space]]. Because Corellians are naturally exceptional pilots and grow up handling swoops, airspeeders, and spacecraft from a young age, they may train Piloting up to rank 3 during character creation
 ## Sources
 - [[Suns of Fortune]]:93-94

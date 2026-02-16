@@ -5,9 +5,9 @@ Career Skills:
   - "[[Athletics]]"
   - "[[Brawl]]"
   - "[[Perception]]"
-  - "[[Piloting (Planetary)]]"
-  - "[[Piloting (Space)]]"
-  - "[[Ranged (Heavy)]]"
+  - "[[Piloting-Planetary]]"
+  - "[[Piloting-Space]]"
+  - "[[Ranged-Heavy]]"
   - "[[Streetwise]]"
   - "[[Vigilance]]"
 ---
@@ -17,7 +17,7 @@ He automatically **gains 1 rank in four of these skills** (of his choosing) **wi
 
 # Specializations
 ## Assassin
-**Assassin Bonus Career Skills**: [[Melee]], [[Ranged (Heavy)]], [[Skulduggery]], [[Stealth]]
+**Assassin Bonus Career Skills**: [[Melee]], [[Ranged-Heavy]], [[Skulduggery]], [[Stealth]]
 ### Talents
 **5 XP**: [[Grit]],[[ Lethal Blows]], [[Stalker]], [[Dodge]]
 **10 XP**: [[Precise Aim]], [[Jump Up]], [[Quick Strike]], [[Quick Draw]]
@@ -25,7 +25,7 @@ He automatically **gains 1 rank in four of these skills** (of his choosing) **wi
 **20 XP**: [[Stalker]], [[Sniper Shot]], [[Dodge]], [[Lethal Blows]]
 **25 XP**: [[Precise Aim]], [[Deadly Accuracy]], [[Dedication]], [[Master of Shadows]]
 ## Gadgeteer
-**Gadgeteer Bonus Career Skills**: [[Brawl]], [[Coercion]], [[Mechanics]], [[Ranged (Light)]]
+**Gadgeteer Bonus Career Skills**: [[Brawl]], [[Coercion]], [[Mechanics]], [[Ranged-Light]]
 ### Talents
 **5 XP**: [[Brace]], [[Toughened]], [[Intimidating]], [[Defensive Stance]]
 **10 XP**: [[Spare Clip]], [[Jury Rigged]], [[Point Blank]], [[Disorient]]
@@ -34,7 +34,7 @@ He automatically **gains 1 rank in four of these skills** (of his choosing) **wi
 **25 XP**: [[Intimidating]], [[Dedication]], [[Improved Armor Master]], [[Crippling Blow]]
 
 ## Survivalist
-**Survivalist Bonus Career Skills**: [[Knowledge (Xenology)]], [[Perception]], [[Resilience]], [[Survival]]
+**Survivalist Bonus Career Skills**: [[Xenology]], [[Perception]], [[Resilience]], [[Survival]]
 ### Talents
 **5 XP**: [[Forager]], [[Stalker]], [[Outdoorsman]], [[Expert Tracker]]
 **10 XP**: [[Outdoorsman]], [[Swift]], [[Hunter]], [[Soft Spot]]
