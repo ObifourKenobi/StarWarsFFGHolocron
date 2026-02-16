@@ -1,0 +1,1 @@
+**Presence** is a measure of a character’s **moxie, charisma, confidence, and force of personality**. High-Presence characters are natural leaders who command attention, strike up conversations effortlessly, and adapt quickly to any social environment.

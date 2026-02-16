@@ -1,0 +1,1 @@
+**Brawn** represents a blend of a character's **brute power, strength, and overall toughness**, as well as the ability to apply those attributes as needed. Characters with a high Brawn are physically fit and hardy, tend not to get sick often, and have strong constitutions.

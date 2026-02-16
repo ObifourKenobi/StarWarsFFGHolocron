@@ -1,0 +1,1 @@
+**Agility** measures a character's **manual dexterity, hand-eye coordination, and body control**. Those with high Agility possess a keen sense of balance, flexibility, and deft hands.

@@ -45,7 +45,7 @@ Native to the rocky Gluss'elta Islands of their homeworld, Gluss'sa'Niktos, or P
 
 **Special Abilities:** Gluss'sa'Niktos begin the game with one rank in [Athletics](https://star-wars-rpg-ffg.fandom.com/wiki/Athletics_\(Br\) "Athletics (Br)"). They still may not train [Athletics](https://star-wars-rpg-ffg.fandom.com/wiki/Athletics_\(Br\) "Athletics (Br)") above rank 2 during character creation.
 
-**Swimmer:** A Pale Nikto never suffers movement penalties for traveling through water and can hold [their] breath for a number of rounds equal to twice [their] Brawn rating before beginning to drown.
+**Swimmer:** A Pale Nikto never suffers movement penalties for traveling through water and can hold [their] breath for a number of rounds equal to twice [their] [[Brawn]] rating before beginning to drown.
 
 ### M'SHENTO'SU'NIKTOS (SOUTHERN NIKTOS)
 

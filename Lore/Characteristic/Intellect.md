@@ -1,0 +1,1 @@
+**Intellect** measures a character's **intelligence, education, mental acuity**, and their ability to **reason and rationalize**. High-Intellect characters excel at extrapolating data, recalling complex details, and planning long-term strategies with an eye on future ramifications.

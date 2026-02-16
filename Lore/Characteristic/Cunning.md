@@ -1,0 +1,1 @@
+**Cunning** reflects how **crafty, devious, clever, and creative** a character can be. High-Cunning characters are savvy, picking up on social and environmental clues quickly to develop sharp short-term plans and tactics.

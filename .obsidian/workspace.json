@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "80a1fd0d94de8b44",
+        "id": "1d361790289738c2",
         "type": "tabs",
         "children": [
           {
-            "id": "9ac11c7d9df7f7ef",
+            "id": "3ff477791099ceb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Careers/Technician.md",
+                "file": "Lore/Characteristic/Brawn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technician"
+              "title": "Brawn"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SWE04",
+                "query": "Willpower",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 294.5
   },
   "right": {
     "id": "1403d303e8107e7f",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Careers/Technician.md",
+                "file": "Lore/Characteristic/Brawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Technician"
+              "title": "Rétrolien pour Brawn"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Careers/Technician.md",
+                "file": "Lore/Characteristic/Brawn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Technician"
+              "title": "Plan de Brawn"
             }
           }
         ],
@@ -185,42 +185,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ac11c7d9df7f7ef",
+  "active": "3ff477791099ceb3",
   "lastOpenFiles": [
-    "Lore/Skills/Perception.md",
-    "Lore/Careers/Technician.md",
-    "Lore/Skills/Brawl.md",
-    "Lore/Skills/Vigilance.md",
-    "Lore/Skills/Streetwise.md",
-    "Lore/Skills/Ranged (Heavy).md",
-    "Lore/Skills/Piloting (Space).md",
-    "Lore/Skills/Piloting (Planetary).md",
-    "Lore/Skills/Athletics.md",
-    "Lore/Skills",
-    "Lore/Careers/Colonist.md",
     "Lore/Careers/Bounty Hunter.md",
+    "Lore/Careers/Colonist.md",
     "Lore/Careers/Explorer.md",
-    "Lore/Careers/Hired Gun.md",
+    "Lore/Pictogram.md",
+    "Assets",
+    "Lore/Careers/Technician.md",
     "Lore/Careers/Smuggler.md",
+    "Lore/Careers/Hired Gun.md",
+    "Lore/Characteristic/Agility.md",
+    "Lore/Characteristic/Willpower.md",
+    "Lore/Species/Pau'an.md",
+    "Lore/Species/Jawa.md",
+    "Lore/Species/Gotal.md",
+    "Lore/Characteristic/Presence.md",
+    "Lore/Characteristic/Intellect.md",
+    "Lore/Characteristic/Cunning.md",
+    "Lore/Characteristic/Brawn.md",
+    "Lore/Species/Selonian.md",
+    "Lore/Species/Nikto.md",
+    "Lore/Species/Gank.md",
+    "Lore/Species/Droid.md",
+    "Lore/Species/Cosian.md",
+    "Lore/Species/Aleena.md",
+    "Lore/Species/Anx.md",
+    "Lore/Skills/Brawl.md",
+    "Lore/Skills/Athletics.md",
+    "Lore/Characteristic",
+    "Lore/Talents",
+    "Sans titre.canvas",
+    "Lore/Skills",
     "Lore/Careers",
-    "Lore/Books/Hidden Depths.md",
-    "Bienvenue.md",
-    "Lore/Species/Kaminoan.md",
-    "Lore/Species/Zabrak.md",
-    "Lore/Species/Xexto.md",
-    "Lore/Species/Wookiee.md",
-    "Lore/Species/Whiphid.md",
-    "Lore/Species/Weequay.md",
-    "Lore/Species/Vurk.md",
-    "Lore/Species/Verpine.md",
-    "Lore/Species/Umbaran.md",
-    "Lore/Species/Twi'Lek.md",
     "Lore/Books.base",
     "Lore/Books",
     "Sans titre 1.base",
     "Sans titre.base",
-    "Lore/Species table.base",
-    "Lore/Species",
-    "Lore"
+    "Lore/Species table.base"
   ]
 }
