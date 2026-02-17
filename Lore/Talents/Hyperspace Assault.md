@@ -1,0 +1,9 @@
+﻿---
+activation: Passive
+ranked: No
+---
+
+The character may use Astrogation or Knowledge (Warfare) to determine their Initiative during an encounter in which they are piloting or commanding a starship. If they do so, they may spend a triumph result from the check to choose the starting locations of all allied ships in the encounter.
+
+# Sources
+[[Rise of the Separatists|Rise of the Separatists:39]]

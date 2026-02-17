@@ -1,0 +1,9 @@
+﻿---
+activation: Active (Incidental, Out of Turn)
+ranked: Yes
+---
+
+Once per round when an enemy makes a successful combat check targeting the character ,the character may spend 1 Destiny Point to perform the Lead from the Back incidental. The character chooses one allied NPC subordinate within short range, who becomes the target of the attack instead. At the GM's discretion, the character may select an allied NPC at a greater distance if they are between the character and the attacker.
+
+# Sources
+[[Collapse of the Republic|Collapse of the Republic:41]]

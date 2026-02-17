@@ -18,7 +18,7 @@ Twi'leks are a common sight throughout the galaxy, particularly within less repu
 ## Special Abilities
 Twi'leks begin the game with one rank in either [Charm](https://star-wars-rpg-ffg.fandom.com/wiki/Charm_\(Pr\) "Charm (Pr)") or [Deception](https://star-wars-rpg-ffg.fandom.com/wiki/Deception_\(Cun\) "Deception (Cun)"). They still may not train [Charm](https://star-wars-rpg-ffg.fandom.com/wiki/Charm_\(Pr\) "Charm (Pr)") or [Deception](https://star-wars-rpg-ffg.fandom.com/wiki/Deception_\(Cun\) "Deception (Cun)") above rank 2 during character creation.
 ## Additional information
-- **Desert Dwellers:** When making skill checks, Twi'leks may remove a [setback](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Setback_\(Black\) "Narrative Dice") die imposed due to arid or hot environmental conditions.
+- **Desert Dwellers:** When making skill checks, Twi'leks may remove a #StarWarsSetback die imposed due to arid or hot environmental conditions.
 ## Sources
 - [[Force and Destiny Core Rulebook]]:61-62
 - [[Edge of the Empire Core Rulebook]]:51-52

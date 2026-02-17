@@ -30,8 +30,8 @@ He automatically **gains 1 rank in four of these skills** (of his choosing) **wi
 **5 XP**: [[Brace]], [[Toughened]], [[Intimidating]], [[Defensive Stance]]
 **10 XP**: [[Spare Clip]], [[Jury Rigged]], [[Point Blank]], [[Disorient]]
 **15 XP**: [[Toughened]], [[Armor Master]], [[Natural Enforcer]], [[Stunning Blow]]
-**20 XP**: [[Jury Rigged, Tinkerer]], [[Deadly Accuracy]], [[Improved Stunning Blow]]
-**25 XP**: [[Intimidating]], [[Dedication]], [[Improved Armor Master]], [[Crippling Blow]]
+**20 XP**: [[Jury Rigged]], [[Tinkerer]], [[Deadly Accuracy]], [[Stunning Blow|Improved Stunning Blow]]
+**25 XP**: [[Intimidating]], [[Dedication]], [[Armor Master|Improved Armor Master]], [[Crippling Blow]]
 
 ## Survivalist
 **Survivalist Bonus Career Skills**: [[Xenology]], [[Perception]], [[Resilience]], [[Survival]]

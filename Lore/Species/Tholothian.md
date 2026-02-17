@@ -16,7 +16,7 @@ tags:
 # Tholothian
 ## Special Abilities
 Tholothians begin the game with one rank in [[Xenology]]. They still may not train [[Xenology]] above rank 2 during character creation.## Additional information
-- **Cultural Adopters**: When making a social skill check to interact with non-Tholothians, Tholothians add an automatic advantage result to the results.
+- **Cultural Adopters**: When making a social skill check to interact with non-Tholothians, Tholothians add an automatic #StarWarsAdvantage to the results.
 - **Natural Roots**: When making a check to heal strain while in a natural or wild setting, Tholothians heal one additional strain.
 ## Sources
 - [[Unlimited Power]]:20-22

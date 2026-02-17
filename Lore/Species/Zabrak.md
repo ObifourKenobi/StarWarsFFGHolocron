@@ -18,6 +18,6 @@ Zabrak resemble humans in skin tone and physique, but they are easily distinguis
 ## Special Abilities
 Zabrak begin the game with one rank in [[Survival]]. They still may not train [[Survival]] above rank 2 during character creation.
 ## Additional information
-- **Fearsome Countenance:** Zabrak add an automatic [advantage](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Advantage "Narrative Dice") result to all [[Coercion]] checks the make.
+- **Fearsome Countenance:** Zabrak add an automatic #StarWarsAdvantage result to all [[Coercion]] checks the make.
 ## Sources
 - [[Force and Destiny Core Rulebook]]:62-63
