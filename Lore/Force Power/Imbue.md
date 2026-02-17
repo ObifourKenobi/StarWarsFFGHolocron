@@ -9,9 +9,9 @@ The user may spend two #StarWarsLightDark  to increase one of another engaged ch
 # Upgrades
 **Control:** The Force user may spend a #StarWarsLightDark  to allow the target to count as having ranks in a single skill equal to the ranks the Force user has in that skill while the target is affected by this power. The skill must be linked to the characteristic improved by this power.
 
-**Duration:** After using this power, the Force user may commit two Force dice to sustain the effects of this power as long as the target remains in range.
+**Duration:** After using this power, the Force user may commit two #StarWarsForce to sustain the effects of this power as long as the target remains in range.
 
-**Duration:** After using this power, the Force user may commit a Force die to sustain the effects of this power as long as the target remains in range (instead of two Force dice).
+**Duration:** After using this power, the Force user may commit a Force die to sustain the effects of this power as long as the target remains in range (instead of two #StarWarsForce).
 
 **Mastery:** The Force user increases characteristics boosted by this power by 2 (to a maximum of 7) instead of 1 (to a maximum of 6).
 

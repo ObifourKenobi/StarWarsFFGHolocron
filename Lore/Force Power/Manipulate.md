@@ -13,9 +13,9 @@ The Force user may spend a #StarWarsLightDark  to cause one vehicle or starship 
 
 **Control Upgrade:** The power gains the ongoing effect: Commit a Force die. One damaged weapon or item counts as being undamaged. This can be activated multiple times.
 
-**Control Upgrade:** The power gains the ongoing effect: Commit one or more Force dice. Increase the system strain threshold of one vehicle or starship at engaged range by 3 per Force die committed.
+**Control Upgrade:** The power gains the ongoing effect: Commit one or more #StarWarsForce. Increase the system strain threshold of one vehicle or starship at engaged range by 3 per Force die committed.
 
-**Control Upgrade:** The power gains the ongoing effect: Commit one or more Force dice. Increase the hull trauma threshold of one vehicle or starship at engaged range by 3 per Force die committed.
+**Control Upgrade:** The power gains the ongoing effect: Commit one or more #StarWarsForce. Increase the hull trauma threshold of one vehicle or starship at engaged range by 3 per Force die committed.
 
 **Mastery Upgrade:** When performing a Manipulate power check as part of a Mechanics skill check, the user may spend two #StarWarsLightDark  when using the power to gain a #StarWarsTriumph result on the check. The user may not activate this multiple times.
 

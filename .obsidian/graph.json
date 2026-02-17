@@ -5,13 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#StarWarsBoost  ",
+      "query": "path:\"Lore/Force Power\"  ",
       "color": {
         "a": 1,
-        "rgb": 2864611
+        "rgb": 14701138
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18462326225858502,
-  "close": false
+  "scale": 0.2588386562181685,
+  "close": true
 }

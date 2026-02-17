@@ -12,7 +12,7 @@ The user may spend a #StarWarsLightDark  to immobilize a target within short ran
 
 **Control Upgrade:** Spend a #StarWarsLightDark ; whenever a target affected by Bind takes an action, they suffer strain equal to the user's Willpower. The user may not activate this multiple times.
 
-**Duration Upgrade:** The power gains the ongoing effect: Commit three Force dice after successfully activating the basic power. If a target was immobilized or staggered by this power, they remain immobilized or staggered as long as three Force dice remain committed and the target stays within range. If a target moves beyond the range of the power, the effects end for that target, but not for any other targets of the power. The user may not activate this multiple times.
+**Duration Upgrade:** The power gains the ongoing effect: Commit three #StarWarsForce after successfully activating the basic power. If a target was immobilized or staggered by this power, they remain immobilized or staggered as long as three #StarWarsForce remain committed and the target stays within range. If a target moves beyond the range of the power, the effects end for that target, but not for any other targets of the power. The user may not activate this multiple times.
 
 **Magnitude Upgrade:** Spend two #StarWarsLightDark  increase the number of targets affected by an amount equal to the number of Magnitude upgrades purchased. The user may activate this multiple times, increasing the number of targets by this number each time.
 
