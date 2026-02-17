@@ -13,7 +13,7 @@ Ranked: No
 Trees: Entrepreneur (reSpec)
 
 
-At the beginning of each session, may invest all Sound Investment credits and make a #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty  #StarWarsDifficulty #StarWarsDifficulty Knowledge (Core Worlds) or Knowledge (Underworld) check, decreased by ranks of Sound Investments, to gain a return on the investment. On success, gain 100 additional credits plus 10% of the initial investments for each success result past the first. On failure, lose half of the initial investment. A triumph result may be spent to double the number of successes on a successful check, or recover 75% of initial investment on a failed check.
+At the beginning of each session, may invest all Sound Investment credits and make a #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty  #StarWarsDifficulty #StarWarsDifficulty Knowledge (Core Worlds) or Knowledge (Underworld) check, decreased by ranks of Sound Investments, to gain a return on the investment. On success, gain 100 additional credits plus 10% of the initial investments for each success result past the first. On failure, lose half of the initial investment. A #StarWarsTriumph result may be spent to double the number of successes on a successful check, or recover 75% of initial investment on a failed check.
 
 # Sources
 [[Far Horizons|Far Horizons:33]]

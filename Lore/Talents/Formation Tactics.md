@@ -11,7 +11,7 @@ Ranked: No
 Trees: Clone Commander, Imperial Academy Cadet
 
 
-The difficulty of taking the Formation Tactics action is reduced to Average instead of Hard. The character may also spend a triumph result or six #StarWarsAdvantage to have the effect last until end of encounter.
+The difficulty of taking the Formation Tactics action is reduced to Average instead of Hard. The character may also spend a #StarWarsTriumph result or six #StarWarsAdvantage to have the effect last until end of encounter.
 
 # Sources
 [[Collapse of the Republic|Collapse of the Republic:39]]

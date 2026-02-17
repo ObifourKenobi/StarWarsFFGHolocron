@@ -1,0 +1,24 @@
+---
+homebrew: true
+Prerequisites: Force Rating 2 + 
+---
+# Basic Power
+Darth Koren managed to replicate the effects of a witch concoction which opened windows through which the user could look upon a particular location. In the original rituals, the witches required an offering that had come from this location to create the link. Koren overcame this through meditation, attuning to the location was enough to create the link in the future.
+
+- The user may spend a #StarWarsLightSide #StarWarsDarkSide to open an untouchable window through which they can peer into another location on the same planet for a moment (one round of structured time). The vision is clear, just as if an actual window connected the two places in space. At the location, no window can be seen, but it may be sensed by a Force sensitive character as an uncanny feeling of being watched.
+
+With the basic power, a character may pick a single place they have meditated in recently, or have a strong emotional tie to, to be automatically attuned to. To attune to a new location, the character must spend an hour meditating in that location. Only one location may be attuned to at a time.
+## Projection And Seek
+Darth Koren mastered the [[Seek]] Force power in his research to develop Projection. This assisted his attunement to new locations. The PCs can also use [[Seek]] in this way to attune to locations without visiting them. However, this makes attunement a studied process. The character must make a #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty [[Discipline]]with the power check and succeed with three #StarWarsLightSide #StarWarsDarkSide. If the PC has the Mastery upgrade for [[Seek]], they reduce the difficulty of the check by one.
+# Upgrades
+**Duration Upgrade:** Ongoing effect: Commit a #StarWarsForce die. The “mirror” created by the Force power remains active until dismissed (including any upgrades activated during the initial check).
+
+**Control Upgrade:** The Force user may spend a #StarWarsLightSide #StarWarsDarkSide in addition to activating the basic power to make the “mirror” two-ways. It appears at a location which would make sense for the perspective the user desired to view from. In every sense, it acts as a true window between the location chosen and the user. While the “mirror” is active, the user may use Force powers as if they were in the location of the mirror (without extending the duration, this allows for only one Force power activation).
+
+**Control Upgrade:** The Force user may spend a #StarWarsLightSide #StarWarsDarkSide in addition to activating the basic power to project an ethereal version of themselves into the location. They see and hear as if they were in the location and lose these senses from their body. While in this state, they can move around within Medium range of the location they appeared, potentially seeing around walls and other obstacles. The projection can be ‘damaged’, with any combat treating the projection as the actual character. All damage dealt is received by the user as strain, ignoring soak. This upgrade can be used in conjunction with the other Control upgrade to give the character the ability to use Force powers while in this state.
+
+**Magnitude Upgrade:** The Force user can hold additional attuned locations in reserve equal to their Force Rating for each rank of this upgrade they have purchased. If they attune to a new location exceeding this limit, they choose which location to unattune from.
+
+**Range Upgrade:** The Force user can spend a #StarWarsLightSide #StarWarsDarkSide to increase the range of the power to include the entire system. Each additional range upgrade requires an additional to activate for each rank, increasing the range to an entire Sector (the distance adjudicated by the GM) and then the entire galaxy.
+
+**Mastery Upgrade:** The Force user can spend four #StarWarsLightSide #StarWarsDarkSide, without needing to activate the base power, to open the window directly into the World Between Worlds. The opening is large enough for the user and can be kept open by committing three #StarWarsForce dice, otherwise there is only enough time for the user to step through. To enter this realm, a character must succeed on a #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty **Fear check**. Failure prevents entrance until the next day. Once inside this dimension, the GM determines the bridges to new portals available to the character. These can be to moments of the past, locations in another galaxy, or even the far future. The results of the fear check may be used to influence the portals found. Characters can only return to their original location if they committed Force dice, otherwise they can only return through a portal available to them. There is no source of sustenance in this realm and this use of the Force power cannot be used to leave.

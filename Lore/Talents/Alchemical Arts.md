@@ -1,4 +1,4 @@
-﻿---
+---
 activation: Active (Incidental)
 ranked: Yes
 ---

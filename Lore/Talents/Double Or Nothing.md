@@ -19,7 +19,7 @@ Ranked: No
 Trees: Gambler
 
 
-When performing the Double or Nothing incidental, the character also doubles the number of triumph and #StarWarsDespairs.
+When performing the Double or Nothing incidental, the character also doubles the number of #StarWarsTriumph and #StarWarsDespairs.
 
 # Sources
 [[Fly Casual|Fly Casual:32]]

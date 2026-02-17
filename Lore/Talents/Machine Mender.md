@@ -13,7 +13,7 @@ Ranked: No
 Trees: Droid Tech (reSpec)
 
 
-When making a check to repair a droid, the character may spend two #StarWarsAdvantage to increase the droid's melee or ranged defense by one, and may spend a triumph result to increase its Soak by 1 until the end of the session. Defense may be increased this way in any combination a number of times equal to ranks Machine Mender.
+When making a check to repair a droid, the character may spend two #StarWarsAdvantage to increase the droid's melee or ranged defense by one, and may spend a #StarWarsTriumph result to increase its Soak by 1 until the end of the session. Defense may be increased this way in any combination a number of times equal to ranks Machine Mender.
 
 # Sources
 [[Fully Operational|Fully Operational:31]]

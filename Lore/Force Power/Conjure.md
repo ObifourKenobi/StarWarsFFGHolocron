@@ -1,0 +1,23 @@
+Some of the more esoteric uses of the Force can seem like magic to the ignorant and uninformed.
+# Basic Power
+The basic power of Conjure allows the user to create an approximation of a close-combat weapon or other small object using the Force, which lasts for a short time before ceasing to exist. The power has one basic effect.
+
+The Force user may spend a #StarWarsLightDark  to create a facsimile of a Brawl or Melee weapon with the following profile: (Brawl or Melee; Damage +3; Critical 3; Range [Engaged]; Cortosis). This item appears anywhere within short range of the user. The item functions as normal, but at the end of the user's next turn, the item dissipates. If the item is moved beyond short range from the Force user, it also immediately dissipates. At the GM's discretion, the user can also conjure a simple tool or other useful low-tech item that has an encumbrance of no greater than one this way. The user may not activate this multiple times.
+# Upgrades
+**Control Upgrade:** The Force user gains the ability to imbue a created weapon with certain defensive qualities, which might manifest around the item as a blurred protective aura, a form that twists and shifts to protect the wielder, or a halo of crackling energy. Spend a #StarWarsLightDark  to grant one conjured weapon one of the following qualities: Defensive 1, Deflection 1, or Stun 4. The user can activate this multiple times, granting the weapon an additional quality each time (but may not grant the same quality more than once).
+
+**Control Upgrade:** The Force user gains the ability to imbue a created weapon with certain offensive qualities that might manifest as a palpable darkness around the item, a keening wail whenever the weapon is swung, or ethereal green flames. Spend a #StarWarsLightDark  to grant one conjured weapon one of the following qualities: Burn 3, Pierce 3, or Vicious 3. The user can activate this multiple times, granting the weapon an additional quality each time (but not may not grant the same quality more than once).
+
+**Duration Upgrade:** The power gains the ongoing effect: Commit a Force die after successfully activating this power. One conjured facsimile per Duration upgrade purchased remains in existence as long as it stays within short range of the user. If the facsimile moves beyond short range of the user, it ceases to exist.
+
+**Magnitude Upgrade:** Spend a #StarWarsLightDark  to increase the maximum encumbrance of the facsimile by an amount equal to twice the number of Magnitude upgrades purchased. (If using the Mastery upgrade, this upgrade increases the silhouette of the summoned creature by an amount equal to the number of Magnitude upgrades purchased, instead.) This may not be activated multiple times.
+
+**Mastery Upgrade:** Conjuring items is a strange use of the Force known only to a few, such as the Nightsisters of Dathomir, and for good reason: knowledge of such conjuration can lead to far darker paths than mere duplication of physical things. Masters of the ability can give false life to entire living beings or, far more horrifying, raise corpses to fight like abominable puppets on foul strings. Only the greatest of Nightsisters have ever been known to master such an ability to this extent.
+The Force user may spend three #StarWarsLightDark  to create a facsimile of a living creature of silhouette 1 or smaller instead of an object. This creature uses the profile of a living minion NPC of the Force user's choice, obeys the will of the Force user, and ceases to exist at the end of the Force user's next turn. The Force user may spend a maneuver to direct their facsimile, allowing it to perform an action and a maneuver.
+If, however, the user has a corpse of a silhouette 1 or smaller available, they can instead animate it, bringing it to false life and gaining 7 Conflict in the process. This abomination uses the profile of the deceased being, obeys the will of the Force user, and ceases to be animated at the end of the Force user's next turn. The Force user may spend a maneuver to direct the corpse, allowing it to spend an action and a maneuver.
+
+**Number Upgrade:** Spend two #StarWarsLightDark  to conjure one additional facsimile of the same type as the first per Magnitude upgrade purchased. The user may activate this multiple times, increasing the number of facsimiles conjured by this number each time.
+
+**Range Upgrade:** Spend a #StarWarsLightDark  to increase the range at which the facsimile can be conjured and sustained by one. This can be activated multiple times, increasing the range by one each time (to a maximum of extreme range).
+# Source 
+ [[Unlimited Power|Unlimited Power:39]]

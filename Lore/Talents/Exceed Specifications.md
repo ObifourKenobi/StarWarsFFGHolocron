@@ -19,7 +19,7 @@ Ranked: No
 Trees: Scavenger
 
 
-If the character's check benefitting from the Exceed Specifications incidental generates a triumph result, they may damage the item one step to roll one additional #StarWarsProficiency and add it to the check results. If the check generates a #StarWarsDespair, roll a challenge die and add it to the results.
+If the character's check benefitting from the Exceed Specifications incidental generates a #StarWarsTriumph result, they may damage the item one step to roll one additional #StarWarsProficiency and add it to the check results. If the check generates a #StarWarsDespair, roll a challenge die and add it to the results.
 
 # Sources
 [[Rise of the Separatists|Rise of the Separatists:39]]

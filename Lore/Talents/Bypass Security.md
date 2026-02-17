@@ -13,7 +13,7 @@ Ranked: No
 Trees: Slicer (reSpec)
 
 
-The character may spend three #StarWarsAdvantage or a triumph result from checks to unlock doors or disable a security device to add #StarWarsBoost equal to ranks of Bypass Security to similar checks in the same system or location this session. The Game Master determines how similar a check must be to qualify.
+The character may spend three #StarWarsAdvantage or a #StarWarsTriumph result from checks to unlock doors or disable a security device to add #StarWarsBoost equal to ranks of Bypass Security to similar checks in the same system or location this session. The Game Master determines how similar a check must be to qualify.
 
 # Sources
 [[Age of Rebellion Core Rulebook|Age of Rebellion Core Rulebook:144]]

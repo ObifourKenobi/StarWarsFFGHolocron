@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cb253399e0aa1730",
+        "id": "7b898c4b90128f3a",
         "type": "tabs",
         "children": [
           {
-            "id": "d2250ccd59b13224",
+            "id": "efb333119a94bb14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Pictogram.md",
-                "mode": "source",
-                "source": false
+                "file": "Lore/Force Power/Koren's Projection.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Pictogram"
+              "title": "Koren's Projection"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"exce\"",
+                "query": "\"fear\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,34 +184,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2250ccd59b13224",
+  "active": "efb333119a94bb14",
   "lastOpenFiles": [
+    "Lore/Force Power/Jerserra's Influence.md",
+    "Lore/Force Power/Koren's Projection.md",
+    "Lore/Force Power/Influence.md",
+    "Lore/Force Power/Imbue.md",
+    "Lore/Force Power/Battle Meditation.md",
+    "Lore/Books/Keeping the Peace.md",
+    "Lore/Pictogram.md",
+    "Lore/Force Power/Manipulate.md",
+    "Lore/Force Power/Bind.md",
+    "Lore/Force Power/Seek.md",
+    "Lore/Force Power/Protect Unleash.md",
+    "Lore/Force Power/Foresee.md",
+    "Lore/Force Power/Ebb Flow.md",
+    "Lore/Force Power/Enhance.md",
+    "Lore/Force Power/Heal Harm.md",
+    "Lore/Force Power/Move.md",
+    "Lore/Force Power/Misdirect.md",
     "Sans titre.canvas",
-    "Lore/Talents/Exceed Specifications.md",
-    "Lore/Talents/Inspiring Rhetoric.md",
-    "Lore/Talents/Imbue Item.md",
-    "Lore/Talents/Exhaustive Questioning.md",
-    "Lore/Talents/Bad Cop.md",
-    "Lore/Talents/Animal Empathy.md",
-    "Lore/Talents/Force Connection.md",
-    "Lore/Skills/Coercion.md",
-    "Lore/Talents/Adversary.md",
-    "Lore/Talents/Adaptable.md",
-    "Lore/Skills/Core_Worlds.md",
-    "Lore/Talents/Barrel Roll.md",
-    "Lore/Talents/Balance.md",
-    "Lore/Talents/Improvised Position.md",
-    "Lore/Talents/Positive Spin.md",
-    "Lore/Talents/Practiced Strategist.md",
-    "Lore/Species/Clawdite.md",
-    "Lore/Species/Iktotchi.md",
-    "Lore/Species/Pau'an.md",
-    "Lore/Talents/Command.md",
-    "Lore/Species/Togruta.md",
-    "Lore/Species/Tognath.md",
-    "Lore/Talents/There Is No Try.md",
-    "Lore/Species/Quarren.md",
-    "Lore/Species/Kubaz.md",
+    "Lore/Force Power/Sense.md",
+    "Lore/Force Power/Warde's Foresight.md",
+    "Lore/Force Power/Suppress.md",
+    "Lore/Force Power/Farsight.md",
+    "Lore/Force Power/Endure.md",
+    "Lore/Force Power/Conjure.md",
+    "Lore/Force Power/Alter.md",
+    "Lore/Books/Force and Destiny Core Rulebook.md",
+    "Lore/Books/Unlimited Power.md",
+    "Lore/Force Power/ForcePowers",
+    "Lore/Force Power",
     "Assets/image/icon",
     "Assets/image",
     "Lore/Books.base",
@@ -219,8 +222,6 @@
     "Lore/Talents/StarWarsTalents",
     "Assets/scripts",
     "Lore/test/StarWarsTalents",
-    "Lore/test",
-    "Assets",
-    "Lore/Characteristic"
+    "Lore/test"
   ]
 }

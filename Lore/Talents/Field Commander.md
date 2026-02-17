@@ -11,7 +11,7 @@ Ranked: No
 Trees: Clone Officer, Instructor, Mercenary Soldier, Peacekeeper,  Separatist Commander, Squadron Leader, Tactician
 
 
-When taking a Field Commander action, the character may affect allies equal to twice [their] Presence. In addition, they may spend  a triumph result generated on [their] Leadership checks to allow one ally to suffer one strain to perform an action, rather than a maneuver.
+When taking a Field Commander action, the character may affect allies equal to twice [their] Presence. In addition, they may spend  a #StarWarsTriumph result generated on [their] Leadership checks to allow one ally to suffer one strain to perform an action, rather than a maneuver.
 
 # Sources
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:143]]

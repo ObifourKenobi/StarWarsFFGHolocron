@@ -14,7 +14,7 @@ Ranked: No
 Trees: Cyber Tech
 
 
-Once per round when using the Overcharge action, the character may spend two #StarWarsAdvantage or a triumph result from the Mechanics check to immediately take one additional action.
+Once per round when using the Overcharge action, the character may spend two #StarWarsAdvantage or a #StarWarsTriumph result from the Mechanics check to immediately take one additional action.
 
 Supreme
 Activation: Passive

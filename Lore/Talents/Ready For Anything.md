@@ -11,7 +11,7 @@ Ranked: No
 Trees: Strategist
 
 
-When making Cool or Vigilance checks to determine Initiative order, the character may spend a triumph result to add additional success results equal to ranks in Ready for Anything.
+When making Cool or Vigilance checks to determine Initiative order, the character may spend a #StarWarsTriumph result to add additional success results equal to ranks in Ready for Anything.
 
 # Sources
 [[Lead by Example|Lead by Example:35]]

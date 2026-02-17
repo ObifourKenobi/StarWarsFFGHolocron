@@ -1,0 +1,22 @@
+Suljo Warde was particularly skilled at prognostication, and he refined this ability considerably over the course of his life, gaining the capacity to predict how people would react before they had even made up their own minds.
+# Basic Power
+Warde's Foresight differs from many other prophetic abilities in that it focuses very narrowly on a specific person. At the most basic level, it observes not the future of the cosmos but the fate of a particular individual. However, even these hints that Warde's power of prophecy grants are only likelihoods. The future is volatile, shifting with the choices of individuals. Even the decision whether or not to act on these visions of possible futures can alter results they foreshadowed. The basic power has one way to spend #StarWarsLightDark :
+- The user may spend a #StarWarsLightSide  #StarWarsDarkSide  ( #StarWarsLightDark ) to gain hints about what an individual within short range is likely to do in the near future. In structured gameplay, this knowledge does not typically extend beyond the end of the current encounter.
+# Upgrades
+**Control Upgrade:** When making a skill check to determine Initiative, the Force user may roll a Warde's Foresight power check as part of the pool. [They] may spend a #StarWarsLightSide  #StarWarsDarkSide  ( #StarWarsLightDark ) to add an automatic #StarWarsSuccess result to the first check [they] make this encounter (after the Initiative check). The user may activate this multiple times, adding additional automatic #StarWarsSuccess results to the check each time.
+#StarWarsLightSide 
+**Control Upgrade:** When performing a Warde's Foresight power check as part of an Initiative check, the user may spend a #StarWarsLightSide  #StarWarsDarkSide  ( #StarWarsLightDark ) to add an automatic #StarWarsAdvantage result to the first check [they] make this encounter (after the Initiative check). The user may activate this multiple times, adding additional automatic #StarWarsAdvantage results to the check each time.
+#StarWarsLightSide 
+**Control Upgrade:** Once per encounter, the user may use the basic power as a maneuver.
+
+**Control Upgrade:** When performing a Warde's Foresight power check as part of an Initiative check, if the user did not use a #StarWarsDarkSide to generate #StarWarsLightSide  #StarWarsDarkSide ( #StarWarsLightDark ), each ally adds an automatic #StarWarsSuccess result to the results of [their] Initiative check. If the user used a #StarWarsDarkSide to generate #StarWarsLightSide  #StarWarsDarkSide ( #StarWarsLightDark ), the user may immediately perform an action before the encounter begins, but each enemy in the encounter adds an automatic #StarWarsSuccess result to the results of [their] Initiative check.
+#StarWarsLightSide #StarWarsLightSide 
+**Duration Upgrade:** Spend two #StarWarsLightSide  #StarWarsDarkSide ( #StarWarsLightDark #StarWarsLightDark ) to have the bonuses granted by this power apply to all relevant checks for a number of rounds equal to the number of Duration upgrades purchased. The user may not activate this multiple times.
+#StarWarsLightSide 
+**Magnitude Upgrade:** When performing a Warde's Foresight power check as part of an Initiative check, the user may spend a #StarWarsLightSide  #StarWarsDarkSide  ( #StarWarsLightDark ) to add an automatic #StarWarsSuccess result or #StarWarsAdvantage result to the first check one ally within short range makes this encounter (after the Initiative check). The user may activate this multiple times, adding additional automatic #StarWarsSuccess results or #StarWarsAdvantage results to that ally or another ally's check each time.
+#StarWarsLightSide 
+**Range Upgrade:** Spend a #StarWarsLightSide  #StarWarsDarkSide  ( #StarWarsLightDark ) to increase the power's range by a number of range bands equal to the number of Range upgrades purchased. The user may activate this multiple times, increasing the range by this number each time.
+#StarWarsLightSide 
+**Strength Upgrade:** Spend two #StarWarsLightSide  #StarWarsDarkSide ( #StarWarsLightDark #StarWarsLightDark ) to gain a #StarWarsBoost die equal to Strength upgrades purchased on the user's next check against the target (or directly involving the target, in the case of a non-combat check). The user may not activate this multiple times.
+# Source
+ [[Chronicles of the Gatekeeper|Chronicles of the Gatekeeper:10]]

@@ -19,7 +19,7 @@ Ranked: No
 Trees: Doctor, Medic
 
 
-When performing the Stim Application action, each triumph result may be spent to increase an additional characteristic by one.
+When performing the Stim Application action, each #StarWarsTriumph result may be spent to increase an additional characteristic by one.
 
 # Sources
 [[Unlimited Power|Unlimited Power:33]]

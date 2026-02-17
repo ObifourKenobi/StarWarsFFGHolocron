@@ -11,7 +11,7 @@ Ranked: No
 Trees: Aggressor
 
 
-Force talent. The difficulty of the Terrify action decreases to #StarWarsDifficulty #StarWarsDifficulty. In addition, the character may spend a triumph result generated on the check to stagger an affected target until the end of the next round.
+Force talent. The difficulty of the Terrify action decreases to #StarWarsDifficulty #StarWarsDifficulty. In addition, the character may spend a #StarWarsTriumph result generated on the check to stagger an affected target until the end of the next round.
 
 # Sources
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:153]]
