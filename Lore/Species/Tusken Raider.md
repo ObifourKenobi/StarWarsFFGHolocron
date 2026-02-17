@@ -18,6 +18,6 @@ tags:
 Tusken Raiders begin the game with one rank in [[Survival]]. They still may not train [[Survival]] above rank 2 during character creation.
 ## Additionnal information
 - **Bantha Riders:** When making [Athletics](https://star-wars-rpg-ffg.fandom.com/wiki/Athletics_\(Br\) "Athletics (Br)") or [[Survival]] checks to handle a bantha, Tusken Raiders add an automatic #StarWarsSuccess result to the check.
-- **Water Reclamator:** Tusken Raiders reduce the difficulty of all [Resilience](https://star-wars-rpg-ffg.fandom.com/wiki/Resilience_\(Br\) "Resilience (Br)") and [[Survival]] checks related to enduring extreme heat or going without water once.
+- **Water Reclamator:** Tusken Raiders reduce the #StarWarsDifficulty of all [Resilience](https://star-wars-rpg-ffg.fandom.com/wiki/Resilience_\(Br\) "Resilience (Br)") and [[Survival]] checks related to enduring extreme heat or going without water once.
 ## Sources
 - [[Allies and Adversaries]]:105

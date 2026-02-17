@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Talents/Exhaustive Questioning.md",
-                "mode": "preview",
+                "file": "Lore/Pictogram.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exhaustive Questioning"
+              "title": "Pictogram"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"advantage\"",
+                "query": "\"exce\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,10 +186,14 @@
   },
   "active": "d2250ccd59b13224",
   "lastOpenFiles": [
+    "Sans titre.canvas",
+    "Lore/Talents/Exceed Specifications.md",
+    "Lore/Talents/Inspiring Rhetoric.md",
+    "Lore/Talents/Imbue Item.md",
+    "Lore/Talents/Exhaustive Questioning.md",
     "Lore/Talents/Bad Cop.md",
     "Lore/Talents/Animal Empathy.md",
     "Lore/Talents/Force Connection.md",
-    "Lore/Talents/Exceed Specifications.md",
     "Lore/Skills/Coercion.md",
     "Lore/Talents/Adversary.md",
     "Lore/Talents/Adaptable.md",
@@ -204,16 +207,11 @@
     "Lore/Species/Iktotchi.md",
     "Lore/Species/Pau'an.md",
     "Lore/Talents/Command.md",
-    "Sans titre.canvas",
     "Lore/Species/Togruta.md",
     "Lore/Species/Tognath.md",
     "Lore/Talents/There Is No Try.md",
     "Lore/Species/Quarren.md",
     "Lore/Species/Kubaz.md",
-    "Lore/Species/Gran.md",
-    "Lore/Talents/Force Protection.md",
-    "Lore/Talents/Eye For Detail.md",
-    "Lore/Species/Drall.md",
     "Assets/image/icon",
     "Assets/image",
     "Lore/Books.base",

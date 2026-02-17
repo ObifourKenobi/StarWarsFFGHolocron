@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-The character removes a setback die per rank of Plausible Deniability from [their] Coercion and Deception checks.
+The character removes a #StarWarsSetback per rank of Plausible Deniability from [their] Coercion and Deception checks.
 
 Improved
 Activation: Active (Action)
@@ -11,7 +11,7 @@ Ranked: No
 Trees: Advocate
 
 
-The character may make a Hard difficulty Coercion check to perform the Improved Plausible Deniability action. If [they] succeed, [they] convince one uninvolved bystander NPC per rank of Plausible Deniability to leave the scene without asking questions. If interrogated about the matter later, these NPCs deny having seen anything or have forgotten anything of importance.
+The character may make a #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty  Coercion check to perform the Improved Plausible Deniability action. If [they] succeed, [they] convince one uninvolved bystander NPC per rank of Plausible Deniability to leave the scene without asking questions. If interrogated about the matter later, these NPCs deny having seen anything or have forgotten anything of importance.
 
 # Sources
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:149]]

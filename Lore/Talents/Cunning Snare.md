@@ -9,7 +9,7 @@ Once per encounter, the character may take the Cunning Snare action to use mater
 Once a character springs the trap, it is expended; at the GM's discretion, the trapper may spend a #StarWarsDespair from the check to have it remain functional for one extra use.
 
 
-The trapper may disarm the trap with an action. Any other character who is aware of the trap may spend several minutes to attempt to disarm it with a Hard difficulty Survival check. If [they] fail, [they] suffer the damage and negative effects in the same manner as if [they] had triggered it.
+The trapper may disarm the trap with an action. Any other character who is aware of the trap may spend several minutes to attempt to disarm it with a #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty  Survival check. If [they] fail, [they] suffer the damage and negative effects in the same manner as if [they] had triggered it.
 
 # Sources
 [[Forged in Battle|Forged in Battle]]

@@ -18,7 +18,7 @@ A winged, insectoid species, Geonosians have a slim, humanoid build.
 ## Special Abilities
 Geonosians begin with one rank in a skill of their choice. They still may not train this skill above rank 2 at character creation.
 ## Additional information
-- **Industrious**: A Geonosian who provides assistance adds a boost die to the check, in addition to the normal benefits of assistance, and the Geonosian heals 1 strain.
+- **Industrious**: A Geonosian who provides assistance adds a #StarWarsBoost to the check, in addition to the normal benefits of assistance, and the Geonosian heals 1 strain.
 - **Winged**: Geonosians can fly.
 ## Sources
 - [[Rise of the Separatists]]:12-13

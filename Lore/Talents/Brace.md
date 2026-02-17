@@ -3,7 +3,7 @@ activation: Active (Maneuver)
 ranked: Yes
 ---
 
-As a maneuver, the character may Brace themself. This allows the character to remove one setback die per rank of Brace from their next skill check based on changing conditions, inclement weather, unstable surfaces, zero gravity, heavy gravity, or other physical obstacles that would make a skill check more difficult.
+As a maneuver, the character may Brace themself. This allows the character to remove one #StarWarsSetback per rank of Brace from their next skill check based on changing conditions, inclement weather, unstable surfaces, zero gravity, heavy gravity, or other physical obstacles that would make a skill check more difficult.
 
 Improved
 Activation: Passive

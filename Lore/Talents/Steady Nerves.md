@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-The character removes a setback die per rank of Steady Nerves from Cool or Skulduggery checks.
+The character removes a #StarWarsSetback per rank of Steady Nerves from Cool or Skulduggery checks.
 
 The following is a homebrew expansion of this talent from a community-produced homebrew sourcebook!
 

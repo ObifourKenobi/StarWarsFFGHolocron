@@ -3,7 +3,7 @@ activation: Active (Action)
 ranked: Yes
 ---
 
-Once per session, the character may choose one target within short range and perform the Know Their Weakness action to make a Hard difficulty Perception check. If successful, the character downgrades the difficulty of social skill checks [they] make against that target once per rank of Know Their Weakness.
+Once per session, the character may choose one target within short range and perform the Know Their Weakness action to make a #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty  Perception check. If successful, the character downgrades the difficulty of social skill checks [they] make against that target once per rank of Know Their Weakness.
 
 Improved
 Activation: Passive

@@ -13,7 +13,7 @@ Ranked: No
 Trees: Mechanic (reSpec)
 
 
-Once per encounter, the character may make a Hard difficulty Mechanics check to increase the armor of the ship they are on by 1 until the end of the encounter. Spend two #StarWarsAdvantage to have that ship recover one hull trauma.
+Once per encounter, the character may make a #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty  Mechanics check to increase the armor of the ship they are on by 1 until the end of the encounter. Spend two #StarWarsAdvantage to have that ship recover one hull trauma.
 
 # Sources
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:152]]

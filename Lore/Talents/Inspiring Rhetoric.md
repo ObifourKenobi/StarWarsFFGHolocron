@@ -1,9 +1,9 @@
-﻿---
+---
 activation: Active (Action)
 ranked: No
 ---
 
-The character may take the Inspiring Rhetoric action; making an Average difficulty Leadership check. For each success [result], one ally within close range recovers one strain. For each advantage [result], one ally benefiting from Inspiring Rhetoric recovers one additional strain.
+The character may take the Inspiring Rhetoric action; making an #StarWarsDifficulty #StarWarsDifficulty Leadership check. For each success [result], one ally within close range recovers one strain. For each advantage [result], one ally benefiting from Inspiring Rhetoric recovers one additional strain.
 
 Improved
 Activation: Passive

@@ -3,7 +3,7 @@ activation: Active (Action)
 ranked: No
 ---
 
-Once per game session, the character may take a Bad Motivator action to make a Hard difficulty Mechanics check. If successful, one device (subject to the GM's approval) spontaneously fails due to the character's involvement, or because it was about to fail anyway and the character noticed it (this is the character's decision).
+Once per game session, the character may take a Bad Motivator action to make a #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty  Mechanics check. If successful, one device (subject to the GM's approval) spontaneously fails due to the character's involvement, or because it was about to fail anyway and the character noticed it (this is the character's decision).
 
 The following is a homebrew expansion of this talent from a community-produced homebrew sourcebook!
 

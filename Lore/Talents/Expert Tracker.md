@@ -13,7 +13,7 @@ Ranked: No
 Trees: Survivalist (reSpec)
 
 
-Once per session, make a Formidable difficulty Survival or Perception check to find a minor item lost by a tracked target. This might identify the target or indicate destination, bearing, or mode of travel. Decrease the Difficulty once per rank of Expert Tracker. Spend a triumph result to find a major item instead, which might prevent the target from escaping or avoiding capture.
+Once per session, make a #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty  #StarWarsDifficulty #StarWarsDifficulty Survival or Perception check to find a minor item lost by a tracked target. This might identify the target or indicate destination, bearing, or mode of travel. Decrease the Difficulty once per rank of Expert Tracker. Spend a triumph result to find a major item instead, which might prevent the target from escaping or avoiding capture.
 
 # Sources
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:142]]

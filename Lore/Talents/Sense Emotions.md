@@ -3,7 +3,7 @@ activation: Passive
 ranked: No
 ---
 
-Force talent. The character adds a boost die to all Charm, Coercion, and Deception checks unless the target is immune to Force powers.
+Force talent. The character adds a #StarWarsBoost to all Charm, Coercion, and Deception checks unless the target is immune to Force powers.
 
 # Sources
 [[Rise of the Separatists|Rise of the Separatists:42]]

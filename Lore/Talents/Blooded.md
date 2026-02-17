@@ -11,7 +11,7 @@ Ranked: No
 Trees: Alchemist
 
 
-The character may take the Improved Blooded action, making a Hard difficulty Resilience check. If they succeed, they immediately recover from the effects of all poisons and the side effects or after effects of all drugs. Reduce the difficulty of the check once per rank of Blooded, to a minimum of Simple.
+The character may take the Improved Blooded action, making a #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty  Resilience check. If they succeed, they immediately recover from the effects of all poisons and the side effects or after effects of all drugs. reduce the #StarWarsDifficulty of the check once per rank of Blooded, to a minimum of Simple.
 
 # Sources
 [[Gadgets and Gear|Gadgets and Gear:6]]

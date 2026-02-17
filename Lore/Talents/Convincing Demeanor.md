@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-The character removes a setback die per rank of Convincing Demeanor from [their] Deception and Skulduggery checks.
+The character removes a #StarWarsSetback per rank of Convincing Demeanor from [their] Deception and Skulduggery checks.
 
 # Sources
 [[Age of Rebellion Core Rulebook|Age of Rebellion Core Rulebook:145]]

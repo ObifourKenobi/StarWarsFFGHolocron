@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-When attempting to defend a computer system against intrusion (or when an opponent attempts to slice a computer owned or programmed by the character), the character adds a setback die per rank of Defensive Slicing to [their] opponent's checks.
+When attempting to defend a computer system against intrusion (or when an opponent attempts to slice a computer owned or programmed by the character), the character adds a #StarWarsSetback per rank of Defensive Slicing to [their] opponent's checks.
 
 Improved
 Activation: Passive

@@ -3,7 +3,7 @@ activation: Active (Incidental)
 ranked: No
 ---
 
-Once per round, the character may voluntarily suffer 2 strain to decrease the difficulty of the next Stealth or Skulduggery check by one, to a minimum of Easy difficulty.
+Once per round, the character may voluntarily suffer 2 strain to decrease the difficulty of the next Stealth or Skulduggery check by one, to a minimum of #StarWarsDifficulty.
 
 # Sources
 [[Dawn of Rebellion|Dawn of Rebellion:114]]

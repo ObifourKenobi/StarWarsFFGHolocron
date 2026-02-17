@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-The character removes a setback die per rank of In the Know from checks to get information from people or disseminate news to others. Further, if the character does not state or display [their] affiliation, minion NPCs do not realize the character's allegiance when [they] question them.
+The character removes a #StarWarsSetback per rank of In the Know from checks to get information from people or disseminate news to others. Further, if the character does not state or display [their] affiliation, minion NPCs do not realize the character's allegiance when [they] question them.
 
 Improved
 Activation: Active (Action)

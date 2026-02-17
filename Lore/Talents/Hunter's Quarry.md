@@ -3,7 +3,7 @@ activation: Active (Action)
 ranked: No
 ---
 
-The character may take the Hunter's Quarry action against an opponent within long range, making a Hard difficulty Survival check. If the check succeeds, upgrade the ability of all attacks made against the target by one until the end of the character's next turn.
+The character may take the Hunter's Quarry action against an opponent within long range, making a #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty  Survival check. If the check succeeds, upgrade the ability of all attacks made against the target by one until the end of the character's next turn.
 
 Improved
 Activation: Passive

@@ -3,7 +3,7 @@ activation: Active (Action)
 ranked: No
 ---
 
-The character may push a ship or vehicle past its limits of speed. [They] may perform the Full Throttle action, attempting a Hard difficulty Piloting check. With success, the ship's top speed increases by one for a number of rounds equal to Cunning. The ship cannot perform actions or maneuvers it could not perform normally (e.g., actions that have a minimum speed requirement).
+The character may push a ship or vehicle past its limits of speed. [They] may perform the Full Throttle action, attempting a #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty  Piloting check. With success, the ship's top speed increases by one for a number of rounds equal to Cunning. The ship cannot perform actions or maneuvers it could not perform normally (e.g., actions that have a minimum speed requirement).
 
 Improved
 Activation: Active (Maneuver)

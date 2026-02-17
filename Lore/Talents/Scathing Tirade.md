@@ -3,7 +3,7 @@ activation: Active (Action)
 ranked: No
 ---
 
-The character may take the Scathing Tirade action by making an Average difficulty Coercion check. For each success result, one enemy within short range suffers 1 strain. The character can also spend #StarWarsAdvantage; for every advantage spent, one target already affected suffers 1 additional strain.
+The character may take the Scathing Tirade action by making an #StarWarsDifficulty #StarWarsDifficulty Coercion check. For each success result, one enemy within short range suffers 1 strain. The character can also spend #StarWarsAdvantage; for every advantage spent, one target already affected suffers 1 additional strain.
 
 Improved
 Activation: Passive
