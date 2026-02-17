@@ -9,7 +9,7 @@ The Force user may spend a #StarWarsLightDark  to cause one vehicle or starship 
 
 **Control Upgrade:** When making a Mechanics skill check, the user may roll a Manipulate power check as part of the pool. The user may spend a #StarWarsLightDark  to gain a success or advantage result (user's choice) on the check. The user may activate this multiple times, adding additional success or advantage results to the check each time. 
 
-**Control Upgrade:** The user may spend a #StarWarsLightDark  to heal a number of wounds equal to [their] Intellect in an engaged droid. This counts as the use of an Emergency Repair Patch. The user may not activate this multiple times.
+**Control Upgrade:** The user may spend a #StarWarsLightDark  to heal a number of wounds equal to [their] [[Intellect]] in an engaged droid. This counts as the use of an Emergency Repair Patch. The user may not activate this multiple times.
 
 **Control Upgrade:** The power gains the ongoing effect: Commit a Force die. One damaged weapon or item counts as being undamaged. This can be activated multiple times.
 

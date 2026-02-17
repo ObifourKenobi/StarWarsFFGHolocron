@@ -3,7 +3,7 @@ activation: Active (Incidental)
 ranked: No
 ---
 
-Once per game session, the character can choose to make one skill check using Cunning, rather than the characteristic linked to that skill. When [they] do this, [they] must explain how, in this particular instance, [their] cunning is helping [them] overcome this challenge.
+Once per game session, the character can choose to make one skill check using [[Cunning]], rather than the characteristic linked to that skill. When [they] do this, [they] must explain how, in this particular instance, [their] [[Cunning]] is helping [them] overcome this challenge.
 
 # Sources
 [[Endless Vigil|Endless Vigil:30]]

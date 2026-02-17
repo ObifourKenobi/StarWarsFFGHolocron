@@ -1,1 +1,1 @@
-**Willpower** reflects a character's **discipline, self-control, mental fortitude, and faith**. Those with high Willpower can withstand immense stress and fatigue, remaining composed in chaotic situations while exerting influence over the weaker-willed.
+**Willpower** reflects a character's **discipline, self-control, mental fortitude, and faith**. Those with high [[Willpower]] can withstand immense stress and fatigue, remaining composed in chaotic situations while exerting influence over the weaker-willed.

@@ -8,7 +8,7 @@ Jerserra combined her Inquisitor's strict training with her guidance from her sh
 # Upgrades
 **Control Upgrade:** When making a fear check, the Force user can roll a **Jerserra's Influence power check** as part of the dice pool. The user may spend a #StarWarsLightSide #StarWarsDarkSide to gain a [success](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Success "Narrative Dice") result or [advantage](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Advantage "Narrative Dice") result (user's choice) on the check.
 
-**Control Upgrade:** Ongoing effect: Commit a #StarWarsForce die. The Force user increases [their] Willpower characteristic by 1 (to a maximum of 6).
+**Control Upgrade:** Ongoing effect: Commit a #StarWarsForce die. The Force user increases [their] [[Willpower]] characteristic by 1 (to a maximum of 6).
 
 **Control Upgrade:** If the target suffers strain as a result of Jerserra's Influence, the Force user recovers an equal amount of strain.
 

@@ -6,7 +6,7 @@ Some Force users can telepathically guide allies around them, helping them to co
 # Basic Power
 Battle Meditation’s basic power allows the Force user to influence and coordinate large groups of allies, guid­ing their actions to help them work as a unified whole. The basic power has one way of spending #StarWarsLightDark :
 
-The user may spend a Force point ( #StarWarsLightDark ) to add one automatic success result to all checks made by a number of engaged friendly targets up to [the user's] Presence before the end of [their] next turn. If the user uses any #StarWarsDarkSide to generate Force points ( #StarWarsLightDark ) on this check, reduce each target’s Willpower by 1 (to a minimum of 1) until the end of the encounter. The user may not activate this multiple times.
+The user may spend a Force point ( #StarWarsLightDark ) to add one automatic success result to all checks made by a number of engaged friendly targets up to [the user's] [[Presence]] before the end of [their] next turn. If the user uses any #StarWarsDarkSide to generate Force points ( #StarWarsLightDark ) on this check, reduce each target’s [[Willpower]] by 1 (to a minimum of 1) until the end of the encounter. The user may not activate this multiple times.
 # Upgrades
 **Control Upgrade:** When making a 
 **Battle Meditation power check**, the user may make an 
@@ -16,7 +16,7 @@ The user may spend a Force point ( #StarWarsLightDark ) to add one automatic suc
 
 **Duration Upgrade:** The power gains the on­ going effect: Commit three #StarWarsForce after successfully activating the basic power. This power remains in effect on each affected target as long as the target stays within range of the power. If a target moves beyond the range of the power, the effects end for [them], but not for any other targets of the power. The user may not activate this multiple times.
 
-**Magnitude Upgrade:** Spend a Force point ( #StarWarsLightDark ) to increase the number of targets af­fected by an amount equal to the us­er’s Presence multiplied by the num­ber of Magnitude upgrades purchased. The user may activate this multiple times, increasing the number of targets by this number each time.
+**Magnitude Upgrade:** Spend a Force point ( #StarWarsLightDark ) to increase the number of targets af­fected by an amount equal to the us­er’s [[Presence]] multiplied by the num­ber of Magnitude upgrades purchased. The user may activate this multiple times, increasing the number of targets by this number each time.
 
 **Mastery Upgrade:** If no #StarWarsDarkSide were used to generate a Force point ( #StarWarsLightDark ) the user may choose one skill; while under the effects of the power, each af­fected character counts as having the same number of ranks in the chosen skill as the affected character with the most ranks in that skill. If any #StarWarsDarkSide were used to generate a Force point ( #StarWarsLightDark ) on this check, each target affected must make an 
 **Easy difficulty Discipline check** if [they] wish to resist obeying any orders given by the user as part of this power.

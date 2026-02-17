@@ -14,7 +14,7 @@ tags:
   - Canon
 ---
 # Pau'an
-Gaunt, ghoulish, and towering over most other sentient species of the galaxy, Pau'ans are easily recognizable by their intimidating presence.
+Gaunt, ghoulish, and towering over most other sentient species of the galaxy, Pau'ans are easily recognizable by their intimidating [[Presence]].
 ## Special Abilities
 Pau'ans begin the game with one rank in [Negotiation](https://star-wars-rpg-ffg.fandom.com/wiki/Negotiation_\(Pr\) "Negotiation (Pr)") or [[Coercion]]. They still cannot train [Negotiation](https://star-wars-rpg-ffg.fandom.com/wiki/Negotiation_\(Pr\) "Negotiation (Pr)") or [[Coercion]] above rank 2 during character creation.
 ## Additional information

@@ -8,17 +8,17 @@ When making an Athletics check, the user may roll an Enhance power check as part
 # Upgrades
 **Control Upgrade:** The user gains the ability to use Enhance with the Coordination skill.
 
-**Control Upgrade:** Enhance can be used with the Piloting (Planetary) skill.
+**Control Upgrade:** Enhance can be used with the [[Piloting-Planetary]] skill.
 
-**Control Upgrade:** Enhance can be used with the Piloting (Space) skill.
+**Control Upgrade:** Enhance can be used with the [[Piloting-Space]] skill.
 
-**Control Upgrade:** This power gains the ongoing effect: Commit a Force die. The Force user increases their Agility characteristic by 1 (to a maximum of 6).
+**Control Upgrade:** This power gains the ongoing effect: Commit a Force die. The Force user increases their [[Agility]] characteristic by 1 (to a maximum of 6).
 
 **Control Upgrade:** Enhance can be used with the Resilience skill.
 
 **Control Upgrade:** Enhance can be used with the Brawl skill.
 
-**Control Upgrade:** This power gains the ongoing effect: Commit a Force die. The Force user increases their Brawn characteristic by 1 (to a maximum of 6).
+**Control Upgrade:** This power gains the ongoing effect: Commit a Force die. The Force user increases their [[Brawn]] characteristic by 1 (to a maximum of 6).
 
 **Control Upgrade:** The user can take a Force Leap action to make an 
 **Enhance power check**. They may spend a #StarWarsLightDark  to jump horizontally to any location within short range. They can use this to leap over obstacles or impassible terrain but cannot leap directly vertically. The user may not activate this multiple times.

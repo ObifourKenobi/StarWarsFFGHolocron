@@ -3,7 +3,7 @@ activation: Active (Incidental)
 ranked: No
 ---
 
-After a successful attack with a personal (non-starship/vehicle) weapon, the character may spend one Destiny Point to add damage equal to [their] Intellect to one hit of the attack.
+After a successful attack with a personal (non-starship/vehicle) weapon, the character may spend one Destiny Point to add damage equal to [their] [[Intellect]] to one hit of the attack.
 
 # Sources
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:138]]

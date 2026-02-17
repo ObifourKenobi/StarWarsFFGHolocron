@@ -6,11 +6,11 @@ Unlike many other Force powers, Heal/Harm has a basic power that can be used in 
 ## Heal (LIGHT SIDE FORCE USER ONLY)
 The basic power for Heal lets a character mend wounds with a simple touch. Heal can only be used by light side Force-sensitive characters. The basic power has one way to spend #StarWarsLightDark :
 
-The user may spend a Force point ( #StarWarsLightDark ) to heal a number of wounds equal to [their] Intellect on one engaged living creature (including themself). This counts as a use of a stimpack on the affected target. This means a single target may only benefit from five uses of Heal over a twenty-four-hour period and [their] uses of Heal also count against the limit on uses of stimpacks (and vice versa). The user may not activate this multiple times.
+The user may spend a Force point ( #StarWarsLightDark ) to heal a number of wounds equal to [their] [[Intellect]] on one engaged living creature (including themself). This counts as a use of a stimpack on the affected target. This means a single target may only benefit from five uses of Heal over a twenty-four-hour period and [their] uses of Heal also count against the limit on uses of stimpacks (and vice versa). The user may not activate this multiple times.
 ## Harm
 The basic power for Harm lets a character drain the very life from a target with a touch. The basic power has one way to spend #StarWarsLightDark :
 
-The user may spend a Force point ( #StarWarsLightDark ) to inflict a number of wounds (ignoring soak) equal to the Force user's Intellect on one engaged living creature. The user gains 1 Conflict. The user may not activate this multiple times.
+The user may spend a Force point ( #StarWarsLightDark ) to inflict a number of wounds (ignoring soak) equal to the Force user's [[Intellect]] on one engaged living creature. The user gains 1 Conflict. The user may not activate this multiple times.
 # Upgrades
 **Control Upgrade:** This Control upgrade has different effects for Heal and for Harm.
 

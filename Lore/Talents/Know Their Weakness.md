@@ -11,7 +11,7 @@ Ranked: No
 Trees: Interrogator
 
 
-The character may extend the effects of Know Their Weakness to a number of enemy characters within short range equal to [their] rating of Presence.
+The character may extend the effects of Know Their Weakness to a number of enemy characters within short range equal to [their] rating of [[Presence]].
 
 # Sources
 [[Cyphers and Masks|Cyphers and Masks:31]]

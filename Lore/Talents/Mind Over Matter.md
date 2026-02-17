@@ -3,7 +3,7 @@ activation: Active (Incidental)
 ranked: No
 ---
 
-The character may spend one Destiny Point to recover strain equal to their Willpower rating.
+The character may spend one Destiny Point to recover strain equal to their [[Willpower]] rating.
 
 # Sources
 [[Unlimited Power|Unlimited Power:33]]

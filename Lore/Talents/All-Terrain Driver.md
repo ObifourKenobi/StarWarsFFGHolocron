@@ -3,7 +3,7 @@ activation: Passive
 ranked: No
 ---
 
-When piloting a vehicle using the Piloting (Planetary) skill, the character does not suffer the penalties for driving through difficult terrain.
+When piloting a vehicle using the [[Piloting-Planetary]] skill, the character does not suffer the penalties for driving through difficult terrain.
 
 # Sources
 [[No Disintegrations|No Disintegrations:34]]

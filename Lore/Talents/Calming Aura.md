@@ -11,7 +11,7 @@ Ranked: No
 Trees: Healer
 
 
-Force talent. The character may spend a maneuver and suffer 2 strain to extend the effects of Calming Aura to a number of allies within short range equal to [their] Willpower. This lasts until the beginning of [their] next turn.
+Force talent. The character may spend a maneuver and suffer 2 strain to extend the effects of Calming Aura to a number of allies within short range equal to [their] [[Willpower]]. This lasts until the beginning of [their] next turn.
 
 # Sources
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:140]]
