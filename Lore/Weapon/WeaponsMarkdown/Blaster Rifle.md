@@ -1,0 +1,22 @@
+---
+Name: Blaster Rifle
+Skill: Ranged (Heavy)
+Dam: 9
+Crit: 3
+Range: Long
+Encum: 4
+HP: 4
+Restricted: 
+Price: 900
+Rarity: 5
+Special: Stun setting
+---
+
+# Blaster Rifle
+
+The tried-and-true blaster rifle rivals the blaster pistol in ubiquity and versatility throughout the galaxy.More information about the weapon available on the Wookieepedia article.Models Include: BlasTech E-11, BlasTech DC-15, BlasTech A280, Czerka Arms 84-U.BLASTER RIFLE[1][2][3][]
+
+## Source
+[[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:168]]
+[[Age of Rebellion Core Rulebook|Age of Rebellion Core Rulebook:173]]
+[[Edge of the Empire Core Rulebook|Edge of the Empire Core Rulebook:160]]

@@ -1,4 +1,4 @@
-﻿---
+---
 name: "Vicious (Passive)"
 activation: Passive
 ranked: True

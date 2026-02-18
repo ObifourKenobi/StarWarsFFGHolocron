@@ -1,5 +1,6 @@
 {
   "userIgnoreFilters": [
     "Assets/scripts/"
-  ]
+  ],
+  "promptDelete": false
 }

@@ -1,0 +1,21 @@
+﻿---
+Name: Shaped Thermal Grenade
+Skill: Ranged (Light)
+Dam: 20
+Crit: 2
+Range: Short
+Encum: 1
+HP: 0
+Restricted: (R)
+Price: 3,500
+Rarity: 8
+Special: Breach 2, Limited Ammo 1, Vicious 5
+---
+
+# Shaped Thermal Grenade
+
+This sequencer charge is common among marines and special forces units in need of an explosive to breach reinforced hatches. More information about the weapon available on the Wookieepedia article.SHAPED THERMAL GRENADE[1][]OR[2][]
+
+## Source
+[[Gadgets and Gear|Gadgets and Gear:61]]
+[[Forged in Battle|Forged in Battle:47]]

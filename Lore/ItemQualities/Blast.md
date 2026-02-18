@@ -1,4 +1,4 @@
-﻿---
+---
 name: "Blast (Active)"
 activation: Active
 ranked: True

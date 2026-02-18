@@ -1,4 +1,4 @@
-﻿---
+---
 name: "Linked (Active)"
 activation: Active
 ranked: True

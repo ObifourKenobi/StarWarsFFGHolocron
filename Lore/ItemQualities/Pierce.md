@@ -1,4 +1,4 @@
-﻿---
+---
 name: "Pierce (Passive)"
 activation: Passive
 ranked: True
