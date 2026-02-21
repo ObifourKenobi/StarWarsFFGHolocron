@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Careers/Explorer.md",
-                "mode": "preview",
-                "source": true
+                "file": "Lore/Careers/Technician.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Explorer"
+              "title": "Technician"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:Lore/Skills [\"base\":]",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Careers/Explorer.md",
+                "file": "Lore/Careers/Technician.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Explorer"
+              "title": "Rétrolien pour Technician"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Careers/Explorer.md",
+                "file": "Lore/Careers/Technician.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Explorer"
+              "title": "Liens sortants de Technician"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Careers/Explorer.md",
+                "file": "Lore/Careers/Technician.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Explorer"
+              "title": "Plan de Technician"
             }
           }
         ]
@@ -186,9 +186,19 @@
   },
   "active": "7550935cb0dfa2bc",
   "lastOpenFiles": [
+    "Lore/Characteristic/Cunning.md",
+    "Lore/Characteristic/Intellect.md",
+    "Lore/Characteristic/Brawn.md",
+    "Lore/Careers/Technician.md",
+    "Lore/Talents/Bypass Security.md",
+    "Lore/Books/Edge of the Empire Core Rulebook.md",
+    "Lore/Books/Edge of the Empire Beginner Game - Rulebook.md",
+    "Lore/Species/Skakoan.md",
+    "Lore/Careers/Smuggler.md",
+    "Lore/Careers/Hired Gun.md",
     "Lore/Careers/Colonist.md",
     "Lore/Careers/Explorer.md",
-    "Lore/Careers/Hired Gun.md",
+    "Lore/Skills/Astrogation.md",
     "Lore/Careers/Bounty Hunter.md",
     "Lore/Talents/Nobody's Fool.md",
     "Lore/Skills/Athletics.md",
@@ -203,16 +213,6 @@
     "Lore/Weapon/MSW-9 Molecular Stiletto.md",
     "Lore/Weapon/MSW-12 NanoDagger.md",
     "Lore/Weapon/MWC-35c Staccato Lightning Repeating Cannon.md",
-    "Lore/Weapon/N-4 Noise Grenade.md",
-    "Lore/Weapon/Neuronic Whip.md",
-    "Lore/Weapon/A280-CFE Convertible Heavy Blaster Pistol.md",
-    "Lore/Weapon/WeaponsMarkdown/'aKraB Clip-point Vibrodagger.md",
-    "Lore/Pictogram.md",
-    "Lore/Talents/As The Force Wills It.md",
-    "Lore/Talents/Animal Empathy.md",
-    "Lore/Talents/Altered Deal.md",
-    "Lore/Talents/All-Terrain Driver.md",
-    "Lore/Talents/Against All Odds.md",
     "Sans titre.canvas",
     "Lore/Weapon/WeaponsMarkdown",
     "Lore/Weapon",
