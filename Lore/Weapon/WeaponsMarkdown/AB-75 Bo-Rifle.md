@@ -14,7 +14,7 @@ Special: Stun 5, Stun setting
 
 # AB-75 Bo-Rifle
 
-During the Republic, the Bo-Rifle was the ceremonial weapon of the Honor Guard of Lasan.. More information about the weapon available on the Wookieepedia article.AB-75 BO-RIFLE[1][]As a maneuver, the user can convert the bo-rifle from its ranged mode to melee mode. In melee mode, the weapon uses the following profile (Melee; Damage +3; Critical 4; Range [Engaged]; Stun 5, Stun Setting). A bo-rifle requires two hands to wield.[2]
+During the Republic, the Bo-Rifle was the ceremonial weapon of the Honor Guard of Lasan. AB-75 BO-RIFLE As a maneuver, the user can convert the bo-rifle from its ranged mode to melee mode. In melee mode, the weapon uses the following profile (Melee; Damage +3; Critical 4; Range [Engaged]; Stun 5, Stun Setting). A bo-rifle requires two hands to wield.
 
 ## Source
 [[Unlimited Power|Unlimited Power:47]]

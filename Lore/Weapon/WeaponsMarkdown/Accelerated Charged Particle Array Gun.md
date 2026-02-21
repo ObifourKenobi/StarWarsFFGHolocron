@@ -14,7 +14,7 @@ Special: Blast 6, Stun Setting
 
 # Accelerated Charged Particle Array Gun
 
-A favorite weapon of pirates, the somewhat crude-looking Arakyd Accelerated Charge Particle Array Gun is a short-range blaster useful for clearing the halls of corridors or starships. More information about the weapon available on the Wookieepedia article.ARAKYD ACCELERATED CHARGED PARTICLE ARRAY GUN[1][]
+A favorite weapon of pirates, the somewhat crude-looking Arakyd Accelerated Charge Particle Array Gun is a short-range blaster useful for clearing the halls of corridors or starships. ARAKYD ACCELERATED CHARGED PARTICLE ARRAY GUN 
 
 ## Source
 [[Dangerous Covenants|Dangerous Covenants:42]]

@@ -14,7 +14,7 @@ Special: Defensive 1, Pierce 2, Unwieldy 2
 
 # Trailbreaker Poleaxe
 
-LaserHone's Trailbreak is a versatile piece of equipment designed for exploration, search and rescue, and wilderness survival.  TRAILBREAKER POLEAXE[1][2][]The Trailbreaker poleaxe requires two hands to use.
+LaserHone's Trailbreak is a versatile piece of equipment designed for exploration, search and rescue, and wilderness survival.  TRAILBREAKER POLEAXE The Trailbreaker poleaxe requires two hands to use.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:53]]

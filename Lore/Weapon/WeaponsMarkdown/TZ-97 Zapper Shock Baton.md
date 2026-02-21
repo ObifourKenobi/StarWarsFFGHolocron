@@ -14,7 +14,7 @@ Special: Concussive 1, Stun Damage
 
 # TZ-97 Zapper Shock Baton
 
-This weapon, issued to clone military police, shore patrol, and anti-riot units, is usually a law enforcement officer's truncheon equipped with a stun-field generator.More information about the weapon available on the Wookieepedia article.TZ-97 ZAPPER SHOCK BATON[1][]
+This weapon, issued to clone military police, shore patrol, and anti-riot units, is usually a law enforcement officer's truncheon equipped with a stun-field generator. TZ-97 ZAPPER SHOCK BATON 
 
 ## Source
 [[Rise of the Separatists|Rise of the Separatists:53]]

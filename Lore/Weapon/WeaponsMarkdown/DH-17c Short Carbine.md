@@ -14,7 +14,7 @@ Special: Auto-fire, Stun setting
 
 # DH-17c Short Carbine
 
-Blurring the line between blaster pistol and blaster carbine, the DH-17c short carbine is a relatively new addition to the venerable DH-17 product line. More information about the weapon available on the Wookieepedia article.BLASTECH DH-17C SHORT CARBINE[1][]
+Blurring the line between blaster pistol and blaster carbine, the DH-17c short carbine is a relatively new addition to the venerable DH-17 product line. BLASTECH DH-17C SHORT CARBINE 
 
 ## Source
 [[Fully Operational|Fully Operational:38]]

@@ -14,7 +14,7 @@ Special: Vicious 1
 
 # Explorer's Knife
 
-Nearly as ubiquitous as combat knives, explorer's knives are indispensable tools for professional foresters.More information about the weapon available on the Wookieepedia article.EXPLORER'S KNIFE[1][]An explorer's knife grants a boost die to all Survival checks.
+Nearly as ubiquitous as combat knives, explorer's knives are indispensable tools for professional foresters. EXPLORER'S KNIFE An explorer's knife grants a boost die to all Survival checks.
 
 ## Source
 [[Savage Spirits|Savage Spirits:43]]

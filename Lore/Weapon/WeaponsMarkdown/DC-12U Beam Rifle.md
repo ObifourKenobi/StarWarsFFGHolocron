@@ -14,7 +14,7 @@ Special: Linked 1
 
 # DC-12U Beam Rifle
 
-BlasTech's DC-12U is an uncommon weapon designed for underwater operations.More information about the weapon available on the Wookieepedia article.DC-12U BEAM RIFLE[1][]The under-barrel mount typically mounts a high-powered flashlight that removes a setback die due to darkness from any combat checks made with the weapon. When outside of an aquatic environment, the DC-12U has the Inaccurate 2 item quality.[2]
+BlasTech's DC-12U is an uncommon weapon designed for underwater operations. DC-12U BEAM RIFLE The under-barrel mount typically mounts a high-powered flashlight that removes a setback die due to darkness from any combat checks made with the weapon. When outside of an aquatic environment, the DC-12U has the Inaccurate 2 item quality.
 
 ## Source
 [[Collapse of the Republic|Collapse of the Republic:52]]

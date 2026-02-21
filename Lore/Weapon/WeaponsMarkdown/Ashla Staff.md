@@ -14,7 +14,7 @@ Special:
 
 # Ashla Staff
 
-Like the Bo-Rifle, Ashla Staffs were one of the many items plundered by the Empire during the Fall of Lasan. More information about the weapon available on the Wookieepedia article.ASHLA STAFF[1][]While wielding an Ashla Staff and making a Force power check, a player may spend 3 strain to add a Light point to the results.
+Like the Bo-Rifle, Ashla Staffs were one of the many items plundered by the Empire during the Fall of Lasan. ASHLA STAFF While wielding an Ashla Staff and making a Force power check, a player may spend 3 strain to add a Light point to the results.
 
 ## Source
 [[Unlimited Power|Unlimited Power:50]]

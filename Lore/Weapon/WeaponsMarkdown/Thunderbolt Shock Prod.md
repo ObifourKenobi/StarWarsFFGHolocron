@@ -14,7 +14,7 @@ Special: Concussive 1, Stun Damage
 
 # Thunderbolt Shock Prod
 
-A particularly brutal weapon used to herd thick skinned creatures and, on occasion, sentient beings, the Thunderbolt Shock Prod produced by SoroSuub is a weapon with a mixed reputation throughout the galaxy.  More information about the weapon available on the Wookieepedia article.THUNDERBOLT SHOCK PROD[1][]
+A particularly brutal weapon used to herd thick skinned creatures and, on occasion, sentient beings, the Thunderbolt Shock Prod produced by SoroSuub is a weapon with a mixed reputation throughout the galaxy.  THUNDERBOLT SHOCK PROD 
 
 ## Source
 [[Far Horizons|Far Horizons:42]]

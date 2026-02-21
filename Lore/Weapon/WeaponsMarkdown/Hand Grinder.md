@@ -14,7 +14,7 @@ Special: Cumbersome 3, Prepare 1, Vicious 4
 
 # Hand Grinder
 
-A hand grinder uses a rotating wheel coated with rough material to polish down spurs and marks on metal surfaces.HAND GRINDER[1][]A hand grinder adds an automatic advantage result to crafting checks that involve shaping large pieces of hardened material. A hand grinder requires two hands to use as a weapon.
+A hand grinder uses a rotating wheel coated with rough material to polish down spurs and marks on metal surfaces. HAND GRINDER A hand grinder adds an automatic advantage result to crafting checks that involve shaping large pieces of hardened material. A hand grinder requires two hands to use as a weapon.
 
 ## Source
 [[Special Modifications|Special Modifications:47]]

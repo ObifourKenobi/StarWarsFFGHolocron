@@ -14,7 +14,7 @@ Special: Breach 1, Cortosis, Defensive 1
 
 # Morgukai Cortosis Staff
 
-Relics of the Morgukai, an ancient Nikto warrior society that hunted Jedi and Sith alike, these weapons are exceedingly rare.  More information about the weapon available on the Wookieepedia article.MORGUKAI CORTOSIS STAFF[1][]The cortosis staff requires two hands to wield.[2]
+Relics of the Morgukai, an ancient Nikto warrior society that hunted Jedi and Sith alike, these weapons are exceedingly rare.  MORGUKAI CORTOSIS STAFF The cortosis staff requires two hands to wield.
 
 ## Source
 [[Lords of Nal Hutta|Lords of Nal Hutta:103]]

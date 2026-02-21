@@ -14,7 +14,7 @@ Special: Cumbersome 3, Disorient 2, Stun 3
 
 # Czerka Peacekeeper Stun Baton
 
-Czerka Arms sells Peacekeeper stun batons to law enforcement organizations across the galaxy, but they also see substantial sales to private buyers. More information about the weapon available on the Wookieepedia article.CZERKA PEACEKEEPER STUN BATON[1][]
+Czerka Arms sells Peacekeeper stun batons to law enforcement organizations across the galaxy, but they also see substantial sales to private buyers. CZERKA PEACEKEEPER STUN BATON 
 
 ## Source
 [[No Disintegrations|No Disintegrations:48]]

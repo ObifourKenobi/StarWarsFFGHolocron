@@ -14,7 +14,7 @@ Special: Accurate 1, Stun setting
 
 # GALAAR-15 Blaster Carbine
 
-The GALAAR-15 is a popular blaster carbine built by Mandalorian arms giant Concordian Crescent Technologies.More information about the weapon available on the Wookieepedia article.GALAAR-15 BLASTER CARBINE[1][]
+The GALAAR-15 is a popular blaster carbine built by Mandalorian arms giant Concordian Crescent Technologies. GALAAR-15 BLASTER CARBINE 
 
 ## Source
 [[Collapse of the Republic|Collapse of the Republic:52]]

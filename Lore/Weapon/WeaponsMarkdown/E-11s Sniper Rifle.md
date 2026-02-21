@@ -14,7 +14,7 @@ Special: Accurate 1, Cumbersome 2, Pierce 3, Slow-Firing 1
 
 # E-11s Sniper Rifle
 
-BlasTech's E-11 platform is one of the most successful blaster designs in recent history.More information about the weapon available on the Wookieepedia article.E-11S SNIPER RIFLE[1][]OR[2][]
+BlasTech's E-11 platform is one of the most successful blaster designs in recent history. E-11S SNIPER RIFLE OR 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:13]]

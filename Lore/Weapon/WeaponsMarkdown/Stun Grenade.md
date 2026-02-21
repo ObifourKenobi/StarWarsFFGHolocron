@@ -14,7 +14,7 @@ Special: Blast 8, Disorient 3, Limited Ammo 1, Stun Damage
 
 # Stun Grenade
 
-Stun grenades are effectively non-lethal defensive grenades used to disable, rather than kill, an opponent. [S]tun grenades can be set to detonate on impact or set with a timer to detonate up to 3 rounds after being activated. Stun grenades rarely have pressure detonators.[4][5][6]
+Stun grenades are effectively non-lethal defensive grenades used to disable, rather than kill, an opponent. [S]tun grenades can be set to detonate on impact or set with a timer to detonate up to 3 rounds after being activated. Stun grenades rarely have pressure detonators.
 
 ## Source
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:168]]

@@ -14,7 +14,7 @@ Special: Cumbersome 2, Stun 3
 
 # Heartwood Blaster
 
-Weaponsmiths incorporated heartwood, a plant native to Tholoth, into unique weapons. More information about the weapon available on the Wookieepedia article.HEARTWOOD BLASTER[1][]When wielding a heartwood blaster, a character may suffer strain up to their Force rating as a maneuver. If they do, they add an equal number of automatic advantage results to the next combat check they make that turn.[2]
+Weaponsmiths incorporated heartwood, a plant native to Tholoth, into unique weapons. HEARTWOOD BLASTER When wielding a heartwood blaster, a character may suffer strain up to their Force rating as a maneuver. If they do, they add an equal number of automatic advantage results to the next combat check they make that turn.
 
 ## Source
 [[Unlimited Power|Unlimited Power:47]]

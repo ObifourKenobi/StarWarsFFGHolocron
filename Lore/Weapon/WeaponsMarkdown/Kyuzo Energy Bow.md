@@ -14,7 +14,7 @@ Special: Cumbersome 3, Knockdown, Pierce 5
 
 # Kyuzo Energy Bow
 
-Designed to be fired from a mount or mobile platform, a Kyuzo energy bow is a massive bow that fires terrifyingly large, charged bolts.More information about the weapon available on the Wookieepedia article.KYUZO ENERGY BOW[1][]
+Designed to be fired from a mount or mobile platform, a Kyuzo energy bow is a massive bow that fires terrifyingly large, charged bolts. KYUZO ENERGY BOW 
 
 ## Source
 [[Forged in Battle|Forged in Battle:42]]

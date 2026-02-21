@@ -14,7 +14,7 @@ Special: Cumbersome 2
 
 # Vodran Hunting Rifle
 
-These rifles, usually crafted by hand in local Vodran workshops, are commonly found in the hands of skilled dianoga hunters (or occasionally in the stomachs of dianogas).More information about the weapon available on the Wookieepedia article.VODRAN HUNTING RIFLE[1][]
+These rifles, usually crafted by hand in local Vodran workshops, are commonly found in the hands of skilled dianoga hunters (or occasionally in the stomachs of dianogas). VODRAN HUNTING RIFLE 
 
 ## Source
 [[Lords of Nal Hutta|Lords of Nal Hutta:101]]

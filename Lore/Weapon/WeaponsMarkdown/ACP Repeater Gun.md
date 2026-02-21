@@ -14,7 +14,7 @@ Special: Auto-fire, Stun setting
 
 # ACP Repeater Gun
 
-Known as the Trandoshan chopper among mercenaries and slavers, and the Nar Shaddaa Grinder among Gank Killers, the ACP repeater was designed by Arakyd Industries for local planetary defense forces prior to the Clone Wars.More information about the weapon available on the Wookieepedia article.ACP REPEATER GUN[1] [2][]
+Known as the Trandoshan chopper among mercenaries and slavers, and the Nar Shaddaa Grinder among Gank Killers, the ACP repeater was designed by Arakyd Industries for local planetary defense forces prior to the Clone Wars. ACP REPEATER GUN  
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:9]]

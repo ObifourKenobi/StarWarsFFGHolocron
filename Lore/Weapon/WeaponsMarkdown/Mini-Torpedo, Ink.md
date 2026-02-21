@@ -14,7 +14,7 @@ Special: Blast 0, Disorient 4, Limited Ammo 1
 
 # Mini-Torpedo, Ink
 
-These mini-torpedoes contain a reservoir filled with an obscuring black liquid that readily disperses into a large cloud upon detonation.MINI-TORPEDO, INK[1][]The ink lasts for up to four rounds, but it can last much longer in particularly still water.[2]
+These mini-torpedoes contain a reservoir filled with an obscuring black liquid that readily disperses into a large cloud upon detonation. MINI-TORPEDO, INK The ink lasts for up to four rounds, but it can last much longer in particularly still water.
 
 ## Source
 [[Strongholds of Resistance|Strongholds of Resistance:105]]

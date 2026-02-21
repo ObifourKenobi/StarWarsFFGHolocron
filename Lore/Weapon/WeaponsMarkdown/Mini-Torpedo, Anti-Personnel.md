@@ -14,7 +14,7 @@ Special: Blast 6, Limited Ammo 1
 
 # Mini-Torpedo, Anti-Personnel
 
-Anti-personnel mini-torpedoes function similarly to fragmentation grenades.MINI-TORPEDO, ANTI-PERSONNEL[1][]
+Anti-personnel mini-torpedoes function similarly to fragmentation grenades. MINI-TORPEDO, ANTI-PERSONNEL 
 
 ## Source
 [[Strongholds of Resistance|Strongholds of Resistance:105]]

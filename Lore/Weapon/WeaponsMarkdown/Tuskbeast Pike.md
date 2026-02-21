@@ -14,7 +14,7 @@ Special: Defensive 1, Knockdown
 
 # Tuskbeast Pike
 
-Long spears used by the Nikto, tuskbeast pikes were originally developed to hunt the giant mutated predators of Kintan.  More information about the weapon available on the Wookieepedia article.TUSKBEAST PIKE[1][]The tuskbeast pike requires two hands to wield.[2]
+Long spears used by the Nikto, tuskbeast pikes were originally developed to hunt the giant mutated predators of Kintan.  TUSKBEAST PIKE The tuskbeast pike requires two hands to wield.
 
 ## Source
 [[Lords of Nal Hutta|Lords of Nal Hutta:103]]

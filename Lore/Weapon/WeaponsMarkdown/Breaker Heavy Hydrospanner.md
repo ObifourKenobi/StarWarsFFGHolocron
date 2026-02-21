@@ -14,7 +14,7 @@ Special: Cumbersome 3, Disorient 1, Inaccurate 1
 
 # Breaker Heavy Hydrospanner
 
-Built by Regalis Engineering, the Breaker is a massive, long-handled hydrospanner nearly a meter long.   More information about the gear available on the Wookieepedia article.BREAKER HEAVY HYDROSPANNER[1][2][]Using a Breaker adds an automatic advantage result to Mechanics checks.[3]
+Built by Regalis Engineering, the Breaker is a massive, long-handled hydrospanner nearly a meter long.   More information about the gear available on the Wookieepedia article. BREAKER HEAVY HYDROSPANNER Using a Breaker adds an automatic advantage result to Mechanics checks.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:136]]

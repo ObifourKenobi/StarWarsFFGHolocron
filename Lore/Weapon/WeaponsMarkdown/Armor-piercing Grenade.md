@@ -14,7 +14,7 @@ Special: Blast 4, Limited Ammo 1, Pierce 3
 
 # Armor-piercing Grenade
 
-Armor-piercing grenades provide a lightweight option for infantry troops to combat armored vehicles and emplacements or to breach armored fortifications. Armor-piercing grenades can be set to detonate on impact, can be set with a timer to detonate up to three rounds after being activated, or can use a pressure detonator.[1][3]
+Armor-piercing grenades provide a lightweight option for infantry troops to combat armored vehicles and emplacements or to breach armored fortifications. Armor-piercing grenades can be set to detonate on impact, can be set with a timer to detonate up to three rounds after being activated, or can use a pressure detonator.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:57]]

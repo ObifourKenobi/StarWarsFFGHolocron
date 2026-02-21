@@ -14,7 +14,7 @@ Special: Defensive 1, Linked 1, Stun 4, Unwieldy 3
 
 # Temple Guard Lightsaber Pike Hilt
 
-More information about the weapon available on the Wookieepedia article.TEMPLE GUARD LIGHTSABER PIKE HILT[1][]
+TEMPLE GUARD LIGHTSABER PIKE HILT 
 
 ## Source
 [[Keeping the Peace|Keeping the Peace:46]]

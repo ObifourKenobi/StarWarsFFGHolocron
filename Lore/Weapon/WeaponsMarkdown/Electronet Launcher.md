@@ -14,7 +14,7 @@ Special: Ensnare 5, Stun Damage
 
 # Electronet Launcher
 
-An ideal weapon for subduing most sentient beings, the electronet launcher uses the same concept as a conventional net launcher, but without the tangled mess of a physical net. More information about the weapon available on the Wookieepedia article.ELECTRONET LAUNCHER[1][]
+An ideal weapon for subduing most sentient beings, the electronet launcher uses the same concept as a conventional net launcher, but without the tangled mess of a physical net. ELECTRONET LAUNCHER 
 
 ## Source
 [[Friends Like These|Friends Like These:60]]

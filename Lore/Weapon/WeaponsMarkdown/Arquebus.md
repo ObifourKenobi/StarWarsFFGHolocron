@@ -14,7 +14,7 @@ Special: Cumbersome 3, Prepare 1
 
 # Arquebus
 
-Accurate at extreme distances, the weapon is well suited to patient aiming. More information about the weapon available on the Wookieepedia article.ARQUEBUS[1][]As a maneuver, a character wielding an arquebus may suffer up to 5 strain. The PC's next combat check with the arquebus gains Pierce with a rating equal to the strain suffered.[2]
+Accurate at extreme distances, the weapon is well suited to patient aiming. ARQUEBUS As a maneuver, a character wielding an arquebus may suffer up to 5 strain. The PC's next combat check with the arquebus gains Pierce with a rating equal to the strain suffered.
 
 ## Source
 [[Unlimited Power|Unlimited Power:47]]

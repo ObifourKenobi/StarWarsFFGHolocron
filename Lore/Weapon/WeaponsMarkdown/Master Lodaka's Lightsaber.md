@@ -14,7 +14,7 @@ Special: Breach 1, Sunder, Vicious 2
 
 # Master Lodaka's Lightsaber
 
-In the galaxy at large, if Lothal is known at all, it is as an Imperial world home to a Sienar Fleet Systems production line for TIE fighters.   More information about the gear available on the Wookieepedia article.MASTER LODAKA'S LIGHTSABER[1][] Master Lodaka's Lightsaber is a weapon with the following profile: (Lightsaber; Damage 10; Critical 1; Range [Engaged]; Breach 1, Sunder, Vicious 2).[2]Master Lodaka's Lightsaber has an encumbrance of 1 and zero hard points. Attacks made with this lightsaber ignore the Cortosis quality. It also cannot be shut down due to contact with refined cortosis.[2]
+In the galaxy at large, if Lothal is known at all, it is as an Imperial world home to a Sienar Fleet Systems production line for TIE fighters.   More information about the gear available on the Wookieepedia article. MASTER LODAKA'S LIGHTSABER  Master Lodaka's Lightsaber is a weapon with the following profile: (Lightsaber; Damage 10; Critical 1; Range [Engaged]; Breach 1, Sunder, Vicious 2). Master Lodaka's Lightsaber has an encumbrance of 1 and zero hard points. Attacks made with this lightsaber ignore the Cortosis quality. It also cannot be shut down due to contact with refined cortosis.
 
 ## Source
 [[Nexus of Power|Nexus of Power:107]]

@@ -14,7 +14,7 @@ Special: Breach 1, Burn 1, Limited Ammo 1, Sunder
 
 # Molten Magnet
 
-Magma from Sembla has fascinated researchers for centuries. More information about the weapon available on the Wookieepedia article.MOLTEN MAGNET[1][]
+Magma from Sembla has fascinated researchers for centuries. MOLTEN MAGNET 
 
 ## Source
 [[Unlimited Power|Unlimited Power:47]]

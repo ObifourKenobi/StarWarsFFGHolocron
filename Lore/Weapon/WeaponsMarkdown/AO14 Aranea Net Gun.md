@@ -14,7 +14,7 @@ Special: Ensnare 5
 
 # AO14 Aranea Net Gun
 
-The AO14 Aranea is one of Palandrix Personal Protection Gear's more popular non-lethal weapon systems.More information about the weapon available on the Wookieepedia article.PALANDRIX AO14 ARANEA NET GUN[1][]OR[2][]
+The AO14 Aranea is one of Palandrix Personal Protection Gear's more popular non-lethal weapon systems. PALANDRIX AO14 ARANEA NET GUN OR 
 
 ## Source
 [[Savage Spirits|Savage Spirits:42]]

@@ -14,7 +14,7 @@ Special: Cumbersome 4, Limited Ammo 1, Pierce 3, Vicious 1
 
 # Styanax Lance
 
-A large, vicious harpoon gun, the styanax lance has been used by countless generations of stabmen to hunt the ferocious sea serpents that haunt the stormy Sea of Jarad on Tralus. More information about the weapon available on the Wookieepedia article.STYANAX LANCE[1][]
+A large, vicious harpoon gun, the styanax lance has been used by countless generations of stabmen to hunt the ferocious sea serpents that haunt the stormy Sea of Jarad on Tralus. STYANAX LANCE 
 
 ## Source
 [[Suns of Fortune|Suns of Fortune:95]]

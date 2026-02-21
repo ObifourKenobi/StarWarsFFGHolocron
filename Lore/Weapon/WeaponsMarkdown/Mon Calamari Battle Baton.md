@@ -14,7 +14,7 @@ Special: Stun setting
 
 # Mon Calamari Battle Baton
 
-The Mon Calamari battle baton is a simple energy weapon in the shape of a ribbed scepter. More information about the weapon available on the Wookieepedia article.MON CALAMARI BATTLE BATON[1][]
+The Mon Calamari battle baton is a simple energy weapon in the shape of a ribbed scepter. MON CALAMARI BATTLE BATON 
 
 ## Source
 [[Strongholds of Resistance|Strongholds of Resistance:105]]

@@ -14,7 +14,7 @@ Special: Breach 2, Limited Ammo 1, Vicious 5
 
 # Shaped Thermal Grenade
 
-This sequencer charge is common among marines and special forces units in need of an explosive to breach reinforced hatches. More information about the weapon available on the Wookieepedia article.SHAPED THERMAL GRENADE[1][]OR[2][]
+This sequencer charge is common among marines and special forces units in need of an explosive to breach reinforced hatches. SHAPED THERMAL GRENADE OR 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:61]]

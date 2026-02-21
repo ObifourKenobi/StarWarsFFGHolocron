@@ -14,7 +14,7 @@ Special:
 
 # Semblan Obsidian Dagger
 
-Like many items made by the Vurk, Semblan daggers tend to serve at least two functions. More information about the weapon available on the Wookieepedia article.SEMBLAN OBSIDIAN DAGGER[1][]When a Vurk makes a Discipline check at the end of an encounter to heal strain, they heal one additional strain as long as they are holding a Semblan dagger. At the GM's discretion, non-Vurk characters can also benefit from this if they have a thorough grounding in Vurk culture and the mentality to appreciate the meditative properties.
+Like many items made by the Vurk, Semblan daggers tend to serve at least two functions. SEMBLAN OBSIDIAN DAGGER When a Vurk makes a Discipline check at the end of an encounter to heal strain, they heal one additional strain as long as they are holding a Semblan dagger. At the GM's discretion, non-Vurk characters can also benefit from this if they have a thorough grounding in Vurk culture and the mentality to appreciate the meditative properties.
 
 ## Source
 [[Unlimited Power|Unlimited Power:50]]

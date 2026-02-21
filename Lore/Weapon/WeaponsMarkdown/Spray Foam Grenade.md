@@ -14,7 +14,7 @@ Special: Ensnare 4, Limited Ammo 1
 
 # Spray Foam Grenade
 
-The Tenloss Syndicate designed the spray foam grenade to help bounty hunters incapacitate fleeing targets. A spray foam grenade's Ensnare quality triggers automatically on any target the weapon hits, with no need to spend advantage results.[3]
+The Tenloss Syndicate designed the spray foam grenade to help bounty hunters incapacitate fleeing targets. A spray foam grenade's Ensnare quality triggers automatically on any target the weapon hits, with no need to spend advantage results.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:61]]

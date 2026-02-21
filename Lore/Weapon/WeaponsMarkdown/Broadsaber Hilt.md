@@ -14,7 +14,7 @@ Special: Unwieldy 3
 
 # Broadsaber Hilt
 
-More information about the weapon available on the Wookieepedia article.BROADSABER HILT[1][]
+BROADSABER HILT 
 
 ## Source
 [[Knights of Fate|Knights of Fate:45]]

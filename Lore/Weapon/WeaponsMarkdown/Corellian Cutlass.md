@@ -14,7 +14,7 @@ Special: Defensive 1, Vicious 1
 
 # Corellian Cutlass
 
-Traditionally granted to Corellian naval officers upon being promoted from ensign or sub-lieutenant to full lieutenant, the Corellian cutlass is a relatively short broad saber with a solid hand guard. More information about the weapon available on the Wookieepedia article.CORELLIAN CUTLASS[1][]
+Traditionally granted to Corellian naval officers upon being promoted from ensign or sub-lieutenant to full lieutenant, the Corellian cutlass is a relatively short broad saber with a solid hand guard. CORELLIAN CUTLASS 
 
 ## Source
 [[Suns of Fortune|Suns of Fortune:97]]

@@ -14,7 +14,7 @@ Special: Blast 8, Cumbersome 3, Guided 3, Limited Ammo 6
 
 # RLR-331 Bulldog Rocket Rifle
 
-A relic of the Clone Wars, the RLR-331 Bulldog is a rocket-propelled grenade launcher popular with the mercenaries to whom Kelvarek Consolidated Arms caters.  Rockets for the RLR-331 cost 100 credits each and have a rarity of 5.[1][3]
+A relic of the Clone Wars, the RLR-331 Bulldog is a rocket-propelled grenade launcher popular with the mercenaries to whom Kelvarek Consolidated Arms caters.  Rockets for the RLR-331 cost 100 credits each and have a rarity of 5.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:65]]

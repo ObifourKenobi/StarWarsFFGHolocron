@@ -14,7 +14,7 @@ Special: Burn 4, Blast 9, Cumbersome 3, Vicious 2
 
 # Czerka CZ-28 Flamestrike
 
-A direct and blatant copy of the Merr-Sonn CR-28 flame cannon, the CZ-28 Flamestrike heavy weapon is a powerful flame projector with an effective range double that of standard flame projectors.More information about the weapon available on the Wookieepedia article.CZERKA CZ-28 FLAMESTRIKE[1][]
+A direct and blatant copy of the Merr-Sonn CR-28 flame cannon, the CZ-28 Flamestrike heavy weapon is a powerful flame projector with an effective range double that of standard flame projectors. CZERKA CZ-28 FLAMESTRIKE 
 
 ## Source
 [[Dangerous Covenants|Dangerous Covenants:42]]

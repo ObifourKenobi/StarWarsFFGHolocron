@@ -14,7 +14,7 @@ Special: Accurate 1, Cumbersome 2, Pierce 2, Stun setting
 
 # M-300 Hunting Blaster
 
-Offering unparalleled range for a stun rifle, BlasTech's M-300 hunting blaster comes in a small, lightweight, nearly indestructible frame wrapped in weather-sealed polycarbonate.More information about the weapon available on the Wookieepedia article.M-300 HUNTING BLASTER[1][]OR[2][]Reduce the difficulty of combat checks made with this weapon by one against targets at long or extreme range.[1][3]
+Offering unparalleled range for a stun rifle, BlasTech's M-300 hunting blaster comes in a small, lightweight, nearly indestructible frame wrapped in weather-sealed polycarbonate. M-300 HUNTING BLASTER OR Reduce the difficulty of combat checks made with this weapon by one against targets at long or extreme range.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:18]]

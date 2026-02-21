@@ -14,7 +14,7 @@ Special: Cumbersome 3, Defensive 2, Deflection 2
 
 # M3 Bulwark Blast Shield
 
-Typically carried by riot or military police, or security in particularly rowdy ports, blast shields are as much a weapon as a protective device.More information about the weapon available on the Wookieepedia article.M3 BULWARK BLAST SHIELD[1][]
+Typically carried by riot or military police, or security in particularly rowdy ports, blast shields are as much a weapon as a protective device. M3 BULWARK BLAST SHIELD 
 
 ## Source
 [[Rise of the Separatists|Rise of the Separatists:53]]

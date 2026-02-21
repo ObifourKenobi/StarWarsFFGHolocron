@@ -14,7 +14,7 @@ Special: Stun setting
 
 # Cybernetic Weapon Implant
 
-Popular among bounty hunters, assassins, and clandestine operatives, cybernetic weapon implants guarantee that no matter the situation, an individual is never without a weapon.  More information about the gear available on the Wookieepedia article.Models Include: BlasTech Cybernetic Weapon Enhancement Mod VII, Athakam MedTech Synthlimb Blaster.CYBERNETIC WEAPON IMPLANT[1][2][3][]A basic cybernetic weapon arm appears to be a regular cybernetic arm but features a retractable light blaster pistol that can be deployed as an incidental. The blaster is attached to the arm and cannot be removed, dropped, or disarmed.[1][4][5]
+Popular among bounty hunters, assassins, and clandestine operatives, cybernetic weapon implants guarantee that no matter the situation, an individual is never without a weapon.  More information about the gear available on the Wookieepedia article. Models Include: BlasTech Cybernetic Weapon Enhancement Mod VII, Athakam MedTech Synthlimb Blaster. CYBERNETIC WEAPON IMPLANT A basic cybernetic weapon arm appears to be a regular cybernetic arm but features a retractable light blaster pistol that can be deployed as an incidental. The blaster is attached to the arm and cannot be removed, dropped, or disarmed.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:116]]

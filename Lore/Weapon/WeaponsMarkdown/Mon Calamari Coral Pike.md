@@ -14,7 +14,7 @@ Special: Defensive 1, Pierce 2
 
 # Mon Calamari Coral Pike
 
-The coral pike is an ancient weapon of the Mon Calamari people. More information about the weapon available on the Wookieepedia article.MON CALAMARI CORAL PIKE[1][]
+The coral pike is an ancient weapon of the Mon Calamari people. MON CALAMARI CORAL PIKE 
 
 ## Source
 [[Strongholds of Resistance|Strongholds of Resistance:108]]

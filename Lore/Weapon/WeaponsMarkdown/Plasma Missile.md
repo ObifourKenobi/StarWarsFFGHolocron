@@ -14,7 +14,7 @@ Special: Blast 14, Cumbersome 3, Inaccurate 1, Pierce 2
 
 # Plasma Missile
 
-When primed, a store of high-energy gas within the plasma warhead is converted into a highly volatile plasma state.  More information about the weapon available on the Wookieepedia article.PLASMA MISSILE[1] [2][]
+When primed, a store of high-energy gas within the plasma warhead is converted into a highly volatile plasma state.  PLASMA MISSILE  
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:65]]

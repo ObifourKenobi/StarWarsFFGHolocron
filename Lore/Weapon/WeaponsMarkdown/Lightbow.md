@@ -14,7 +14,7 @@ Special: Blast 4, Knockdown, Pierce 3, Slow-Firing 1
 
 # Lightbow
 
-A distinctive part of each Guardian of the Whills' spiritual progression on Jedha, lightbows are traditionally constructed by hand upon completion of the seventh duan towards physical perfection.More information about the weapon available on the Wookieepedia article.LIGHTBOW[1][]The user may spend a maneuver to collapse the weapon for regular transport (reducing its encumbrance to 3) or expand the arrays to ready it for firing.[2]
+A distinctive part of each Guardian of the Whills' spiritual progression on Jedha, lightbows are traditionally constructed by hand upon completion of the seventh duan towards physical perfection. LIGHTBOW The user may spend a maneuver to collapse the weapon for regular transport (reducing its encumbrance to 3) or expand the arrays to ready it for firing.
 
 ## Source
 [[Dawn of Rebellion|Dawn of Rebellion:118]]

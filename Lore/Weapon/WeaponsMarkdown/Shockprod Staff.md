@@ -14,7 +14,7 @@ Special: Disorient 4, Stun setting
 
 # Shockprod Staff
 
-The shockprod staff is the universally recognised symbol of the ancient tradition of Gand findsmen. More information about the weapon available on the Wookieepedia article.SHOCKPROD STAFF[1][]A shockprod staff requires two hands to wield.[2]
+The shockprod staff is the universally recognised symbol of the ancient tradition of Gand findsmen. SHOCKPROD STAFF A shockprod staff requires two hands to wield.
 
 ## Source
 [[Knights of Fate|Knights of Fate:42]]

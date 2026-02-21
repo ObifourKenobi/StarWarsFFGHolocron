@@ -14,7 +14,7 @@ Special: Defensive 1, Pierce 3
 
 # Selonian Glaive
 
-Individually crafted by Selonian females as a rite of passage, the Selonian glaive is a unique work of art as much as it is a weapon. More information about the weapon available on the Wookieepedia article.SELONIAN GLAIVE[1][]
+Individually crafted by Selonian females as a rite of passage, the Selonian glaive is a unique work of art as much as it is a weapon. SELONIAN GLAIVE 
 
 ## Source
 [[Suns of Fortune|Suns of Fortune:97]]

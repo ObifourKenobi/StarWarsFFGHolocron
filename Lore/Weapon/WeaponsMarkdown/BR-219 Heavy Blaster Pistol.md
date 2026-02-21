@@ -14,7 +14,7 @@ Special: Stun setting, Vicious 2
 
 # BR-219 Heavy Blaster Pistol
 
-One of the most lethal blaster pistols on the market, BlasTech's BR-219 is only available directly from the factory, and requires an intense ISB background check.GMs may spend two threat results to damage the BR-219 one step. In addition, Game Masters may spend one despair result to cause the BR-219 to melt down and explored, destroying the weapon and dealing base weapon damage to the user.[1][3]
+One of the most lethal blaster pistols on the market, BlasTech's BR-219 is only available directly from the factory, and requires an intense ISB background check. GMs may spend two threat results to damage the BR-219 one step. In addition, Game Masters may spend one despair result to cause the BR-219 to melt down and explored, destroying the weapon and dealing base weapon damage to the user.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:10]]

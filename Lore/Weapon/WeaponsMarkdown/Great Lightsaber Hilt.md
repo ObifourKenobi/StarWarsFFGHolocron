@@ -14,7 +14,7 @@ Special: Cumbersome 3
 
 # Great Lightsaber Hilt
 
-[A lightsaber hilt] requires a crystal to become a true weapon (otherwise they deal no damage, have no critical rating, and do not have many of their item qualities).[1]
+[A lightsaber hilt] requires a crystal to become a true weapon (otherwise they deal no damage, have no critical rating, and do not have many of their item qualities).
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:46]]

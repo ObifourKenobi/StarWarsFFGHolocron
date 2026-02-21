@@ -14,7 +14,7 @@ Special: Stun setting
 
 # CR-2 Heavy Blaster Pistol
 
-Produced by Corellian Arms, the CR-2 heavy blaster pistol is a somewhat outdated weapon.More information about the weapon available on the Wookieepedia article.CORELLIAN ARMS CR-2 HEAVY BLASTER PISTOL[1][]
+Produced by Corellian Arms, the CR-2 heavy blaster pistol is a somewhat outdated weapon. CORELLIAN ARMS CR-2 HEAVY BLASTER PISTOL 
 
 ## Source
 [[Suns of Fortune|Suns of Fortune:95]]

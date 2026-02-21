@@ -14,7 +14,7 @@ Special: Pierce 2, Blast 3, Limited Ammo 1, Vicious 3
 
 # Quillbomb
 
-Thisspiasians once viewed the giant ystervark as both worthy foe and revered delicacy. More information about the weapon available on the Wookieepedia article.QUILLBOMB[1][]
+Thisspiasians once viewed the giant ystervark as both worthy foe and revered delicacy. QUILLBOMB 
 
 ## Source
 [[Unlimited Power|Unlimited Power:47]]

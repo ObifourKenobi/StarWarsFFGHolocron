@@ -14,7 +14,7 @@ Special: Stun setting
 
 # Blaster Carbine
 
-Blaster carbines are small-framed version of common blaster rifles, designed to deliver the power of a rifle in a smaller, easier-to-use package.Blaster carbines may be fired one-handed with no penalties at short range.[1]
+Blaster carbines are small-framed version of common blaster rifles, designed to deliver the power of a rifle in a smaller, easier-to-use package. Blaster carbines may be fired one-handed with no penalties at short range.
 
 ## Source
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:168]]

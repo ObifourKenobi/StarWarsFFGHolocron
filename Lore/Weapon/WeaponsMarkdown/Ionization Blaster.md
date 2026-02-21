@@ -14,7 +14,7 @@ Special: Disorient 5, Stun Damage (Droid Only)
 
 # Ionization Blaster
 
-Ionization blasters are short-ranged weapons used to disable droids and other electronics.OR[3][][...] Ion blasters have little effect on sentient beings and deal only strain damage to droids, cyborgs, and vehicles as dictated by their Ion quality.[4]Ionization blasters work only on droids and cyborgs as per their Stun Quality. They have no effect on organic beings beyond a brief and painful sting.[5]
+Ionization blasters are short-ranged weapons used to disable droids and other electronics. OR  Ion blasters have little effect on sentient beings and deal only strain damage to droids, cyborgs, and vehicles as dictated by their Ion quality.[4]Ionization blasters work only on droids and cyborgs as per their Stun Quality. They have no effect on organic beings beyond a brief and painful sting.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:16]]

@@ -14,7 +14,7 @@ Special: Blast 4, Concussive 2, Limited Ammo 1, Stun Damage
 
 # Mini-Torpedo, Stun
 
-Combining a concussive blast with a series of blinding flashes, stun mini-torpedoes are especially effective underwater.MINI-TORPEDO, STUN[1][]
+Combining a concussive blast with a series of blinding flashes, stun mini-torpedoes are especially effective underwater. MINI-TORPEDO, STUN 
 
 ## Source
 [[Strongholds of Resistance|Strongholds of Resistance:105]]

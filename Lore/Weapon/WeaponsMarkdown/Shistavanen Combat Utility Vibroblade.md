@@ -14,7 +14,7 @@ Special: Pierce 2, Vicious 1
 
 # Shistavanen Combat Utility Vibroblade
 
-The wilds of Uvena Prime can be harsh and unforgiving, and have claimed countless Shistavanen hunters.  More information about the weapon available on the Wookieepedia article.SHISTAVANEN COMBAT UTILITY VIBROBLADE[1][]The Combat Utility Vibroblade serves as a tool kit to allow Mechanics checks to repair devices and to heal droids, but adds a setback die to such checks. Additionally, it adds a boost die to the character's Survival checks.
+The wilds of Uvena Prime can be harsh and unforgiving, and have claimed countless Shistavanen hunters.  SHISTAVANEN COMBAT UTILITY VIBROBLADE The Combat Utility Vibroblade serves as a tool kit to allow Mechanics checks to repair devices and to heal droids, but adds a setback die to such checks. Additionally, it adds a boost die to the character's Survival checks.
 
 ## Source
 [[Forged in Battle|Forged in Battle:48]]

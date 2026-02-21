@@ -14,7 +14,7 @@ Special: Stun setting
 
 # Spukami Pocket Blaster
 
-Manufactured on Talus and Tralus by Fed-Dub Protective Services, the Spukami is sold throughout the Corellian system as a home-defense weapon. When firing the Spukami at short range (or longer) the weapon gains the Inaccurate 1 quality. It does not gain this quality when fired at an engaged target. Add one setback die to a character's Perception checks when attempting to find a Spukami on a person's body.[1][3]
+Manufactured on Talus and Tralus by Fed-Dub Protective Services, the Spukami is sold throughout the Corellian system as a home-defense weapon. When firing the Spukami at short range (or longer) the weapon gains the Inaccurate 1 quality. It does not gain this quality when fired at an engaged target. Add one setback die to a character's Perception checks when attempting to find a Spukami on a person's body.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:21]]

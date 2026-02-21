@@ -14,7 +14,7 @@ Special: Pierce 2, Superior
 
 # Duskblade
 
-The mysterious Nightsisters use a number of bladed weapons, the most common of which is a deadly short sword.More information about the weapon available on the Wookieepedia article.DUSKBLADE[1][]
+The mysterious Nightsisters use a number of bladed weapons, the most common of which is a deadly short sword. DUSKBLADE 
 
 ## Source
 [[Collapse of the Republic|Collapse of the Republic:53]]

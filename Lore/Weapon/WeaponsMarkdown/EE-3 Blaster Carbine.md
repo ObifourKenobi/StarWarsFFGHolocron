@@ -14,7 +14,7 @@ Special: Auto-fire, Stun setting
 
 # EE-3 Blaster Carbine
 
-The rugged and reliable EE-3 blaster carbine is one of BlasTech's most popular nonmilitary weapons.More information about the weapon available on the Wookieepedia article.EE-3 BLASTER CARBINE[1][]
+The rugged and reliable EE-3 blaster carbine is one of BlasTech's most popular nonmilitary weapons. EE-3 BLASTER CARBINE 
 
 ## Source
 [[Collapse of the Republic|Collapse of the Republic:52]]

@@ -14,7 +14,7 @@ Special: Limited Ammo 5, Pierce 2
 
 # SH-9 Slugthrower Pistol
 
-The designers at Czerka Arms produce a line of ultra-modern slugthrowers, including the SH-9 pistol, with special forces units in mind. Add one setback die to Perception checks to find an SH-9 slughthrower pistol on a person's body. Add a setback die to Perception and Vigilance checks made to locate a concealed shooter firing an SH-9 slugthrower pistol.[1][3]
+The designers at Czerka Arms produce a line of ultra-modern slugthrowers, including the SH-9 pistol, with special forces units in mind. Add one setback die to Perception checks to find an SH-9 slughthrower pistol on a person's body. Add a setback die to Perception and Vigilance checks made to locate a concealed shooter firing an SH-9 slugthrower pistol.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:28]]

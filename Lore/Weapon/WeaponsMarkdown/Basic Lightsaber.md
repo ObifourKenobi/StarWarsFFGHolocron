@@ -14,7 +14,7 @@ Special: Breach 1, Sunder
 
 # Basic Lightsaber
 
-The basic lightsaber is a simple but exceedingly elegant weapon.  Models Include: None; each lightsaber is individually crafted.  CLONE WARS ERA[3][4][]This lightsaber is a basic lightsaber hilt containing an unmodded Ilum lightsaber crystal. This crystal occupies two of the weapon's hard points.[1][3][4][5]Lightsabers cannot be Sundered.[6][7]
+The basic lightsaber is a simple but exceedingly elegant weapon.  Models Include: None; each lightsaber is individually crafted.  CLONE WARS ERA This lightsaber is a basic lightsaber hilt containing an unmodded Ilum lightsaber crystal. This crystal occupies two of the weapon's hard points.[3][4][5]Lightsabers cannot be Sundered.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:41]]

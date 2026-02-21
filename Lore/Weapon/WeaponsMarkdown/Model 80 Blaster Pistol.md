@@ -14,7 +14,7 @@ Special: Stun setting
 
 # Model 80 Blaster Pistol
 
-Merr-Sonn Munitions' Model 80 Blaster Pistol is an old standby for planetary defense forces, militias, and mercenary units.The time taken to draw, holster, stow, or otherwise access this weapon cannot be reduced by talents, gear, or any other means.[1][3]
+Merr-Sonn Munitions' Model 80 Blaster Pistol is an old standby for planetary defense forces, militias, and mercenary units. The time taken to draw, holster, stow, or otherwise access this weapon cannot be reduced by talents, gear, or any other means.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:18]]

@@ -14,7 +14,7 @@ Special: Concussive 1, Ion, Limited Ammo 3
 
 # Droid Disabler
 
-Produced by Felebreck Electrical Defense Systems, the Droid Disabler is a small but powerful ionization pistol intended to damage, rather than merely incapacitate, droids.More information about the weapon available on the Wookieepedia article.FELEBRECK DROID DISABLER[1][]
+Produced by Felebreck Electrical Defense Systems, the Droid Disabler is a small but powerful ionization pistol intended to damage, rather than merely incapacitate, droids. FELEBRECK DROID DISABLER 
 
 ## Source
 [[Fly Casual|Fly Casual:42]]

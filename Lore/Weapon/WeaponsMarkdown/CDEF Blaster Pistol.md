@@ -14,7 +14,7 @@ Special: Inferior, Stun setting
 
 # CDEF Blaster Pistol
 
-A basic, cheap design manufactured by Corellian Arms, a subsidiary of the Corellian Engineering Corporation, the CDEF blaster pistol is the standard sidearm issued to CorSec officers.More information about the weapon available on the Wookieepedia article.CDEF BLASTER PISTOL[1][]
+A basic, cheap design manufactured by Corellian Arms, a subsidiary of the Corellian Engineering Corporation, the CDEF blaster pistol is the standard sidearm issued to CorSec officers. CDEF BLASTER PISTOL 
 
 ## Source
 [[Suns of Fortune|Suns of Fortune:95]]

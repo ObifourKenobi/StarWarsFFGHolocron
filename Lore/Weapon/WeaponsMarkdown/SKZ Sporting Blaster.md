@@ -14,7 +14,7 @@ Special: Stun setting
 
 # SKZ Sporting Blaster
 
-The Corellian Arms SKZ Sporting Blaster is a popular civilian weapon used for hunting and self-defense. More information about the weapon available on the Wookieepedia article.SKZ SPORTING BLASTER[1][]
+The Corellian Arms SKZ Sporting Blaster is a popular civilian weapon used for hunting and self-defense. SKZ SPORTING BLASTER 
 
 ## Source
 [[Suns of Fortune|Suns of Fortune:95]]

@@ -14,7 +14,7 @@ Special: Cumbersome 3, Pierce 2, Slow-Firing 1
 
 # Pulse Cannon
 
-The typical pulse cannon features a fixed buttstock and dramatically elongated barrel. As a maneuver, a character wielding a pulse cannon may prime the weapon to expend all of its ammunition in a single, devastating shot. The next time the weapon is fired that encounter, it counts as having the Breach 1 and Vicious 3 qualities. After being discharged this way, the weapon runs out of ammunition.[1][3]
+The typical pulse cannon features a fixed buttstock and dramatically elongated barrel. As a maneuver, a character wielding a pulse cannon may prime the weapon to expend all of its ammunition in a single, devastating shot. The next time the weapon is fired that encounter, it counts as having the Breach 1 and Vicious 3 qualities. After being discharged this way, the weapon runs out of ammunition.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:20]]

@@ -14,7 +14,7 @@ Special: Cortosis, Sunder, Vicious 2
 
 # Kal
 
-The traditional accompaniement to the beskad, the kal is a short, deadly dagger typically wielded in a user's off hand.More information about the weapon available on the Wookieepedia article.KAL[1][]
+The traditional accompaniement to the beskad, the kal is a short, deadly dagger typically wielded in a user's off hand. KAL 
 
 ## Source
 [[Collapse of the Republic|Collapse of the Republic:53]]

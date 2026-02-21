@@ -14,7 +14,7 @@ Special: Blast 12, Guided 3
 
 # Fragmentation Missile
 
-Fragmentation missiles are, for the credits, the best anti-personnel ordnance available on the galactic arms market.  Models Include: Merr-Sonn C-88, SoroSuub Mk XVIII Anti-Personnel Missile.  More information about the weapon available on the Wookieepedia article.FRAGMENTATION MISSILE[1][2] [3][]
+Fragmentation missiles are, for the credits, the best anti-personnel ordnance available on the galactic arms market.  Models Include: Merr-Sonn C-88, SoroSuub Mk XVIII Anti-Personnel Missile.  FRAGMENTATION MISSILE  
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:64]]

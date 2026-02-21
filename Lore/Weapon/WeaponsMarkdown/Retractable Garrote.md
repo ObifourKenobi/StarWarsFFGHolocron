@@ -14,7 +14,7 @@ Special: Stun setting
 
 # Retractable Garrote
 
-This simple mod adds a garrote to any suitable item, typically a briefcase, comlink, bracelet, or shoe, but can even be used on a stimpack or fusion lantern.  RETRACTABLE GARROTE[1][]OR[2][] Models Include: Various models.Base Modifiers: Equips the item with a retractable garrote.Modification Options: None.
+This simple mod adds a garrote to any suitable item, typically a briefcase, comlink, bracelet, or shoe, but can even be used on a stimpack or fusion lantern.  RETRACTABLE GARROTE OR  Models Include: Various models. Base Modifiers: Equips the item with a retractable garrote. Modification Options: None.
 
 ## Source
 [[Cyphers and Masks|Cyphers and Masks:59]]

@@ -14,7 +14,7 @@ Special: Blast 2, Limited Ammo 1, Pierce 4
 
 # Mini-Torpedo, Armor Piercing
 
-Armor piercing mini-torpedoes are designed to damage single targets, utilizing a shaped explosive charge.MINI-TORPEDO, ARMOR PIERCING[1][]
+Armor piercing mini-torpedoes are designed to damage single targets, utilizing a shaped explosive charge. MINI-TORPEDO, ARMOR PIERCING 
 
 ## Source
 [[Strongholds of Resistance|Strongholds of Resistance:105]]

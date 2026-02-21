@@ -14,7 +14,7 @@ Special: Stun setting
 
 # Model 53 Quicktrigger Blaster Pistol
 
-Merr-Sonn Munitions' Model 53 Quicktrigger blaster pistol is popular across the galactic frontier backwaters thanks to its superior customizability and reliability.Reduce the difficulty of Mechanics checks to repair a Model 53 or modify attachments on it by one.[3]
+Merr-Sonn Munitions' Model 53 Quicktrigger blaster pistol is popular across the galactic frontier backwaters thanks to its superior customizability and reliability. Reduce the difficulty of Mechanics checks to repair a Model 53 or modify attachments on it by one.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:18]]

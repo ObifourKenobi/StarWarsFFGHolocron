@@ -14,7 +14,7 @@ Special: Pierce 2, Sunder, Vicious 3
 
 # Vibro-ax
 
-The average vibro-ax consists of a broad-bladed ax head mounted to a sturdy pole between one and two meters long.  Vibro-axes require two hands to wield.[4][5][6]
+The average vibro-ax consists of a broad-bladed ax head mounted to a sturdy pole between one and two meters long.  Vibro-axes require two hands to wield.
 
 ## Source
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:172]]

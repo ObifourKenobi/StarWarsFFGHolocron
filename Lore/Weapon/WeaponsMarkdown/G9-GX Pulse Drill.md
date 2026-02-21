@@ -14,7 +14,7 @@ Special: Breach 1, Cumbersome 3, Inaccurate 2
 
 # G9-GX Pulse Drill
 
-Designed as a handheld complement to the tried-and-true G2-GE beamdrill, the G9-GX uses a variable-strength, continuous-beam plasma projector to perform all manner of jobs, from cutting to welding and brazing to incinerating waster material and industrial byproducts.  More information about the weapon available on the Wookieepedia article.G9-GX PULSE DRILL[1] OR KARFLO CORPORATION G9-GP PULSE DRILL[2][]
+Designed as a handheld complement to the tried-and-true G2-GE beamdrill, the G9-GX uses a variable-strength, continuous-beam plasma projector to perform all manner of jobs, from cutting to welding and brazing to incinerating waster material and industrial byproducts.  G9-GX PULSE DRILL OR KARFLO CORPORATION G9-GP PULSE DRILL 
 
 ## Source
 [[Strongholds of Resistance|Strongholds of Resistance:139]]

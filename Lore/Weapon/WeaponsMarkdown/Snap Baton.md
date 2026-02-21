@@ -14,7 +14,7 @@ Special: Disorient 2
 
 # Snap Baton
 
-Snap batons are light, collapsible truncheons often employed by law enforcers and bounty hunters.More information about the weapon available on the Wookieepedia article.SNAP BATON[1][]
+Snap batons are light, collapsible truncheons often employed by law enforcers and bounty hunters. SNAP BATON 
 
 ## Source
 [[Keeping the Peace|Keeping the Peace:44]]

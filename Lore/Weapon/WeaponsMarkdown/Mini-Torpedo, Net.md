@@ -14,7 +14,7 @@ Special: Blast 0, Ensnare 6, Limited Ammo 1
 
 # Mini-Torpedo, Net
 
-The net mini-torpedo is designed to ensnare targets rather than damage them.MINI-TORPEDO, NET[1][]
+The net mini-torpedo is designed to ensnare targets rather than damage them. MINI-TORPEDO, NET 
 
 ## Source
 [[Strongholds of Resistance|Strongholds of Resistance:105]]

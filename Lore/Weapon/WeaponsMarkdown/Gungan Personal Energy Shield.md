@@ -14,7 +14,7 @@ Special: Defensive 2, Deflection 2
 
 # Gungan Personal Energy Shield
 
-Gungan engineering incorporates a particularly advanced understanding of shielding technologies.  More information about the weapon available on the Wookieepedia article.GUNGAN PERSONAL ENERGY SHIELD[1][]The value of the Gungan personal energy shield's Defensive quality is reduced to 0 while the wielder is suffering from the staggered or disoriented condition.[2]
+Gungan engineering incorporates a particularly advanced understanding of shielding technologies.  GUNGAN PERSONAL ENERGY SHIELD The value of the Gungan personal energy shield's Defensive quality is reduced to 0 while the wielder is suffering from the staggered or disoriented condition.
 
 ## Source
 [[Nexus of Power|Nexus of Power:104]]

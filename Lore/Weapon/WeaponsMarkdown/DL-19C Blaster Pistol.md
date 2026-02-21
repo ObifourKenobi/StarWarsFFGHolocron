@@ -14,7 +14,7 @@ Special: Stun setting
 
 # DL-19C Blaster Pistol
 
-While most weapons engineers strive for power, accuracy, capacity, and durability from blaster designs, BlasTech's DL-19C design team chose to elevate customization above all else.More information about the weapon available on the Wookieepedia article.DL-19C BLASTER PISTOL[1][]OR[2][]When a character applies the Jury Rigged talent to this weapon, they may select one additional option from the talent's list and apply it to the weapon. The character cannot select the same option twice.
+While most weapons engineers strive for power, accuracy, capacity, and durability from blaster designs, BlasTech's DL-19C design team chose to elevate customization above all else. DL-19C BLASTER PISTOL OR When a character applies the Jury Rigged talent to this weapon, they may select one additional option from the talent's list and apply it to the weapon. The character cannot select the same option twice.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:12]]

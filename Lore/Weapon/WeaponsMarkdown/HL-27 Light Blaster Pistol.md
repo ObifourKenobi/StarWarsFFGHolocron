@@ -14,7 +14,7 @@ Special: Accurate 1, Stun setting
 
 # HL-27 Light Blaster Pistol
 
-The HL-27 is a sterling example of the superior craftsmanship of weapons produced by Coronet Arms.More information about the weapon available on the Wookieepedia article.CORONET ARMS HL-27 LIGHT BLASTER PISTOL[1][]
+The HL-27 is a sterling example of the superior craftsmanship of weapons produced by Coronet Arms. CORONET ARMS HL-27 LIGHT BLASTER PISTOL 
 
 ## Source
 [[Suns of Fortune|Suns of Fortune:95]]

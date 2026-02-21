@@ -14,7 +14,7 @@ Special: Blast 5, Cumbersome 2, Inaccurate 1
 
 # M9 Boomer Heavy Pistol
 
-Czerka's Boomer is one of the smallest grenade launchers on the market packed into an oversized pistol frame. During combat, GMs may make this weapon run out of ammunition by spending three threat results or a despair result.[3]
+Czerka's Boomer is one of the smallest grenade launchers on the market packed into an oversized pistol frame. During combat, GMs may make this weapon run out of ammunition by spending three threat results or a despair result.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:59]]

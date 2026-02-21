@@ -14,7 +14,7 @@ Special: Burn 1, Ion, Limited Ammo 1
 
 # Gungan Plasma Ball
 
-Plasma balls are the predominant ammunition for Gungan weaponry.  More information about the weapon available on the Wookieepedia article.GUNGAN PLASMA BALL[1][]
+Plasma balls are the predominant ammunition for Gungan weaponry.  GUNGAN PLASMA BALL 
 
 ## Source
 [[Nexus of Power|Nexus of Power:102]]

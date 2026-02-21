@@ -14,7 +14,7 @@ Special: Pierce 3, Vicious 1
 
 # 'aKraB Clip-point Vibrodagger
 
-Diehard survival enthusiasts from Toprawa created the 'aKraB clip-point vibrodagger to slip between the armor plates of big game.  More information about the weapon available on the Wookieepedia article.'AKRAB CLIP-POINT VIBRODAGGER[1][]
+Diehard survival enthusiasts from Toprawa created the 'aKraB clip-point vibrodagger to slip between the armor plates of big game.  'AKRAB CLIP-POINT VIBRODAGGER 
 
 ## Source
 [[Forged in Battle|Forged in Battle:48]]

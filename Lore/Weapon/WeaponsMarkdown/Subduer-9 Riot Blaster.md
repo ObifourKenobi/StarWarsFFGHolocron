@@ -14,7 +14,7 @@ Special: Blast 6, Cumbersome 3, Stun Damage
 
 # Subduer-9 Riot Blaster
 
-SoroSuub's Subduer-9 riot blaster is one of the most common law enforcement scatter blasters in the galaxy. More information about the weapon available on the Wookieepedia article.SUBDUER-9 RIOT BLASTER[1][]OR[2][]
+SoroSuub's Subduer-9 riot blaster is one of the most common law enforcement scatter blasters in the galaxy. SUBDUER-9 RIOT BLASTER OR 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:22]]

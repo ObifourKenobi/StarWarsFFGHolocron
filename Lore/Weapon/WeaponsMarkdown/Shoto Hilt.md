@@ -14,7 +14,7 @@ Special: Accurate 1
 
 # Shoto Hilt
 
-More information about the weapon available on the Wookieepedia article.SHOTO HILT[1][2] [3][][A lightsaber hilt] requires a crystal to become a true weapon (otherwise they deal no damage, have no critical rating, and do not have many of their item qualities).
+SHOTO HILT  [A lightsaber hilt] requires a crystal to become a true weapon (otherwise they deal no damage, have no critical rating, and do not have many of their item qualities).
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:46]]

@@ -19,7 +19,7 @@ function Get-CleanText ($RawHtml) {
 
 # --- 1. Get the Talent List ---
 $CatUrl = "$BaseUrl/api.php?action=parse&page=Category:Talents&format=json&disabletoc=true"
-Write-Host "Fetching talent list..." -ForegroundColor Cyan
+Write-Host "Fetching talent list." -ForegroundColor Cyan
 
 try {
     $CatResponse = Invoke-RestMethod -Uri $CatUrl -Method Get
@@ -31,7 +31,7 @@ try {
                        $_ -and ($_ -notmatch "Category:|Template:|File:|Special:|Help:|Action=edit") 
                    }
 
-    Write-Host "Found $($TalentLinks.Count) entries. Processing..." -ForegroundColor Green
+    Write-Host "Found $($TalentLinks.Count) entries. Processing." -ForegroundColor Green
 
     # --- 2. Process each page ---
     foreach ($PageName in $TalentLinks) {

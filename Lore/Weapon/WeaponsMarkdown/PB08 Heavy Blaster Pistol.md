@@ -14,7 +14,7 @@ Special: Stun setting
 
 # PB08 Heavy Blaster Pistol
 
-One of the more popular pistols on the market, Merr-Sonn's PB08 was designed as a direct competitor to BlasTech's DL-44.More information about the weapon available on the Wookieepedia article.PB08 HEAVY BLASTER PISTOL[1][]This weapon cannot be made to run out of ammo by spending a despair result.
+One of the more popular pistols on the market, Merr-Sonn's PB08 was designed as a direct competitor to BlasTech's DL-44. PB08 HEAVY BLASTER PISTOL This weapon cannot be made to run out of ammo by spending a despair result.
 
 ## Source
 [[Dawn of Rebellion|Dawn of Rebellion:118]]

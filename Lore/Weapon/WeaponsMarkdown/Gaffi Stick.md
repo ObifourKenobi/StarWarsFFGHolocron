@@ -14,7 +14,7 @@ Special: Defensive 1, Disorient 3
 
 # Gaffi Stick
 
-The Tusken Raiders of Tatooine carry brutal staves made from desert tracti hardwood, krayt dragon horn or bone, or scavenged metal.  Gaffi sticks require two hands to use.[1][3]
+The Tusken Raiders of Tatooine carry brutal staves made from desert tracti hardwood, krayt dragon horn or bone, or scavenged metal.  Gaffi sticks require two hands to use.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:47]]

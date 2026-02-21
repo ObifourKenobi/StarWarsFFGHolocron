@@ -14,7 +14,7 @@ Special: Accurate 1, Limited Ammo 5
 
 # Model C Fiver Self-Defense Pistol
 
-The Xet Model C incorporates a five-round internal cylinder magazine.More information about the weapon available on the Wookieepedia article.XET INDUSTRIES MODEL C FIVER SELF-DEFENSE PISTOL[1][]
+The Xet Model C incorporates a five-round internal cylinder magazine. XET INDUSTRIES MODEL C FIVER SELF-DEFENSE PISTOL 
 
 ## Source
 [[Dangerous Covenants|Dangerous Covenants:42]]

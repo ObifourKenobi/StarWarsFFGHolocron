@@ -14,7 +14,7 @@ Special: Defensive 1
 
 # Ancient Sword
 
-Some say the earliest precursors to the Jedi wielded true swords, not lightsabers, in their battles against evil.  More information about the weapon available on the Wookieepedia article.Models Include: None.ANCIENT SWORD[1][]
+Some say the earliest precursors to the Jedi wielded true swords, not lightsabers, in their battles against evil.  Models Include: None. ANCIENT SWORD 
 
 ## Source
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:172]]

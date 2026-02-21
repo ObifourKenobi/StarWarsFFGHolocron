@@ -14,7 +14,7 @@ Special: Blast 7, Limited Ammo 1, Pierce 3, Stun Damage
 
 # Spore Stun Grenade
 
-Speizoc's spore stun grenade deploys a cloud of spores harvested from a carnivorous plant that acts as a powerful soporific for most species. More information about the weapon available on the Wookieepedia article.SPORE STUN GRENADE[1][]OR[2][]
+Speizoc's spore stun grenade deploys a cloud of spores harvested from a carnivorous plant that acts as a powerful soporific for most species. SPORE STUN GRENADE OR 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:61]]

@@ -14,7 +14,7 @@ Special: Accurate 2, Prepare 2, Pierce 2, Slow-Firing  1
 
 # CR-8 Takedown Rifle
 
-The CR-8 is a high-performance blaster rifle designed for use by CorSec snipers and secret agents.CORELLIAN ARMS CR-8 TAKEDOWN RIFLE[1][]When a CR-8 is properly broken-down and concealed, add two setback dice to a character's Perception checks made to find it on a person's body.[2]
+The CR-8 is a high-performance blaster rifle designed for use by CorSec snipers and secret agents. CORELLIAN ARMS CR-8 TAKEDOWN RIFLE When a CR-8 is properly broken-down and concealed, add two setback dice to a character's Perception checks made to find it on a person's body.
 
 ## Source
 [[Savage Spirits|Savage Spirits:42]]

@@ -14,7 +14,7 @@ Special: Ion, Limited Ammo 1, Sunder
 
 # Ion Micro-Rocket
 
-The ion micro-rocket employs an ion-pulse warhead that disrupts electronic equipment within its blast radius. An ion micro-rocket's Sunder quality can only be activated to damage powered equipment, such as sensors, blasters, and vibroblades. It cannot be used to damage items that operate without power, as they have no circuitry to disrupt.[1][3]
+The ion micro-rocket employs an ion-pulse warhead that disrupts electronic equipment within its blast radius. An ion micro-rocket's Sunder quality can only be activated to damage powered equipment, such as sensors, blasters, and vibroblades. It cannot be used to damage items that operate without power, as they have no circuitry to disrupt.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:64]]

@@ -14,7 +14,7 @@ Special: Blast 7, Disorient 5, Limited Ammo 1, Stun Damage (Droid Only)
 
 # Lightning 22 Ion Grenade
 
-Ion grenades are anti-materiel weapons that use powerful electromagnetic pulses to wreak havoc on electrical and computer systems.  Models Include: Merr-Sonn V-6 Haywire Grenade, Kirgo Blastworkds RPR9 Ion Grenade. More information about the weapon available on the Wookieepedia article.LIGHTNING 22 ION GRENADE[1][2] OR ION GRENADE[3][]
+Ion grenades are anti-materiel weapons that use powerful electromagnetic pulses to wreak havoc on electrical and computer systems.  Models Include: Merr-Sonn V-6 Haywire Grenade, Kirgo Blastworkds RPR9 Ion Grenade. LIGHTNING 22 ION GRENADE OR ION GRENADE 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:59]]
