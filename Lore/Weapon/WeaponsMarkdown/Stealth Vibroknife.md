@@ -14,7 +14,7 @@ Special: Pierce 1, Vicious 1
 
 # Stealth Vibroknife
 
-Compared to traditional knives, a vibroblade can be made smaller while remaining deadly.  More information about the weapon available on the Wookieepedia article.Models include: Palandrix Combat Utility Blade.STEALTH VIBROKNIFE[1][2][]Add two setback dice to a character's Perception checks to find a stealth vibroknife on a person's body.[1][3]
+Compared to traditional knives, a vibroblade can be made smaller while remaining deadly.  Add two setback dice to a character's Perception checks to find a stealth vibroknife on a person's body.[1][3]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:52]]

@@ -17,4 +17,4 @@ Special: Cortosis
 In most forms, cortosis ore resists and absorbs energy, allowing items to withstand blows from weapons that would otherwise shatter them. Furthermore, cortosis refined in a particular way can short out lightsaber blades on contact.  More information about the weapon available on the Wookieepedia article.Models Include: Various models.CORTOSIS STAFF (REFINED)[1][]When a character armed with a lightsaber makes a combat check targeting an opponent armed with a refined cortosis staff, three threat results or a despair result can be spent to cause the lightsaber to short out and deactivate after the combat check has been resolved. The lightsaber may be reactivated as an incidental, but it may not be reactivated until after the last Initiative slot during the next round. Cortosis staves require two hands to use.
 
 ## Source
-[[Gadgets and Gear (Page 42-43)|Gadgets and Gear (Page 42-43):N/A]]
+[[Gadgets and Gear|Gadgets and Gear:42]]

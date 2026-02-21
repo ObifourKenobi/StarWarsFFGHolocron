@@ -14,7 +14,7 @@ Special: Disorient 2, Stun Damage
 
 # Z2 Stun Baton
 
-Resembling a typical police truncheon, the Z2 by Merr-Sonn packs an extra, often completely unexpected punch in the form of a concentrated stun blast.  More information about the weapon available on the Wookieepedia article.Z2 STUN BATON[1][2][]
+Resembling a typical police truncheon, the Z2 by Merr-Sonn packs an extra, often completely unexpected punch in the form of a concentrated stun blast.  
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:53]]

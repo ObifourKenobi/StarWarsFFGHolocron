@@ -15,7 +15,7 @@ tags:
 ---
 # Lasat
 ## Special Abilities
-Lasats begin the game with one rank in either [Brawl](https://star-wars-rpg-ffg.fandom.com/wiki/Brawl_\(Br\) "Brawl (Br)") or [Knowledge (Lore)](https://star-wars-rpg-ffg.fandom.com/wiki/Lore_\(Int\) "Lore (Int)"). They still may not train either skill above rank 2 during character creation.
+Lasats begin the game with one rank in either [[Brawl]] or [[Lore]]. They still may not train either skill above rank 2 during character creation.
 ## Additional information
 - **Prehensile Feet:** Lasats can move along a vertical surface as if the surface is horizontal.
 ## Sources

@@ -14,7 +14,7 @@ Special: Pierce 1, Vicious 1
 
 # Vibroknucklers
 
-As intimidating as they are lethal, vibroknucklers are worn like brass knuckles..  More information about the weapon available on the Wookieepedia article.VIBROKNUCKLERS[1][2][]Add a setback die to any attempts to locate vibroknucklers concealed on an individual's body. Vibroknucklers cannot deal damage to a target's strain threshold.
+As intimidating as they are lethal, vibroknucklers are worn like brass knuckles..  Add a setback die to any attempts to locate vibroknucklers concealed on an individual's body. Vibroknucklers cannot deal damage to a target's strain threshold.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:39]]

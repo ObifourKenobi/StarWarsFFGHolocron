@@ -14,7 +14,7 @@ Special: Cortosis, Defensive 1
 
 # Cortosis Sword
 
-The making and use of cortosis swords is, perhaps, as old as the making and use of lightsabers.  More information about the weapon available on the Wookieepedia article.Models Include: Barik Tarn Collective Razorblade.CORTOSIS SWORD[1][2][]
+The making and use of cortosis swords is, perhaps, as old as the making and use of lightsabers.  
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:43]]

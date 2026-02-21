@@ -15,6 +15,6 @@ tags:
 ---
 # Sullustan
 ## Special Abilities
-Sullustans begin with 1 rank in [Astrogation](https://star-wars-rpg-ffg.fandom.com/wiki/Astrogation_\(Int\) "Astrogation (Int)"); they may not train this skill above rank 2 at character creation. They also start with one rank in the [Skilled Jockey talent](https://star-wars-rpg-ffg.fandom.com/wiki/Skilled_Jockey_talent "Skilled Jockey talent").
+Sullustans begin with 1 rank in [[Astrogation]]; they may not train this skill above rank 2 at character creation. They also start with one rank in the [[Skilled Jockey]].
 ## Sources
 - [[Age of Rebellion Core Rulebook]]:60

@@ -14,7 +14,7 @@ Special: Blast 8, Concussive 2, Disorient 5, Limited Ammo 1
 
 # Concussion Grenade
 
-Rather than relying on shrapnel or heat, concussion grenades depend on an explosive detonation's shock wave to cause damage. Models Include: SoroSuub LXR-6 Concussion Grenade, Mier-Lang V-59 Concussion Grenade. More information about the weapon available on the Wookieepedia article.CONCUSSION GRENADE[1][2][3][]If a concussion grenade's Disorient quality is activated it affects all characters within short range of the target.[1][4][3]
+Rather than relying on shrapnel or heat, concussion grenades depend on an explosive detonation's shock wave to cause damage. Models Include: SoroSuub LXR-6 Concussion Grenade, Mier-Lang V-59 Concussion Grenade. If a concussion grenade's Disorient quality is activated it affects all characters within short range of the target.[1][4][3]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:58]]

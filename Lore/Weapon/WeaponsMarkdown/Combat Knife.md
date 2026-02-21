@@ -14,7 +14,7 @@ Special:
 
 # Combat Knife
 
-Part tool and part weapon, a good combat knife is a welcome addition to any traveler's gear.  More information about the weapon available on the Wookieepedia article.Models Include: Various models.COMBAT KNIFE[1][2][3][]
+Part tool and part weapon, a good combat knife is a welcome addition to any traveler's gear.  
 
 ## Source
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:172]]

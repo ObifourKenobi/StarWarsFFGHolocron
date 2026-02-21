@@ -15,9 +15,9 @@ tags:
 ---
 # Verpine
 ## Special Abilities
-Verpine begin the game with one rank in [Mechanics](https://star-wars-rpg-ffg.fandom.com/wiki/Mechanics_\(Int\) "Mechanics (Int)"). They still may not train [Mechanics](https://star-wars-rpg-ffg.fandom.com/wiki/Mechanics_\(Int\) "Mechanics (Int)") above rank 2 during character creation.
+Verpine begin the game with one rank in [[Mechanics]]. They still may not train [[Mechanics]] above rank 2 during character creation.
 ## Additional information
-- **Microvision:** The compound eyes of a Verpine are capable of seeing tiny, even microscopic, details. While closely examining an object, Verpine characters add a #StarWarsBoost die to their [Perception](https://star-wars-rpg-ffg.fandom.com/wiki/Perception_\(Cun\) "Perception (Cun)") checks.
+- **Microvision:** The compound eyes of a Verpine are capable of seeing tiny, even microscopic, details. While closely examining an object, Verpine characters add a #StarWarsBoost die to their [[Perception]] checks.
 - **Radio-wave Communication:** Verpine can produce and hear radio waves, which allows them to silently communicate with other Verpine and specially tuned comlinks within a 100-kilometer range.
 ## Sources
 - [[Strongholds of Resistance]]:102-103

@@ -14,7 +14,7 @@ Special: Blast 8, Burn 4, Limited 1
 
 # WP-19 Incendiary Grenade
 
-Merr-Sonn's WP-19 is a dangerous weapon that, upon detonation, releases flaming adhesive gel that clings to surfaces and merely spreads if wiped or hosed. More information about the weapon available on the Wookieepedia article.WP-19 INCENDIARY GRENADE[1][2][]
+Merr-Sonn's WP-19 is a dangerous weapon that, upon detonation, releases flaming adhesive gel that clings to surfaces and merely spreads if wiped or hosed. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:62]]

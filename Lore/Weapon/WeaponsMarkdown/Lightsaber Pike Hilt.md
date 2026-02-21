@@ -14,7 +14,7 @@ Special: Cumbersome 3, Defensive 1
 
 # Lightsaber Pike Hilt
 
-More information about the weapon available on the Wookieepedia article.LIGHTSABER PIKE HILT[1][2][][A lightsaber hilt] requires a crystal to become a true weapon (otherwise they deal no damage, have no critical rating, and do not have many of their item qualities).
+[A lightsaber hilt] requires a crystal to become a true weapon (otherwise they deal no damage, have no critical rating, and do not have many of their item qualities).
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:46]]

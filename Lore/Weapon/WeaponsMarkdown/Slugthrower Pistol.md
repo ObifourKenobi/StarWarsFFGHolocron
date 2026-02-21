@@ -14,7 +14,7 @@ Special:
 
 # Slugthrower Pistol
 
-Like blaster pistols, slugthrower pistols are small, one-handed sidearms that fire lightweight ammunition over short distances.More information about the weapon available on the Wookieepedia article.Models Include: OSD Striker, Barimoq Industries Protector Revolver, Morellian Weapons Conglomerate Enforcer .48-caliber Pistol.SLUGTHROWER PISTOL[1][2][3][]
+Like blaster pistols, slugthrower pistols are small, one-handed sidearms that fire lightweight ammunition over short distances.
 
 ## Source
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:168]]

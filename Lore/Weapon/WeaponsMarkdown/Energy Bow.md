@@ -14,7 +14,7 @@ Special: Pierce 4, Unwieldy 3, Vicious 2
 
 # Energy Bow
 
-The preferred weapon of the Nightsisters of Dathomir, the energy bow is a carbon-alloy bow with a plasma coupler string, a similar technology to the energy binders that link podracing engines.More information about the weapon available on the Wookieepedia article.ENERGY BOW[1][2][3][]It can be folded and hidden away for easy concealment.[4]
+The preferred weapon of the Nightsisters of Dathomir, the energy bow is a carbon-alloy bow with a plasma coupler string, a similar technology to the energy binders that link podracing engines.It can be folded and hidden away for easy concealment.[4]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:33]]

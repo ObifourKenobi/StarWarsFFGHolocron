@@ -14,8 +14,8 @@ Special: Auto-fire, Disorient 2, Stun setting
 
 # GLX Firelance Blaster Rifle
 
-Developed during the Clone Wars, the GLX Firelance is a compact blaster rifle marketed to freelance law enforcement agents.More information about the weapon available on the Wookieepedia article.GLX FIRELANCE BLASTER RIFLE[1][2][]
+Developed during the Clone Wars, the GLX Firelance is a compact blaster rifle marketed to freelance law enforcement agents.
 
 ## Source
-[[Gadgets and Gear (Page 13-14)|Gadgets and Gear (Page 13-14):N/A]]
+[[Gadgets and Gear|Gadgets and Gear:13]]
 [[Endless Vigil|Endless Vigil:41]]

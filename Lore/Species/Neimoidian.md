@@ -16,6 +16,6 @@ tags:
 # Neimoidian
 The Neimoidian species is an offshoot of the Duros, diverging physiologically and culturally after long isolation on the world of Neimoidia.
 ## Special Abilities
-Neimoidians begin the game with one rank in either [Deception](https://star-wars-rpg-ffg.fandom.com/wiki/Deception_\(Cun\) "Deception (Cun)") or [Negotiation](https://star-wars-rpg-ffg.fandom.com/wiki/Negotiation_\(Pr\) "Negotiation (Pr)"). They still may not train [Deception](https://star-wars-rpg-ffg.fandom.com/wiki/Deception_\(Cun\) "Deception (Cun)") or [Negotiation](https://star-wars-rpg-ffg.fandom.com/wiki/Negotiation_\(Pr\) "Negotiation (Pr)") above rank 2 during character creation.
+Neimoidians begin the game with one rank in either [[Deception]] or [[Negotiation]]. They still may not train [[Deception]] or [[Negotiation]] above rank 2 during character creation.
 ## Sources
 - [[Desperate Allies]]:20-22

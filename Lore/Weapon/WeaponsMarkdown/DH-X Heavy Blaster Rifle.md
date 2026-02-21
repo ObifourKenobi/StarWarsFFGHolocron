@@ -14,7 +14,7 @@ Special: Cumbersome 3, Pierce 2
 
 # DH-X Heavy Blaster Rifle
 
-One of BlasTech's heaviest rifles, the DH-X heavy blaster rifle is designed to punch smashball-sized holes through any target in sight.More information about the weapon available on the Wookieepedia article.DH-X HEAVY BLASTER RIFLE[1][2][]
+One of BlasTech's heaviest rifles, the DH-X heavy blaster rifle is designed to punch smashball-sized holes through any target in sight.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:11]]

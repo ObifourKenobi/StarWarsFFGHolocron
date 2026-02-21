@@ -14,7 +14,7 @@ Special: Disorient 2, Stun Damage
 
 # Energy Slingshot
 
-Less a weapon than a tool for mischievous pranksters, the energy slingshot is a wrist-mounted device. More information about the weapon available on the Wookieepedia article.ENERGY SLINGSHOT[1][2][]Triggering the Disorient quality on this weapon requires one advantage result instead of two advantage results.
+Less a weapon than a tool for mischievous pranksters, the energy slingshot is a wrist-mounted device. Triggering the Disorient quality on this weapon requires one advantage result instead of two advantage results.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:33]]

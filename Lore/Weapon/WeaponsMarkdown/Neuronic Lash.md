@@ -14,7 +14,7 @@ Special: Ensnare 1, Stun 3, Stun Damage
 
 # Neuronic Lash
 
-The neuronic whip has earned a reputation as the preferred weapon of slavers. Borstel's neuronic lash attempts to mitigate this negative impression through both its appearance and its overall function.  More information about the weapon available on the Wookieepedia article.NEURONIC LASH[1][2][]This weapon can be used to make melee attacks against targets at up to short range (the difficulty remains Average difficulty).[1][3]
+The neuronic whip has earned a reputation as the preferred weapon of slavers. Borstel's neuronic lash attempts to mitigate this negative impression through both its appearance and its overall function.  This weapon can be used to make melee attacks against targets at up to short range (the difficulty remains Average difficulty).[1][3]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:50]]

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Boot Blade
 Skill: Melee
 Dam: +1
@@ -18,4 +18,4 @@ An excellent way to ensure an agent is always armed no matter the circumstance, 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:104]]
-[[Cyphers and Masks (Page 57-58)|Cyphers and Masks (Page 57-58):N/A]]
+[[Cyphers and Masks|Cyphers and Masks:57]]

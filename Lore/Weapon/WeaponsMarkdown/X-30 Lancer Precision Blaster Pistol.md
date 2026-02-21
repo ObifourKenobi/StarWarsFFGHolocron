@@ -14,7 +14,7 @@ Special: Accurate 1, Pierce 2
 
 # X-30 Lancer Precision Blaster Pistol
 
-SoroSuub Corporation's X-30 target blaster is used for recreational shooting throughout the galaxy. More information about the weapon available on the Wookieepedia article.X-30 LANCER PRECISION BLASTER PISTOL[1][2][]
+SoroSuub Corporation's X-30 target blaster is used for recreational shooting throughout the galaxy. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:23]]

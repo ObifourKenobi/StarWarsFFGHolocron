@@ -14,7 +14,7 @@ Special: Auto-fire, Cumbersome 4, Pierce 1
 
 # Light Repeating Blaster
 
-Light repeating blasters might be shouldered weapons or hip-fired, but all feature high rates of fire.More information about the weapon available on the Wookieepedia article.Models Include: BlasTech T-21, Merr-Sonn M-40 Thunderbolt.LIGHT REPEATING BLASTER[1][2][3][]
+Light repeating blasters might be shouldered weapons or hip-fired, but all feature high rates of fire.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:17-18]]

@@ -14,7 +14,7 @@ Special: Cumbersome 2, Stun setting
 
 # HBt-4 Hunting Blaster
 
-A high-powered rifle for big game hunting, the Herloss HBt-4 hunting blaster is designed for safaris through dense tropical rainforests.More information about the weapon available on the Wookieepedia article.HBT-4 HUNTING BLASTER[1][2][]
+A high-powered rifle for big game hunting, the Herloss HBt-4 hunting blaster is designed for safaris through dense tropical rainforests.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:14]]

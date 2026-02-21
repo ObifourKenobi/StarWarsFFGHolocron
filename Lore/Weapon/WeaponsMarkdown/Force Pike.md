@@ -14,7 +14,7 @@ Special: Pierce 1, Stun setting
 
 # Force Pike
 
-Designed by a number of manufacturers as an easy-to-use crowd-control tool for military and law enforcement agencies, the force pike combines the deadliness of a vibro weapon and the utility of a stun weapon in one package.  More information about the weapon available on the Wookieepedia article.Models Include: SoroSuub Controller FP.FORCE PIKE[1][2][3][4][]When set to its Stun setting, a force pike loses the benefit of the Pierce 2 quality.[1][5][6][7]Force pikes require two hands to wield.[1][5][6][7]
+Designed by a number of manufacturers as an easy-to-use crowd-control tool for military and law enforcement agencies, the force pike combines the deadliness of a vibro weapon and the utility of a stun weapon in one package.  When set to its Stun setting, a force pike loses the benefit of the Pierce 2 quality.[1][5][6][7]Force pikes require two hands to wield.[1][5][6][7]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:46]]

@@ -14,7 +14,7 @@ Special: Blast 5, Limited Ammo 1, Vicious 2
 
 # Flechette Micro-Rocket
 
-Micro-rockets with flechette payloads are packed with razor-sharp needles that can tear through unarmored targets. More information about the weapon available on the Wookieepedia article.FLECHETTE MICRO-ROCKET[1][2][]
+Micro-rockets with flechette payloads are packed with razor-sharp needles that can tear through unarmored targets. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:63]]

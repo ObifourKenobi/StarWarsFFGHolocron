@@ -14,7 +14,7 @@ Special: Pierce 2, Vicious 1
 
 # Vibroknife
 
-Little more than combat knives with onboard ultrasonic vibration field generators, vibroknives have evolved from individually crafted custom weapons to mass-produced commodities.  More information about the weapon available on the Wookieepedia article.Models Include: Merr-Sonn Treppus-2 Vibroblade.VIBROKNIFE[1][2][3][]
+Little more than combat knives with onboard ultrasonic vibration field generators, vibroknives have evolved from individually crafted custom weapons to mass-produced commodities.  
 
 ## Source
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:172]]

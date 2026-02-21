@@ -14,7 +14,7 @@ Special: Disorient 3
 
 # Brass Knuckles
 
-Known colloquially as knuckle-dusters in many locations, brass knuckles are a set of thick metal rings welded to a horizontal bar held in the fist.  More information about the weapon available on the Wookieepedia article.Models Include: Various models.BRASS KNUCKLES[1][2][3][4][]Add a setback die to a character's Perception check when attempting to find a set of brass knuckles on a person's body.[1][5][6][7]
+Known colloquially as knuckle-dusters in many locations, brass knuckles are a set of thick metal rings welded to a horizontal bar held in the fist.  Add a setback die to a character's Perception check when attempting to find a set of brass knuckles on a person's body.[1][5][6][7]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:37]]

@@ -14,7 +14,7 @@ Special:
 
 # Micro-Rocket Launcher Pistol
 
-While micro-rockets are most often mounted on armor or on other weapons like blaster rifles, there are weapon frames that only fire micro-rockets.  More information about the weapon available on the Wookieepedia article.MICRO-ROCKET LAUNCHER PISTOL[1][2][]While a micro-rocket is loaded, it replaces the damage, critical rating, and item qualities of the launcher.[1]Up to 3 micro-rockets can be loaded in the launcher. While a micro-rocket is loaded, it replaces the damage, critical rating, and item qualities of the launcher.[3]
+While micro-rockets are most often mounted on armor or on other weapons like blaster rifles, there are weapon frames that only fire micro-rockets.  While a micro-rocket is loaded, it replaces the damage, critical rating, and item qualities of the launcher.[1]Up to 3 micro-rockets can be loaded in the launcher. While a micro-rocket is loaded, it replaces the damage, critical rating, and item qualities of the launcher.[3]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:64]]

@@ -14,7 +14,7 @@ Special: Stun setting
 
 # Light Blaster Pistol
 
-Light blaster pistols combine the concealability of a holdout blaster with the performance of a standard blaster pistol.More information about the weapon available on the Wookieepedia article.Models Include: Merr-Sonn Model 44, BlasTech DL-18, DDC Defender Sporter.LIGHT BLASTER PISTOL[1][2][3][]
+Light blaster pistols combine the concealability of a holdout blaster with the performance of a standard blaster pistol.
 
 ## Source
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:168]]

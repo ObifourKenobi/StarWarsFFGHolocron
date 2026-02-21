@@ -14,7 +14,7 @@ Special: Auto-fire, Cumbersome 2
 
 # DLS-12 Heavy Blaster Carbine
 
-Designed for the Republic during the final months of the Clone Wars, BlasTech's DLS-12 is a carbine version of the DLT-19 heavy blaster rifle.More information about the weapon available on the Wookieepedia article.DLS-12 HEAVY BLASTER CARBINE[1][2][]
+Designed for the Republic during the final months of the Clone Wars, BlasTech's DLS-12 is a carbine version of the DLT-19 heavy blaster rifle.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:12]]

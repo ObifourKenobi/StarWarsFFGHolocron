@@ -14,7 +14,7 @@ Special: Pierce 1
 
 # Mon Calamari Spear Blaster
 
-A large blaster rifle of Mon Calamari design, the spear blaster is standard issue among the Mon Calamari Guard.More information about the weapon available on the Wookieepedia article.MON CALAMARI SPEAR BLASTER (BLASTER PROFILE)[1][2][]MON CALAMARI SPEAR BLASTER (SPEAR PROFILE)[1] [2][]
+A large blaster rifle of Mon Calamari design, the spear blaster is standard issue among the Mon Calamari Guard.MON CALAMARI SPEAR BLASTER (SPEAR PROFILE)[1] [2][]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:19]]

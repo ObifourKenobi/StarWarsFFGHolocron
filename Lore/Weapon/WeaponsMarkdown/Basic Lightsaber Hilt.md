@@ -14,7 +14,7 @@ Special:
 
 # Basic Lightsaber Hilt
 
-More information about the weapon available on the Wookieepedia article.BASIC LIGHTSABER HILT[1][2][3][4][][A lightsaber hilt] requires a crystal to become a true weapon (otherwise they deal no damage, have no critical rating, and do not have many of their item qualities).
+[A lightsaber hilt] requires a crystal to become a true weapon (otherwise they deal no damage, have no critical rating, and do not have many of their item qualities).
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:46]]

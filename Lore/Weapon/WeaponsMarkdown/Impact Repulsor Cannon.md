@@ -14,7 +14,7 @@ Special: Blast 3, Concussive 1, Knockdown, Prepare 1, Slow-Firing 1
 
 # Impact Repulsor Cannon
 
-Inspired by makeshift repulsor guns, Nova Design created the Impact repulsor cannon as an attempt at weaponizing repulsor technology. More information about the weapon available on the Wookieepedia article.IMPACT REPULSOR CANNON[1][2][]
+Inspired by makeshift repulsor guns, Nova Design created the Impact repulsor cannon as an attempt at weaponizing repulsor technology. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:34]]

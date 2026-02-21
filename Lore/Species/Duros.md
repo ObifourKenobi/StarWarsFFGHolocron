@@ -17,7 +17,7 @@ tags:
 ## Special Abilities
 Duros begin the game with one rank in [[Piloting-Space]]. They still may not train [[Piloting-Space]] above rank 2 during character creation.
 ## Additional information
-- **Intuitive Navigation:** Duros may add an #StarWarsAdvantage result to all [Astrogation](https://star-wars-rpg-ffg.fandom.com/wiki/Astrogation_\(Int\) "Astrogation (Int)") checks they make.
+- **Intuitive Navigation:** Duros may add an #StarWarsAdvantage result to all [[Astrogation]] checks they make.
 ## Sources
 - [[Age of Rebellion Core Rulebook]]:55
 - [[Enter the Unknown]]:21-22

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Slicewire
 Skill: Brawl
 Dam: +2
@@ -18,5 +18,4 @@ Slicewire is a multipurpose cutting tool and makeshift weapon commonly used by i
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:140]]
-[[Cyphers and Masks (Page 48-49)|Cyphers and Masks (Page 48-49):N/A]]
 [[Cyphers and Masks|Cyphers and Masks:49]]

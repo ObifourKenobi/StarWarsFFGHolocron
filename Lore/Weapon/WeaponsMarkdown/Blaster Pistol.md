@@ -14,7 +14,7 @@ Special: Stun setting
 
 # Blaster Pistol
 
-The ubiquitous blaster pistol is the standard by which energy-based sidearms are measured throughout the galaxy.More information about the weapon available on the Wookieepedia article.Models Include: BlasTech DH-17, BlasTech SE-14c, Merr-Sonn Model 434, BlasTech SE-14.BLASTER PISTOL[1][2][3][]
+The ubiquitous blaster pistol is the standard by which energy-based sidearms are measured throughout the galaxy.
 
 ## Source
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:168]]

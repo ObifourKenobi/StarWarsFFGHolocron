@@ -14,7 +14,7 @@ Special: Blast 4, Concussive 2, Cumbersome 3, Knockdown, Limited Ammo 4
 
 # LJ-50 Concussion Rifle
 
-The LJ-50 concussion rifle is a heavy weapon dating from before the Clone Wars. More information about the weapon available on the Wookieepedia article.LJ-50 CONCUSSION RIFLE[1][2][]
+The LJ-50 concussion rifle is a heavy weapon dating from before the Clone Wars. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:34]]

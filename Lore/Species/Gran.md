@@ -16,9 +16,9 @@ tags:
 # Gran
 The humanoid, three-eyed Gran are a familiar sight throughout the galaxy.
 ## Special Abilities
-Gran begin the game with one rank in [Charm](https://star-wars-rpg-ffg.fandom.com/wiki/Charm_\(Pr\) "Charm (Pr)") or [Negotiation](https://star-wars-rpg-ffg.fandom.com/wiki/Negotiation_\(Pr\) "Negotiation (Pr)"). They still may not train [Charm](https://star-wars-rpg-ffg.fandom.com/wiki/Charm_\(Pr\) "Charm (Pr)") or [Negotiation](https://star-wars-rpg-ffg.fandom.com/wiki/Negotiation_\(Pr\) "Negotiation (Pr)") above rank 2 in character creation.
+Gran begin the game with one rank in [[Charm]] or [[Negotiation]]. They still may not train [[Charm]] or [[Negotiation]] above rank 2 in character creation.
 ## Additional information
-- **Enhanced Vision:** When making ranged combat or [Perception](https://star-wars-rpg-ffg.fandom.com/wiki/Perception_\(Cun\) "Perception (Cun)") checks, Gran remove up to two #StarWarsSetback dice imposed due to environmental conditions or concealment (but not defense).
+- **Enhanced Vision:** When making ranged combat or [[Perception]] checks, Gran remove up to two #StarWarsSetback dice imposed due to environmental conditions or concealment (but not defense).
 ## Sources
 - [[Far Horizons]]:22-23
 - [[Age of Rebellion Core Rulebook]]:56-57

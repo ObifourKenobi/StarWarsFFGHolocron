@@ -14,7 +14,7 @@ Special: Defensive 2, Pierce 2, Vicious 2
 
 # Czerhander VX Vibro-greatsword
 
-The Czerka Model VX is similar to other vibroswords but has a much longer, heavier blade and an extended hilt accommodating a two-handed grip.  More information about the weapon available on the Wookieepedia article.CZERHANDER VX VIBRO-GREATSWORD[1][2][]A vibro-greatsword requires two hands to wield.[1][3]
+The Czerka Model VX is similar to other vibroswords but has a much longer, heavier blade and an extended hilt accommodating a two-handed grip.  A vibro-greatsword requires two hands to wield.[1][3]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:44]]

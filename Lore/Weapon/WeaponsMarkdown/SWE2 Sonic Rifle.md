@@ -14,7 +14,7 @@ Special: Concussive 1, Slow-Firing 1, Stun Damage
 
 # SWE/2 Sonic Rifle
 
-A riot-control sonic rifle from Telex-Delcor following up on the Clone Wars-era SWE/1 design, the SWE/2 can incapacitate even the toughest, most persistent malcontent.  More information about the weapon available on the Wookieepedia article.SWE/2 SONIC RIFLE[1][2][]
+A riot-control sonic rifle from Telex-Delcor following up on the Clone Wars-era SWE/1 design, the SWE/2 can incapacitate even the toughest, most persistent malcontent.  
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:35]]

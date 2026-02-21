@@ -14,7 +14,7 @@ Special: Cortosis, Cumbersome 3, Defensive 2, Deflection 2
 
 # Cortosis Shield
 
-Those who deal with the remnants of the Jedi Order, such as the Inquisitors and the secret police units of the Galactic Empire, often have need of specialized equipment to reduce the effectiveness of suspected Jedi and their lightsabers.  More information about the weapon available on the Wookieepedia article.Models Include: Arakyd Industries Special Order Model 3 Shield.CORTOSIS SHIELD[1][2][]
+Those who deal with the remnants of the Jedi Order, such as the Inquisitors and the secret police units of the Galactic Empire, often have need of specialized equipment to reduce the effectiveness of suspected Jedi and their lightsabers.  
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:42]]

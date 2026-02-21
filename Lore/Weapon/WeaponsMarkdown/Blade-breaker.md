@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Blade-breaker
 Skill: Melee
 Dam: +0
@@ -14,8 +14,8 @@ Special: Defensive 2, Pierce 1, Sunder
 
 # Blade-breaker
 
-A blade-breaker is wielded in the off hand as a parry blade in conjunction with a vibrosword or other melee weapon, though some warriors carry a pair of blade-breakers into combat.  More information about the weapon available on the Wookieepedia article.BLADE-BREAKER[1][2][]
+A blade-breaker is wielded in the off hand as a parry blade in conjunction with a vibrosword or other melee weapon, though some warriors carry a pair of blade-breakers into combat.  
 
 ## Source
-[[Gadgets and Gear (Page 41-42)|Gadgets and Gear (Page 41-42):N/A]]
+[[Gadgets and Gear|Gadgets and Gear:41]]
 [[Fly Casual|Fly Casual:46]]

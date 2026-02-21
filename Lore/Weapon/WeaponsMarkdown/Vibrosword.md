@@ -14,7 +14,7 @@ Special: Defensive 1, Pierce 2, Vicious 1
 
 # Vibrosword
 
-While most cultures have moved beyond the use of bladed weapons for general use and protection, there are still some for whom intricate swordplay and the appreciation of a finely crafted blade are ingrained parts of their martial heritage.  More information about the weapon available on the Wookieepedia article.Models Include: Merr-Sonn Damask-4 Duelist Sword, SoroSuub Gladius Vibro-Shortsword.VIBROSWORD[1][2][3][]
+While most cultures have moved beyond the use of bladed weapons for general use and protection, there are still some for whom intricate swordplay and the appreciation of a finely crafted blade are ingrained parts of their martial heritage.  
 
 ## Source
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:172]]

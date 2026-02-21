@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Crossguard Lightsaber
 Skill: Lightsaber
 Dam: 6
@@ -14,8 +14,8 @@ Special: Breach 1, Defensive 1, Sunder
 
 # Crossguard Lightsaber
 
-Crossguard lightsabers were once common among Makashi Duelists, many of whom fought at the Great Scourge of Malachor.  More information about the weapon available on the Wookieepedia article.CROSSGUARD LIGHTSABER[1][2][]Whenever an enemy engaged with a character armed with a crossguard lightsaber makes a Melee or Lightsaber check, after the attack is resolved, the character may spend three threat results or a despair result to hook their opponent's blade and disarm them. Aside from losing the weapon, any other effects of being disarmed are left to the GM's discretion. This lightsaber is a crossguard lightsaber hilt containing an unmodded Ilum lightsaber crystal. This crystal occupies two of the weapon's hard points.[1]
+Crossguard lightsabers were once common among Makashi Duelists, many of whom fought at the Great Scourge of Malachor.  Whenever an enemy engaged with a character armed with a crossguard lightsaber makes a Melee or Lightsaber check, after the attack is resolved, the character may spend three threat results or a despair result to hook their opponent's blade and disarm them. Aside from losing the weapon, any other effects of being disarmed are left to the GM's discretion. This lightsaber is a crossguard lightsaber hilt containing an unmodded Ilum lightsaber crystal. This crystal occupies two of the weapon's hard points.[1]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:43]]
-[[Endless Vigil : A Sourcebook for Sentinel|Endless Vigil : A Sourcebook for Sentinel:42]]
+[[Endless Vigil|Endless Vigil:42]]

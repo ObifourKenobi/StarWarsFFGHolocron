@@ -15,7 +15,7 @@ tags:
 ---
 # Chiss
 ## Special Abilities
-Chiss begin the game with one rank in [Cool](https://star-wars-rpg-ffg.fandom.com/wiki/Cool_\(Pr\) "Cool (Pr)"). They still may not train [Cool](https://star-wars-rpg-ffg.fandom.com/wiki/Cool_\(Pr\) "Cool (Pr)") above rank 2 during character creation.
+Chiss begin the game with one rank in [[Cool]]. They still may not train [[Cool]] above rank 2 during character creation.
 ## Additional information
 - **Infravision:** Chiss have adapted to be able to see in both the infrared and normal visual spectra. This enables Chiss characters to remove up to a #StarWarsSetback die added to checks by lighting conditions.
 ## Sources

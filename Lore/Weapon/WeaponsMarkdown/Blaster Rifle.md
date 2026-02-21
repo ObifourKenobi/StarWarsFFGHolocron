@@ -14,7 +14,7 @@ Special: Stun setting
 
 # Blaster Rifle
 
-The tried-and-true blaster rifle rivals the blaster pistol in ubiquity and versatility throughout the galaxy.More information about the weapon available on the Wookieepedia article.Models Include: BlasTech E-11, BlasTech DC-15, BlasTech A280, Czerka Arms 84-U.BLASTER RIFLE[1][2][3][]
+The tried-and-true blaster rifle rivals the blaster pistol in ubiquity and versatility throughout the galaxy.
 
 ## Source
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:168]]

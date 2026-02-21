@@ -14,7 +14,7 @@ Special: Blast 10, Burn 3, Guided 2
 
 # Incendiary Missile
 
-Incendiary missiles are powerful, frightening weapons that are described by many galactic military analysts as a war crime in a bottle.  Models Include: Merr-Sonn C-908 Incendiary Missile, Kirgo Blastworks Firebolt AP Missile.  More information about the weapon available on the Wookieepedia article.INCENDIARY MISSILE[1][2][3][]
+Incendiary missiles are powerful, frightening weapons that are described by many galactic military analysts as a war crime in a bottle.  Models Include: Merr-Sonn C-908 Incendiary Missile, Kirgo Blastworks Firebolt AP Missile.  
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:65]]

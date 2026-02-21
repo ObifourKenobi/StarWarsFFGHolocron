@@ -14,7 +14,7 @@ Special: Breach 1, Defensive 2, Sunder
 
 # Lightfoil
 
-Lightfoils are small lightsabers with one-handed hilts that produce slim blades.  More information about the weapon available on the Wookieepedia article.LIGHTFOIL[1][2][]This lightsaber uses a basic lightfoil hilt containing an unmodded Ilum lightsaber crystal. This crystal occupies two of the weapon's hard points.[1][3]When installing a lightsaber crystal into a lightfoil, reduce the damage of that lightsaber crystal by one.[1][3]
+Lightfoils are small lightsabers with one-handed hilts that produce slim blades.  This lightsaber uses a basic lightfoil hilt containing an unmodded Ilum lightsaber crystal. This crystal occupies two of the weapon's hard points.[1][3]When installing a lightsaber crystal into a lightfoil, reduce the damage of that lightsaber crystal by one.[1][3]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:48]]

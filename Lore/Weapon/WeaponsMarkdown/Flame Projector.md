@@ -14,10 +14,10 @@ Special: Blast 8, Burn 3
 
 # Flame Projector
 
-Flame projectors come in a variety of shapes and sizes, but generally include a rifle-like emitter connected to a number of canisters. More information about the weapon available on the Wookieepedia article.Models Include: BlasTech X42 Heavy Flamethrower, CZ-28 Flamestrike Flame Cannon, Merr-Sonn C-22 Flame Carbine, Merr-Sonn CR-24 Flame Rifle.FLAME PROJECTOR[1][2][3][]Thanks to their broad reach, flame projectors can easily catch multiple targets in a single blast. When triggering a flame projector's Burn quality, the user may choose to apply it to any single target hit by the attack; this quality may be triggered multiple times, affecting a different target each time. The downside to this weapon's volatility and indiscriminate area of effect is that allies can easily be caught in its flames. Game Masters may spend two threat results or a despair result to apply a flame projector's Burn quality to an ally hit by the original attack.[1][4][5]
+Flame projectors come in a variety of shapes and sizes, but generally include a rifle-like emitter connected to a number of canisters. Thanks to their broad reach, flame projectors can easily catch multiple targets in a single blast. When triggering a flame projector's Burn quality, the user may choose to apply it to any single target hit by the attack; this quality may be triggered multiple times, affecting a different target each time. The downside to this weapon's volatility and indiscriminate area of effect is that allies can easily be caught in its flames. Game Masters may spend two threat results or a despair result to apply a flame projector's Burn quality to an ally hit by the original attack.[1][4][5]
 
 ## Source
-[[Gadgets and Gear (Page 33-34)|Gadgets and Gear (Page 33-34):N/A]]
+[[Gadgets and Gear|Gadgets and Gear:33]]
 [[Age of Rebellion Core Rulebook|Age of Rebellion Core Rulebook:173]]
 [[Edge of the Empire Core Rulebook|Edge of the Empire Core Rulebook:160]]
 [[Age of Rebellion Core Rulebook|Age of Rebellion Core Rulebook:178]]

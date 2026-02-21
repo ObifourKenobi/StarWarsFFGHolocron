@@ -14,7 +14,7 @@ Special: Blast 6, Stun setting
 
 # VES-700 Pulse Rifle
 
-Often used by urban riot police and bounty hunters, the Corondexx VES-700 pulse rifle has also found a place aboard many of the light freighters roaming the galaxy. More information about the weapon available on the Wookieepedia article.VES-700 PULSE RIFLE[1][2][]
+Often used by urban riot police and bounty hunters, the Corondexx VES-700 pulse rifle has also found a place aboard many of the light freighters roaming the galaxy. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:23]]

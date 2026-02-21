@@ -14,7 +14,7 @@ Special: Guided 3, Limited Ammo 3
 
 # FWG-5 Flechette Pistol
 
-This flechette pistol from Malaxan Firepower Incorporated utilizes a laser tracking system that guides flechette-filled pellets to targets before exploding in a hail of needle-like debris. More information about the weapon available on the Wookieepedia article.FWG-5 FLECHETTE PISTOL[1][2][]
+This flechette pistol from Malaxan Firepower Incorporated utilizes a laser tracking system that guides flechette-filled pellets to targets before exploding in a hail of needle-like debris. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:26]]

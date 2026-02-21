@@ -14,7 +14,7 @@ Special: Knockdown, Pierce 2
 
 # Verpine Shatter Pistol
 
-The shatter pistol is another configuration of shatter weapon and is designed to be light and easy to wield. More information about the weapon available on the Wookieepedia article.VERPINE SHATTER PISTOL[1][2][]SHATTER GUNS[3][]While a character wields a shatter gun, any combat checks they make that generates two threat results or a despair result damages the weapon by one step.[4]
+The shatter pistol is another configuration of shatter weapon and is designed to be light and easy to wield. SHATTER GUNS[3][]While a character wields a shatter gun, any combat checks they make that generates two threat results or a despair result damages the weapon by one step.[4]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:29]]

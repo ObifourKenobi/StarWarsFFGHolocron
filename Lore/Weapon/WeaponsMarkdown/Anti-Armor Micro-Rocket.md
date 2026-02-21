@@ -14,7 +14,7 @@ Special: Breach 1, Limited Ammo 1
 
 # Anti-Armor Micro-Rocket
 
-Anti-armor micro-rockets feature a small shaped charge that detonates on contact. More information about the weapon available on the Wookieepedia article.ANTI-ARMOR MICRO-ROCKET[1][2][]
+Anti-armor micro-rockets feature a small shaped charge that detonates on contact. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:63]]

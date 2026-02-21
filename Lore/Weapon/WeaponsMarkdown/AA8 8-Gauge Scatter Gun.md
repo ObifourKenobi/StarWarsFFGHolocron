@@ -14,7 +14,7 @@ Special: Blast 3, Knockdown
 
 # AA8 8-Gauge Scatter Gun
 
-Adostic Arms' entry into the civilian home-defense market, the AA8, fires a spray of steel pellets at nearby targets, mowing down home intruders, small predators, and evasive rodents. More information about the weapon available on the Wookieepedia article.AA8 8-GAUGE SCATTER GUN[1][2][]
+Adostic Arms' entry into the civilian home-defense market, the AA8, fires a spray of steel pellets at nearby targets, mowing down home intruders, small predators, and evasive rodents. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:25]]

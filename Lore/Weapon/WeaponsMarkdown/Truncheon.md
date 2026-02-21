@@ -14,7 +14,7 @@ Special: Disorient 2
 
 # Truncheon
 
-Made from a number of organic and inorganic materials such as metal, wood, and bone, truncheons are simple blunt weapons used by law enforcement agencies across the galaxy.  More information about the weapon available on the Wookieepedia article.Models Include: Various models.TRUNCHEON[1][2][3][]
+Made from a number of organic and inorganic materials such as metal, wood, and bone, truncheons are simple blunt weapons used by law enforcement agencies across the galaxy.  
 
 ## Source
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:172]]

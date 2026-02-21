@@ -14,7 +14,7 @@ Special: Accurate 1, Stun setting
 
 # DC-17 Hand Blaster
 
-The DC-17 is the standard-issue sidearm of the GAR's special forces units.More information about the weapon available on the Wookieepedia article.DC-17 HAND BLASTER[1][2][]Game Masters may spend three threat results (in addition to a despair result) to make a DC-17 run out of ammo during combat.[3]
+The DC-17 is the standard-issue sidearm of the GAR's special forces units.Game Masters may spend three threat results (in addition to a despair result) to make a DC-17 run out of ammo during combat.[3]
 
 ## Source
 [[Collapse of the Republic|Collapse of the Republic:52]]

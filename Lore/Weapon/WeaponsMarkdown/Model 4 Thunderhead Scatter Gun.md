@@ -14,7 +14,7 @@ Special: Blast 5, Knockdown, Vicious 1
 
 # Model 4 Thunderhead Scatter Gun
 
-Czerka Arms designed the Model 4 as part of its Legacy Arms line of slugthrower weapons to compete with Adostic Arms' popular AA8 scatter gun. More information about the weapon available on the Wookieepedia article.MODEL 4 THUNDERHEAD SCATTER GUN[1][2][]
+Czerka Arms designed the Model 4 as part of its Legacy Arms line of slugthrower weapons to compete with Adostic Arms' popular AA8 scatter gun. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:27]]

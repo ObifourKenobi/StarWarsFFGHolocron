@@ -1,4 +1,4 @@
-﻿---
+---
 name: "Stun (Active)"
 activation: Active
 ranked: True

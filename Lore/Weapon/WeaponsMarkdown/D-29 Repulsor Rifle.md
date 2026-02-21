@@ -14,7 +14,7 @@ Special: Disorient 3, Knockdown, Stun Damage
 
 # D-29 Repulsor Rifle
 
-Repulsor weapons use ubiquitous repulsor engines, similar to those found on landspeeders and speeder bikes, tuned to create narrower, longer-range areas of effect.. More information about the weapon available on the Wookieepedia article.D-29 REPULSOR RIFLE[1][2][]
+Repulsor weapons use ubiquitous repulsor engines, similar to those found on landspeeders and speeder bikes, tuned to create narrower, longer-range areas of effect.. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:32]]

@@ -1,4 +1,4 @@
-﻿This skill determines a character's knowledge on the differences between different species, fauna and flora of the galaxy. It may be used in rolls such as;
+This skill determines a character's knowledge on the differences between different species, fauna and flora of the galaxy. It may be used in rolls such as;
 
 - Figuring out how to interact with an individual of a different race.
 - Helping or harming a subject of a different race.

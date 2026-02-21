@@ -14,7 +14,7 @@ Special: Defensive 2
 
 # Lightfoil Hilt
 
-More information about the weapon available on the Wookieepedia article.LIGHTFOIL HILT[1][2][][A lightsaber hilt] requires a crystal to become a true weapon (otherwise they deal no damage, have no critical rating, and do not have many of their item qualities).[1]
+[A lightsaber hilt] requires a crystal to become a true weapon (otherwise they deal no damage, have no critical rating, and do not have many of their item qualities).[1]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:46]]

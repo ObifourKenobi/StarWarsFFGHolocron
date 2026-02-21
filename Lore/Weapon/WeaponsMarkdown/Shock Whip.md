@@ -17,4 +17,4 @@ Special: Ensnare 3, Stun Damage
 The shock whip has been a mainstay of the Zygerrian Slave Empire for thousands of years.  More information about the weapon available on the Wookieepedia article.SHOCK WHIP[1][]
 
 ## Source
-[[Friends Like These : Adventure Module|Friends Like These : Adventure Module:60]]
+[[Friends Like These|Friends Like These:60]]

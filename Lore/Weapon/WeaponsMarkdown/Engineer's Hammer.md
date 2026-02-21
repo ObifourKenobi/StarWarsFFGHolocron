@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Engineer's Hammer
 Skill: Melee
 Dam: +3
@@ -18,5 +18,4 @@ An engineer's hammer is an all-purpose construction and demolitions tool.   More
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:137]]
-[[Fully Operational (Page 47-48)|Fully Operational (Page 47-48):N/A]]
 [[Fully Operational|Fully Operational:47]]

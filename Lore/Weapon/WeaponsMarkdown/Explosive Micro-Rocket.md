@@ -14,7 +14,7 @@ Special: Blast 6, Limited Ammo 1
 
 # Explosive Micro-Rocket
 
-Explosive micro-rockets rely on a chepatite impact explosive to deliver a powerful kinetic blast of energy on impact. More information about the weapon available on the Wookieepedia article.EXPLOSIVE MICRO-ROCKET[1][2][]
+Explosive micro-rockets rely on a chepatite impact explosive to deliver a powerful kinetic blast of energy on impact. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:63]]

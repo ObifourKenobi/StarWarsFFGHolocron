@@ -14,7 +14,7 @@ Special: Accurate 2, Pierce 2, Stun setting
 
 # Model-1 Nova Viper Blaster Pistol
 
-The Raider Arms Model-1 Nova Viper uses an elegant, long-bodied duelist pistol frame that provides unmatched accuracy.More information about the weapon available on the Wookieepedia article.MODEL-1 NOVA VIPER BLASTER PISTOL[1][2][]The difficulty of Mechanics checks to repair a Nova Viper or modify attachments on it increases by one.[1][3]
+The Raider Arms Model-1 Nova Viper uses an elegant, long-bodied duelist pistol frame that provides unmatched accuracy.The difficulty of Mechanics checks to repair a Nova Viper or modify attachments on it increases by one.[1][3]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:18]]

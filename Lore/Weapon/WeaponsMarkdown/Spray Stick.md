@@ -14,7 +14,7 @@ Special: Inaccurate 1, Stun Damage
 
 # Spray Stick
 
-An ancient design of the Stokhli people from the Inner Rim world of Manress, the spray stick is a meter-long rod shouldered like a rifle that fires a concentrated spraynet mist. More information about the weapon available on the Wookieepedia article.SPRAY STICK (RANGED PROFILE)[1][2][]When using the stun pad on the butt-stock, the Stokhli Spray Stick can be used as a melee weapon with the following profile (Skill Melee; Damage +2; Critical ; Range [Engaged]; Inaccurate 1, Stun Damage)SPRAY STICK (MELEE PROFILE)[1][]
+An ancient design of the Stokhli people from the Inner Rim world of Manress, the spray stick is a meter-long rod shouldered like a rifle that fires a concentrated spraynet mist. When using the stun pad on the butt-stock, the Stokhli Spray Stick can be used as a melee weapon with the following profile (Skill Melee; Damage +2; Critical ; Range [Engaged]; Inaccurate 1, Stun Damage)SPRAY STICK (MELEE PROFILE)[1][]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:35]]

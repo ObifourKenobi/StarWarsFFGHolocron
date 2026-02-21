@@ -14,7 +14,7 @@ Special: Cumbersome 3 (dismounted), Pierce 3
 
 # Mon Calamari Energy Lance
 
-Wielded by the Mon Calamari Knights during the Clone Wars, energy lances are designed to be used from atop keelkana mounts.  More information about the weapon available on the Wookieepedia article.MON CALAMARI ENERGY LANCE[1][2][3][]A mounted wielder of an energy lance may use their steed's Brawn rating instead of their own Brawn rating to determine the damage of this weapon. If the wielder is not mounted, the weapon has the Cumbersome 3 quality.[1][4][3]
+Wielded by the Mon Calamari Knights during the Clone Wars, energy lances are designed to be used from atop keelkana mounts.  A mounted wielder of an energy lance may use their steed's Brawn rating instead of their own Brawn rating to determine the damage of this weapon. If the wielder is not mounted, the weapon has the Cumbersome 3 quality.[1][4][3]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:50]]

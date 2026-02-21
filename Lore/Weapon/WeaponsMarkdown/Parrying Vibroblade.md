@@ -14,7 +14,7 @@ Special: Defensive 1, Pierce 2, Vicious 1
 
 # Parrying Vibroblade
 
-The parrying vibroblade is a high-tech version of the parrying dagger.  More information about the weapon available on the Wookieepedia article.PARRYING VIBROBLADE[1][2][]
+The parrying vibroblade is a high-tech version of the parrying dagger.  
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:51]]

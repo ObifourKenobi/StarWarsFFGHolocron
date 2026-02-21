@@ -15,6 +15,6 @@ tags:
 ---
 # Mirialan
 ## Special Abilities
-Mirialans begin the game with one rank in [Discipline](https://star-wars-rpg-ffg.fandom.com/wiki/Discipline_\(Will\) "Discipline (Will)") and one rank in [Cool](https://star-wars-rpg-ffg.fandom.com/wiki/Cool_\(Pr\) "Cool (Pr)"). They still may not train [Discipline](https://star-wars-rpg-ffg.fandom.com/wiki/Discipline_\(Will\) "Discipline (Will)") or [Cool](https://star-wars-rpg-ffg.fandom.com/wiki/Cool_\(Pr\) "Cool (Pr)") above rank 2 during character creation.
+Mirialans begin the game with one rank in [[Discipline]] and one rank in [[Cool]]. They still may not train [[Discipline]] or [[Cool]] above rank 2 during character creation.
 ## Sources
 - [[Force and Destiny Core Rulebook]]:58-59

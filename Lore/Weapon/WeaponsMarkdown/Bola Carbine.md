@@ -14,7 +14,7 @@ Special: Accurate 1, Ensnare 1
 
 # Bola Carbine
 
-Individually handcrafted, the bola carbine is a unique energy weapon that ensnares and trips up targets. More information about the weapon available on the Wookieepedia article.BOLA CARBINE[1][2][]
+Individually handcrafted, the bola carbine is a unique energy weapon that ensnares and trips up targets. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:31]]

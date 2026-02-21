@@ -14,7 +14,7 @@ Special: Stun 3
 
 # Shock Gloves
 
-Popular among infiltrators, law enforcement agents, and others needing a quick, non-lethal weapon close at hand, shock gloves are an excellent addition to any equipment load-out.  More information about the weapon available on the Wookieepedia article.Models Include: Corellian Personal Defense X-21, Kamperdine Slimline Gloves.SHOCK GLOVES[1][2][3][4][]
+Popular among infiltrators, law enforcement agents, and others needing a quick, non-lethal weapon close at hand, shock gloves are an excellent addition to any equipment load-out.  
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:39]]

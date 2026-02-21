@@ -14,7 +14,7 @@ Special: Disorient 4, Ensnare 1, Stun Damage
 
 # Neuronic Whip
 
-Used by slavers across the galaxy to keep their merchandise in line, the neuronic whip is a terrible weapon banned from many worlds.  More information about the weapon available on the Wookieepedia article.NEURONIC WHIP[1][2][]This weapon can be used to make melee attacks against targets at up to short range (the difficulty remains Average difficulty).[1][3]
+Used by slavers across the galaxy to keep their merchandise in line, the neuronic whip is a terrible weapon banned from many worlds.  This weapon can be used to make melee attacks against targets at up to short range (the difficulty remains Average difficulty).[1][3]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:51]]

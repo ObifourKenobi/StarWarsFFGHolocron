@@ -15,7 +15,7 @@ tags:
 ---
 # Cosian
 ## Special Abilities
-Cosians begin the game with one rank in [Knowledge (Lore)](https://star-wars-rpg-ffg.fandom.com/wiki/Lore_\(Int\) "Lore (Int)"). They still cannot train [Knowledge (Lore)](https://star-wars-rpg-ffg.fandom.com/wiki/Lore_\(Int\) "Lore (Int)") above rank 2 during character creation.
+Cosians begin the game with one rank in [[Lore]]. They still cannot train [[Lore]] above rank 2 during character creation.
 ## Additional information
 - **Strong Backed:** All Cosians have an encumbrance threshold of 10 + [[Brawn]].
 ## Sources

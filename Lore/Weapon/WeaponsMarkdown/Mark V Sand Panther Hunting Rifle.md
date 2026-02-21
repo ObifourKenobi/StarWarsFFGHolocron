@@ -14,7 +14,7 @@ Special: Accurate 1, Cumbersome 2
 
 # Mark V Sand Panther Hunting Rifle
 
-Engineers based Coronet Arms' Mark V Sand Panther on an ancient rifle once used to hunt Corellian sand panthers. More information about the weapon available on the Wookieepedia article.MARK V SAND PANTHER HUNTING RIFLE[1][2][]
+Engineers based Coronet Arms' Mark V Sand Panther on an ancient rifle once used to hunt Corellian sand panthers. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:26]]

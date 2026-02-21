@@ -14,7 +14,7 @@ Special: Knockdown, Pierce 4
 
 # Verpine Shatter Rifle
 
-Created by the insectoid Verpine, shatter guns use magnetic fields to propel small metal slugs at high speeds unattainable by typical slugthrowers. More information about the weapon available on the Wookieepedia article.VERPINE SHATTER RIFLE[1][2][]SHATTER GUNS[3][]While a character wields a shatter gun, any combat checks they make that generates two threat results or a despair result damages the weapon by one step.[4]
+Created by the insectoid Verpine, shatter guns use magnetic fields to propel small metal slugs at high speeds unattainable by typical slugthrowers. SHATTER GUNS[3][]While a character wields a shatter gun, any combat checks they make that generates two threat results or a despair result damages the weapon by one step.[4]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:29]]

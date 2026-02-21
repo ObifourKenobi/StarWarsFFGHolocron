@@ -14,7 +14,7 @@ Special: Defensive 2, Pierce 3
 
 # Beastmaster's Vibro-glaive
 
-Most often found in the hands of the Weequay, these vibro-glaives consist of a heavy, single-edged head affixed to a pole up to two meters in length.  More information about the weapon available on the Wookieepedia article.BEASTMASTER'S VIBRO-GLAIVE[1][2][]The beastmaster's vibro-glaive requires two hands to wield.
+Most often found in the hands of the Weequay, these vibro-glaives consist of a heavy, single-edged head affixed to a pole up to two meters in length.  The beastmaster's vibro-glaive requires two hands to wield.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:41]]

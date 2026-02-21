@@ -14,7 +14,7 @@ Special: Cumbersome 3, Pierce 2, Sunder, Knockdown, Vicious 2
 
 # RS01 Ripper Powersword
 
-Powerswords are large, heavy vibroswords equipped with high-output vibro field generators that allow them to cleave through most materials.  More information about the weapon available on the Wookieepedia article.RS01 RIPPER POWERSWORD[1][2][]A powersword requires two hands to wield.[1][3]
+Powerswords are large, heavy vibroswords equipped with high-output vibro field generators that allow them to cleave through most materials.  A powersword requires two hands to wield.[1][3]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:52]]

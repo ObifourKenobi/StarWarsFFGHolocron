@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Lightsaber Pike
 Skill: Lightsaber
 Dam: 6
@@ -14,10 +14,10 @@ Special: Breach 1, Cumbersome 3, Defensive 1, Sunder
 
 # Lightsaber Pike
 
-Similar in construction to a force pike or electrostaff, a lightsaber pike consists of a long, sturdy haft typically made of composites or strong alloys.  More information about the weapon available on the Wookieepedia article.Models Include: Non; each of these weapons is individually constructed.LIGHTSABER PIKE[1][2][]This lightsaber is a basic lightsaber pike hilt containing an unmodded Ilum lightsaber crystal. This crystal occupies two of the weapon's hard points.[3]Lightsabers cannot be Sundered.[4]
+Similar in construction to a force pike or electrostaff, a lightsaber pike consists of a long, sturdy haft typically made of composites or strong alloys.  This lightsaber is a basic lightsaber pike hilt containing an unmodded Ilum lightsaber crystal. This crystal occupies two of the weapon's hard points.[3]Lightsabers cannot be Sundered.[4]
 
 ## Source
-[[Gadgets and Gear (Page 48-49)|Gadgets and Gear (Page 48-49):N/A]]
+[[Gadgets and Gear|Gadgets and Gear:48]]
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:177]]
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:176]]
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:175]]

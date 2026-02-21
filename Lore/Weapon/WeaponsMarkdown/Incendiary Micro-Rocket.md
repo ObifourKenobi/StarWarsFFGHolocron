@@ -14,7 +14,7 @@ Special: Blast 6, Burn 2, Limited Ammo 1
 
 # Incendiary Micro-Rocket
 
-Micro-rockets with incendiary payloads explode in flames, using a mixture of chemicals that burn very hot and slow enough to ensure they spread to anything flammable nearby. More information about the weapon available on the Wookieepedia article.INCENDIARY MICRO-ROCKET[1][2][]
+Micro-rockets with incendiary payloads explode in flames, using a mixture of chemicals that burn very hot and slow enough to ensure they spread to anything flammable nearby. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:63]]

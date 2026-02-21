@@ -14,7 +14,7 @@ Special: Auto-fire, Cumbersome 5, Pierce 1, Vicious 1
 
 # VX Sidewinder Repeating Blaster
 
-Unlike other repeating blasters, the SoroSuub VX achieves its high rate of fire through the use of five rotating barrels. More information about the weapon available on the Wookieepedia article.VX SIDEWINDER REPEATING BLASTER[1][2][]
+Unlike other repeating blasters, the SoroSuub VX achieves its high rate of fire through the use of five rotating barrels. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:23]]

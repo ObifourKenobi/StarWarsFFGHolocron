@@ -15,7 +15,7 @@ tags:
 ---
 # Lannik
 ## Special Abilities
-Lanniks begin the game with one rank in [Streetwise](https://star-wars-rpg-ffg.fandom.com/wiki/Streetwise_\(Cun\) "Streetwise (Cun)"). They still may not train [Streetwise](https://star-wars-rpg-ffg.fandom.com/wiki/Streetwise_\(Cun\) "Streetwise (Cun)") above rank 2 during character creation.
+Lanniks begin the game with one rank in [[Streetwise]]. They still may not train [[Streetwise]] above rank 2 during character creation.
 ## Additional information
 - **Indomitable:** A Lannik removes up to two #StarWarsSetback die caused by Critical Injuries, fear, or the disoriented condition from all checks.
 ## Sources

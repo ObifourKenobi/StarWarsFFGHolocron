@@ -14,7 +14,7 @@ Special: Disorient 3, Stun Damage
 
 # Flashstick
 
-Wielded almost exclusively by the Drall constabulary, the flashstick is a nonlethal weapon used to subdue criminals and other undesirables.  More information about the weapon available on the Wookieepedia article.FLASHSTICK[1][2][][...] The weapon has virtually no effect on species who don't rely on visual senses[.][1][3]
+Wielded almost exclusively by the Drall constabulary, the flashstick is a nonlethal weapon used to subdue criminals and other undesirables.  [...] The weapon has virtually no effect on species who don't rely on visual senses[.][1][3]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:46]]

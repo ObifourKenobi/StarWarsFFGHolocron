@@ -1,9 +1,8 @@
-﻿---
+---
 name: "Burn (Active)"
 activation: Active
 ranked: True
 ---
-
 # Burn (Active)
 
 ## Rule Effect (Summary)

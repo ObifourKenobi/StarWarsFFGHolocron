@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b898c4b90128f3a",
+        "id": "d28bf4c7d62fd4a4",
         "type": "tabs",
         "children": [
           {
-            "id": "0cc948b0d5a52cf2",
+            "id": "7550935cb0dfa2bc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:Lore/Books Keeping the Peace",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
               "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Characteristic/Brawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Brawn"
+              "title": "Rétroliens"
             }
           },
           {
@@ -110,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Species/Aqualish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Aqualish"
+              "title": "Liens sortants"
             }
           },
           {
@@ -161,8 +158,7 @@
               "title": "Plan"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,34 +177,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cc948b0d5a52cf2",
+  "active": "7550935cb0dfa2bc",
   "lastOpenFiles": [
-    "Lore/Weapon/WeaponsMarkdown/Activv1 Riot Shield.md",
-    "Lore/Weapon/WeaponsMarkdown/DH-17c Short Carbine.md",
-    "Lore/Weapon/WeaponsMarkdown/PB08 Heavy Blaster Pistol.md",
-    "Lore/Weapon/WeaponsMarkdown/Light Repeating Blaster.md",
-    "Lore/Weapon/WeaponsMarkdown/Mk II Paladin Blaster Rifle.md",
-    "Lore/Weapon/WeaponsMarkdown/Mk. VIII Vibrosaw.md",
-    "Lore/Weapon/WeaponsMarkdown/12 Defender.md",
-    "Lore/Weapon/WeaponsMarkdown/Subduer-9 Riot Blaster.md",
-    "Lore/Weapon/WeaponsMarkdown/Hand Grinder.md",
-    "Lore/Weapon/WeaponsMarkdown/Punch Dagger.md",
-    "Lore/Weapon/WeaponsMarkdown/Explosive Tipped Arrow.md",
-    "Lore/Weapon/WeaponsMarkdown/Morgukai Cortosis Staff.md",
-    "Lore/Weapon/WeaponsMarkdown/Sword Cane.md",
-    "Lore/Weapon/WeaponsMarkdown/Semblan Obsidian Dagger.md",
-    "Lore/Weapon/WeaponsMarkdown/Kyuzo War Shield.md",
-    "Lore/Weapon/WeaponsMarkdown/DC-15 Blaster Rifle.md",
-    "Lore/Weapon/WeaponsMarkdown/Incendiary Grenade.md",
-    "Lore/Weapon/WeaponsMarkdown/J-7b Beamdrill.md",
-    "Lore/Weapon/WeaponsMarkdown/Czerka CZ-28 Flamestrike.md",
-    "Lore/Weapon/WeaponsMarkdown/Voss Warspear.md",
-    "Lore/Weapon/WeaponsMarkdown/Kal.md",
-    "Lore/Weapon/WeaponsMarkdown/Broadsaber.md",
-    "Lore/Books/Keeping the Peace.md",
-    "Lore/Books/Disciples of Harmony.md",
-    "Lore/Books/Cyphers and Masks.md",
-    "Lore/Books/Gadgets and Gear.md",
+    "Lore/Species/Ithorian.md",
+    "Lore/ItemQualities/Stun damage.md",
+    "Lore/ItemQualities/Slow-Firing.md",
+    "Lore/ItemQualities/Stun.md",
+    "Lore/Species/Harch.md",
+    "Lore/Skills/Xenology.md",
+    "Lore/Skills/Gunnery.md",
+    "Lore/Skills/Education.md",
+    "Lore/Skills/Knowledge lore.md",
+    "Lore/Skills/Knowledge education.md",
+    "Lore/Skills/Core Worlds.md",
+    "Lore/Skills/Knowledge core world.md",
+    "Lore/Skills/Computers.md",
+    "Lore/Skills/Charm.md",
+    "Lore/Skills/Brawl.md",
+    "Lore/Weapon/WeaponsMarkdown/Boot Blade.md",
+    "Lore/Talents/Knowledge Specialization.md",
+    "Lore/Weapon/WeaponsMarkdown/Berserker Rifle.md",
+    "Lore/ItemQualities/Burn.md",
+    "Lore/Weapon/WeaponsMarkdown/Vibro-Pickaxe.md",
+    "Lore/Species/Arcona.md",
+    "Lore/Talents/Blind Spot.md",
+    "Lore/Weapon/WeaponsMarkdown/Z50 Grenade Launcher.md",
+    "Lore/Weapon/WeaponsMarkdown/Crossguard Lightsaber.md",
+    "Lore/ItemQualities/Linked.md",
+    "Lore/Weapon/WeaponsMarkdown/Engineer's Hammer.md",
+    "Sans titre.canvas",
     "Lore/Books.base",
     "Lore/Weapon/WeaponsMarkdown",
     "Lore/Weapon",
@@ -218,7 +215,6 @@
     "Lore/test/Weapons",
     "Lore/ItemQualities",
     "Lore/test/ItemQualities",
-    "Sans titre.canvas",
     "Lore/Force Power/ForcePowers"
   ]
 }

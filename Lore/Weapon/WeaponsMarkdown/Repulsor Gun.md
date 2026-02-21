@@ -14,7 +14,7 @@ Special: Knockdown
 
 # Repulsor Gun
 
-Little more than toys for bored technicians, repulsor guns are makeshift devices crafted from a small repulsor engine, a charge capacitor, and a trigger assembly. More information about the weapon available on the Wookieepedia article.REPULSOR GUN[1][2][]On a despair result, the repulsor gun backfires: the user is knocked prone and suffers the disoriented status effect for two rounds.[3]
+Little more than toys for bored technicians, repulsor guns are makeshift devices crafted from a small repulsor engine, a charge capacitor, and a trigger assembly. On a despair result, the repulsor gun backfires: the user is knocked prone and suffers the disoriented status effect for two rounds.[3]
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:35]]

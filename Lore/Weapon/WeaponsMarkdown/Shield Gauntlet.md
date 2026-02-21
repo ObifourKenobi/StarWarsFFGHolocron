@@ -14,7 +14,7 @@ Special: Deflection 2, Stun Damage
 
 # Shield Gauntlet
 
-Shield gauntlets are specialized defensive items popularized by the Kilian Rangers of Kilia IV.  More information about the weapon available on the Wookieepedia article.SHIELD GAUNTLET[1][2][]A shield gauntlet counts as a Lightsaber weapon for the purposes of the Reflect talent.
+Shield gauntlets are specialized defensive items popularized by the Kilian Rangers of Kilia IV.  A shield gauntlet counts as a Lightsaber weapon for the purposes of the Reflect talent.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:39]]

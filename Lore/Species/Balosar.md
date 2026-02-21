@@ -16,8 +16,8 @@ tags:
 # Balosar
 Across the galaxy, Balosars are regarded as untrustworthy grifters and con artists.
 ## Special Abilities
-Balosars begin the game with one free ranks of [Streetwise](https://star-wars-rpg-ffg.fandom.com/wiki/Streetwise_\(Cun\) "Streetwise (Cun)"). They still may not train [Streetwise](https://star-wars-rpg-ffg.fandom.com/wiki/Streetwise_\(Cun\) "Streetwise (Cun)") above rank 2 during character creation.
+Balosars begin the game with one free ranks of [[Streetwise]]. They still may not train [[Streetwise]] above rank 2 during character creation.
 ## Additional information
-- **Antennapalps:** Balosars add two automatic #StarWarsAdvantage results to [Vigilance](https://star-wars-rpg-ffg.fandom.com/wiki/Vigilance_\(Will\) "Vigilance (Will)") checks they make.
+- **Antennapalps:** Balosars add two automatic #StarWarsAdvantage results to [[Vigilance]] checks they make.
 ## Sources
 - [[Cyphers and Masks|Cyphers and Masks:19-20]]

@@ -14,7 +14,7 @@ Special: Auto-fire, Cumbersome 3
 
 # Heavy Blaster Rifle
 
-Often only issued to one or two infantry members per squad, heavy blaster rifles deal more damage from a greater distance than anything else in a squad's inventory.More information about the weapon available on the Wookieepedia article.Models Include: BlasTech RT-97C, BlasTech DLT-19.HEAVY BLASTER RIFLE[1][2][3][]
+Often only issued to one or two infantry members per squad, heavy blaster rifles deal more damage from a greater distance than anything else in a squad's inventory.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:14]]

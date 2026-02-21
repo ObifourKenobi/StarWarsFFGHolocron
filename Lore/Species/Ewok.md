@@ -15,9 +15,9 @@ tags:
 ---
 # Ewok
 ## Special Abilities
-Ewoks are usually smaller than average and count as silhouette 0. They begin the game with one rank in either [Stealth](https://star-wars-rpg-ffg.fandom.com/wiki/Stealth_\(Ag\) "Stealth (Ag)") or [[Survival]]. They still may not train either skill above rank 2 during character creation.
+Ewoks are usually smaller than average and count as silhouette 0. They begin the game with one rank in either [[Stealth]] or [[Survival]]. They still may not train either skill above rank 2 during character creation.
 ## Additional information
-- **Acute Senses:** Ewoks add a #StarWarsBoost die to [Perception](https://star-wars-rpg-ffg.fandom.com/wiki/Perception_\(Cun\) "Perception (Cun)") and [Vigilance](https://star-wars-rpg-ffg.fandom.com/wiki/Vigilance_\(Will\) "Vigilance (Will)") checks.
+- **Acute Senses:** Ewoks add a #StarWarsBoost die to [[Perception]] and [[Vigilance]] checks.
 - **Low-Tech Users:** Ewoks upgrade the difficulty of any checks involving advanced technology not available on their home planet once. If an Ewok uses a particular piece of technology for an extended period of time, they make become familiar with it and may be exempt from this rule when using that piece of technology (at the GM's discretion). In addition, with their GM's approval a player with an Ewok character may spend 10 XP to remove this disadvantage from their character.
 ## Sources
 - [[Allies and Adversaries]]:119

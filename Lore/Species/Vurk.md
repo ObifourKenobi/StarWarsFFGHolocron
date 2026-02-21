@@ -16,7 +16,7 @@ tags:
 # Vurk
 This reptilian race has extended their nomadic tradition to the galaxy.
 ## Special Abilities
-Vurks begin the game with one rank in [Negotiation](https://star-wars-rpg-ffg.fandom.com/wiki/Negotiation_\(Pr\) "Negotiation (Pr)"). They still may not train [Negotiation](https://star-wars-rpg-ffg.fandom.com/wiki/Negotiation_\(Pr\) "Negotiation (Pr)") above rank 2 during character creation.
+Vurks begin the game with one rank in [[Negotiation]]. They still may not train [[Negotiation]] above rank 2 during character creation.
 ## Additional information
 - **Amphibious:** Vurks can breathe underwater without penalty and never suffer movement penalties when traveling through water.
 - **Cold Blooded:** Vurks add a #StarWarsSetback die to all checks they make while in cold environments (in addition to any other penalties).

@@ -14,7 +14,7 @@ Special: Ensnare 3
 
 # Tangle Gun 7
 
-Merr-Sonn Munitions' Tangle Gun 7 is an attempt to fit all of the power of a net launcher into a compact pistol frame. More information about the weapon available on the Wookieepedia article.TANGLE GUN 7[1][2][]
+Merr-Sonn Munitions' Tangle Gun 7 is an attempt to fit all of the power of a net launcher into a compact pistol frame. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:35]]

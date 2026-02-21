@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Breaker Heavy Hydrospanner
 Skill: Melee
 Dam: +2
@@ -18,5 +18,4 @@ Built by Regalis Engineering, the Breaker is a massive, long-handled hydrospanne
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:136]]
-[[Fully Operational (Page 47-48)|Fully Operational (Page 47-48):N/A]]
 [[Fully Operational|Fully Operational:47]]

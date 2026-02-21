@@ -14,7 +14,7 @@ Special: Auto-fire
 
 # ASP-9 Vrelt Autopistol
 
-Common throughout the Corellian system, Talus Ironworks' ASP-9 is intended for pest control in rural areas. More information about the weapon available on the Wookieepedia article.ASP-9 VRELT AUTOPISTOL[1][2][]
+Common throughout the Corellian system, Talus Ironworks' ASP-9 is intended for pest control in rural areas. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:25]]

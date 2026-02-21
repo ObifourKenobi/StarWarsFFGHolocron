@@ -14,7 +14,7 @@ Special: Stun Damage
 
 # KO-2 Heavy Stun Pistol
 
-The Palandrix KO-2 heavy stun pistol is a favored weapon of law enforcement agencies throughout the Core Worlds.More information about the weapon available on the Wookieepedia article.KO-2 HEAVY STUN PISTOL[1][2][]
+The Palandrix KO-2 heavy stun pistol is a favored weapon of law enforcement agencies throughout the Core Worlds.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:16]]

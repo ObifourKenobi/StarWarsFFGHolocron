@@ -14,7 +14,7 @@ Special: Defensive 1, Pierce 4
 
 # Vibrorapier
 
-A long, light, slender-bladed vibrosword, a vibrorapier is extremely well-balanced and suited for professional artists of the blade.  More information about the weapon available on the Wookieepedia article.VIBRORAPIER[1][2][]
+A long, light, slender-bladed vibrosword, a vibrorapier is extremely well-balanced and suited for professional artists of the blade.  
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:53]]

@@ -14,7 +14,7 @@ Special: Linked 1, Unwieldy 3
 
 # Double-Bladed Lightsaber Hilt
 
-More information about the weapon available on the Wookieepedia article.DOUBLE-BLADED LIGHTSABER HILT[1][2][3][][A lightsaber hilt] requires a crystal to become a true weapon (otherwise they deal no damage, have no critical rating, and do not have many of their item qualities).
+[A lightsaber hilt] requires a crystal to become a true weapon (otherwise they deal no damage, have no critical rating, and do not have many of their item qualities).
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:46]]

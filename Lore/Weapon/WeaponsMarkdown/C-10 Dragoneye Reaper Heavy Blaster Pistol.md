@@ -14,7 +14,7 @@ Special: Stun setting
 
 # C-10 Dragoneye Reaper Heavy Blaster Pistol
 
-The C-10 Dragoneye Reaper features a large, carbine-like frame and barrel nearly identical to those of the SoroSuub Renegade and Caliban Model X. More information about the weapon available on the Wookieepedia article.C-10 DRAGONEYE REAPER HEAVY BLASTER PISTOL[1][2][]
+The C-10 Dragoneye Reaper features a large, carbine-like frame and barrel nearly identical to those of the SoroSuub Renegade and Caliban Model X. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:10]]

@@ -15,7 +15,7 @@ tags:
 ---
 # Cerean
 ## Special Abilities
-Cereans begin the game with one rank in [Vigilance](https://star-wars-rpg-ffg.fandom.com/wiki/Vigilance_\(Will\) "Vigilance (Will)"). They still may not train [Vigilance](https://star-wars-rpg-ffg.fandom.com/wiki/Vigilance_\(Will\) "Vigilance (Will)") above rank 2 during character creation.
+Cereans begin the game with one rank in [[Vigilance]]. They still may not train [[Vigilance]] above rank 2 during character creation.
 ## Additional information
 - **Binary Processing:** Cereans treat all [Knowledge skills](https://star-wars-rpg-ffg.fandom.com/wiki/Category:Knowledge_Skills "Category:Knowledge Skills") as career skills.
 ## Sources

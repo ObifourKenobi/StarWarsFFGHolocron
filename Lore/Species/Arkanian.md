@@ -15,7 +15,7 @@ tags:
 ---
 # Arkanian
 ## Special Abilities
-Arkanians begin the game with one rank in [Medicine](https://star-wars-rpg-ffg.fandom.com/wiki/Medicine_\(Int\) "Medicine (Int)"). They still cannot train [Medicine](https://star-wars-rpg-ffg.fandom.com/wiki/Medicine_\(Int\) "Medicine (Int)") above rank 2 during character creation.
+Arkanians begin the game with one rank in [[Medicine]]. They still cannot train [[Medicine]] above rank 2 during character creation.
 ## Additional information
 - **Dark Vision:** When making skill checks, Arkanians remove up to two #StarWarsSetback dice due to darkness.
 ## Sources

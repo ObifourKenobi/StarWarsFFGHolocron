@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Multi-Goo Gun
 Skill: Ranged (Light)
 Dam: 2
@@ -18,4 +18,3 @@ The multi-goo gun, an all-in-one spray injector, has a self-cleaning element tha
 
 ## Source
 [[Special Modifications|Special Modifications:45]]
-[[Special Modifications (Page 45-46)|Special Modifications (Page 45-46):N/A]]

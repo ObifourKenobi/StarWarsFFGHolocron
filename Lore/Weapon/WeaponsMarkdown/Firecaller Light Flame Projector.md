@@ -14,7 +14,7 @@ Special: Blast 2, Burn 2, Pierce 2, Vicious 3
 
 # Firecaller Light Flame Projector
 
-Packing the devastation of a flame projector into the compact frame of a pistol, Merr-Sonn's Firecaller light flame projector is banned throughout most of civilized space. More information about the weapon available on the Wookieepedia article.FIRECALLER LIGHT FLAME PROJECTOR[1][2][]
+Packing the devastation of a flame projector into the compact frame of a pistol, Merr-Sonn's Firecaller light flame projector is banned throughout most of civilized space. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:33]]

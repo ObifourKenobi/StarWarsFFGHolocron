@@ -17,4 +17,4 @@ Special: Cortosis, Sunder, Vicious 2
 The traditional accompaniement to the beskad, the kal is a short, deadly dagger typically wielded in a user's off hand.More information about the weapon available on the Wookieepedia article.KAL[1][]
 
 ## Source
-[[Collapse of the Republic : An Era Sourcebook|Collapse of the Republic : An Era Sourcebook:53]]
+[[Collapse of the Republic|Collapse of the Republic:53]]

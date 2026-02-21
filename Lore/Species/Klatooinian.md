@@ -15,6 +15,6 @@ tags:
 ---
 # Klatooinian
 ## Special Abilities
-Klatooinians begin the game with one rank in either [Brawl](https://star-wars-rpg-ffg.fandom.com/wiki/Brawl_\(Br\) "Brawl (Br)") or [[Ranged-Heavy]] or [[Ranged-Light]]. In addition, a Klatooinian starts the game with one additional rank of one non-career skill of [their] choice. [They] may not train any of these skills above rank 2 during character creation.
+Klatooinians begin the game with one rank in either [[Brawl]] or [[Ranged-Heavy]] or [[Ranged-Light]]. In addition, a Klatooinian starts the game with one additional rank of one non-career skill of [their] choice. [They] may not train any of these skills above rank 2 during character creation.
 ## Sources
 - [[Dangerous Covenants]]:20-22

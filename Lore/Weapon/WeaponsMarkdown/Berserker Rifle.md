@@ -14,7 +14,7 @@ Special: Burn 1, Cumbersome 3, Disorient 1
 
 # Berserker Rifle
 
-Similar in design to the Wookiee bowcaster, the berserker rifle magnetically accelerates electrically charge metal slugs at high speed toward targets. More information about the weapon available on the Wookieepedia article.BERSERKER RIFLE[1][2][]
+Similar in design to the Wookiee bowcaster, the berserker rifle magnetically accelerates electrically charge metal slugs at high speed toward targets. 
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:25]]

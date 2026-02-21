@@ -15,8 +15,8 @@ tags:
 ---
 # Thisspiasian
 ## Special Abilities
-Thisspiasians begin the game with one rank in [Discipline](https://star-wars-rpg-ffg.fandom.com/wiki/Discipline_\(Will\) "Discipline (Will)"). They still may not train [Discipline](https://star-wars-rpg-ffg.fandom.com/wiki/Discipline_\(Will\) "Discipline (Will)") above rank 2 during character creation.
+Thisspiasians begin the game with one rank in [[Discipline]]. They still may not train [[Discipline]] above rank 2 during character creation.
 ## Additional information
-- **Rest and Meditation:** Thisspiassians need very little sleep to function. They only need to sleep for two hours to heal all strain they are suffering from, instead of for a full night sleep (they cannot sleep multiple times a day however!). In addition, once per session Thisspiasians may spend ten minutes meditating; if they do so, they heal strain equal to twice their ranks in [Discipline](https://star-wars-rpg-ffg.fandom.com/wiki/Discipline_\(Will\) "Discipline (Will)").
+- **Rest and Meditation:** Thisspiassians need very little sleep to function. They only need to sleep for two hours to heal all strain they are suffering from, instead of for a full night sleep (they cannot sleep multiple times a day however!). In addition, once per session Thisspiasians may spend ten minutes meditating; if they do so, they heal strain equal to twice their ranks in [[Discipline]].
 ## Sources
 - [[Unlimited Power]]:18-20
