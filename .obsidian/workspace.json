@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Weapon/WeaponsMarkdown/Neuronic Whip.md",
+                "file": "Lore/Weapon/WeaponsMarkdown/M8 Combat Knife.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Neuronic Whip"
+              "title": "M8 Combat Knife"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Weapon/WeaponsMarkdown/Neuronic Whip.md",
+                "file": "Lore/Weapon/WeaponsMarkdown/M8 Combat Knife.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Neuronic Whip"
+              "title": "Rétrolien pour M8 Combat Knife"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Weapon/WeaponsMarkdown/Neuronic Whip.md",
+                "file": "Lore/Weapon/WeaponsMarkdown/M8 Combat Knife.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Neuronic Whip"
+              "title": "Liens sortants de M8 Combat Knife"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Weapon/WeaponsMarkdown/Neuronic Whip.md",
+                "file": "Lore/Weapon/WeaponsMarkdown/M8 Combat Knife.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Neuronic Whip"
+              "title": "Plan de M8 Combat Knife"
             }
           }
         ]
@@ -186,7 +186,14 @@
   },
   "active": "7550935cb0dfa2bc",
   "lastOpenFiles": [
+    "Lore/Weapon/WeaponsMarkdown/Model 14 Stalker Vibrospear.md",
+    "Lore/Weapon/WeaponsMarkdown/Mon Calamari Energy Lance.md",
+    "Lore/Weapon/WeaponsMarkdown/Needle Gloves.md",
+    "Lore/Weapon/WeaponsMarkdown/MSW-9 Molecular Stiletto.md",
+    "Lore/Weapon/WeaponsMarkdown/MSW-12 NanoDagger.md",
+    "Lore/Weapon/WeaponsMarkdown/MWC-35c Staccato Lightning Repeating Cannon.md",
     "Lore/Weapon/WeaponsMarkdown/N-4 Noise Grenade.md",
+    "Lore/Weapon/WeaponsMarkdown/Neuronic Whip.md",
     "Lore/Weapon/WeaponsMarkdown/A280-CFE Convertible Heavy Blaster Pistol.md",
     "Lore/Weapon/WeaponsMarkdown/'aKraB Clip-point Vibrodagger.md",
     "Lore/Books.base",
@@ -206,13 +213,6 @@
     "Lore/Skills/Streetwise.md",
     "Lore/Skills/Skulduggery.md",
     "Lore/Skills/Perception.md",
-    "Lore/Skills/Deception.md",
-    "Lore/Skills/Discipline.md",
-    "Lore/Skills/Stealth.md",
-    "Lore/Skills/Ranged-Light.md",
-    "Lore/Skills/Ranged-Heavy.md",
-    "Lore/Skills/Piloting-Space.md",
-    "Lore/Skills/Piloting-Planetary.md",
     "Sans titre.canvas",
     "Lore/Weapon/WeaponsMarkdown",
     "Lore/Weapon",

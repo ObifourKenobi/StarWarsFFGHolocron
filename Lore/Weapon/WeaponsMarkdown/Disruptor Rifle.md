@@ -14,7 +14,7 @@ Special: Cumbersome 2, Vicious 5
 
 # Disruptor Rifle
 
-Among the earliest known energy weapons dated by archaeologists, disruptor rifles predate blaster technology, and like disruptor pistols, they can completely disintegrate organic matter. Disruptors may never benefit from upgrades or attachments that improve their range or grant multiple shots.[4][5]Whenever a target is hit with a disruptor, any Critical Injury results in a Crippled effect, unless the roll would result in a more grievous injury.
+Among the earliest known energy weapons dated by archaeologists, disruptor rifles predate blaster technology, and like disruptor pistols, they can completely disintegrate organic matter. Disruptors may never benefit from upgrades or attachments that improve their range or grant multiple shots. Whenever a target is hit with a disruptor, any Critical Injury results in a Crippled effect, unless the roll would result in a more grievous injury.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:12]]
