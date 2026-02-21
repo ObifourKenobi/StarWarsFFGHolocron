@@ -1,4 +1,7 @@
-﻿This skill governs a character's ability to use all aspects of a computer system, such as browsing HoloNet or repairing/conducting maintenance on the coding structures. This may be rolled in situations regarding;
+---
+base: [[Intellect]]
+---
+This skill governs a character's ability to use all aspects of a computer system, such as browsing HoloNet or repairing/conducting maintenance on the coding structures. This may be rolled in situations regarding;
 
 - Bypassing the security systems of a computer.
 - Searching through public or encrypted records on HoloNet.
@@ -23,3 +26,4 @@ Specializations with Computers  as a class skill
 - Slicer
 - Strategist
 - Thief
+

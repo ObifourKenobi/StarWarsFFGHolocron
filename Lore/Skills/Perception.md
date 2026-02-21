@@ -1,4 +1,8 @@
-﻿This skill represents a character's ability to notice subtle clues and things out of place which may hint to an impending event. It is used in rolls regarding;
+---
+base: [[Cunning]]
+category: General
+---
+This skill represents a character's ability to notice subtle clues and things out of place which may hint to an impending event. It is used in rolls regarding;
 
 - Noticing someone who is trying to stealth around.
 - Noticing when someone is attempting underhanded techniques through Skulduggery.
@@ -52,3 +56,4 @@ Universal Specializations with Perception as a class skill
 - Scavenger
 Talents which turn Melee into a career skill
 - Insight talent
+

@@ -1,4 +1,8 @@
-﻿This skill represents a character's ability to take notice of events happening in their surroundings and peripheral vision. It may be used in rolls such as;
+---
+base: [[Willpower]]
+category: General
+---
+This skill represents a character's ability to take notice of events happening in their surroundings and peripheral vision. It may be used in rolls such as;
 
 - To calculate initiative if a character is unprepared.
 - The preparedness for any activity.
@@ -36,3 +40,4 @@ Universal Specializations with Vigilance as a class skill
 - Recruit
 - Retired Clone Trooper
 - Separatist Commander
+

@@ -1,4 +1,8 @@
-﻿This skill represents a character's knowledge about the worlds of the Outer Rim, such as the Hutt territories. It is used in rolls about;
+---
+base: [[Intellect]]
+category: Knowledge
+---
+This skill represents a character's knowledge about the worlds of the Outer Rim, such as the Hutt territories. It is used in rolls about;
 
 - Finding a planet with a specific resource or service in the Outer Rim.
 - Finding the location to obtain critical supplies, out of Imperial control.
@@ -30,3 +34,4 @@ Universal Specializations with Knowledge (Outer Rim) as a class skill
 - Republic Representative (can choose any one knowledge skill)
 Talents which turn Knowledge (Outer Rim) into a career skill
 - Well Traveled talent
+

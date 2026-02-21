@@ -1,4 +1,8 @@
-﻿This skill is the character's ability to command and lead a group of people, being firm and decisive. It may be used for rolls regarding;
+---
+base: [[Presence]]
+category: General
+---
+This skill is the character's ability to command and lead a group of people, being firm and decisive. It may be used for rolls regarding;
 
 - Rallying fearful allies.
 - Swaying a crowd politically.
@@ -28,3 +32,4 @@ Universal Specializations with Leadership as a class skill
 - Republic Navy Officer
 - Separatist Commander
 - Ship Captain
+

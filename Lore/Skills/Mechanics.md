@@ -1,4 +1,7 @@
-﻿This skill represents a characters ability and prowess in working on all things from weapons to droids and ships. It is used in rolls involved with;
+﻿---
+base: ""
+---
+This skill represents a characters ability and prowess in working on all things from weapons to droids and ships. It is used in rolls involved with;
 
 - Repairing damaged devices.
 - Determining the cost of items necessary for repairs and crafting.
@@ -31,3 +34,4 @@ Specializations with Mechanics as a class skill
 Universal Specializations with Mechanics  as a class skill
 - Death Watch Warrior
 - Scavenger
+

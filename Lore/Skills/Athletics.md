@@ -1,4 +1,8 @@
-﻿This skill is a measure of the character's overall fitness and physical condition. Used to demonstrate a character's physical strength and athletic ability. It may be used for rolls regarding;
+---
+base: [[Brawn]]
+category: General
+---
+This skill is a measure of the character's overall fitness and physical condition. Used to demonstrate a character's physical strength and athletic ability. It may be used for rolls regarding;
 
 - Any attempts at vertical movement; including climbing, leaping, falling and so on.
 - Swimming in difficult conditions such as rapids or a rip-tide.
@@ -27,3 +31,4 @@ Specializations with Athletics as a class skill
 - Vanguard
 Universal Specializations with Athletics as a class skill
 - Recruit
+

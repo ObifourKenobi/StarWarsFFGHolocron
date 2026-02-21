@@ -1,4 +1,8 @@
-﻿This social skill judges the character's ability to trick others into believing falsehoods. It is used against Discipline, and may be rolled in situations such as;
+---
+base: [[Cunning]]
+category: General
+---
+This social skill judges the character's ability to trick others into believing falsehoods. It is used against Discipline, and may be rolled in situations such as;
 
 - Misleading a buyer on the worth of an item.
 - Distracting an opponent.
@@ -26,3 +30,4 @@ Specializations with Deception as a class skill
 Universal Specializations with Deception as a class skill
 - Pirate
 - Senator
+

@@ -1,4 +1,8 @@
-﻿This skill determines the ability for the body of a character to handle over-extension, sleep deprivation and hazardous environments including poisons. It is rolled in situations such as;
+---
+base: [[Brawn]]
+category: General
+---
+This skill determines the ability for the body of a character to handle over-extension, sleep deprivation and hazardous environments including poisons. It is rolled in situations such as;
 
 - Going without sleep for an extended period of time.
 - Ingesting a toxin.
@@ -28,3 +32,4 @@ Specializations with Resilience as a class skill
 - Vanguard
 Universal Specializations with Resilience as a class skill
 - Retired Clone Trooper
+

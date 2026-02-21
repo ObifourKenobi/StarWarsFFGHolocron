@@ -60,6 +60,6 @@ The basic power for Unleash lets a character blast an enemy with a surge of mani
 
 **Range Upgrade:** The Range upgrade improves both Protect and Unleash in the same way. Spend two Force points ( #StarWarsLightDark #StarWarsLightDark ) to increase the maximum range at which the Force user can affect targets with this power by a number of range bands equal to the number of Range upgrades purchased. The user may activate this multiple times, increasing the range by this number each time.
 
-**Strength Upgrade:** The [[Strength]] upgrade improves both Protect and Unleash. Spend a Force point ( #StarWarsLightDark ) to increase the damage reduced by Protect by 1 per Strength upgrade for this use, or spend a Force point ( #StarWarsLightDark ) to add 1 damage per Strength upgrade to the base damage of Unleash for this attack. The user may activate this multiple times.
+**Strength Upgrade:** The Strength upgrade improves both Protect and Unleash. Spend a Force point ( #StarWarsLightDark ) to increase the damage reduced by Protect by 1 per Strength upgrade for this use, or spend a Force point ( #StarWarsLightDark ) to add 1 damage per Strength upgrade to the base damage of Unleash for this attack. The user may activate this multiple times.
 # Source 
  [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:300]]

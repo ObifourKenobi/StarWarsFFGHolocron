@@ -1,4 +1,8 @@
-﻿This skill represents a character's ability to remain calm in the face of danger. Maintaining one's cool is rolled for in situations such as;
+---
+base: [[Presence]]
+category: General
+---
+This skill represents a character's ability to remain calm in the face of danger. Maintaining one's cool is rolled for in situations such as;
 
 - Resisting the effects of Charm and Negotiation.
 - For calculating initiative if they have prepared for combat mentally.
@@ -36,3 +40,4 @@ Specializations with Cool as a class skill
 - Vanguard
 Universal Specializations with Cool as a class skill
 - Republic Representative
+

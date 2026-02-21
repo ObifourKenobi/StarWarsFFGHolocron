@@ -1,4 +1,7 @@
-﻿This skill represents a character's ability to perform medical procedures. It is used in rolls involving;
+---
+base: [[Intellect]]
+---
+This skill represents a character's ability to perform medical procedures. It is used in rolls involving;
 
 - Routine first aid, including with the use of MedPacs.
 - Treating a poison or poisoning someone.
@@ -20,3 +23,4 @@ Specializations with Medicine as a class skill
 - Protector
 - Scientist
 - Scout
+

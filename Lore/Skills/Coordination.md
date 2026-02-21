@@ -1,4 +1,8 @@
-﻿This skill is used in addition to Athletics, measuring a character's nimbleness and swiftness - i.e. flexibility. It is used in rolls regarding;
+---
+base: [[Agility]]
+category: General
+---
+This skill is used in addition to Athletics, measuring a character's nimbleness and swiftness - i.e. flexibility. It is used in rolls regarding;
 
 - Reducing damage from a fall.
 - Balancing on an unstable or narrow surface.
@@ -23,3 +27,4 @@ Specializations with Coordination as a class skill
 - Sentry
 - Shii-Cho Knight
 - Steel Hand Adept
+

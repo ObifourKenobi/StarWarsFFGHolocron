@@ -1,4 +1,8 @@
-﻿This skill represents a character's ability to live in the wilderness and a hostile environment. It is used in rolls involving;
+---
+base: [[Cunning]]
+category: General
+---
+This skill represents a character's ability to live in the wilderness and a hostile environment. It is used in rolls involving;
 
 - Identifying safe food, water and shelter.
 - Recognizing imminent dangerous weather conditions.
@@ -28,3 +32,4 @@ Universal Specializations with Survival as a class skill
 - Nightsister
 - Recruit
 - Scavenger
+

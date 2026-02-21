@@ -1,4 +1,8 @@
-﻿This skill represents a character's sleight of hand and overall proficiency in underhanded criminal techniques such as physically picking a lock or pickpocketing. It is rolled in situations such as;
+---
+base: [[Cunning]]
+category: General
+---
+This skill represents a character's sleight of hand and overall proficiency in underhanded criminal techniques such as physically picking a lock or pickpocketing. It is rolled in situations such as;
 
 - Picking a lock or pocket. Electronic locks may also require Computers skill.
 - Escaping a cell.
@@ -22,3 +26,4 @@ Specializations with Skulduggery as a class skill
 - Thief
 Universal Specializations with Skulduggery as a class skill
 - Pirate
+

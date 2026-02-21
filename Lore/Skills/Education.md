@@ -1,4 +1,8 @@
-﻿This skill encompasses a character's background knowledge from growing up and going to school or university. It is used in rolls such as;
+---
+base: [[Intellect]]
+category: Knowledge
+---
+This skill encompasses a character's background knowledge from growing up and going to school or university. It is used in rolls such as;
 
 - Interacting with a government entity.
 - Basic scientific knowledge needed in an analysis.
@@ -28,3 +32,4 @@ Specializations with Knowledge (Education)  as a class skill
 Universal Specializations with Knowledge (Education)  as a class skill
 - Republic Representative (can choose any one knowledge skill)
 - Senator
+

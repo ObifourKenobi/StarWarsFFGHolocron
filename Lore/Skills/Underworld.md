@@ -1,4 +1,8 @@
-﻿This skill determines a character's understanding of the workings of the underworld and criminals. It may be used in rolls such as;
+---
+base: [[Intellect]]
+category: Knowledge
+---
+This skill determines a character's understanding of the workings of the underworld and criminals. It may be used in rolls such as;
 
 - Knowing which criminal activity is present on a planet, and who governs it.
 - Determining the most common methods an opponent may use for a certain crime.
@@ -22,3 +26,4 @@ Specializations with Knowledge (Underworld) as a class skill
 Universal Specializations with Knowledge (Underworld) as a class skill
 - Pirate
 - Republic Representative (can choose any one knowledge skill)
+

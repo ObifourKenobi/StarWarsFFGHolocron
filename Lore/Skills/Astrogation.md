@@ -1,4 +1,7 @@
-﻿This skill represents the character's knowledge about the galaxy's stellar make-up as to allow for correct plotting of routes & making hyperspace jumps. May be used in rolls regarding;
+---
+base: [[Intellect]]
+---
+This skill represents the character's knowledge about the galaxy's stellar make-up as to allow for correct plotting of routes & making hyperspace jumps. May be used in rolls regarding;
 
 - Programming the NaviComputer for a hyperspace jump.
 - Knowledge about the galactic geography.
@@ -19,3 +22,4 @@ Specializations with Astrogation as a class skill
 - Starfighter Ace
 Universal Specializations with Astrogation as a class skill
 - Republic Navy Officer
+

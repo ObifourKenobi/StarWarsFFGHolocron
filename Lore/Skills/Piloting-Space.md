@@ -1,4 +1,8 @@
-﻿This skill represents a character's ability to pilot starships and other stellar vessels. Rolls involving this skill tend to revolve around;
+---
+base: [[Agility]]
+category: General
+---
+This skill represents a character's ability to pilot starships and other stellar vessels. Rolls involving this skill tend to revolve around;
 
 - Chases and races using starships.
 - Navigating hazardous areas such as asteroid fields.
@@ -37,3 +41,4 @@ Universal Specializations with Piloting - Space as a class skill
 - Ship Captain
 Talents which turn Piloting - Space into a career skill
 - Pilot Training talent
+

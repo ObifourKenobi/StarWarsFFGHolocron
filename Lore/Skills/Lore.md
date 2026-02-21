@@ -1,4 +1,8 @@
-﻿This skill represents a character's knowledge of the ancient galaxy and its history. It may be used in rolls involving;
+---
+base: [[Intellect]]
+category: Knowledge
+---
+This skill represents a character's knowledge of the ancient galaxy and its history. It may be used in rolls involving;
 
 - Deciphering an ancient piece of writing.
 - Knowledge of the exploits of an ancient hero or figure.
@@ -34,3 +38,4 @@ Universal Specializations with Knowledge (Lore) as a class skill
 - Republic Representative (can choose any one knowledge skill)
 Talents which turn Knowledge (Lore) into a career skill
 - Secrets Of The Force talent
+

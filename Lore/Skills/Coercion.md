@@ -1,4 +1,8 @@
-﻿This social skill is a character's ability to intimidate or threaten another into submission. The skill may be used (against Discipline) in a roll regarding;
+---
+base: [[Willpower]]
+category: General
+---
+This social skill is a character's ability to intimidate or threaten another into submission. The skill may be used (against Discipline) in a roll regarding;
 
 - Whenever a threat is issued by the character, even implied.
 - Questioning a target in captivity.
@@ -25,3 +29,4 @@ Universal Specializations with Coercion  as a class skill
 - Death Watch Warrior
 - Pirate
 - Separatist Commander
+

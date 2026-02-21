@@ -1,3 +1,7 @@
+---
+base: [[Intellect]]
+category: Knowledge
+---
 This skill determines a character's knowledge on the differences between different species, fauna and flora of the galaxy. It may be used in rolls such as;
 
 - Figuring out how to interact with an individual of a different race.
@@ -19,3 +23,4 @@ Specializations with Knowledge (Xenology) as a class skill
 - Survivalist
 Universal Specializations with Knowledge (Xenology) as a class skill
 - Republic Representative (can choose any one knowledge skill)
+

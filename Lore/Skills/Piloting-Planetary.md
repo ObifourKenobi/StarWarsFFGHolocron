@@ -1,4 +1,8 @@
-﻿This skill represents a character's ability to drive and fly atmospheric walkers and speeders in any condition and even when damaged. It is used in rolls such as;
+---
+base: [[Agility]]
+category: General
+---
+This skill represents a character's ability to drive and fly atmospheric walkers and speeders in any condition and even when damaged. It is used in rolls such as;
 
 - Using a completely foreign vehicle and having to figure out the controls.
 - Racing and chases at a world's surface.
@@ -36,3 +40,4 @@ Universal Specializations with Piloting - Planetary as a class skill
 Talents which turn Piloting - Planetary into a career skill
 - Pilot Training talent
 - Vehicle Combat Training talent
+

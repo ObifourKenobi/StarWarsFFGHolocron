@@ -1,4 +1,8 @@
-﻿This skill is representative of a character's ability to blend in with their surroundings and appear inconspicuous. It may be used in rolls regarding;
+---
+base: [[Agility]]
+category: General
+---
+This skill is representative of a character's ability to blend in with their surroundings and appear inconspicuous. It may be used in rolls regarding;
 
 - Hiding from an opponent's senses, against their Vigilance skill.
 - Shadowing individuals.
@@ -20,3 +24,4 @@ Specializations with Stealth as a class skill
 - Trailblazer
 Universal Specializations with Stealth as a class skill
 - Nightsister
+

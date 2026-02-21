@@ -1,4 +1,8 @@
-﻿This social skill represents a character's ability to barter and keep their cool when trading. This skill is used in rolls involving;
+---
+base: [[Presence]]
+category: General
+---
+This social skill represents a character's ability to barter and keep their cool when trading. This skill is used in rolls involving;
 
 - Purchasing goods for any less than the advertised price.
 - Selling goods.
@@ -26,3 +30,4 @@ Universal Specializations with Negotiation  as a class skill
 - Republic Representative
 - Senator
 - Ship Captain
+

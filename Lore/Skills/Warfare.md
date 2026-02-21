@@ -1,4 +1,8 @@
-﻿This skill governs a character's knowledge of the art of war, such as tactical movement of armies and strategic position or direction. It may be used in rolls regarding;
+---
+base: [[Intellect]]
+category: Knowledge
+---
+This skill governs a character's knowledge of the art of war, such as tactical movement of armies and strategic position or direction. It may be used in rolls regarding;
 
 - Figuring out the best tactic for a certain battlefield.
 - Remembering details about a significant battle or war.
@@ -20,3 +24,4 @@ Universal Specializations with Knowledge (Warfare) as a class skill
 - Republic Representative (can choose any one knowledge skill)
 - Retired Clone Trooper
 - Separatist Commander
+
