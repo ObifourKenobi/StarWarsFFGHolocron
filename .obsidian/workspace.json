@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Weapon/WeaponsMarkdown/M8 Combat Knife.md",
-                "mode": "source",
+                "file": "Lore/Careers/Explorer.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "M8 Combat Knife"
+              "title": "Explorer"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Weapon/WeaponsMarkdown/M8 Combat Knife.md",
+                "file": "Lore/Careers/Explorer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour M8 Combat Knife"
+              "title": "Rétrolien pour Explorer"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Weapon/WeaponsMarkdown/M8 Combat Knife.md",
+                "file": "Lore/Careers/Explorer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de M8 Combat Knife"
+              "title": "Liens sortants de Explorer"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Weapon/WeaponsMarkdown/M8 Combat Knife.md",
+                "file": "Lore/Careers/Explorer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de M8 Combat Knife"
+              "title": "Plan de Explorer"
             }
           }
         ]
@@ -186,33 +186,33 @@
   },
   "active": "7550935cb0dfa2bc",
   "lastOpenFiles": [
-    "Lore/Weapon/WeaponsMarkdown/Model 14 Stalker Vibrospear.md",
-    "Lore/Weapon/WeaponsMarkdown/Mon Calamari Energy Lance.md",
-    "Lore/Weapon/WeaponsMarkdown/Needle Gloves.md",
-    "Lore/Weapon/WeaponsMarkdown/MSW-9 Molecular Stiletto.md",
-    "Lore/Weapon/WeaponsMarkdown/MSW-12 NanoDagger.md",
-    "Lore/Weapon/WeaponsMarkdown/MWC-35c Staccato Lightning Repeating Cannon.md",
-    "Lore/Weapon/WeaponsMarkdown/N-4 Noise Grenade.md",
-    "Lore/Weapon/WeaponsMarkdown/Neuronic Whip.md",
-    "Lore/Weapon/WeaponsMarkdown/A280-CFE Convertible Heavy Blaster Pistol.md",
-    "Lore/Weapon/WeaponsMarkdown/'aKraB Clip-point Vibrodagger.md",
+    "Lore/Careers/Colonist.md",
+    "Lore/Careers/Explorer.md",
+    "Lore/Careers/Hired Gun.md",
+    "Lore/Careers/Bounty Hunter.md",
+    "Lore/Talents/Nobody's Fool.md",
+    "Lore/Skills/Athletics.md",
     "Lore/Books.base",
+    "Lore/Weapon/1.8 FD Anti-Infantry Autoturret.md",
+    "Lore/ItemQualities/Burn.md",
+    "Lore/Weapon/aKraB Clip-point Vibrodagger.md",
+    "Lore/Weapon/M8 Combat Knife.md",
+    "Lore/Weapon/Model 14 Stalker Vibrospear.md",
+    "Lore/Weapon/Mon Calamari Energy Lance.md",
+    "Lore/Weapon/Needle Gloves.md",
+    "Lore/Weapon/MSW-9 Molecular Stiletto.md",
+    "Lore/Weapon/MSW-12 NanoDagger.md",
+    "Lore/Weapon/MWC-35c Staccato Lightning Repeating Cannon.md",
+    "Lore/Weapon/N-4 Noise Grenade.md",
+    "Lore/Weapon/Neuronic Whip.md",
+    "Lore/Weapon/A280-CFE Convertible Heavy Blaster Pistol.md",
+    "Lore/Weapon/WeaponsMarkdown/'aKraB Clip-point Vibrodagger.md",
     "Lore/Pictogram.md",
     "Lore/Talents/As The Force Wills It.md",
     "Lore/Talents/Animal Empathy.md",
     "Lore/Talents/Altered Deal.md",
     "Lore/Talents/All-Terrain Driver.md",
     "Lore/Talents/Against All Odds.md",
-    "Lore/Careers/Bounty Hunter.md",
-    "Lore/Talents/Soft Spot.md",
-    "Lore/Force Power/Protect Unleash.md",
-    "Lore/Species/Skakoan.md",
-    "Lore/Skills/Lore.md",
-    "Lore/Skills/Outer Rim.md",
-    "Lore/Skills/Survival.md",
-    "Lore/Skills/Streetwise.md",
-    "Lore/Skills/Skulduggery.md",
-    "Lore/Skills/Perception.md",
     "Sans titre.canvas",
     "Lore/Weapon/WeaponsMarkdown",
     "Lore/Weapon",
