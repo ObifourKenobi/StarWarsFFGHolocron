@@ -1,5 +1,6 @@
 ---
-base: [[Intellect]]
+base: "[[Intellect]]"
+category: General
 ---
 This skill represents a character's ability to perform medical procedures. It is used in rolls involving;
 

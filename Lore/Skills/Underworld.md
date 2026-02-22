@@ -1,5 +1,5 @@
 ---
-base: [[Intellect]]
+base: "[[Intellect]]"
 category: Knowledge
 ---
 This skill determines a character's understanding of the workings of the underworld and criminals. It may be used in rolls such as;

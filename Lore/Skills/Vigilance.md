@@ -1,5 +1,5 @@
 ---
-base: [[Willpower]]
+base: "[[Willpower]]"
 category: General
 ---
 This skill represents a character's ability to take notice of events happening in their surroundings and peripheral vision. It may be used in rolls such as;

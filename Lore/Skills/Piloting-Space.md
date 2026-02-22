@@ -1,5 +1,5 @@
 ---
-base: [[Agility]]
+base: "[[Agility]]"
 category: General
 ---
 This skill represents a character's ability to pilot starships and other stellar vessels. Rolls involving this skill tend to revolve around;

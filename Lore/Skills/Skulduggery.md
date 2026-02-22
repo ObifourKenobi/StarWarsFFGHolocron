@@ -1,5 +1,5 @@
 ---
-base: [[Cunning]]
+base: "[[Cunning]]"
 category: General
 ---
 This skill represents a character's sleight of hand and overall proficiency in underhanded criminal techniques such as physically picking a lock or pickpocketing. It is rolled in situations such as;

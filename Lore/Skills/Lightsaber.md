@@ -1,5 +1,5 @@
 ---
-base: [[Brawn]]
+base: "[[Brawn]]"
 category: Combat
 ---
 Lightsabers ( and their derivatives ) are quite unlike any other weapons in the galaxy. While most close-combat weapons have some sort of blade or striking edge attached to a grip or handle, an inactive lightsaber seems to be nothing more than a simple weapon hilt. However, when activated, the hilt projects a humming "blade" of intense energy. Such weapons are difficult for even an accomplished sword fighter to use and require a very unique set of skills.

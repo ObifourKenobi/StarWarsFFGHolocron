@@ -1,5 +1,5 @@
 ---
-base: [[Intellect]]
+base: "[[Intellect]]"
 category: Knowledge
 ---
 This skill represents a character's knowledge of the ancient galaxy and its history. It may be used in rolls involving;

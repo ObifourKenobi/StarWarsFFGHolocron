@@ -1,5 +1,5 @@
 ---
-base: [[Presence]]
+base: "[[Presence]]"
 category: General
 ---
 This social skill measures the character's ability to make just the right compliments and say just the right things to bring people onto their side. Rolls for this skill may be used in regards to;

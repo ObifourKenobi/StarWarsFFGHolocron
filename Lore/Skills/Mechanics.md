@@ -1,5 +1,6 @@
-﻿---
-base: ""
+---
+base: "[[Intellect]]"
+category: General
 ---
 This skill represents a characters ability and prowess in working on all things from weapons to droids and ships. It is used in rolls involved with;
 

@@ -1,5 +1,5 @@
 ---
-base: [[Brawn]]
+base: "[[Brawn]]"
 category: General
 ---
 This skill is a measure of the character's overall fitness and physical condition. Used to demonstrate a character's physical strength and athletic ability. It may be used for rolls regarding;

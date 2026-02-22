@@ -1,5 +1,5 @@
 ---
-base: [[Cunning]]
+base: "[[Cunning]]"
 category: General
 ---
 This social skill judges the character's ability to trick others into believing falsehoods. It is used against Discipline, and may be rolled in situations such as;

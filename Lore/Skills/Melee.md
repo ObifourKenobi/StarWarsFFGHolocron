@@ -1,5 +1,5 @@
 ---
-base: [[Brawn]]
+base: "[[Brawn]]"
 category: Combat
 ---
 All ranged weapons require some sort of ammunition, and many are loud. They typically have fragile components or require regular maintenance, which may require its own set of tools. By contrast, most Melee weapons are inexpensive, virtually silent, and require little maintenance and no power beyond the strength of their wielder's limbs.

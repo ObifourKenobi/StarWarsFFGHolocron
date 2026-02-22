@@ -1,5 +1,5 @@
 ---
-base: [[Agility]]
+base: "[[Agility]]"
 category: Combat
 ---
 When fired upon a target at range, weapons that are held with two hands offer a more stable firing platform than those that are held in a single hand. These also often have longer barrels, providing a consistent fire pattern out to a much longer range. In the larger space required for such armaments, designers can often include a significantly larger ammunition reserve and may also make the weapon far more potent than smaller weapons. This combination can yield weapons that are substantially more deadly and accurate.

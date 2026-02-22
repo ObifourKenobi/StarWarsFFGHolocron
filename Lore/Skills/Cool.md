@@ -1,5 +1,5 @@
 ---
-base: [[Presence]]
+base: "[[Presence]]"
 category: General
 ---
 This skill represents a character's ability to remain calm in the face of danger. Maintaining one's cool is rolled for in situations such as;

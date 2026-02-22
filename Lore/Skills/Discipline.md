@@ -1,5 +1,5 @@
 ---
-base: [[Willpower]]
+base: "[[Willpower]]"
 category: General
 ---
 This skill is a character's ability to maintain their composure when faced with a surprising force. It is used to protect against the effects of Leadership, Coercion and Deception - rolled for in situations such as;

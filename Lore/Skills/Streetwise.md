@@ -1,5 +1,5 @@
 ---
-base: [[Cunning]]
+base: "[[Cunning]]"
 category: General
 ---
 This skill is a character's experience living and working through the underworld; understanding the criminal lingo. It is used in rolls involving;

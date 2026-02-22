@@ -1,5 +1,5 @@
 ---
-base: [[Agility]]
+base: "[[Agility]]"
 category: Combat
 ---
 This skill reflects the ability a character has at utilizing one handed weapons such as pistols, spears, nets, and grenades. Characters may wield a Ranged (light) weapon in each hand or a one-handed melee weapon and a ranged (light) weapon in the other.

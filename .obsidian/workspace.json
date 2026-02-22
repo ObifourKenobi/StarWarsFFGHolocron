@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Skills/Coercion.md",
+                "file": "templates/armor-template.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Coercion"
+              "title": "armor-template"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Skills/Coercion.md",
+                "file": "templates/armor-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Coercion"
+              "title": "Rétrolien pour armor-template"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Skills/Coercion.md",
+                "file": "templates/armor-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Coercion"
+              "title": "Liens sortants de armor-template"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Skills/Coercion.md",
+                "file": "templates/armor-template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Coercion"
+              "title": "Plan de armor-template"
             }
           },
           {
@@ -197,42 +197,42 @@
   },
   "active": "7550935cb0dfa2bc",
   "lastOpenFiles": [
-    "Lore/Skills/Athletics.md",
-    "Sans titre.canvas",
-    "Lore/Careers/Jedi.md",
-    "Lore/Careers/Hired Gun.md",
-    "Lore/Careers/Spy.md",
-    "Lore/Careers/Seeker.md",
-    "Lore/Careers/Clone Soldier.md",
-    "Lore/Careers/Warrior.md",
-    "Lore/ItemQualities/Tractor.md",
-    "Lore/Careers/Sentinel.md",
-    "Lore/Talents/One With Nature.md",
-    "Lore/Talents/One with the Universe.md",
-    "Lore/Talents/Second Chances.md",
-    "Lore/Careers/Mystic.md",
+    "armor/cloaking-coat.md",
+    "armor/mandalorian-armor.md",
+    "templates/armor-template.md",
+    "armor",
+    "Lore/Books/Cyphers and Masks.md",
+    "templates",
+    "Lore/Armor",
+    "Lore/Books/Age of Rebellion Core Rulebook.md",
     "Lore/Careers/Guardian.md",
-    "Lore/Talents/Body Guard.md",
-    "Lore/Careers/Consular.md",
-    "Lore/Careers/Commander.md",
-    "Lore/Skills/Cool.md",
-    "Lore/Careers/Soldier.md",
-    "Lore/Careers/Technician.md",
-    "Lore/Careers/Engineer.md",
-    "Lore/Careers/Explorer.md",
-    "Lore/Careers/Smuggler.md",
-    "Lore/Careers/Diplomat.md",
-    "Lore/Careers/Ace.md",
-    "Lore/Species/Arcona.md",
+    "Lore/Careers/Bounty Hunter.md",
+    "Lore/Characteristic/Brawn.md",
+    "Lore/Force Power/Heal Harm.md",
+    "Lore/Force Power/Battle Meditation.md",
+    "Lore/Weapon/1.8 FD Anti-Infantry Autoturret.md",
+    "Lore/Talents/A Step Ahead.md",
+    "Lore/Species/Aleena.md",
+    "Lore/Skills/Xenology.md",
+    "Lore/Skills/Warfare.md",
+    "Lore/Skills/Vigilance.md",
+    "Lore/Skills/Underworld.md",
+    "Lore/Skills/Survival.md",
+    "Lore/Skills/Streetwise.md",
+    "Lore/Skills/Stealth.md",
+    "Lore/Skills/Skulduggery.md",
+    "Lore/Skills/Resilience.md",
+    "Lore/Skills/Ranged-Light.md",
+    "Lore/Skills/Ranged-Heavy.md",
+    "Lore/Skills/Piloting-Space.md",
+    "Lore/Skills/Piloting-Planetary.md",
+    "Sans titre.canvas",
     "Lore/Books.base",
     "Lore/Weapon/WeaponsMarkdown",
     "Lore/Weapon",
     "Lore/test/WeaponsMarkdown",
     "Lore/test",
     "Lore/test/StarWarsWeapons",
-    "Lore/test/Weapons",
-    "Lore/ItemQualities",
-    "Lore/test/ItemQualities",
-    "Lore/Force Power/ForcePowers"
+    "Lore/test/Weapons"
   ]
 }

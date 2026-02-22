@@ -1,5 +1,5 @@
 ---
-base: [[Intellect]]
+base: "[[Intellect]]"
 category: Knowledge
 ---
 This skill represents a character's knowledge about the worlds of the Outer Rim, such as the Hutt territories. It is used in rolls about;

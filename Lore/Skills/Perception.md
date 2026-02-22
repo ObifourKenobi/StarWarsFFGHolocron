@@ -1,5 +1,5 @@
 ---
-base: [[Cunning]]
+base: "[[Cunning]]"
 category: General
 ---
 This skill represents a character's ability to notice subtle clues and things out of place which may hint to an impending event. It is used in rolls regarding;

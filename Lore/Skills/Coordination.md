@@ -1,5 +1,5 @@
 ---
-base: [[Agility]]
+base: "[[Agility]]"
 category: General
 ---
 This skill is used in addition to Athletics, measuring a character's nimbleness and swiftness - i.e. flexibility. It is used in rolls regarding;

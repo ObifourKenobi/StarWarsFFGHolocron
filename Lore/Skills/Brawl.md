@@ -1,5 +1,5 @@
 ---
-base: [[Brawn]]
+base: "[[Brawn]]"
 category: Combat
 ---
 This combat skill represents the ability of a character to fight hand-to-hand without weapons or through martial arts. This skill also can represent natural weapons, such as claws or horns.

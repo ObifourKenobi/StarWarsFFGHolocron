@@ -1,5 +1,5 @@
 ---
-base: [[Intellect]]
+base: "[[Intellect]]"
 category: Knowledge
 ---
 This skill encompasses a character's background knowledge from growing up and going to school or university. It is used in rolls such as;

@@ -1,5 +1,5 @@
 ---
-base: [[Intellect]]
+base: "[[Intellect]]"
 category: Knowledge
 ---
 This skill governs a character's knowledge of the art of war, such as tactical movement of armies and strategic position or direction. It may be used in rolls regarding;

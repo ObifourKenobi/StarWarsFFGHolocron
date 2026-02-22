@@ -1,5 +1,5 @@
 ---
-base: [[Cunning]]
+base: "[[Cunning]]"
 category: General
 ---
 This skill represents a character's ability to live in the wilderness and a hostile environment. It is used in rolls involving;

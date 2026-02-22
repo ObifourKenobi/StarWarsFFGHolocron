@@ -1,5 +1,5 @@
 ---
-base: [[Presence]]
+base: "[[Presence]]"
 category: General
 ---
 This social skill represents a character's ability to barter and keep their cool when trading. This skill is used in rolls involving;

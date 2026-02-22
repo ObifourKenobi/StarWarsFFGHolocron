@@ -1,5 +1,5 @@
 ---
-base: [[Agility]]
+base: "[[Agility]]"
 category: General
 ---
 This skill is representative of a character's ability to blend in with their surroundings and appear inconspicuous. It may be used in rolls regarding;

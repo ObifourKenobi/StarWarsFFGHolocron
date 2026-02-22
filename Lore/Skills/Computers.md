@@ -1,5 +1,6 @@
 ---
-base: [[Intellect]]
+base: "[[Intellect]]"
+category: General
 ---
 This skill governs a character's ability to use all aspects of a computer system, such as browsing HoloNet or repairing/conducting maintenance on the coding structures. This may be rolled in situations regarding;
 

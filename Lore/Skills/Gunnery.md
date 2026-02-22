@@ -1,5 +1,5 @@
 ---
-base: [[Agility]]
+base: "[[Agility]]"
 category: Combat
 ---
 This combat skill determines a character's proficiency in using vehicle-mounted weaponry and very heavy personal weapons such as missile tubes and heavy repeating blasters.

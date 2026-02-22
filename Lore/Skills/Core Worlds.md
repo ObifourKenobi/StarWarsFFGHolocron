@@ -1,5 +1,5 @@
 ---
-base: [[Intellect]]
+base: "[[Intellect]]"
 category: Knowledge
 ---
 This skill covers the amount of knowledge a character knows about the worlds of the galactic Core, such as Coruscant and Corellia. It may be used in a roll such as;

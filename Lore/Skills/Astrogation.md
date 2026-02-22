@@ -1,5 +1,6 @@
 ---
-base: [[Intellect]]
+base: "[[Intellect]]"
+category: General
 ---
 This skill represents the character's knowledge about the galaxy's stellar make-up as to allow for correct plotting of routes & making hyperspace jumps. May be used in rolls regarding;
 

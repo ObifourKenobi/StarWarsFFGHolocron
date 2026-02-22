@@ -1,5 +1,5 @@
 ---
-base: [[Brawn]]
+base: "[[Brawn]]"
 category: General
 ---
 This skill determines the ability for the body of a character to handle over-extension, sleep deprivation and hazardous environments including poisons. It is rolled in situations such as;

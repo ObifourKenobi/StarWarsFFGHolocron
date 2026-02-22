@@ -1,5 +1,5 @@
 ---
-base: [[Intellect]]
+base: "[[Intellect]]"
 category: Knowledge
 ---
 This skill determines a character's knowledge on the differences between different species, fauna and flora of the galaxy. It may be used in rolls such as;

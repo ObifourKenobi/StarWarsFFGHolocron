@@ -1,5 +1,5 @@
 ---
-base: [[Agility]]
+base: "[[Agility]]"
 category: General
 ---
 This skill represents a character's ability to drive and fly atmospheric walkers and speeders in any condition and even when damaged. It is used in rolls such as;
