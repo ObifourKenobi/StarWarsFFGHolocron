@@ -11,14 +11,10 @@
             "id": "d1b5b7c8e37c43bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Vehicles/Ground/Bongo Submarine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bongo Submarine"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " I-C4a Combat Construction Droid",
+                "query": "Forgotten",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,32 +203,35 @@
   },
   "active": "d1b5b7c8e37c43bc",
   "lastOpenFiles": [
-    "Lore/Vehicles/Ground/Groundcar.md",
-    "Lore/Vehicles/Ground/Hydrospeare Explorer Submersible.md",
-    "Lore/Books/Strongholds of Resistance.md",
-    "Lore/Vehicles/Ground/Personnel Carrier.md",
-    "Lore/Vehicles/Ground/Tsmeu-6 Personal Wheel Bike.md",
-    "Lore/Vehicles/Ground/NR-N99 Persuader Heavy Droid Tank.md",
-    "Lore/Vehicles/Ground/IG-227 Hailfire Tank.md",
-    "Lore/Vehicles/Ground/Whelik All-Terrain Explorer.md",
-    "Lore/Vehicles/Ground/All Terrain Scout Transport (SaS).md",
-    "Lore/Books/Age of Rebellion Game Master's Kit.md",
-    "Lore/Books/Age of Rebellion Beginner Game - Adventure Book.md",
-    "Lore/Vehicles/Ground/all-terrain-defense-pod.md",
-    "Lore/Vehicles/Ground/all-terrain-defense-turret.md",
-    "Lore/Vehicles/Ground/nr-n99-persuader-heavy-droid-tank.md",
-    "Lore/Vehicles/Ground/keelkana-class-attack-submersible.md",
-    "Lore/Vehicles/Ground/all-terrain-attack-pod-cotr.md",
-    "Lore/Vehicles/Ground/all-terrain-armored-cargo-transport.md",
-    "Lore/Vehicles/Ground/all-terrain-attack-pod-kof.md",
-    "Lore/Vehicles/Ground/A-19 Iron Crawler Armored Transport.md",
-    "Lore/Vehicles/Ground/A-11 Model III Burrower.md",
-    "Lore/Vehicles/Ground/48 Roller Wheel Bike.md",
-    "Lore/Vehicles/Ground/20-T Railcrawler Conveyex Transport.md",
-    "Lore/Vehicles/Ground/bongo-submarine.md",
-    "Lore/Vehicles/Ground/tx-225-gavw-occupier-combat-assault-tank.md",
-    "Lore/Vehicles/Ground/i-c4a-combat-construction-droid.md",
-    "Lore/Vehicles/Ground/i-c2-civil-industrial-droid.md",
+    "Lore/Vehicles/Speeder/Talon I Cloud Combat Car.md",
+    "Lore/Vehicles/Speeder/Zephyr-G Swoop.md",
+    "Lore/Vehicles/Speeder/XP-40 Luxury Coach.md",
+    "Lore/Vehicles/Speeder/XL-3c Guardsman Patrol Airspeeder.md",
+    "Lore/Vehicles/Speeder/WLO-5 Light Speeder Tank.md",
+    "Lore/Vehicles/Speeder/V-35 Courier FH.md",
+    "Lore/Vehicles/Speeder/Undicur-class Jumpspeeder.md",
+    "Lore/Vehicles/Speeder/Ubrikkian Industries Hauler Air Skiff.md",
+    "Lore/Vehicles/Speeder/T-47 Airspeeder.md",
+    "Lore/Books/Edge of the Empire Core Rulebook.md",
+    "Lore/Vehicles/Speeder/T-47 Sandspeeder.md",
+    "Forgotten Suns.md",
+    "Lore/Vehicles/Speeder/C-B7 Interceptor.md",
+    "Lore/Vehicles/Speeder/HAVr A9 Floating Fortress.md",
+    "Lore/Vehicles/Speeder/Flare-S Swoop.md",
+    "Lore/Vehicles/Speeder/Dewback 2 Repulsor Sled.md",
+    "Lore/Vehicles/Speeder/D-4s Projection Platform.md",
+    "Lore/Vehicles/Speeder/Ascendant Personal Stealth Flyer.md",
+    "Lore/Vehicles/Speeder/fix_sources.py",
+    "Lore/Vehicles/Speeder/SoroSuub Rapid Service Speeder J-15.md",
+    "Lore/Vehicles/Speeder/S-K2 Skywing Personal Speeder.md",
+    "Lore/Vehicles/Speeder/Tetan Guard Airspeeder.md",
+    "Lore/Vehicles/Speeder/IML-2c Aquatic Scout Ship.md",
+    "Lore/Vehicles/Speeder/Flasherfish Personal Watercraft.md",
+    "Lore/Vehicles/Speeder/X-34 Landspeeder.md",
+    "Lore/Vehicles/Speeder/V5 Medium Cargo Floater.md",
+    "Lore/Vehicles/Speeder/V-35 Courier DA.md",
+    "Lore/Vehicles/Speeder/generate_speeders.py",
+    "Lore/Vehicles/Speeder",
     "Lore/Vehicles/Ground",
     "Lore/Vehicles/Walker",
     "Lore/Vehicles/Air Speeder",
@@ -239,9 +239,6 @@
     "Lore/Vehicles/Ground",
     "Lore/Vehicles",
     "update_restricted.ps1",
-    "Lore/Books.base",
-    "nul",
-    "Lore/Armor/Legendary",
     "Sans titre.canvas"
   ]
 }
