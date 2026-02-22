@@ -61,4 +61,4 @@ The I-C4a is a smaller, militarized version of the massive I-C2 Civil-Industrial
 
 ## Sources
 
-- [[Dawn of Rebellion|Dawn of Rebellion]]
+- [[Fully Operational|Fully Operational:56]]

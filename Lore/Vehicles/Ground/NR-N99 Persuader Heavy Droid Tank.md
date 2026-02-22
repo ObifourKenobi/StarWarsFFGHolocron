@@ -64,4 +64,4 @@ The NR-N99 is among the CIS military's deadliest combat vehicles. It is a droid 
 
 ## Sources
 
-- [[Rise of the Separatists|Rise of the Separatists]]
+- [[Collapse of the Republic|Collapse of the Republic:67-68]]

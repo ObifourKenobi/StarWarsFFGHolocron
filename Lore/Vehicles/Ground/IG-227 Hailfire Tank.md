@@ -62,4 +62,4 @@ One of the stranger droid-controlled vehicles fielded by the CIS, Haor Chall's I
 
 ## Sources
 
-- [[Rise of the Separatists|Rise of the Separatists]]
+- [[Rise of the Separatists|Rise of the Separatists:68-69]]

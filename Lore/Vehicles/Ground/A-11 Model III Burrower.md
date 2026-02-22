@@ -61,4 +61,4 @@ Designed to excavate mine shafts, the Model III Tunnel Boring Vehicle is a sophi
 
 ## Sources
 
-- [[Enter the Unknown|Enter the Unknown]]
+- [[Suns of Fortune|Suns of Fortune:106]]

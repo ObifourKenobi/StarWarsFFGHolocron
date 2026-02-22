@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Vehicles/Ground/Tsmeu-6 Personal Wheel Bike.md",
+                "file": "Lore/Vehicles/Ground/Bongo Submarine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tsmeu-6 Personal Wheel Bike"
+              "title": "Bongo Submarine"
             }
           }
         ]
@@ -206,9 +206,13 @@
   },
   "active": "d1b5b7c8e37c43bc",
   "lastOpenFiles": [
+    "Lore/Vehicles/Ground/Groundcar.md",
+    "Lore/Vehicles/Ground/Hydrospeare Explorer Submersible.md",
+    "Lore/Books/Strongholds of Resistance.md",
+    "Lore/Vehicles/Ground/Personnel Carrier.md",
+    "Lore/Vehicles/Ground/Tsmeu-6 Personal Wheel Bike.md",
     "Lore/Vehicles/Ground/NR-N99 Persuader Heavy Droid Tank.md",
     "Lore/Vehicles/Ground/IG-227 Hailfire Tank.md",
-    "Lore/Vehicles/Ground/Hydrospeare Explorer Submersible.md",
     "Lore/Vehicles/Ground/Whelik All-Terrain Explorer.md",
     "Lore/Vehicles/Ground/All Terrain Scout Transport (SaS).md",
     "Lore/Books/Age of Rebellion Game Master's Kit.md",
@@ -228,10 +232,6 @@
     "Lore/Vehicles/Ground/tx-225-gavw-occupier-combat-assault-tank.md",
     "Lore/Vehicles/Ground/i-c4a-combat-construction-droid.md",
     "Lore/Vehicles/Ground/i-c2-civil-industrial-droid.md",
-    "Lore/Vehicles/Ground/corellia-mining-corp-digger-crawler.md",
-    "Lore/Vehicles/Ground/a-19-iron-crawler-armored-transport.md",
-    "Lore/Vehicles/Ground/a-11-model-iii-burrower.md",
-    "Lore/Vehicles/Ground/20-t-railcrawler-conveyex-transport.md",
     "Lore/Vehicles/Ground",
     "Lore/Vehicles/Walker",
     "Lore/Vehicles/Air Speeder",

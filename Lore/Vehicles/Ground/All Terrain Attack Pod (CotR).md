@@ -63,4 +63,4 @@ The AT-AP is a dedicated light field artillery walker used extensively by the Gr
 
 ## Sources
 
-- [[Collapse of the Republic|Collapse of the Republic]]
+- [[Collapse of the Republic|Collapse of the Republic:68]]

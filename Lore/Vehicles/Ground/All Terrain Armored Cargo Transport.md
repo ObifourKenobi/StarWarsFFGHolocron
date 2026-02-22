@@ -61,4 +61,5 @@ The All Terrain Armored Cargo Transport is a heavy-duty logistics walker and car
 
 ## Sources
 
-- [[Dawn of Rebellion|Dawn of Rebellion]]
+- [[Starships and Speeders|Starships and Speeders:27]]
+- [[Dawn of Rebellion|Dawn of Rebellion:121]]

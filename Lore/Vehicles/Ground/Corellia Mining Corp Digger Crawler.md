@@ -61,4 +61,5 @@ None
 
 ## Sources
 
-- [[Enter the Unknown|Enter the Unknown]]
+- [[Starships and Speeders|Starships and Speeders:34]]
+- [[Edge of the Empire Core Rulebook|Edge of the Empire Core Rulebook:251]]

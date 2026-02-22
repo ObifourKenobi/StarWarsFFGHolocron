@@ -61,4 +61,5 @@ Kuat Drive Yards' All Terrain Defense Pod is a light, fast, bipedal patrol walke
 
 ## Sources
 
-- [[Dawn of Rebellion|Dawn of Rebellion]]
+- [[Starships and Speeders|Starships and Speeders:29]]
+- [[Dawn of Rebellion|Dawn of Rebellion:122]]

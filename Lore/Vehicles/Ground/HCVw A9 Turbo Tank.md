@@ -62,4 +62,4 @@ The A9 turbo tank is a member of Kuat Drive Yards' successful family of armored 
 
 ## Sources
 
-- [[Dawn of Rebellion|Dawn of Rebellion]]
+- [[Starships and Speeders|Starships and Speeders:35]]

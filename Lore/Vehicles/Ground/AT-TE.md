@@ -63,5 +63,5 @@ The lumbering, imposing All Terrain Tactical Enforcer is one of the GAR's premie
 
 ## Sources
 
-- [[Rise of the Separatists|Rise of the Separatists]]
-- [[Forged in Battle|Forged in Battle]]
+- [[Rise of the Separatists|Rise of the Separatists:69-70]]
+- [[Forged in Battle|Forged in Battle:57]]

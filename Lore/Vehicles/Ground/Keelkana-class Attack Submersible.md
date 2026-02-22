@@ -62,4 +62,5 @@ Mon Calamari SubWorks created a number of distinct submarines, and the Keelkana-
 
 ## Sources
 
-- [[Rise of the Separatists|Rise of the Separatists]]
+- [[Starships and Speeders|Starships and Speeders:36]]
+- [[Strongholds of Resistance|Strongholds of Resistance:117]]

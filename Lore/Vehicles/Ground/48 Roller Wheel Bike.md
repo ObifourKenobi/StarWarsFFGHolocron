@@ -61,4 +61,5 @@ None
 
 ## Sources
 
-- [[Strongholds of Resistance|Strongholds of Resistance]]
+- [[Starships and Speeders|Starships and Speeders:25]]
+- [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:256]]

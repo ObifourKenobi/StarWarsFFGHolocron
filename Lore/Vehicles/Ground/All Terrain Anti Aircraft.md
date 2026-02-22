@@ -62,4 +62,5 @@ One of the less well-known members of Rothana Heavy Engineering's AT-series walk
 
 ## Sources
 
-- [[Starships and Speeders|Starships and Speeders]]
+- [[Starships and Speeders|Starships and Speeders:26]]
+- [[Stay on Target|Stay on Target:49]]

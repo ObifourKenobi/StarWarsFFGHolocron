@@ -63,4 +63,4 @@ The AT-AP is a dedicated light field artillery walker used extensively by the Gr
 
 ## Sources
 
-- [[Knights of Fate|Knights of Fate]]
+- [[Knights of Fate|Knights of Fate:56]]

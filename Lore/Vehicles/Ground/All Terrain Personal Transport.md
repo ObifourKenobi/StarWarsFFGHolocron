@@ -62,4 +62,4 @@ Developed by the Republic during the Clone Wars, the AT-PT is a small, one perso
 
 ## Sources
 
-- [[Collapse of the Republic|Collapse of the Republic]]
+- [[Edge of the Empire Core Rulebook|Edge of the Empire Core Rulebook:252-253]]

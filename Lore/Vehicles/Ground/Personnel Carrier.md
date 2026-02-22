@@ -61,4 +61,4 @@ None
 
 ## Sources
 
-- [[Enter the Unknown|Enter the Unknown]]
+- [[Edge of the Empire Core Rulebook|Edge of the Empire Core Rulebook:252]]

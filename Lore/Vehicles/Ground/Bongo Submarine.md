@@ -61,4 +61,5 @@ None
 
 ## Sources
 
-- [[Nexus of Power|Nexus of Power]]
+- [[Starships and Speeders|Starships and Speeders:33]]
+- [[Unlimited Power|Unlimited Power:59]]

@@ -62,4 +62,4 @@ The AT-DT is a self-propelled artillery piece fielded by the Imperial Army.
 
 ## Sources
 
-- [[Dawn of Rebellion|Dawn of Rebellion]]
+- [[Starships and Speeders|Starships and Speeders:30]]

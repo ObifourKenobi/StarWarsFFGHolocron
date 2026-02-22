@@ -61,4 +61,4 @@ Developed by Rothana Heavy Engineering to serve the needs of the Old Republic's 
 
 ## Sources
 
-- [[Enter the Unknown|Enter the Unknown]]
+- [[Edge of the Empire Core Rulebook|Edge of the Empire Core Rulebook:253]]

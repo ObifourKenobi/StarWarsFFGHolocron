@@ -62,4 +62,4 @@ KDY's AT-FRC is a small, two-position walker designed for use by ARC troopers to
 
 ## Sources
 
-- [[Collapse of the Republic|Collapse of the Republic]]
+- [[Lead by Example|Lead by Example:52]]

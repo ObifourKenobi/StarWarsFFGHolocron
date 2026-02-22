@@ -61,4 +61,4 @@ The Hunchback is a lightweight utility walker designed for construction and civi
 
 ## Sources
 
-- [[Forged in Battle|Forged in Battle]]
+- [[Far Horizons|Far Horizons:54]]

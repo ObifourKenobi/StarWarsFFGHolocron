@@ -62,4 +62,4 @@ The 20-T Railcrawler by Kuat Drive Yards is one of the premier conveyex cargo ha
 
 ## Sources
 
-- [[Dawn of Rebellion|Dawn of Rebellion]]
+- [[Starships and Speeders|Starships and Speeders:24-25]]

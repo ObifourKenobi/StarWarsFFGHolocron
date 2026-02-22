@@ -61,4 +61,4 @@ The Mining Excavation Vehicle, nicknamed the "Dug Digger" for a perceived resemb
 
 ## Sources
 
-- [[Forged in Battle|Forged in Battle]]
+- [[Suns of Fortune|Suns of Fortune:107]]

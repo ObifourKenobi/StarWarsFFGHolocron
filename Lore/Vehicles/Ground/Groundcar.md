@@ -61,4 +61,4 @@ None
 
 ## Sources
 
-- [[Edge of the Empire Core Rulebook|Edge of the Empire Core Rulebook]]
+- [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:256]]

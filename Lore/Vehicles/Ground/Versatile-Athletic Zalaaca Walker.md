@@ -61,4 +61,4 @@ When Baktoid Combat Automata was absorbed by the Empire, a number of its executi
 
 ## Sources
 
-- [[Collapse of the Republic|Collapse of the Republic]]
+- [[Forged in Battle|Forged in Battle:58]]

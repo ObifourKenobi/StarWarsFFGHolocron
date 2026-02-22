@@ -63,4 +63,5 @@ Rothana Heavy Engineering's TX-225 GAVw assault tanks are the Imperial Army's pr
 
 ## Sources
 
-- [[Dawn of Rebellion|Dawn of Rebellion]]
+- [[Starships and Speeders|Starships and Speeders:37]]
+- [[Dawn of Rebellion|Dawn of Rebellion:122]]

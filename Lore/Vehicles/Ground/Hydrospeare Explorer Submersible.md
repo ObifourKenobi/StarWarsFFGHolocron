@@ -62,4 +62,4 @@ Designed for underwater exploration and combat, Hydrospeare Corporation's Explor
 
 ## Sources
 
-- [[Cyphers and Masks|Cyphers and Masks]]
+- [[Strongholds of Resistance|Strongholds of Resistance:116]]

@@ -61,4 +61,4 @@ The AT-RT is a small, lightweight, one-seat walker first fielded by the Grand Ar
 
 ## Sources
 
-- [[Collapse of the Republic|Collapse of the Republic]]
+- [[Collapse of the Republic|Collapse of the Republic:69]]

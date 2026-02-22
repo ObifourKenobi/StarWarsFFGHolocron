@@ -61,4 +61,4 @@ None (civilian vehicle)
 
 ## Sources
 
-- [[Enter the Unknown|Enter the Unknown]]
+- [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:256]]

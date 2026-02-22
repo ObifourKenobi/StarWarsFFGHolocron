@@ -61,5 +61,5 @@ The AT-RT is a small, lightweight, one-seat walker first fielded by the Grand Ar
 
 ## Sources
 
-- [[Starships and Speeders|Starships and Speeders]]
-- [[Savage Spirits|Savage Spirits]]
+- [[Starships and Speeders|Starships and Speeders:31]]
+- [[Savage Spirits|Savage Spirits:56]]

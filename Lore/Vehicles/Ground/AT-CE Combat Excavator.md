@@ -64,4 +64,4 @@ The AT-CE combat excavator is another in Rothana Heavy Engineering's versatile w
 
 ## Sources
 
-- [[Collapse of the Republic|Collapse of the Republic]]
+- [[Fully Operational|Fully Operational:57]]

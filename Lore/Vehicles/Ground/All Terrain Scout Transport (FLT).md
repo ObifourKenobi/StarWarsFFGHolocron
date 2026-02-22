@@ -62,4 +62,4 @@ The Imperial Army's AT-ST is a medium-sized bipedal walker designed as a fast fo
 
 ## Sources
 
-- [[Friends Like These|Friends Like These]]
+- [[Friends Like These|Friends Like These:86]]

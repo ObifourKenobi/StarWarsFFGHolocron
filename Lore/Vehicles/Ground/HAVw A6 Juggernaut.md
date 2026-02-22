@@ -65,4 +65,4 @@ Kuat Drive Yards' HAVw A6 is a massive, ten-wheeled heavy assault vehicle used b
 
 ## Sources
 
-- [[Rise of the Separatists|Rise of the Separatists]]
+- [[Collapse of the Republic|Collapse of the Republic:66-67]]

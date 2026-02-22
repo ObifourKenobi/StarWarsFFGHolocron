@@ -63,6 +63,7 @@ The Imperial Army's AT-ST is a medium-sized bipedal walker designed as a fast fo
 
 ## Sources
 
-- [[Starships and Speeders|Starships and Speeders]]
-- [[Age of Rebellion Core Rulebook|Age of Rebellion Core Rulebook]]
-- [[Onslaught at Arda I|Onslaught at Arda I]]
+- [[Starships and Speeders|Starships and Speeders:32]]
+- [[Onslaught at Arda I|Onslaught at Arda I:34]]
+- [[Onslaught at Arda I|Onslaught at Arda I:93]]
+- [[Age of Rebellion Core Rulebook|Age of Rebellion Core Rulebook:265]]

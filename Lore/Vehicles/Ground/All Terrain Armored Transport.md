@@ -62,4 +62,5 @@ Part troop carrier, part heavy assault vehicle, and part terror weapon, the Impe
 
 ## Sources
 
-- [[Age of Rebellion Core Rulebook|Age of Rebellion Core Rulebook]]
+- [[Starships and Speeders|Starships and Speeders:28]]
+- [[Age of Rebellion Core Rulebook|Age of Rebellion Core Rulebook:264]]

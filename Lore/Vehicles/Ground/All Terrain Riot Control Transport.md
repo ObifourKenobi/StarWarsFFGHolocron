@@ -62,4 +62,4 @@ First introduced in 19 BBY, the AT-RCT is a small, two-man, open-topped walker u
 
 ## Sources
 
-- [[Dawn of Rebellion|Dawn of Rebellion]]
+- [[Far Horizons|Far Horizons:53-54]]

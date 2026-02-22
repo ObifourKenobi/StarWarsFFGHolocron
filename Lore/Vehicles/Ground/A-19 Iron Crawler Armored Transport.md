@@ -63,4 +63,4 @@ Following the loss of several mining facilities and digger crawlers in the Outer
 
 ## Sources
 
-- [[Enter the Unknown|Enter the Unknown]]
+- [[Suns of Fortune|Suns of Fortune:106-107]]
