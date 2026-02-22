@@ -1,4 +1,4 @@
-﻿---
+---
 name: "Tractor (Passive)"
 activation: Passive
 ranked: True

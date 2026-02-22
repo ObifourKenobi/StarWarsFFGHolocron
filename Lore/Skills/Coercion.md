@@ -1,5 +1,5 @@
 ---
-base: [[Willpower]]
+base: "[[Willpower]]"
 category: General
 ---
 This social skill is a character's ability to intimidate or threaten another into submission. The skill may be used (against Discipline) in a roll regarding;

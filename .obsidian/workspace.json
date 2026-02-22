@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Careers/Warrior.md",
-                "mode": "preview",
+                "file": "Lore/Skills/Coercion.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Warrior"
+              "title": "Coercion"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "If successful, during the next encounter",
+                "query": "Emergent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Careers/Warrior.md",
+                "file": "Lore/Skills/Coercion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Warrior"
+              "title": "Rétrolien pour Coercion"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Careers/Warrior.md",
+                "file": "Lore/Skills/Coercion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Warrior"
+              "title": "Liens sortants de Coercion"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Careers/Warrior.md",
+                "file": "Lore/Skills/Coercion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Warrior"
+              "title": "Plan de Coercion"
             }
           },
           {
@@ -197,9 +197,16 @@
   },
   "active": "7550935cb0dfa2bc",
   "lastOpenFiles": [
-    "Lore/Careers/Sentinel.md",
-    "Lore/Careers/Warrior.md",
+    "Lore/Skills/Athletics.md",
+    "Sans titre.canvas",
+    "Lore/Careers/Jedi.md",
+    "Lore/Careers/Hired Gun.md",
+    "Lore/Careers/Spy.md",
     "Lore/Careers/Seeker.md",
+    "Lore/Careers/Clone Soldier.md",
+    "Lore/Careers/Warrior.md",
+    "Lore/ItemQualities/Tractor.md",
+    "Lore/Careers/Sentinel.md",
     "Lore/Talents/One With Nature.md",
     "Lore/Talents/One with the Universe.md",
     "Lore/Talents/Second Chances.md",
@@ -209,21 +216,14 @@
     "Lore/Careers/Consular.md",
     "Lore/Careers/Commander.md",
     "Lore/Skills/Cool.md",
-    "Lore/Careers/Spy.md",
     "Lore/Careers/Soldier.md",
     "Lore/Careers/Technician.md",
     "Lore/Careers/Engineer.md",
     "Lore/Careers/Explorer.md",
     "Lore/Careers/Smuggler.md",
-    "Lore/Careers/Hired Gun.md",
     "Lore/Careers/Diplomat.md",
     "Lore/Careers/Ace.md",
     "Lore/Species/Arcona.md",
-    "Sans titre.canvas",
-    "Lore/Weapon/Electronet.md",
-    "Lore/Weapon/Electromag-Pulse Disruptor.md",
-    "Lore/Weapon/Diiro.md",
-    "Lore/Weapon/DH-X Heavy Blaster Rifle.md",
     "Lore/Books.base",
     "Lore/Weapon/WeaponsMarkdown",
     "Lore/Weapon",
