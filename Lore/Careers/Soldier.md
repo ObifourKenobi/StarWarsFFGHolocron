@@ -51,7 +51,7 @@ Heavies are the Soldiers best suited to carrying and operating these crucial big
 **25 XP**: [[Burly]], [[Dedication]], [[Armor Master]], [[Heavy Hitter]]
 ## Trailblazer
 One area in which rebel Soldiers frequently have the edge is in knowledge of the terrain and how to use it.
-**Trailblazer Bonus Career Skills**: [[Outer_Rim]], [[Perception]], [[Stealth]], [[Survival]]
+**Trailblazer Bonus Career Skills**: [[Outer Rim]], [[Perception]], [[Stealth]], [[Survival]]
 ### Talents
 **5 XP**: [[Stalker]], [[Toughened]], [[Outdoorsman]], [[Expert Tracker]]
 **10 XP**: [[Disorient]], [[Prime Positions]], [[Cunning Snare]], [[Outdoorsman]]

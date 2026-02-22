@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "db33006775a1a4fd",
+        "id": "ebd72113abaa59ca",
         "type": "tabs",
         "children": [
           {
-            "id": "532abff3cd57d480",
+            "id": "5c02d025de9a2d7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Armor/Light/Catch Vest.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Catch Vest"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:dark side",
+                "query": "sentinel of the order",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Armor/Light/Catch Vest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Catch Vest"
+              "title": "Rétroliens"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Armor/Light/Catch Vest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Catch Vest"
+              "title": "Liens sortants"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Armor/Light/Catch Vest.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Catch Vest"
+              "title": "Plan"
             }
           },
           {
@@ -174,14 +167,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "39526ce129d8ef7c",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 552.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,44 +197,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "532abff3cd57d480",
+  "active": "5c02d025de9a2d7a",
   "lastOpenFiles": [
-    "Lore/Armor/Light/Armored Clothing.md",
-    "Lore/Armor/Legendary/Darth Vader's Armor.md",
-    "Lore/Armor/Legendary/Boba Fett's Armor.md",
-    "Lore/Armor/Heavy/TaggeCo. Protector 1 Combat Armor.md",
+    "Lore/Weapon/MR-90 Proton Rifle.md",
+    "Lore/Weapon/MSW-9 Molecular Stiletto.md",
+    "Lore/Weapon/MSW-12 NanoDagger.md",
+    "Lore/Weapon/Multi-Goo Gun.md",
+    "Lore/Weapon/Morgukai Cortosis Staff.md",
+    "Lore/Weapon/Mon Calamari Coral Pike.md",
+    "Lore/Weapon/Mon Calamari Energy Lance.md",
+    "Lore/Weapon/Lightsaber.md",
+    "Lore/Talents/Sentry's Rest.md",
+    "Lore/Talents/Stalwart.md",
+    "Lore/Talents/Adaptable.md",
+    "Lore/Talents/Cease Hostilities!.md",
+    "Lore/Talents/There Is No Try.md",
+    "Lore/Talents/That's How It's Done.md",
+    "Lore/Talents/Uncanny Senses.md",
+    "Lore/Talents/Up The Ante.md",
+    "Lore/Talents/Well Rounded.md",
+    "Lore/Talents/Sentinel of the Order.md",
+    "Lore/Books/Heroes on Both Sides.md",
+    "Lore/Books/Dead in the Water.md",
+    "Lore/Books.base",
+    "Lore/Talents/Against All Odds.md",
+    "Lore/Careers/Jedi.md",
+    "Lore/Careers/Sentinel.md",
+    "Lore/Careers/Mystic.md",
+    "Lore/Armor/Light/Padded Armor.md",
+    "nul",
+    "Lore/Careers/Commander.md",
     "Lore/Armor/Legendary",
-    "Lore/Armor/Beast/H-series Megafauna Carriage.md",
-    "Lore/Armor/Beast/Destri-series Laminate Beast Armor.md",
-    "Lore/Armor/Beast/Capari-series Padded Beast Armor.md",
-    "Lore/Armor/Beast/Caballerin-Series Riding Tack.md",
-    "Lore/Armor/Beast/AniPro Layered Beast Armor.md",
     "Lore/Armor/Beast",
-    "Lore/Armor/Heavy/N-57 Armor.md",
-    "Lore/Armor/Heavy/Mk IV Riot Armor.md",
-    "Lore/Armor/Heavy/Phase I Clone Trooper Armor.md",
-    "Lore/Armor/Heavy/Scavenged Clone Armor.md",
-    "Lore/Armor/Heavy/Heavy Battle Armor.md",
-    "Lore/Armor/Heavy/Waterweave.md",
-    "Lore/Armor/Heavy/Rebel Heavy Battle Armor.md",
-    "Lore/Armor/Heavy/Powered Capacitive Armor.md",
-    "Lore/Armor/Heavy/Phase II Clone Trooper Armor.md",
-    "Lore/Armor/Heavy/Phase II ARC Trooper Armor.md",
-    "Lore/Armor/Heavy/Phase I ARC Trooper Armor (Knights of Fate).md",
-    "Lore/Armor/Heavy/Phase I ARC Trooper Armor (Rise of the Separatists).md",
-    "Lore/Armor/Heavy/Mk II Steelskin Anti-concussive Armor.md",
-    "Lore/Armor/Heavy/Mk II Hotspot Insulated Armor.md",
-    "Lore/Armor/Heavy/Mandalorian Armor.md",
-    "Lore/Armor/Heavy/Leviathan Power Armor.md",
-    "Lore/Armor/Heavy/Laminate Armor.md",
     "Lore/Armor/worn-equipment 1",
     "Lore/Armor/Heavy",
     "Lore/Armor/Light",
     "Lore/Armor/Attire",
     "Lore/Armor/worn-equipment",
     "armor/attire",
-    "armor",
-    "templates",
     "Sans titre.canvas"
   ]
 }

@@ -17,7 +17,7 @@ Though the lightsaber is an iconic weapon of many Force users, some dedicate the
 # Specializations
 ## Aggressor
 The Aggressor relies on fear to intimidate their opponents into surrender or retreat.
-**Aggressor Bonus Career Skills**: [[Coercion]], [[Underworld]], [[Ranged (Light)]], [[Streetwise]]
+**Aggressor Bonus Career Skills**: [[Coercion]], [[Underworld]], [[Streetwise]], [[Ranged-Light]]
 ### Talents
 **5 XP**: [[Intimidating]], [[Plausible Deniability]], [[Grit]], [[Toughened]]
 **10 XP**: [[Fearsome]], [[Intimidating]], [[Prey on the Weak]], [[Sense Advantage]]
@@ -35,7 +35,7 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
 **25 XP**: [[Center of Being]], [[Durable]], [[Dedication]], [[Parry]]
 ## Starfighter Ace
 Starfighter pilots enthusiastically engage in one of the most dangerous forms of battle imaginable.
-**Starfighter Ace Bonus Career Skills**: [[Astrogation]], [[Gunnery]], [[Mechanics]], [[Piloting (Space)]]
+**Starfighter Ace Bonus Career Skills**: [[Astrogation]], [[Gunnery]], [[Mechanics]], [[Piloting-Space]]
 ### Talents
 **5 XP**: [[Grit]], [[Skilled Jockey]], [[Rapid Reaction]], [[Solid Repairs]]
 **10 XP**: [[Intuitive Evasion]], [[Confidence]], [[Solid Repairs]], [[Galaxy Mapper]]

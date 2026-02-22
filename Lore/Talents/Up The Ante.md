@@ -1,4 +1,4 @@
-﻿---
+---
 activation: Passive
 ranked: Yes
 ---

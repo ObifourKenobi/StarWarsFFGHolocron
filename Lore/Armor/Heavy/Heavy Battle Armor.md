@@ -42,5 +42,5 @@ Heavy battle armor can be eligible to be fully sealed, or it can take the form o
 ## Sources
 
 - [[Keeping the Peace|Keeping the Peace:47]]
-- [[Star Wars Age of Rebellion Core Rulebook|Star Wars Age of Rebellion Core Rulebook:183]]
-- [[Star Wars Edge of the Empire Core Rulebook|Star Wars Edge of the Empire Core Rulebook:170]]
+- [[Age of Rebellion Core Rulebook|Age of Rebellion Core Rulebook:183]]
+- [[Edge of the Empire Core Rulebook|Edge of the Empire Core Rulebook:170]]

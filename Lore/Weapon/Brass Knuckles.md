@@ -22,5 +22,4 @@ Known colloquially as knuckle-dusters in many locations, brass knuckles are a se
 [[Age of Rebellion Core Rulebook|Age of Rebellion Core Rulebook:180]]
 [[Edge of the Empire Core Rulebook|Edge of the Empire Core Rulebook:161]]
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:171]]
-[[Age of Rebellion Core Rulebook (Page 180-181)|Age of Rebellion Core Rulebook (Page 180-181):N/A]]
 [[Edge of the Empire Core Rulebook|Edge of the Empire Core Rulebook:166]]

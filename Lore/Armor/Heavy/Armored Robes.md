@@ -37,4 +37,4 @@ Often worn by Jedi engaging in dangerous activity during the Clone Wars, armored
 
 ## Sources
 
-- [[Star Wars Force and Destiny Core Rulebook|Star Wars Force and Destiny Core Rulebook:179]]
+- [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:179]]

@@ -40,5 +40,5 @@ When the wielder is using a PDS, the GM can spend any despair result they genera
 ## Sources
 
 - [[Gadgets and Gear|Gadgets and Gear:75]]
-- [[Star Wars Age of Rebellion Core Rulebook|Star Wars Age of Rebellion Core Rulebook:183]]
-- [[Star Wars Edge of the Empire Core Rulebook|Star Wars Edge of the Empire Core Rulebook:170]]
+- [[Age of Rebellion Core Rulebook|Age of Rebellion Core Rulebook:183]]
+- [[Edge of the Empire Core Rulebook|Edge of the Empire Core Rulebook:170]]

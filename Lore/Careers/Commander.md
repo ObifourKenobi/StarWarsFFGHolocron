@@ -15,7 +15,7 @@ The role of a Commander is to organize, manage, and lead the fighters and other 
 # Specializations
 ## Commodore
 Each and every capital ship the Alliance has is valuable, which means that each Commodore given one to command has earned tremendous respect and trust.
-**Commodore Bonus Career Skills**: [[Astrogation]], [[Computers]], [[Education]], [[Outer_Rim]]
+**Commodore Bonus Career Skills**: [[Astrogation]], [[Computers]], [[Education]], [[Outer Rim]]
 ### Talents
 **5 XP**: [[Solid Repairs]], [[Command]], [[Rapid Reaction]], [[Galaxy Mapper]]
 **10 XP**: [[Known Schematic]], [[Commanding Presence]], [[Grit]], [[Familiar Suns]]
@@ -42,7 +42,7 @@ All of the victories in space, in the air, and even on the ground mean nothing i
 **25 XP**: [[Coordinated Assault]], [[Natural Leader]], [[Field Commander|Improved Field Commander]], [[Dedication]]
 ## Figurehead
 Figureheads generally come from civilian backgrounds and aren't necessarily a part of the Alliance Military's chain of command.
-**Figurehead Bonus Career Skills**: [[Cool]], [[Leadership]], [[Negotiation]], [[Core_Worlds]]
+**Figurehead Bonus Career Skills**: [[Cool]], [[Leadership]], [[Negotiation]], [[Core Worlds]]
 ### Talents
 **5 XP**: [[Grit]], [[Resolve]], [[Confidence]], [[Command]]
 **10 XP**: [[Command]], [[Inspiring Rhetoric]], [[Calm Commander]], [[Grit]]

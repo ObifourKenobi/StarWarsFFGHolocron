@@ -4,9 +4,9 @@ tags:
 Career Skills:
   - "[[Charm]]"
   - "[[Deception]]"
-  - "[[Core_Worlds]]"
+  - "[[Core Worlds]]"
   - "[[Lore]]"
-  - "[[Outer_Rim]]"
+  - "[[Outer Rim]]"
   - "[[Xenology]]"
   - "[[Leadership]]"
   - "[[Negotiation]]"
@@ -24,7 +24,7 @@ The Empire's main weapon, more effective than all of the incredible firepower at
 **25 XP**: [[Intimidating]], [[Dedication]], [[Scathing Tirade|Supreme Scathing Tirade]], [[Incite Rebellion]]
 ## Ambassador
 An Ambassador seeks out those who can help a cause and works to ensure they do.
-**Ambassador Bonus Career Skills**: [[Charm]], [[Discipline]], [[Core_Worlds]], [[Negotiation]]
+**Ambassador Bonus Career Skills**: [[Charm]], [[Discipline]], [[Core Worlds]], [[Negotiation]]
 ### Talents
 **5 XP**: [[Indistinguishable]], [[Kill with Kindness]], [[Nobody's Fool]], [[Confidence]]
 **10 XP**: [[Indistinguishable]], [[Grit]], [[Grit]], [[Dodge]]

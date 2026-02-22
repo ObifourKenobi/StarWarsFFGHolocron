@@ -19,5 +19,4 @@ For a thousand generations, before their ultimate destruction (and that of the R
 ## Source
 [[Age of Rebellion Core Rulebook|Age of Rebellion Core Rulebook:180]]
 [[Edge of the Empire Core Rulebook|Edge of the Empire Core Rulebook:161]]
-[[Age of Rebellion Core Rulebook (Page 180-181)|Age of Rebellion Core Rulebook (Page 180-181):N/A]]
 [[Edge of the Empire Core Rulebook|Edge of the Empire Core Rulebook:167]]
