@@ -2,5 +2,6 @@
   "userIgnoreFilters": [
     "Assets/scripts/"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

@@ -18,6 +18,6 @@ Although members of the species possess a wide variety of interests and professi
 ## Special Abilities
 Skakoans begin the game with one rank in [[Education]] and one rank in [[Mechanics]]. They still may not train either above rank 2 during character creation.
 ## Additional information
-- **Methane Breather:** Skakoans require methane to live, and wear special pressure suits to emulate the conditions on Skako. They start the game with a specialised pressure suit with methane respirator, which counts as armor with indefinite supplies of methane. The suit has +2 soak, encumbrance of 3, 3 hard points, cannot acquired unless on Skako (at a price equivalent to [[Laminate armor]]), and cannot be worn by other species. Skakoans treat standard planetary air pressure and composition as a corrosive atmosphere with rating 6.
+- **Methane Breather:** Skakoans require methane to live, and wear special pressure suits to emulate the conditions on Skako. They start the game with a specialised pressure suit with methane respirator, which counts as armor with indefinite supplies of methane. The suit has +2 soak, encumbrance of 3, 3 hard points, cannot acquired unless on Skako (at a price equivalent to [[Laminate Armor]]), and cannot be worn by other species. Skakoans treat standard planetary air pressure and composition as a corrosive atmosphere with rating 6.
 ## Sources
 - [[Fully Operational]]:21-23

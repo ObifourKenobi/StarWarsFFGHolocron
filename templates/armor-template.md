@@ -1,6 +1,6 @@
 ---
 title: ""
-category: "Armor"
+category: Armor
 armor_type: ""
 defense: 0
 soak: 0
@@ -9,7 +9,6 @@ encumbrance: 0
 price: 0
 restricted: false
 rarity: 0
-source_books: []
 tags: []
 ---
 
@@ -38,4 +37,4 @@ tags: []
 
 ## Sources
 
-- [[Source Book Name|Source Book Name:XX]]
+- [[Source Book Name|Source Book Name:XX]] (replace XX with page number, or remove if unknown)
