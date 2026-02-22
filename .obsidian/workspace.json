@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ebd72113abaa59ca",
+        "id": "24f2515768e7b9e6",
         "type": "tabs",
         "children": [
           {
-            "id": "5c02d025de9a2d7a",
+            "id": "d1b5b7c8e37c43bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Weapon/Blaster Carbine.md",
+                "file": "Lore/Vehicles/Ground/Tsmeu-6 Personal Wheel Bike.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blaster Carbine"
+              "title": "Tsmeu-6 Personal Wheel Bike"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sentinel of the order",
+                "query": " I-C4a Combat Construction Droid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lore/Books/Age of Rebellion Game Master's Kit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour Age of Rebellion Game Master's Kit"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lore/Books/Age of Rebellion Game Master's Kit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Liens sortants de Age of Rebellion Game Master's Kit"
             }
           },
           {
@@ -154,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Lore/Books/Age of Rebellion Game Master's Kit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de Age of Rebellion Game Master's Kit"
             }
           },
           {
@@ -182,12 +185,12 @@
               "title": "History"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 552.5
+    "width": 552.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,44 +204,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c02d025de9a2d7a",
+  "active": "d1b5b7c8e37c43bc",
   "lastOpenFiles": [
-    "Lore/Weapon/Basic Lightsaber.md",
-    "Lore/Weapon/Ancient Sword.md",
-    "Lore/Weapon/AJ-23 Concussive Rifle.md",
-    "Lore/Weapon/Accelerated Charged Particle Array Gun.md",
-    "Lore/Weapon/A280-CFE Convertible Heavy Blaster Pistol.md",
+    "Lore/Vehicles/Ground/NR-N99 Persuader Heavy Droid Tank.md",
+    "Lore/Vehicles/Ground/IG-227 Hailfire Tank.md",
+    "Lore/Vehicles/Ground/Hydrospeare Explorer Submersible.md",
+    "Lore/Vehicles/Ground/Whelik All-Terrain Explorer.md",
+    "Lore/Vehicles/Ground/All Terrain Scout Transport (SaS).md",
+    "Lore/Books/Age of Rebellion Game Master's Kit.md",
+    "Lore/Books/Age of Rebellion Beginner Game - Adventure Book.md",
+    "Lore/Vehicles/Ground/all-terrain-defense-pod.md",
+    "Lore/Vehicles/Ground/all-terrain-defense-turret.md",
+    "Lore/Vehicles/Ground/nr-n99-persuader-heavy-droid-tank.md",
+    "Lore/Vehicles/Ground/keelkana-class-attack-submersible.md",
+    "Lore/Vehicles/Ground/all-terrain-attack-pod-cotr.md",
+    "Lore/Vehicles/Ground/all-terrain-armored-cargo-transport.md",
+    "Lore/Vehicles/Ground/all-terrain-attack-pod-kof.md",
+    "Lore/Vehicles/Ground/A-19 Iron Crawler Armored Transport.md",
+    "Lore/Vehicles/Ground/A-11 Model III Burrower.md",
+    "Lore/Vehicles/Ground/48 Roller Wheel Bike.md",
+    "Lore/Vehicles/Ground/20-T Railcrawler Conveyex Transport.md",
+    "Lore/Vehicles/Ground/bongo-submarine.md",
+    "Lore/Vehicles/Ground/tx-225-gavw-occupier-combat-assault-tank.md",
+    "Lore/Vehicles/Ground/i-c4a-combat-construction-droid.md",
+    "Lore/Vehicles/Ground/i-c2-civil-industrial-droid.md",
+    "Lore/Vehicles/Ground/corellia-mining-corp-digger-crawler.md",
+    "Lore/Vehicles/Ground/a-19-iron-crawler-armored-transport.md",
+    "Lore/Vehicles/Ground/a-11-model-iii-burrower.md",
+    "Lore/Vehicles/Ground/20-t-railcrawler-conveyex-transport.md",
+    "Lore/Vehicles/Ground",
+    "Lore/Vehicles/Walker",
+    "Lore/Vehicles/Air Speeder",
+    "Lore/Vehicles/Speeder",
+    "Lore/Vehicles/Ground",
+    "Lore/Vehicles",
     "update_restricted.ps1",
-    "Lore/Weapon/MR-90 Proton Rifle.md",
-    "Lore/Weapon/MSW-9 Molecular Stiletto.md",
-    "Lore/Weapon/MSW-12 NanoDagger.md",
-    "Lore/Weapon/Multi-Goo Gun.md",
-    "Lore/Weapon/Morgukai Cortosis Staff.md",
-    "Lore/Weapon/Mon Calamari Coral Pike.md",
-    "Lore/Weapon/Mon Calamari Energy Lance.md",
-    "Lore/Weapon/Lightsaber.md",
-    "Lore/Talents/Sentry's Rest.md",
-    "Lore/Talents/Stalwart.md",
-    "Lore/Talents/Adaptable.md",
-    "Lore/Talents/Cease Hostilities!.md",
-    "Lore/Talents/There Is No Try.md",
-    "Lore/Talents/That's How It's Done.md",
-    "Lore/Talents/Uncanny Senses.md",
-    "Lore/Talents/Up The Ante.md",
-    "Lore/Talents/Well Rounded.md",
-    "Lore/Talents/Sentinel of the Order.md",
-    "Lore/Books/Heroes on Both Sides.md",
-    "Lore/Books/Dead in the Water.md",
     "Lore/Books.base",
-    "Lore/Talents/Against All Odds.md",
     "nul",
     "Lore/Armor/Legendary",
-    "Lore/Armor/Beast",
-    "Lore/Armor/worn-equipment 1",
-    "Lore/Armor/Heavy",
-    "Lore/Armor/Light",
-    "Lore/Armor/Attire",
-    "Lore/Armor/worn-equipment",
     "Sans titre.canvas"
   ]
 }

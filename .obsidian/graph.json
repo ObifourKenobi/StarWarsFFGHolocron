@@ -15,29 +15,15 @@
       }
     },
     {
-      "query": "path:Lore/Weapon  ",
+      "query": "path:Lore/Vehicles  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Lore/ItemQualities  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:Lore/Careers  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
+        "rgb": 5395168
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": -0.3,
   "nodeSizeMultiplier": 1.0953125,
   "lineSizeMultiplier": 0.738020833333333,
@@ -46,6 +32,6 @@
   "repelStrength": 15.1041666666667,
   "linkStrength": 0.697916666666667,
   "linkDistance": 30,
-  "scale": 0.08317427835927595,
+  "scale": 0.1166089157945741,
   "close": false
 }
