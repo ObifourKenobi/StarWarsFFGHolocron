@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Han Solo's Customized DL-44 Heavy Blaster Pistol
 Skill: Ranged (Light)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 2
 HP: -
-Restricted: 
+Restricted: False
 Price: Not for Sale
 Rarity: 10
 Special: Stun setting, Overcharged

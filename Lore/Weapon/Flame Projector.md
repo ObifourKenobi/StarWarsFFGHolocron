@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Flame Projector
 Skill: Ranged (Heavy)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 2
 Range: Short
 Encum: 6
 HP: 2
-Restricted: 
+Restricted: False
 Price: 1,000
 Rarity: 6
 Special: Blast 8, Burn 3

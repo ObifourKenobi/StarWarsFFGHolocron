@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Longbow
 Skill: Ranged (Heavy)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 5
 Range: Long
 Encum: 5
 HP: 1
-Restricted: 
+Restricted: False
 Price: 120
 Rarity: 4
 Special: Cumbersome 3, Limited Ammo 1, Pierce 1

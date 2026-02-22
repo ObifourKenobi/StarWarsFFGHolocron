@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Plasma Grenade
 Skill: Ranged (Light)
 Dam: 12
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 125
 Rarity: 6
 Special: Blast 10, Limited Ammo 1

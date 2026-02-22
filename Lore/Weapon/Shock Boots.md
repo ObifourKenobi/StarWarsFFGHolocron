@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Shock Boots
 Skill: Brawl
 Dam: +0
@@ -6,7 +6,7 @@ Crit: 5
 Range: Engaged
 Encum: 2
 HP: 0
-Restricted: 
+Restricted: False
 Price: 1,250
 Rarity: 5
 Special: Disorient 3, Stun 3

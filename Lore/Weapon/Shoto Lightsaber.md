@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Shoto Lightsaber
 Skill: Lightsaber
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 1
 HP: 3
-Restricted: 
+Restricted: False
 Price: 8,000
 Rarity: 10
 Special: Accurate 1, Breach 1, Sunder

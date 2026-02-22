@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Weik Greatsword
 Skill: Melee
 Dam: +4
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 4
 HP: 2
-Restricted: 
+Restricted: False
 Price: 315
 Rarity: 8
 Special: Cumbersome 4, Defensive 1

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Berserker Rifle
 Skill: Ranged (Heavy)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 4
 Range: Medium
 Encum: 4
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 600
 Rarity: 5
 Special: Burn 1, Cumbersome 3, Disorient 1

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Vibrosword
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 3
 HP: 3
-Restricted: 
+Restricted: False
 Price: 750
 Rarity: 5
 Special: Defensive 1, Pierce 2, Vicious 1

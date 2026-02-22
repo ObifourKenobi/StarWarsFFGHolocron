@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: -
 HP: -
-Restricted: 
+Restricted: False
 Price: 900
 Rarity: 1
 Special: Cumbersome 4, Pierce 2, Sunder, Unwieldy 4, Vicious 2

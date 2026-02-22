@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Cortosis Sword
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 3
 HP: 2
-Restricted: 
+Restricted: False
 Price: 1,350
 Rarity: 7
 Special: Cortosis, Defensive 1

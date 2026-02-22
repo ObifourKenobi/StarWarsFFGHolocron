@@ -1,4 +1,4 @@
-﻿---
+---
 Name: SWE/2 Sonic Rifle
 Skill: Ranged (Heavy)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 6
 Range: Long
 Encum: 4
 HP: 0
-Restricted: 
+Restricted: False
 Price: 1,200
 Rarity: 6
 Special: Concussive 1, Slow-Firing 1, Stun Damage

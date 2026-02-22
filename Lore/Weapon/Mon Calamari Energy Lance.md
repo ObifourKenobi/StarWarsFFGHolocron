@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Mon Calamari Energy Lance
 Skill: Melee
 Dam: +3
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 4
 HP: 2
-Restricted: 
+Restricted: False
 Price: 1,500
 Rarity: 6
 Special: Cumbersome 3 (dismounted), Pierce 3

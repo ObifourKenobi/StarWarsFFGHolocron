@@ -6,7 +6,7 @@ Crit: -
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 50
 Rarity: 5
 Special: Blast 2, Limited Ammo 1

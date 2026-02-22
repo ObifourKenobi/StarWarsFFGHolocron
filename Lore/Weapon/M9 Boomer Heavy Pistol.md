@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 3
 HP: 2
-Restricted: 
+Restricted: False
 Price: 1,000
 Rarity: 6
 Special: Blast 5, Cumbersome 2, Inaccurate 1

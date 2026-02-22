@@ -1,4 +1,4 @@
-﻿---
+---
 Name: DH-X Heavy Blaster Rifle
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 3
 Range: Long
 Encum: 7
 HP: 4
-Restricted: 
+Restricted: False
 Price: 1,900
 Rarity: 6
 Special: Cumbersome 3, Pierce 2

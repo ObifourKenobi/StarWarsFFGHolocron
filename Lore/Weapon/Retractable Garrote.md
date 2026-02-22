@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Retractable Garrote
 Skill: Brawl
 Dam: -
@@ -6,7 +6,7 @@ Crit: -
 Range: Engaged
 Encum: -
 HP: -
-Restricted: 
+Restricted: False
 Price: 300
 Rarity: 6
 Special: Stun setting

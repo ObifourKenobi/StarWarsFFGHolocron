@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Ion Thruster Gun
 Skill: Ranged (Heavy)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 4
 Range: Short
 Encum: 8
 HP: 0
-Restricted: 
+Restricted: False
 Price: 300
 Rarity: 2
 Special: Concussive 1, Cumbersome 5, Ion, Prepare 1

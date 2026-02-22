@@ -1,4 +1,4 @@
-﻿---
+---
 Name: CDEF Blaster Pistol
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 4
 Range: Medium
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 150
 Rarity: 4
 Special: Inferior, Stun setting

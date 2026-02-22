@@ -1,4 +1,4 @@
-﻿---
+---
 Name: T-7 Ion Disruptor
 Skill: Ranged (Heavy)
 Dam: 12
@@ -6,7 +6,7 @@ Crit: 2
 Range: Long
 Encum: 6
 HP: 2
-Restricted: (R)
+Restricted: True
 Price: 8,000
 Rarity: 9
 Special: Blast 6, Breach 2, Cumbersome 3, Slow-Firing 1, Vicious 6

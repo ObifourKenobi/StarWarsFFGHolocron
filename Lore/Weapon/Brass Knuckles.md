@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Brass Knuckles
 Skill: Brawl
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 25
 Rarity: 0
 Special: Disorient 3

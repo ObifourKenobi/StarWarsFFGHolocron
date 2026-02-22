@@ -1,4 +1,4 @@
-﻿---
+---
 Name: L70 Acid Projector
 Skill: Ranged (Heavy)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 2
 Range: Short
 Encum: 4
 HP: 1
-Restricted: 
+Restricted: False
 Price: 1,250
 Rarity: 7
 Special: Blast 6, Burn 3, Vicious 1

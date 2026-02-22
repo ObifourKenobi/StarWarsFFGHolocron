@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Electromag-Pulse Disruptor
 Skill: Melee
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 180
 Rarity: 5
 Special: Disorient 1, Ion

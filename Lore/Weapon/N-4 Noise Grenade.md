@@ -1,4 +1,4 @@
-﻿---
+---
 Name: N-4 Noise Grenade
 Skill: Ranged (Light)
 Dam: 4
@@ -6,7 +6,7 @@ Crit: 6
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 150
 Rarity: 5
 Special: Blast 4, Concussive 1, Limited Ammo 1, Stun Damage

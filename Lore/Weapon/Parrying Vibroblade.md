@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Parrying Vibroblade
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 1
 HP: 2
-Restricted: 
+Restricted: False
 Price: 400
 Rarity: 6
 Special: Defensive 1, Pierce 2, Vicious 1

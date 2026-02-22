@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Mk. VIII Vibrosaw
 Skill: Melee
 Dam: +4
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 6
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,500
 Rarity: 5
 Special: Cumbersome 5, Pierce 2, Sunder, Vicious 2

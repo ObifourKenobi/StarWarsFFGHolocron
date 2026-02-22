@@ -1,4 +1,4 @@
-﻿---
+---
 Name: CryoBan Projector
 Skill: Ranged (Heavy)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 2
 Range: Short
 Encum: 3
 HP: 0
-Restricted: 
+Restricted: False
 Price: 500
 Rarity: 4
 Special: Blast 6, Cumbersome 3, Vicious 2

@@ -11,10 +11,14 @@
             "id": "5c02d025de9a2d7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Weapon/Blaster Carbine.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Blaster Carbine"
             }
           }
         ]
@@ -199,6 +203,12 @@
   },
   "active": "5c02d025de9a2d7a",
   "lastOpenFiles": [
+    "Lore/Weapon/Basic Lightsaber.md",
+    "Lore/Weapon/Ancient Sword.md",
+    "Lore/Weapon/AJ-23 Concussive Rifle.md",
+    "Lore/Weapon/Accelerated Charged Particle Array Gun.md",
+    "Lore/Weapon/A280-CFE Convertible Heavy Blaster Pistol.md",
+    "update_restricted.ps1",
     "Lore/Weapon/MR-90 Proton Rifle.md",
     "Lore/Weapon/MSW-9 Molecular Stiletto.md",
     "Lore/Weapon/MSW-12 NanoDagger.md",
@@ -221,12 +231,7 @@
     "Lore/Books/Dead in the Water.md",
     "Lore/Books.base",
     "Lore/Talents/Against All Odds.md",
-    "Lore/Careers/Jedi.md",
-    "Lore/Careers/Sentinel.md",
-    "Lore/Careers/Mystic.md",
-    "Lore/Armor/Light/Padded Armor.md",
     "nul",
-    "Lore/Careers/Commander.md",
     "Lore/Armor/Legendary",
     "Lore/Armor/Beast",
     "Lore/Armor/worn-equipment 1",
@@ -234,7 +239,6 @@
     "Lore/Armor/Light",
     "Lore/Armor/Attire",
     "Lore/Armor/worn-equipment",
-    "armor/attire",
     "Sans titre.canvas"
   ]
 }

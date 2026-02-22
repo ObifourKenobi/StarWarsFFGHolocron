@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Stun Arrows
 Skill: Ranged (Light)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: NA
 Range: Medium
 Encum: 0
 HP: 0
-Restricted: 
+Restricted: False
 Price: 60
 Rarity: 6
 Special: Limited Ammo 1, Stun Damage

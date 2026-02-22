@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Ionization Blaster
 Skill: Ranged (Light)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: 3
 HP: 3
-Restricted: 
+Restricted: False
 Price: 250
 Rarity: 3
 Special: Disorient 5, Stun Damage (Droid Only)

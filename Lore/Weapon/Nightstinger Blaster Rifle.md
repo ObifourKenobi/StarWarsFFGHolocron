@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Nightstinger Blaster Rifle
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 2
 Range: Extreme
 Encum: 7
 HP: 4
-Restricted: 
+Restricted: False
 Price: 6,500
 Rarity: 9
 Special: Accurate 2, Cumbersome 3, Pierce 1, Stun setting

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Qi'ra's Monlitzer S-195 Blaster Pistol
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 1
 HP: -
-Restricted: 
+Restricted: False
 Price: Not for Sale
 Rarity: 10
 Special: Implied Violence, Linked 1, Stun setting, Superior

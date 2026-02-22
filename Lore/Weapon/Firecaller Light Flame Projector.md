@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Firecaller Light Flame Projector
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 2
 Range: Short
 Encum: 4
 HP: 1
-Restricted: (R)
+Restricted: True
 Price: 1,200
 Rarity: 7
 Special: Blast 2, Burn 2, Pierce 2, Vicious 3

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Incendiary Arrow
 Skill: Ranged (Heavy)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 5
 Range: Medium
 Encum: 0
 HP: 0
-Restricted: 
+Restricted: False
 Price: 60
 Rarity: 5
 Special: Burn 2, Limited Ammo 1

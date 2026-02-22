@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Fragmentation Missile
 Skill: Gunnery
 Dam: 12
@@ -6,7 +6,7 @@ Crit: 4
 Range: Extreme
 Encum: 0
 HP: 0
-Restricted: 
+Restricted: False
 Price: 75
 Rarity: 7
 Special: Blast 12, Guided 3

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Philaxian Phase-Knife
 Skill: Lightsaber
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 1,500
 Rarity: 
 Special: Pierce 4, Vicious 1

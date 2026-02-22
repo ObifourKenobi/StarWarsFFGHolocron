@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Weequay Blaster Lance
 Skill: Ranged (Heavy)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 3
 Range: Extreme
 Encum: 5
 HP: 2
-Restricted: 
+Restricted: False
 Price: 850
 Rarity: 6
 Special: Accurate 1, Cumbersome 2

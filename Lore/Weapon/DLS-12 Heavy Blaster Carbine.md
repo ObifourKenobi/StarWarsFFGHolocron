@@ -1,4 +1,4 @@
-﻿---
+---
 Name: DLS-12 Heavy Blaster Carbine
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 4
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,350
 Rarity: 7
 Special: Auto-fire, Cumbersome 2

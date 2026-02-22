@@ -6,7 +6,7 @@ Crit: -
 Range: Medium
 Encum: 4
 HP: 2
-Restricted: 
+Restricted: False
 Price: 2,000
 Rarity: 5
 Special: Blast 5, Disorient 3, Stun Damage

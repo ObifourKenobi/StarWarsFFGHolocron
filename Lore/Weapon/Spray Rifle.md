@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Spray Rifle
 Skill: Ranged (Heavy)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: -
 Range: Medium
 Encum: 4
 HP: 1
-Restricted: 
+Restricted: False
 Price: 2,700
 Rarity: 6
 Special: Burn 3, Limited Ammo 3, Pierce 3, Prepare 1, Stun Damage

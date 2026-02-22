@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Under-barrel Flame Projector
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 2
 Range: Short
 Encum: -
 HP: -
-Restricted: (R)
+Restricted: True
 Price: 3,000
 Rarity: 5
 Special: Blast 2, Burn 5

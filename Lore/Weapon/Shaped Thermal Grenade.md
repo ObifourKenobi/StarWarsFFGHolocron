@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Shaped Thermal Grenade
 Skill: Ranged (Light)
 Dam: 20
@@ -6,7 +6,7 @@ Crit: 2
 Range: Short
 Encum: 1
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 3,500
 Rarity: 8
 Special: Breach 2, Limited Ammo 1, Vicious 5

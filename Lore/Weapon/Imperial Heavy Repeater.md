@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Imperial Heavy Repeater
 Skill: Ranged (Heavy)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 4
 Range: Medium
 Encum: 3
 HP: 2
-Restricted: (R)
+Restricted: True
 Price: 1,500
 Rarity: 7
 Special: Auto-fire, Cumbersome 4

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Concussion Grenade
 Skill: Ranged (Light)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: 1
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 100
 Rarity: 5
 Special: Blast 8, Concussive 2, Disorient 5, Limited Ammo 1

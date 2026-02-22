@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Whipcord Thrower
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: -
 HP: -
-Restricted: 
+Restricted: False
 Price: 600
 Rarity: 1
 Special: Ensnare 2

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Droid Disabler
 Skill: Ranged (Light)
 Dam: 12
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 1,050
 Rarity: 5
 Special: Concussive 1, Ion, Limited Ammo 3

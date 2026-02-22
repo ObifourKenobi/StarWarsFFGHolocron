@@ -6,7 +6,7 @@ Crit: 1
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 300
 Rarity: 4
 Special: 

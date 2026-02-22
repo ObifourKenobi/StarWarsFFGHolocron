@@ -1,4 +1,4 @@
-﻿---
+---
 Name: High-Explosive Missile
 Skill: Gunnery
 Dam: 18
@@ -6,7 +6,7 @@ Crit: 3
 Range: Long
 Encum: -
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 200
 Rarity: 6
 Special: Blast 6, Breach 2, Guided 2

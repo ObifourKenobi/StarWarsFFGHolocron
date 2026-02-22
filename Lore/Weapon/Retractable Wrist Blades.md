@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Retractable Wrist Blades
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: -
 HP: -
-Restricted: 
+Restricted: False
 Price: 150
 Rarity: 1
 Special: Pierce 1

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Mini-Torpedo, Armor Piercing
 Skill: Ranged (Heavy)
 Dam: 12
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 150
 Rarity: 6
 Special: Blast 2, Limited Ammo 1, Pierce 4

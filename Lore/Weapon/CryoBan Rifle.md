@@ -1,4 +1,4 @@
-﻿---
+---
 Name: CryoBan Rifle
 Skill: Ranged (Light)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: -
 Range: Medium
 Encum: 2
 HP: 1
-Restricted: 
+Restricted: False
 Price: 450
 Rarity: 6
 Special: Ensnare 1, Pierce 5, Stun Damage

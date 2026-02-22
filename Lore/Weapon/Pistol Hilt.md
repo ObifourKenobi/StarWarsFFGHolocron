@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Pistol Hilt
 Skill: Ranged (Light)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: -
 HP: -
-Restricted: 
+Restricted: False
 Price: 750
 Rarity: 5
 Special: Stun Damage

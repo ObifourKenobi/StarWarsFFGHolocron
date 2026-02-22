@@ -1,4 +1,4 @@
-﻿---
+---
 Name: S-1 Vamblade
 Skill: Brawl
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 2
 HP: 1
-Restricted: 
+Restricted: False
 Price: 500
 Rarity: 4
 Special: Accurate 1, Defensive 1, Sunder

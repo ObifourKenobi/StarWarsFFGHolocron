@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Mercy Grenade
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: -
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 175
 Rarity: 8
 Special: Blast 5, Limited Ammo 1, Stun Damage

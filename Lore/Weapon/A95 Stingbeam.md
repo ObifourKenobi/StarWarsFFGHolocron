@@ -1,4 +1,4 @@
-﻿---
+---
 Name: A95 Stingbeam
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 400
 Rarity: 5
 Special: Stun setting, Vicious 1

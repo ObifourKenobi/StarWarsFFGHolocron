@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Wipe-3 Data-Purge Grenade
 Skill: Ranged (Light)
 Dam: -
@@ -6,7 +6,7 @@ Crit: -
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 100
 Rarity: 7
 Special: Limited Ammo 1

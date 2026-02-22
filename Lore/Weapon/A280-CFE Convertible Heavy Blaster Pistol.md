@@ -1,4 +1,4 @@
-﻿---
+---
 Name: A280-CFE Convertible Heavy Blaster Pistol
 Skill: Ranged (Heavy)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 3
 Range: Long
 Encum: 3
 HP: 1
-Restricted: (R)
+Restricted: True
 Price: 1,700
 Rarity: 7
 Special: Accurate 1, Pierce 1, Stun setting

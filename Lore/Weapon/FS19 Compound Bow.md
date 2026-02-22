@@ -1,4 +1,4 @@
-﻿---
+---
 Name: FS19 Compound Bow
 Skill: Ranged (Heavy)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 4
 Range: Medium
 Encum: 4
 HP: 2
-Restricted: 
+Restricted: False
 Price: 500
 Rarity: 7
 Special: Cumbersome 3, Limited Ammo 1, Pierce 1, Vicious 2

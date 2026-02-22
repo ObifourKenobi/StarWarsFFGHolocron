@@ -1,4 +1,4 @@
-﻿---
+---
 Name: C-10 Dragoneye Reaper Heavy Blaster Pistol
 Skill: Ranged (Light)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 3
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,000
 Rarity: 7
 Special: Stun setting

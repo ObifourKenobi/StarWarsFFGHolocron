@@ -1,4 +1,4 @@
-﻿---
+---
 Name: PB08 Heavy Blaster Pistol
 Skill: Ranged (Light)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 2
 HP: 2
-Restricted: 
+Restricted: False
 Price: 800
 Rarity: 6
 Special: Stun setting

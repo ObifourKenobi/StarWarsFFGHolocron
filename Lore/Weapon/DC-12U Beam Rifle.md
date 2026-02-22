@@ -1,4 +1,4 @@
-﻿---
+---
 Name: DC-12U Beam Rifle
 Skill: Ranged (Heavy)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 3
 HP: 3
-Restricted: (R)
+Restricted: True
 Price: 1,600
 Rarity: 7
 Special: Linked 1

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: J-10 Dual Blaster Cannon
 Skill: Gunnery
 Dam: 13
@@ -6,7 +6,7 @@ Crit: 2
 Range: Long
 Encum: 8
 HP: 3
-Restricted: (R)
+Restricted: True
 Price: 6,750
 Rarity: 7
 Special: Cumbersome 5, Inaccurate 1, Linked 1

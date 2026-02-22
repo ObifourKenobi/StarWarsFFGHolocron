@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Heavy Repeating Blaster
 Skill: Gunnery
 Dam: 15
@@ -6,7 +6,7 @@ Crit: 2
 Range: Long
 Encum: 9
 HP: 4
-Restricted: (R)
+Restricted: True
 Price: 6,000
 Rarity: 8
 Special: Auto-fire, Cumbersome 5, Pierce 2, Vicious 1

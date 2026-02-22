@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Disruptor Rifle
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 2
 Range: Long
 Encum: 5
 HP: 4
-Restricted: (R)
+Restricted: True
 Price: 5,000
 Rarity: 6
 Special: Cumbersome 2, Vicious 5

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: M8 Combat Knife
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 150
 Rarity: 4
 Special: Accurate 1, Pierce 1

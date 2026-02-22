@@ -6,7 +6,7 @@ Crit: NA
 Range: Short
 Encum: 2
 HP: 1
-Restricted: 
+Restricted: False
 Price: 250
 Rarity: 1
 Special: Disorient 1, Ensnare 4, Knockdown

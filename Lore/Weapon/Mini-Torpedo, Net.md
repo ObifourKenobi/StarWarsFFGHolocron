@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Mini-Torpedo, Net
 Skill: Ranged (Heavy)
 Dam: 0
@@ -6,7 +6,7 @@ Crit: n/a
 Range: Medium
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 100
 Rarity: 5
 Special: Blast 0, Ensnare 6, Limited Ammo 1

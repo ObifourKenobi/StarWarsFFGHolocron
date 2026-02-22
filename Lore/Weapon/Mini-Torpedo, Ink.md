@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Mini-Torpedo, Ink
 Skill: Ranged (Heavy)
 Dam: 0
@@ -6,7 +6,7 @@ Crit: n/a
 Range: Long
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 50
 Rarity: 6
 Special: Blast 0, Disorient 4, Limited Ammo 1

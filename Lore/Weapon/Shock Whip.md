@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Shock Whip
 Skill: Melee
 Dam: 4
@@ -6,7 +6,7 @@ Crit: 4
 Range: Short
 Encum: 3
 HP: 2
-Restricted: 
+Restricted: False
 Price: 600
 Rarity: 8
 Special: Ensnare 3, Stun Damage

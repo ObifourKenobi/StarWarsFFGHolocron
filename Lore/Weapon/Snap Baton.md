@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Snap Baton
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 50
 Rarity: 4
 Special: Disorient 2

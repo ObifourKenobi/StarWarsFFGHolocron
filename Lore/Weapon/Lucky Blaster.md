@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Lucky Blaster
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 4
 Range: Medium
 Encum: 1
 HP: 2
-Restricted: 
+Restricted: False
 Price: 400
 Rarity: 10
 Special: Stun setting

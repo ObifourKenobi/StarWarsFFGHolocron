@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Bola
 Skill: Ranged (Light)
 Dam: 2
@@ -6,7 +6,7 @@ Crit: -
 Range: Short
 Encum: 1
 HP: 2
-Restricted: 
+Restricted: False
 Price: 20
 Rarity: 2
 Special: Ensnare 3, Knockdown, Limited Ammo 1

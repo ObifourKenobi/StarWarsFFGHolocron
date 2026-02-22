@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Garrote Chrono
 Skill: Brawl
 Dam: -
@@ -6,7 +6,7 @@ Crit: -
 Range: Engaged
 Encum: 0
 HP: -
-Restricted: (R)
+Restricted: True
 Price: 100
 Rarity: 5
 Special: Stun setting

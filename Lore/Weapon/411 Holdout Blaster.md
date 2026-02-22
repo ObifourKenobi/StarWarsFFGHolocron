@@ -1,4 +1,4 @@
-﻿---
+---
 Name: 411 Holdout Blaster
 Skill: Ranged (Light)
 Dam: 4
@@ -6,7 +6,7 @@ Crit: 4
 Range: Medium
 Encum: 1
 HP: 1
-Restricted: (R)
+Restricted: True
 Price: 350
 Rarity: 5
 Special: Stun setting

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: NX-14 Needler
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: -
 Range: Short
 Encum: 1
 HP: 1
-Restricted: (R)
+Restricted: True
 Price: 650
 Rarity: 7
 Special: Pierce 3

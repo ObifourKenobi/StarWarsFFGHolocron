@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Micro-Rocket Launcher Pistol
 Skill: Ranged (Light)
 Dam: 0
@@ -6,7 +6,7 @@ Crit: -
 Range: Medium
 Encum: 3
 HP: 0
-Restricted: 
+Restricted: False
 Price: 500
 Rarity: 7
 Special: 

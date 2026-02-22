@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Shock Gloves
 Skill: Brawl
 Dam: +0
@@ -6,7 +6,7 @@ Crit: 5
 Range: Engaged
 Encum: 0
 HP: 1
-Restricted: 
+Restricted: False
 Price: 300
 Rarity: 2
 Special: Stun 3

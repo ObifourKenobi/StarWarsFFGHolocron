@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Variable Holdout Blaster
 Skill: Ranged (Light)
 Dam: 1-7
@@ -6,7 +6,7 @@ Crit: 4
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 400
 Rarity: 7
 Special: Limited Ammo 12

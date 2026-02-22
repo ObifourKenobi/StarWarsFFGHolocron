@@ -1,4 +1,4 @@
-﻿---
+---
 Name: G-20 Glop Grenade
 Skill: Ranged (Light)
 Dam: -
@@ -6,7 +6,7 @@ Crit: -
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 100
 Rarity: 6
 Special: Blast -, Ensnare 3

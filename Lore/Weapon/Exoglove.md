@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Exoglove
 Skill: Brawl
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 2
 HP: 1
-Restricted: 
+Restricted: False
 Price: 2,000
 Rarity: 4
 Special: Knockdown

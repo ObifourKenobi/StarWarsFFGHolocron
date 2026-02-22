@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Chewbacca's Bowcaster
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 4
 Range: Medium
 Encum: 5
 HP: -
-Restricted: 
+Restricted: False
 Price: Not for Sale
 Rarity: 10
 Special: Cumbersome 3, Knockdown, Quarrel Bandolier

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Spukami Pocket Blaster
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 200
 Rarity: 2
 Special: Stun setting

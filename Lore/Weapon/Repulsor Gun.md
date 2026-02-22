@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Repulsor Gun
 Skill: Ranged (Heavy)
 Dam: 3
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: 5
 HP: 0
-Restricted: 
+Restricted: False
 Price: 200
 Rarity: 3
 Special: Knockdown

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Mk. 4 Heavy Fragmentation Grenade
 Skill: Ranged (Light)
 Dam: 9
@@ -6,7 +6,7 @@ Crit: 4
 Range: Short
 Encum: 1
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 75
 Rarity: 5
 Special: Blast 7, Limited Ammo 1, Cumbersome 2

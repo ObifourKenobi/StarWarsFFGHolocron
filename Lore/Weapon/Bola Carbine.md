@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Bola Carbine
 Skill: Ranged (Heavy)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 3
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,600
 Rarity: 6
 Special: Accurate 1, Ensnare 1

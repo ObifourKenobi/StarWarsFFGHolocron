@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Model 134a Buzzsaw Rotary Cannon
 Skill: Gunnery
 Dam: 12
@@ -6,7 +6,7 @@ Crit: 3
 Range: Long
 Encum: 8
 HP: 4
-Restricted: (R)
+Restricted: True
 Price: 4,500
 Rarity: 7
 Special: Auto-fire, Cumbersome 6, Pierce 3

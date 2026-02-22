@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Sith Shield
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 3
 HP: 2
-Restricted: (R)
+Restricted: True
 Price: 10,000
 Rarity: 10
 Special: Cortosis, Defensive 1, Deflection 2, Vicious 1

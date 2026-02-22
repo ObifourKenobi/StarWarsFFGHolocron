@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Secondary Ion Blaster
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: 2
 HP: -
-Restricted: 
+Restricted: False
 Price: 400
 Rarity: 6
 Special: Disorient 5, Ion

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: AO14 Aranea Net Gun
 Skill: Ranged (Heavy)
 Dam: 3
@@ -6,7 +6,7 @@ Crit: -
 Range: Medium
 Encum: 4
 HP: 2
-Restricted: 
+Restricted: False
 Price: 750
 Rarity: 5
 Special: Ensnare 5

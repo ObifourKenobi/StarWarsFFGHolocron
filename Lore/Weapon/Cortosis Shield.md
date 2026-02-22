@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Cortosis Shield
 Skill: Melee
 Dam: +0
@@ -6,7 +6,7 @@ Crit: 6
 Range: Engaged
 Encum: 4
 HP: 0
-Restricted: 
+Restricted: False
 Price: 900
 Rarity: 7
 Special: Cortosis, Cumbersome 3, Defensive 2, Deflection 2

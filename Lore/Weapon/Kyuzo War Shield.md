@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 3
 HP: 0
-Restricted: 
+Restricted: False
 Price: 750
 Rarity: 8
 Special: Cumbersome 3, Defensive 1, Deflection 2, Disorient 1

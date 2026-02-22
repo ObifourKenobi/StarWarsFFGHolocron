@@ -1,4 +1,4 @@
-﻿---
+---
 Name: SKZ Sporting Blaster
 Skill: Ranged (Heavy)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 4
 Range: Long
 Encum: 3
 HP: 4
-Restricted: 
+Restricted: False
 Price: 600
 Rarity: 4
 Special: Stun setting

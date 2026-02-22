@@ -1,4 +1,4 @@
-﻿---
+---
 Name: ST-M40 Heavy Repeating Blaster Pistol
 Skill: Ranged (Light)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 2
 HP: 2
-Restricted: 
+Restricted: False
 Price: 2,100
 Rarity: 5
 Special: Auto-fire, Inaccurate 1

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Mon Calamari Spear Blaster
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 5
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,350
 Rarity: 5
 Special: Pierce 1

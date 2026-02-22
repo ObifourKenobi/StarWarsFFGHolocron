@@ -1,4 +1,4 @@
-﻿---
+---
 Name: E5 Blaster Carbine
 Skill: Ranged (Heavy)
 Dam: 9
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 3
 HP: 4
-Restricted: 
+Restricted: False
 Price: 550
 Rarity: 3
 Special: Inaccurate 1, Stun setting

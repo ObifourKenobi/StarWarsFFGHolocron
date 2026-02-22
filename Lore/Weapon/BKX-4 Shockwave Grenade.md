@@ -1,4 +1,4 @@
-﻿---
+---
 Name: BKX-4 Shockwave Grenade
 Skill: Ranged (Light)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: 1
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 150
 Rarity: 5
 Special: Blast 8, Knockdown, Disorient 4 Limited Ammo 1

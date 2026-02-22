@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Gaffi Stick
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 3
 HP: 0
-Restricted: 
+Restricted: False
 Price: 100
 Rarity: 2
 Special: Defensive 1, Disorient 3

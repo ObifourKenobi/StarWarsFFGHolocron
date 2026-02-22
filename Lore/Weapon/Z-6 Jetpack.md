@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Z-6 Jetpack
 Skill: Ranged (Heavy)
 Dam: 15
@@ -6,7 +6,7 @@ Crit: 3
 Range: Long
 Encum: 3
 HP: -
-Restricted: 
+Restricted: False
 Price: 5,250
 Rarity: 7
 Special: Blast 10, Breach 1, Inaccurate 1, Limited Ammo 5, Prepare 1

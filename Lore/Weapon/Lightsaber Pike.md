@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 3
 HP: 3
-Restricted: (R)
+Restricted: True
 Price: 9,600
 Rarity: 10
 Special: Breach 1, Cumbersome 3, Defensive 1, Sunder

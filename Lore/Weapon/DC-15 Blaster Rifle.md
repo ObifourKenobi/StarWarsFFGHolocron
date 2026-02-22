@@ -1,4 +1,4 @@
-﻿---
+---
 Name: DC-15 Blaster Rifle
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 3
 Range: Long
 Encum: 6
 HP: 4
-Restricted: (R)
+Restricted: True
 Price: 2,200
 Rarity: 6
 Special: Cumbersome 3, Pierce 1, Stun setting

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Stealth Vibroknife
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 350
 Rarity: 6
 Special: Pierce 1, Vicious 1

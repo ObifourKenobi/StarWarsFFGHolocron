@@ -1,4 +1,4 @@
-﻿---
+---
 Name: X-42 Heavy Flame Projector
 Skill: Gunnery
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 2
 Range: Medium
 Encum: 6
 HP: 2
-Restricted: (R)
+Restricted: True
 Price: 2,000
 Rarity: 7
 Special: Blast 6, Burn 4, Vicious 1

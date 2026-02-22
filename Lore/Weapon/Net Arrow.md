@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Net Arrow
 Skill: Ranged (Heavy)
 Dam: 2
@@ -6,7 +6,7 @@ Crit: NA
 Range: Medium
 Encum: 0
 HP: 0
-Restricted: 
+Restricted: False
 Price: 30
 Rarity: 5
 Special: Ensnare 2, Limited Ammo 1

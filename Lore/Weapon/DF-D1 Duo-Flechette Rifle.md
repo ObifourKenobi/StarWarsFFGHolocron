@@ -1,4 +1,4 @@
-﻿---
+---
 Name: DF-D1 Duo-Flechette Rifle
 Skill: Ranged (Heavy)
 Dam: 9
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 3
 HP: 3
-Restricted: (R)
+Restricted: True
 Price: 1,000
 Rarity: 5
 Special: Blast 4, Limited Ammo 5, Linked 1, Vicious 2

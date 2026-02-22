@@ -1,4 +1,4 @@
-﻿---
+---
 Name: FC1 Flechette Launcher
 Skill: Gunnery
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 2
 Range: Medium
 Encum: 6
 HP: 4
-Restricted: (R)
+Restricted: True
 Price: 2,500
 Rarity: 6
 Special: Breach 2, Cumbersome 3, Limited Ammo 4, Prepare 1, Vicious 3

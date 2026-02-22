@@ -1,4 +1,4 @@
-﻿---
+---
 Name: X-30 Lancer Precision Blaster Pistol
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 4
 Range: Long
 Encum: 1
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,000
 Rarity: 5
 Special: Accurate 1, Pierce 2

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: D-24 Inferno Grenade
 Skill: Ranged (Light)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 1
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 75
 Rarity: 5
 Special: Blast 5, Burn 2, Limited Ammo 1

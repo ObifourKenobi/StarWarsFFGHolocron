@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Cybernetic Weapon Implant
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 4
 Range: Medium
 Encum: -
 HP: 2
-Restricted: 
+Restricted: False
 Price: 4,000
 Rarity: 7
 Special: Stun setting

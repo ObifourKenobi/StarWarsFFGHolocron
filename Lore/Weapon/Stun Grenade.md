@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Stun Grenade
 Skill: Ranged (Light)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: NA
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 75
 Rarity: 4
 Special: Blast 8, Disorient 3, Limited Ammo 1, Stun Damage

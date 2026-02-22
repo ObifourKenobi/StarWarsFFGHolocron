@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Droid Disruptor
 Skill: Ranged (Light)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 2
 HP: 1
-Restricted: 
+Restricted: False
 Price: 800
 Rarity: 7
 Special: Vicious 3 (droid only)

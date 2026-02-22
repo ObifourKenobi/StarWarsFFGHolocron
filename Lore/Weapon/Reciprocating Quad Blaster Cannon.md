@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Reciprocating Quad Blaster Cannon
 Skill: Gunnery
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 2
 Range: Long
 Encum: 8
 HP: 4
-Restricted: (R)
+Restricted: True
 Price: 9,950
 Rarity: 8
 Special: Auto-fire (Only), Breach 1, Cumbersome 4, Inaccurate 1, Prepare 2

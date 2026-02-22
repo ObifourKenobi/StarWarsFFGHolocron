@@ -1,4 +1,4 @@
-ï»¿---
+---
 Name: Repulsor Fist
 Skill: Brawl
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: -
 HP: -
-Restricted: 
+Restricted: False
 Price: 4,750
 Rarity: 7
 Special: Concussive 1, Slow-Firing 2
@@ -14,7 +14,7 @@ Special: Concussive 1, Slow-Firing 2
 
 # Repulsor Fist
 
-Also called a repulseâ€“hand or a enforcer grip, this durasteel weapon cybernetic is typically neither covered in synthskin nor intendeded to appear natural.  More information about the gear available on the Wookieepedia article. Models Include: Illicit Electroniocs Juggernaut Mag Fist, Control Zone Ltd. Repulse-hand. REPULSOR FIST A repulsor fist provides one rank of the Defensive Stance talent and counts as a Brawl weapon with a damage of 8, a critical rating of 3, and the Concussive 1 and Slowâ€“Firing 2 qualities. While a character may still make Brawl attacks when this weapon is recharging due to the Slowâ€“Firing quality, they do so without any benefits from the weaponâ€”they simply make an unarmed Brawl attack.
+Also called a repulse–hand or a enforcer grip, this durasteel weapon cybernetic is typically neither covered in synthskin nor intendeded to appear natural.  More information about the gear available on the Wookieepedia article. Models Include: Illicit Electroniocs Juggernaut Mag Fist, Control Zone Ltd. Repulse-hand. REPULSOR FIST A repulsor fist provides one rank of the Defensive Stance talent and counts as a Brawl weapon with a damage of 8, a critical rating of 3, and the Concussive 1 and Slow–Firing 2 qualities. While a character may still make Brawl attacks when this weapon is recharging due to the Slow–Firing quality, they do so without any benefits from the weapon—they simply make an unarmed Brawl attack.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:119]]

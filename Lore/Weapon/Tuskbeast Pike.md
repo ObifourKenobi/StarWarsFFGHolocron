@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Tuskbeast Pike
 Skill: Melee
 Dam: +4
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 3
 HP: 1
-Restricted: 
+Restricted: False
 Price: 1,050
 Rarity: 8
 Special: Defensive 1, Knockdown

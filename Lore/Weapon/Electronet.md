@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Electronet
 Skill: Melee
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 6
 Range: Engaged
 Encum: 2
 HP: 0
-Restricted: 
+Restricted: False
 Price: 350
 Rarity: 6
 Special: Ensnare 5, Knockdown, Limited Ammo 1, Stun Damage

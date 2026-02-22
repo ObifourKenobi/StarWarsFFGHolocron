@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Dueling Pistol
 Skill: Ranged (Light)
 Dam: 9
@@ -6,7 +6,7 @@ Crit: 2
 Range: Short
 Encum: 2
 HP: 2
-Restricted: 
+Restricted: False
 Price: 750
 Rarity: 5
 Special: Accurate 1, Limited Ammo 1, Pierce 1

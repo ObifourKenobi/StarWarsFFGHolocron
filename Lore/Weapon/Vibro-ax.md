@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Vibro-ax
 Skill: Melee
 Dam: +3
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 4
 HP: 3
-Restricted: 
+Restricted: False
 Price: 750
 Rarity: 5
 Special: Pierce 2, Sunder, Vicious 3

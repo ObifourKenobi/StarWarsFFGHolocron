@@ -6,7 +6,7 @@ Crit: 3
 Range: Extreme
 Encum: 10
 HP: 4
-Restricted: (R)
+Restricted: True
 Price: 6,500
 Rarity: 8
 Special: Auto-fire, Cumbersome 6, Pierce 2, Vicious 1

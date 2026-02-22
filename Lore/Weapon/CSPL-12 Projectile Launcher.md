@@ -1,4 +1,4 @@
-﻿---
+---
 Name: CSPL-12 Projectile Launcher
 Skill: Ranged (Light)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 4
 Range: Medium
 Encum: 2
 HP: 2
-Restricted: (R)
+Restricted: True
 Price: 1,200
 Rarity: 6
 Special: Blast 6, Limited Ammo 3

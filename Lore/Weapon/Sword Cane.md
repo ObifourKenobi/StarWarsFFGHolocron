@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Sword Cane
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 2
 HP: 1
-Restricted: 
+Restricted: False
 Price: 475
 Rarity: 6
 Special: Defensive 1

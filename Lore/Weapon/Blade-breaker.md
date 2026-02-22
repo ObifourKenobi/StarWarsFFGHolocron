@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 250
 Rarity: 5
 Special: Defensive 2, Pierce 1, Sunder

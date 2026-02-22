@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Punch Dagger
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 75
 Rarity: 4
 Special: Pierce 1

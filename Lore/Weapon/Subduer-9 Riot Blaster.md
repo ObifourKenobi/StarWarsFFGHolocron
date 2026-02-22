@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Subduer-9 Riot Blaster
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 6
 Range: Short
 Encum: 6
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,250
 Rarity: 5
 Special: Blast 6, Cumbersome 3, Stun Damage

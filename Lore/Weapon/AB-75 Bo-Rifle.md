@@ -1,4 +1,4 @@
-﻿---
+---
 Name: AB-75 Bo-Rifle
 Skill: Melee
 Dam: +3
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 4
 HP: 4
-Restricted: (R)
+Restricted: True
 Price: 900
 Rarity: 7
 Special: Stun 5, Stun setting

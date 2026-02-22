@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Slugthrower Rifle
 Skill: Ranged (Heavy)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 5
 Range: Medium
 Encum: 5
 HP: 1
-Restricted: 
+Restricted: False
 Price: 250
 Rarity: 3
 Special: Cumbersome 2

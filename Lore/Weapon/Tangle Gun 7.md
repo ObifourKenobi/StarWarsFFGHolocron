@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Tangle Gun 7
 Skill: Ranged (Heavy)
 Dam: 1
@@ -6,7 +6,7 @@ Crit: 4
 Range: Short
 Encum: 2
 HP: 1
-Restricted: 
+Restricted: False
 Price: 500
 Rarity: 5
 Special: Ensnare 3

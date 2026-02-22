@@ -1,4 +1,4 @@
-﻿---
+---
 Name: WW-41 CryoBan Grenade
 Skill: Ranged (Light)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 2
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 220
 Rarity: 7
 Special: Blast 6, Disorient 3, Ensnare 3, Limited Ammo 1, Vicious 2

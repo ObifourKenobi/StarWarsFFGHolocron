@@ -1,4 +1,4 @@
-﻿---
+---
 Name: GALAAR-15 Blaster Carbine
 Skill: Ranged (Heavy)
 Dam: 9
@@ -6,7 +6,7 @@ Crit: 2
 Range: Long
 Encum: 4
 HP: 4
-Restricted: 
+Restricted: False
 Price: 1,100
 Rarity: 7
 Special: Accurate 1, Stun setting

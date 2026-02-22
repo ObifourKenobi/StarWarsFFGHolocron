@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Guard Shoto
 Skill: Lightsaber
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 1
 HP: 3
-Restricted: (R)
+Restricted: True
 Price: 9,700
 Rarity: 10
 Special: Breach 1, Defensive 1, Deflection 2, Sunder, Unwieldy 4

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Explosive Tipped Arrows
 Skill: Ranged (Light)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 5
 Range: Medium
 Encum: 0
 HP: 0
-Restricted: 
+Restricted: False
 Price: 50
 Rarity: 6
 Special: Blast 4, Limited Ammo 1

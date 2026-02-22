@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Vibroknife
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 1
 HP: 2
-Restricted: 
+Restricted: False
 Price: 250
 Rarity: 3
 Special: Pierce 2, Vicious 1

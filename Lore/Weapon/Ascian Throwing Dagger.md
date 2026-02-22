@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Ascian Throwing Dagger
 Skill: Ranged (Light)
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 2
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 65
 Rarity: 7
 Special: Pierce 2, Limited Ammo 1

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Electronet Launcher
 Skill: Ranged (Heavy)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: -
 Range: Short
 Encum: 6
 HP: 3
-Restricted: 
+Restricted: False
 Price: 2,000
 Rarity: 7
 Special: Ensnare 5, Stun Damage

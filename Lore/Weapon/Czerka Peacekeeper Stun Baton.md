@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Czerka Peacekeeper Stun Baton
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 3
 HP: 2
-Restricted: 
+Restricted: False
 Price: 500
 Rarity: 3
 Special: Cumbersome 3, Disorient 2, Stun 3

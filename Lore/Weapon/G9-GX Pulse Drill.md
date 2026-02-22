@@ -1,4 +1,4 @@
-﻿---
+---
 Name: G9-GX Pulse Drill
 Skill: Melee
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 5
 HP: 2
-Restricted: 
+Restricted: False
 Price: 1,100
 Rarity: 4
 Special: Breach 1, Cumbersome 3, Inaccurate 2

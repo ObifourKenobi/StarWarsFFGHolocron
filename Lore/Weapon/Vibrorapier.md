@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Vibrorapier
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 2
 HP: 2
-Restricted: 
+Restricted: False
 Price: 1,200
 Rarity: 7
 Special: Defensive 1, Pierce 4

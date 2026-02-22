@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Needle Gloves
 Skill: Brawl
 Dam: +0
@@ -6,7 +6,7 @@ Crit: 5
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 750
 Rarity: 8
 Special: 

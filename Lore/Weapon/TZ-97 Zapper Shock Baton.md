@@ -1,4 +1,4 @@
-﻿---
+---
 Name: TZ-97 Zapper Shock Baton
 Skill: Melee
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 2
 HP: 2
-Restricted: 
+Restricted: False
 Price: 900
 Rarity: 6
 Special: Concussive 1, Stun Damage

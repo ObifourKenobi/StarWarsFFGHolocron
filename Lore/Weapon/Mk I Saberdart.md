@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Mk I Saberdart
 Skill: Ranged (Light)
 Dam: 1
@@ -6,7 +6,7 @@ Crit: -
 Range: Long
 Encum: 3
 HP: 2
-Restricted: 
+Restricted: False
 Price: 1,600
 Rarity: 9
 Special: Limited Ammo 1

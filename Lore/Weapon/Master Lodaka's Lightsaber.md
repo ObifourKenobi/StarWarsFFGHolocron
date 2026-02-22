@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Master Lodaka's Lightsaber
 Skill: Lightsaber
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 1
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 20,000
 Rarity: 10
 Special: Breach 1, Sunder, Vicious 2

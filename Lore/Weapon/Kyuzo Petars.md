@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Kyuzo Petars
 Skill: Brawl
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 2,000
 Rarity: 7
 Special: Defensive 1, Pierce 3, Sunder, Vicious 2

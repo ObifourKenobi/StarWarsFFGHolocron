@@ -6,7 +6,7 @@ Crit: 3
 Range: Long
 Encum: 7
 HP: 4
-Restricted: (R)
+Restricted: True
 Price: 2,250
 Rarity: 7
 Special: Auto-fire, Cumbersome 4, Pierce 1

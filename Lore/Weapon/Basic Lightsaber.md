@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Basic Lightsaber
 Skill: Lightsaber
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 1
 HP: 5
-Restricted: 
+Restricted: False
 Price: 8,000
 Rarity: 10
 Special: Breach 1, Sunder

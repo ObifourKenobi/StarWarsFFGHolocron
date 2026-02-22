@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 4
 HP: 2
-Restricted: 
+Restricted: False
 Price: 215
 Rarity: 8
 Special: Defensive 2

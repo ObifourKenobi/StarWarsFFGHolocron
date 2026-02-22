@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Flashstick
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: -
 Range: Engaged
 Encum: 2
 HP: 2
-Restricted: 
+Restricted: False
 Price: 375
 Rarity: 4
 Special: Disorient 3, Stun Damage

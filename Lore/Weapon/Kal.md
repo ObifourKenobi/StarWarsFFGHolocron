@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 1
 HP: 1
-Restricted: (R)
+Restricted: True
 Price: 4,000
 Rarity: 8
 Special: Cortosis, Sunder, Vicious 2

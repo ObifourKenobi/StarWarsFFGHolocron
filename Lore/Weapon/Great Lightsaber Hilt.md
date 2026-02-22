@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Great Lightsaber Hilt
 Skill: Lightsaber
 Dam: 0
@@ -6,7 +6,7 @@ Crit: -
 Range: Engaged
 Encum: 2
 HP: 5
-Restricted: 
+Restricted: False
 Price: 700
 Rarity: 6
 Special: Cumbersome 3

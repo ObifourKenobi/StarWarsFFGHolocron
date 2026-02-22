@@ -1,4 +1,4 @@
-﻿---
+---
 Name: LBR-9 Stun Rifle
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: -
 Range: Long
 Encum: 6
 HP: 4
-Restricted: 
+Restricted: False
 Price: 2,800
 Rarity: 4
 Special: Disorient 2, Stun Damage

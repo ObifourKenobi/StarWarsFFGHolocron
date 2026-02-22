@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Repulsor Throwing Razor
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 2
 Range: Medium
 Encum: 2
 HP: 1
-Restricted: 
+Restricted: False
 Price: 850
 Rarity: 7
 Special: Guided 2, Limited Ammo 1, Pierce 2, Vicious 1

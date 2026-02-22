@@ -1,4 +1,4 @@
-﻿---
+---
 Name: E-5 Blaster Rifle
 Skill: Ranged (Heavy)
 Dam: 9
@@ -6,7 +6,7 @@ Crit: 3
 Range: Long
 Encum: 2
 HP: 2
-Restricted: 
+Restricted: False
 Price: 600
 Rarity: 4
 Special: Stun setting

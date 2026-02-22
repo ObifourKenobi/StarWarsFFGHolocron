@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Selonian Glaive
 Skill: Melee
 Dam: +3
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 5
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,200
 Rarity: 7
 Special: Defensive 1, Pierce 3

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Verpine Heavy Shatter Rifle
 Skill: Gunnery
 Dam: 15
@@ -6,7 +6,7 @@ Crit: 2
 Range: Extreme
 Encum: 4
 HP: 4
-Restricted: 
+Restricted: False
 Price: 45,000
 Rarity: 8
 Special: Accurate 2, Knockdown, Pierce 6

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: XL-2 Flashfire Light Blaster Pistol
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 1
 HP: 3
-Restricted: 
+Restricted: False
 Price: 450
 Rarity: 5
 Special: Disorient 1, Stun setting

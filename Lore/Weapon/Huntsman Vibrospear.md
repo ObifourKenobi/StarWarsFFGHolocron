@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Huntsman Vibrospear
 Skill: Melee
 Dam: +3
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 4
 HP: 2
-Restricted: 
+Restricted: False
 Price: 950
 Rarity: 6
 Special: Pierce 2, Vicious 2
@@ -14,7 +14,7 @@ Special: Pierce 2, Vicious 2
 
 # Huntsman Vibrospear
 
-The Corporate Sector–based LaserHone effectively created the vibrospear market with its Huntsman model.  The Huntsman vibrospear requires two hands to use.
+The Corporate Sector�based LaserHone effectively created the vibrospear market with its Huntsman model.  The Huntsman vibrospear requires two hands to use.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:48]]

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Kyuzo Energy Bow
 Skill: Ranged (Heavy)
 Dam: 9
@@ -6,7 +6,7 @@ Crit: 4
 Range: Long
 Encum: 6
 HP: 1
-Restricted: 
+Restricted: False
 Price: 2,400
 Rarity: 8
 Special: Cumbersome 3, Knockdown, Pierce 5

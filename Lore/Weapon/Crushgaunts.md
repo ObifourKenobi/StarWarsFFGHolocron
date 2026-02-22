@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Crushgaunts
 Skill: Brawl
 Dam: +4
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 5,000
 Rarity: 8
 Special: Cortosis, Sunder, Vicious 2

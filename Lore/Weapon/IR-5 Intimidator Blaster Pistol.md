@@ -1,4 +1,4 @@
-﻿---
+---
 Name: IR-5 Intimidator Blaster Pistol
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 2
 HP: 2
-Restricted: (R)
+Restricted: True
 Price: 750
 Rarity: 6
 Special: Auto-fire, Inaccurate 1

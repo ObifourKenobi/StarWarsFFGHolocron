@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Energy Buckler
 Skill: Melee
 Dam: +0
@@ -6,7 +6,7 @@ Crit: 5
 Range: Engaged
 Encum: 2
 HP: 1
-Restricted: 
+Restricted: False
 Price: 1,000
 Rarity: 7
 Special: Concussive 1, Defensive 1, Deflection 1

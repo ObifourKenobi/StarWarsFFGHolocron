@@ -1,4 +1,4 @@
-﻿---
+---
 Name: SoroSuub Persuader Animal Shock Prod
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 4
 HP: 2
-Restricted: 
+Restricted: False
 Price: 1,000
 Rarity: 4
 Special: Concussive 1, Slow-Firing 1, Stun Setting

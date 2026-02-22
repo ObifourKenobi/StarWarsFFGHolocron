@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Koromondain SVT-300 Stun Cloak
 Skill: Brawl
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 2
 HP: 0
-Restricted: 
+Restricted: False
 Price: 1,500
 Rarity: 4
 Special: Limited Ammo 3, Stun Damage

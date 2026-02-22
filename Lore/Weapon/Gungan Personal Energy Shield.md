@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Gungan Personal Energy Shield
 Skill: Melee
 Dam: -1
@@ -6,7 +6,7 @@ Crit: 5
 Range: Engaged
 Encum: 4
 HP: 0
-Restricted: 
+Restricted: False
 Price: 1,000
 Rarity: 7
 Special: Defensive 2, Deflection 2

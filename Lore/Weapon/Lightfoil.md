@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Lightfoil
 Skill: Lightsaber
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 1
 HP: 1
-Restricted: (R)
+Restricted: True
 Price: 9,850
 Rarity: 10
 Special: Breach 1, Defensive 2, Sunder

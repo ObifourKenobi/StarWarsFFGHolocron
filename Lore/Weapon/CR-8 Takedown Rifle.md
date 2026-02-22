@@ -1,4 +1,4 @@
-﻿---
+---
 Name: CR-8 Takedown Rifle
 Skill: Ranged (Heavy)
 Dam: 9
@@ -6,7 +6,7 @@ Crit: 3
 Range: Extreme
 Encum: 4
 HP: 1
-Restricted: (R)
+Restricted: True
 Price: 3,250
 Rarity: 7
 Special: Accurate 2, Prepare 2, Pierce 2, Slow-Firing  1

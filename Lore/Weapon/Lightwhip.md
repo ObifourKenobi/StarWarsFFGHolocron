@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Lightwhip
 Skill: Lightsaber
 Dam: 4
@@ -6,7 +6,7 @@ Crit: 4
 Range: Short
 Encum: 1
 HP: 1
-Restricted: (R)
+Restricted: True
 Price: 11,400
 Rarity: 10
 Special: Ensnare 1, Pierce 5, Unwieldy 4

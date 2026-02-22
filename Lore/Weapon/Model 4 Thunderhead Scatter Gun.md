@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Model 4 Thunderhead Scatter Gun
 Skill: Ranged (Heavy)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 4
 Range: Short
 Encum: 4
 HP: 3
-Restricted: 
+Restricted: False
 Price: 700
 Rarity: 5
 Special: Blast 5, Knockdown, Vicious 1

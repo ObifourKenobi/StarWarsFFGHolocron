@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 0
 HP: 0
-Restricted: 
+Restricted: False
 Price: 50
 Rarity: 5
 Special: Blast 4, Limited Ammo 1

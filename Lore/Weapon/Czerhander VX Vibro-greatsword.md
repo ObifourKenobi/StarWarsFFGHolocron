@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Czerhander VX Vibro-greatsword
 Skill: Melee
 Dam: +3
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 4
 HP: 3
-Restricted: 
+Restricted: False
 Price: 900
 Rarity: 6
 Special: Defensive 2, Pierce 2, Vicious 2

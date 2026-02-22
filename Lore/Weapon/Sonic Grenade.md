@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Sonic Grenade
 Skill: Ranged (Light)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 4
 Range: Short
 Encum: 1
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 250
 Rarity: 6
 Special: Blast 8, Disorient 5, Limited Ammo 1, Stun Damage

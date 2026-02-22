@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Ashla Staff
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 4
 HP: 2
-Restricted: 
+Restricted: False
 Price: 3,000
 Rarity: 7
 Special: 

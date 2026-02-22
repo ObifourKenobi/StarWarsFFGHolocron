@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Concealed Escape Kit
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: -
 HP: -
-Restricted: 
+Restricted: False
 Price: 450
 Rarity: 7
 Special: Pierce 1

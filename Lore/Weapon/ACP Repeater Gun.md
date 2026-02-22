@@ -1,4 +1,4 @@
-﻿---
+---
 Name: ACP Repeater Gun
 Skill: Ranged (Heavy)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 3
 HP: 1
-Restricted: 
+Restricted: False
 Price: 1,000
 Rarity: 6
 Special: Auto-fire, Stun setting

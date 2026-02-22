@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Storm Charge Suit
 Skill: Brawl
 Dam: +0
@@ -6,7 +6,7 @@ Crit: 5
 Range: Engaged
 Encum: 3
 HP: 0
-Restricted: 
+Restricted: False
 Price: 2,000
 Rarity: 6
 Special: Stun 3

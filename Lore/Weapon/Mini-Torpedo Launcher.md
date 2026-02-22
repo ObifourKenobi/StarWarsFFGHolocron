@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Mini-Torpedo Launcher
 Skill: Ranged (Heavy)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 2
 Range: Long
 Encum: 4
 HP: 4
-Restricted: 
+Restricted: False
 Price: 2,000
 Rarity: 6
 Special: Blast 6, Cumbersome 2, Limited Ammo 2

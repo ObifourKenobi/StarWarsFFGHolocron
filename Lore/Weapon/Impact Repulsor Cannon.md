@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Impact Repulsor Cannon
 Skill: Ranged (Heavy)
 Dam: 3
@@ -6,7 +6,7 @@ Crit: 6
 Range: Medium
 Encum: 5
 HP: 1
-Restricted: 
+Restricted: False
 Price: 1,000
 Rarity: 7
 Special: Blast 3, Concussive 1, Knockdown, Prepare 1, Slow-Firing 1

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Beastmaster's Vibro-glaive
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 3
 HP: 3
-Restricted: 
+Restricted: False
 Price: 975
 Rarity: 6
 Special: Defensive 2, Pierce 3

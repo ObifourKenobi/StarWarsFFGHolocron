@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Beskad
 Skill: Melee
 Dam: +3
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 4
 HP: 2
-Restricted: (R)
+Restricted: True
 Price: 6,500
 Rarity: 8
 Special: Cortosis, Cumbersome 3, Sunder, Vicious 3

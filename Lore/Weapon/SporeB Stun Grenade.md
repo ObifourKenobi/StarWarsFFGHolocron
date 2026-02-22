@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Spore/B Stun Grenade
 Skill: Ranged (Light)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 400
 Rarity: 5
 Special: Blast 6, Concussive 2, Limited Ammo 1, Stun Damage

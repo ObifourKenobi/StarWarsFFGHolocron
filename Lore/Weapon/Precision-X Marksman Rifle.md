@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Precision-X Marksman Rifle
 Skill: Ranged (Heavy)
 Dam: 9
@@ -6,7 +6,7 @@ Crit: 3
 Range: Long
 Encum: 5
 HP: 1
-Restricted: 
+Restricted: False
 Price: 1,500
 Rarity: 8
 Special: Pierce 1, Stun setting

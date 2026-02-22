@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Neuronic Lash
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 800
 Rarity: 7
 Special: Ensnare 1, Stun 3, Stun Damage

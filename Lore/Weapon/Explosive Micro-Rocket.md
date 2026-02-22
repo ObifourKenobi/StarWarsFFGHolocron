@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Explosive Micro-Rocket
 Skill: Ranged (Heavy)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 2
 Range: Short
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 150
 Rarity: 4
 Special: Blast 6, Limited Ammo 1

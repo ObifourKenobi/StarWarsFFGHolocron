@@ -1,4 +1,4 @@
-﻿---
+---
 Name: OK-98 Blaster Carbine
 Skill: Ranged (Heavy)
 Dam: 11
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 4
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,100
 Rarity: 5
 Special: Stun setting

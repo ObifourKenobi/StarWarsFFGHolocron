@@ -1,4 +1,4 @@
-﻿---
+---
 Name: 'aKraB Clip-point Vibrodagger
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 550
 Rarity: 5
 Special: Pierce 3, Vicious 1

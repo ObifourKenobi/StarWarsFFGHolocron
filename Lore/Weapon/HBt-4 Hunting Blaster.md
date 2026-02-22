@@ -1,4 +1,4 @@
-﻿---
+---
 Name: HBt-4 Hunting Blaster
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 5
 HP: 2
-Restricted: 
+Restricted: False
 Price: 900
 Rarity: 6
 Special: Cumbersome 2, Stun setting

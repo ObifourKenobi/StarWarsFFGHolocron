@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Refined Cortosis Gauntlets
 Skill: Brawl
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 3
 HP: 2
-Restricted: 
+Restricted: False
 Price: 1,000
 Rarity: 7
 Special: Cortosis

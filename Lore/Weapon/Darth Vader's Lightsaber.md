@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Darth Vader's Lightsaber
 Skill: Lightsaber
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 1
 Range: Engaged
 Encum: 1
 HP: -
-Restricted: 
+Restricted: False
 Price: Not for Sale
 Rarity: 10
 Special: Breach 1, Dramatic Entrance, Dual-Phase Modification, Sunder, Superior, Vicious 2

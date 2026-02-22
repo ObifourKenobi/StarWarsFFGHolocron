@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Shistavanen Combat Utility Vibroblade
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 2
 HP: 0
-Restricted: 
+Restricted: False
 Price: 600
 Rarity: 7
 Special: Pierce 2, Vicious 1

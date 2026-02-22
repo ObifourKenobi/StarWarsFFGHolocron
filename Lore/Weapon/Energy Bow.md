@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Energy Bow
 Skill: Ranged (Heavy)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 2
 Range: Medium
 Encum: 4
 HP: 2
-Restricted: (R)
+Restricted: True
 Price: 2,800
 Rarity: 8
 Special: Pierce 4, Unwieldy 3, Vicious 2

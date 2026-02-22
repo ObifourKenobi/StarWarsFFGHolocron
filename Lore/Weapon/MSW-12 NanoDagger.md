@@ -1,4 +1,4 @@
-﻿---
+---
 Name: MSW-12 NanoDagger
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 700
 Rarity: 6
 Special: Pierce 5, Vicious 1

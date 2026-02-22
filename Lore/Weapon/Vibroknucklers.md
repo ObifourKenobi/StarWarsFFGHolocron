@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Vibroknucklers
 Skill: Brawl
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 350
 Rarity: 4
 Special: Pierce 1, Vicious 1

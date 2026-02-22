@@ -1,4 +1,4 @@
-﻿---
+---
 Name: MR-90 Proton Rifle
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 2
 Range: Extreme
 Encum: 6
 HP: 2
-Restricted: (R)
+Restricted: True
 Price: 3,100
 Rarity: 8
 Special: Accurate 1, Cumbersome 3, Knockdown

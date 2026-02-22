@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Model-1 Nova Viper Blaster Pistol
 Skill: Ranged (Light)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 2
 HP: 2
-Restricted: 
+Restricted: False
 Price: 4,500
 Rarity: 9
 Special: Accurate 2, Pierce 2, Stun setting

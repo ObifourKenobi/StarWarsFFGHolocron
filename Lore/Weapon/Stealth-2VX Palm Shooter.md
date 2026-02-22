@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Stealth-2VX Palm Shooter
 Skill: Ranged (Light)
 Dam: 1
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: 0
 HP: 0
-Restricted: 
+Restricted: False
 Price: 300
 Rarity: 5
 Special: Limited Ammo 3

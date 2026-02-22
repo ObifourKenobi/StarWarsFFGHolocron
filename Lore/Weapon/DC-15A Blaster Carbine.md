@@ -1,4 +1,4 @@
-﻿---
+---
 Name: DC-15A Blaster Carbine
 Skill: Ranged (Heavy)
 Dam: 9
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 3
 HP: 4
-Restricted: (R)
+Restricted: True
 Price: 1,500
 Rarity: 5
 Special: Auto-fire, Pierce 1, Stun setting

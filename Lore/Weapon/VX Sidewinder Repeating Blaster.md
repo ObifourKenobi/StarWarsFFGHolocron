@@ -1,4 +1,4 @@
-﻿---
+---
 Name: VX Sidewinder Repeating Blaster
 Skill: Gunnery
 Dam: 12
@@ -6,7 +6,7 @@ Crit: 3
 Range: Long
 Encum: 8
 HP: 4
-Restricted: (R)
+Restricted: True
 Price: 3,350
 Rarity: 7
 Special: Auto-fire, Cumbersome 5, Pierce 1, Vicious 1

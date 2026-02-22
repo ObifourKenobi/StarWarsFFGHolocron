@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Rodian Cryogen Whip
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 1,550
 Rarity: 7
 Special: Ensnare 1, Vicious 2, Unwieldy 3

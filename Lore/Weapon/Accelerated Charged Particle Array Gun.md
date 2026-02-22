@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Accelerated Charged Particle Array Gun
 Skill: Ranged (Heavy)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 3
 HP: 3
-Restricted: 
+Restricted: False
 Price: 890
 Rarity: 6
 Special: Blast 6, Stun Setting

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Model 14 Stalker Vibrospear
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 4
 HP: 2
-Restricted: 
+Restricted: False
 Price: 490
 Rarity: 6
 Special: Defensive 1, Pierce 2, Vicious 2

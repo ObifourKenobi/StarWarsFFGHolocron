@@ -1,4 +1,4 @@
-﻿---
+---
 Name: DE-10 Blaster Pistol
 Skill: Ranged (Light)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 2
 Range: Long
 Encum: 1
 HP: 2
-Restricted: 
+Restricted: False
 Price: 1,400
 Rarity: 8
 Special: Accurate 1, Stun setting

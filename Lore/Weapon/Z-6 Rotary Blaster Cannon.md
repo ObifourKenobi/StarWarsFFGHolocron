@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Z-6 Rotary Blaster Cannon
 Skill: Ranged (Heavy)
 Dam: 12
@@ -6,7 +6,7 @@ Crit: 4
 Range: Long
 Encum: 6
 HP: 3
-Restricted: (R)
+Restricted: True
 Price: 3,000
 Rarity: 7
 Special: Auto-fire (Only), Cumbersome 3, Prepare 1

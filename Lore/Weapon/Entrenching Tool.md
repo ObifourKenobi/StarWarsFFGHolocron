@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Entrenching Tool
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 1
 HP: -
-Restricted: 
+Restricted: False
 Price: 20
 Rarity: 1
 Special: 

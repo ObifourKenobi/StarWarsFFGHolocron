@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Contained Energy Ax
 Skill: Lightsaber
 Dam: +3
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 4
 HP: 3
-Restricted: 
+Restricted: False
 Price: 7,500
 Rarity: 8
 Special: Breach 1, Cumbersome 3, Sunder, Vicious 3

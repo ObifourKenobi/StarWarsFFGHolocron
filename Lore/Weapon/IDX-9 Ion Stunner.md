@@ -1,4 +1,4 @@
-﻿---
+---
 Name: IDX-9 Ion Stunner
 Skill: Ranged (Light)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: -
 Range: Medium
 Encum: 1
 HP: 2
-Restricted: 
+Restricted: False
 Price: 300
 Rarity: 4
 Special: Ion, Stun Damage

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Heartwood Blaster
 Skill: Ranged (Heavy)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 5
 Range: Medium
 Encum: 3
 HP: 1
-Restricted: 
+Restricted: False
 Price: 1,000
 Rarity: 6
 Special: Cumbersome 2, Stun 3

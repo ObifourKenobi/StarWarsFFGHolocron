@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Corellian Cutlass
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 2
 HP: 1
-Restricted: 
+Restricted: False
 Price: 300
 Rarity: 3
 Special: Defensive 1, Vicious 1

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Grapnel-Harpoon Launcher
 Skill: Ranged (Light)
 Dam: 3
@@ -6,7 +6,7 @@ Crit: 5
 Range: Medium
 Encum: 2
 HP: 0
-Restricted: 
+Restricted: False
 Price: 450
 Rarity: 5
 Special: Ensnare 3

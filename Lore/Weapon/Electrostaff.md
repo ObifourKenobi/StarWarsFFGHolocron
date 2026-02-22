@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Electrostaff
 Skill: Melee
 Dam: +4
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 4
 HP: 3
-Restricted: 
+Restricted: False
 Price: 4,500
 Rarity: 6
 Special: Cortosis, Cumbersome 3, Linked 1, Stun setting, Unwieldy 3

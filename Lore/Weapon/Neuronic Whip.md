@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Neuronic Whip
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 4
 Range: Short
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 750
 Rarity: 6
 Special: Disorient 4, Ensnare 1, Stun Damage

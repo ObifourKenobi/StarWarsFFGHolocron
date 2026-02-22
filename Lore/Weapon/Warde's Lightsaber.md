@@ -6,7 +6,7 @@ Crit: 1
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: Not for sale
 Rarity: -
 Special: Breach 1, Dantari crystal [spend one force point on Force power checks to recover 2 strain], Sunder

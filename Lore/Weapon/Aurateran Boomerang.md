@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Aurateran Boomerang
 Skill: Ranged (Light)
 Dam: 4
@@ -6,7 +6,7 @@ Crit: 5
 Range: Medium
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 65
 Rarity: 6
 Special: Guided 1, Limited Ammo 1

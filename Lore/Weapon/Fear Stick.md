@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Fear Stick
 Skill: Melee
 Dam: 5
@@ -6,7 +6,7 @@ Crit: -
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 1,500
 Rarity: 8
 Special: Limited Ammo 3, Pierce 1, Stun Damage

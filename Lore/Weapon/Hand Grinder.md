@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Hand Grinder
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 5
 HP: 4
-Restricted: 
+Restricted: False
 Price: 500
 Rarity: 3
 Special: Cumbersome 3, Prepare 1, Vicious 4

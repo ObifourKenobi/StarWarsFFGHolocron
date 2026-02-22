@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Disruptor Pistol
 Skill: Ranged (Light)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 2
 Range: Short
 Encum: 2
 HP: 2
-Restricted: (R)
+Restricted: True
 Price: 3,000
 Rarity: 6
 Special: Vicious 4

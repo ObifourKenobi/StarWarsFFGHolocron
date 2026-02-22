@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Underslung Scattergun
 Skill: Ranged (Heavy)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: -
 HP: -
-Restricted: (R)
+Restricted: True
 Price: 750
 Rarity: 5
 Special: Blast 5, Knockdown, Limited Ammo 1

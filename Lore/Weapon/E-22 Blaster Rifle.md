@@ -1,4 +1,4 @@
-﻿---
+---
 Name: E-22 Blaster Rifle
 Skill: Ranged (Heavy)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 4
 HP: 2
-Restricted: (R)
+Restricted: True
 Price: 1,500
 Rarity: 8
 Special: Cumbersome 2, Linked 1,Stun setting

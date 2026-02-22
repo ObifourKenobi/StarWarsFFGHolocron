@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Blast Knuckles
 Skill: Brawl
 Dam: +4
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 2
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 500
 Rarity: 6
 Special: Inaccurate 1

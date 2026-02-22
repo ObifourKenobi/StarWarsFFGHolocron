@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Morgukai Cortosis Staff
 Skill: Melee
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 1
 Range: Engaged
 Encum: 3
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 9,000
 Rarity: 10
 Special: Breach 1, Cortosis, Defensive 1

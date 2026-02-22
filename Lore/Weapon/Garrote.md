@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Garrote
 Skill: Brawl
 Dam: -
@@ -6,7 +6,7 @@ Crit: -
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 50
 Rarity: 2
 Special: Stun setting

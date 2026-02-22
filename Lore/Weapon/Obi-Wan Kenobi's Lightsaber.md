@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Obi-Wan Kenobi's Lightsaber
 Skill: Lightsaber
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 1
 Range: Engaged
 Encum: 1
 HP: 3
-Restricted: 
+Restricted: False
 Price: Not for Sale
 Rarity: 10
 Special: Bastion of Safety, Breach 1, Sunder

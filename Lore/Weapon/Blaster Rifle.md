@@ -6,7 +6,7 @@ Crit: 3
 Range: Long
 Encum: 4
 HP: 4
-Restricted: 
+Restricted: False
 Price: 900
 Rarity: 5
 Special: Stun setting

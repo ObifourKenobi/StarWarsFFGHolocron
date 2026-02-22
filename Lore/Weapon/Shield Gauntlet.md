@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Shield Gauntlet
 Skill: Brawl
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 5
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 1,500
 Rarity: 8
 Special: Deflection 2, Stun Damage

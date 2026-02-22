@@ -1,4 +1,4 @@
-﻿---
+---
 Name: WP-19 Incendiary Grenade
 Skill: Ranged (Light)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 1
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 125
 Rarity: 6
 Special: Blast 8, Burn 4, Limited 1

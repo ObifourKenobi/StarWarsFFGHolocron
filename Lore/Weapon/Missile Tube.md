@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Missile Tube
 Skill: Gunnery
 Dam: 20
@@ -6,7 +6,7 @@ Crit: 2
 Range: Extreme
 Encum: 7
 HP: 4
-Restricted: (R)
+Restricted: True
 Price: 7,500
 Rarity: 8
 Special: Blast 10, Breach 1, Cumbersome 3, Guided 3, Limited Ammo 6, Prepare 1

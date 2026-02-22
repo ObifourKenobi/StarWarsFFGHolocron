@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Double-Bladed Lightsaber
 Skill: Lightsaber
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 2
 HP: 4
-Restricted: (R)
+Restricted: True
 Price: 18,600
 Rarity: 10
 Special: Breach 1, Linked 1, Sunder, Unwieldy 3

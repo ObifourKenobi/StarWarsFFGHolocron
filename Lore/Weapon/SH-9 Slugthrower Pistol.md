@@ -1,4 +1,4 @@
-﻿---
+---
 Name: SH-9 Slugthrower Pistol
 Skill: Ranged (Light)
 Dam: 4
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 250
 Rarity: 4
 Special: Limited Ammo 5, Pierce 2

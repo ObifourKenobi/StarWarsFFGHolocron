@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Copora-Tech Thermal Cutter
 Skill: Melee
 Dam: 4
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 2
 HP: -
-Restricted: 
+Restricted: False
 Price: 125
 Rarity: 3
 Special: Burn 1, Inaccurate 2

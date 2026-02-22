@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Shockprod Staff
 Skill: Melee
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 4
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,500
 Rarity: 7
 Special: Disorient 4, Stun setting

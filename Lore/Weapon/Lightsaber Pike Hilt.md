@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Lightsaber Pike Hilt
 Skill: Lightsaber
 Dam: 0
@@ -6,7 +6,7 @@ Crit: -
 Range: Engaged
 Encum: 3
 HP: 3
-Restricted: 
+Restricted: False
 Price: 600
 Rarity: 7
 Special: Cumbersome 3, Defensive 1

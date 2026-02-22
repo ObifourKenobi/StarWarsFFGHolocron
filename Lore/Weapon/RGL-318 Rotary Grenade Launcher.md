@@ -1,4 +1,4 @@
-﻿---
+---
 Name: RGL-318 Rotary Grenade Launcher
 Skill: Gunnery
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 4
 Range: Medium
 Encum: 5
 HP: 3
-Restricted: (R)
+Restricted: True
 Price: 1,000
 Rarity: 3
 Special: Blast 6, Cumbersome 3, Limited Ammo 5

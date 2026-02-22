@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Cortosis Staff (Refined)
 Skill: Melee
 Dam: +3
@@ -6,7 +6,7 @@ Crit: 5
 Range: Engaged
 Encum: 4
 HP: 2
-Restricted: 
+Restricted: False
 Price: 2,500
 Rarity: 7
 Special: Cortosis

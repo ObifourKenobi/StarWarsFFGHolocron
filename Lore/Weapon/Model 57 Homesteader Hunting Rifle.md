@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Model 57 Homesteader Hunting Rifle
 Skill: Ranged (Heavy)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 5
 Range: Long
 Encum: 5
 HP: 4
-Restricted: 
+Restricted: False
 Price: 500
 Rarity: 6
 Special: Accurate 1, Blast 4,Cumbersome 2, Knockdown

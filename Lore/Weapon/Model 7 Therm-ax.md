@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Model 7 Therm-ax
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 4
 HP: 3
-Restricted: (R)
+Restricted: True
 Price: 850
 Rarity: 5
 Special: Burn 2, Sunder, Vicious 1

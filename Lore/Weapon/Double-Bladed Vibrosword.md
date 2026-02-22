@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Double-Bladed Vibrosword
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 4
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,300
 Rarity: 6
 Special: Defensive 1, Linked 1, Pierce 2, Unwieldy 3, Vicious 1

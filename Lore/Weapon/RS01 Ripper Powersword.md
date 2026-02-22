@@ -1,4 +1,4 @@
-﻿---
+---
 Name: RS01 Ripper Powersword
 Skill: Melee
 Dam: +3
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 4
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,050
 Rarity: 6
 Special: Cumbersome 3, Pierce 2, Sunder, Knockdown, Vicious 2

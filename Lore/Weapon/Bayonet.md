@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Bayonet
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 1
 HP: -
-Restricted: 
+Restricted: False
 Price: 50
 Rarity: 1
 Special: 

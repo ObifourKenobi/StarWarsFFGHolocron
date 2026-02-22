@@ -1,4 +1,4 @@
-﻿---
+---
 Name: M3 Bulwark Blast Shield
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 6
 Range: Engaged
 Encum: 6
 HP: 1
-Restricted: (R)
+Restricted: True
 Price: 600
 Rarity: 5
 Special: Cumbersome 3, Defensive 2, Deflection 2

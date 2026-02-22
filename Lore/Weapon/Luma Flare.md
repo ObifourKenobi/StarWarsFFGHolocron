@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Luma Flare
 Skill: Gunnery
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 3
 Range: Long
 Encum: 1
 HP: -
-Restricted: 
+Restricted: False
 Price: 50
 Rarity: 4
 Special: Blast 4, Burn 4, Disorient 2, Inaccurate 2, Prepare 2, Limited Ammo 1

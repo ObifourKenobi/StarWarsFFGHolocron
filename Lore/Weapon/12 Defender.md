@@ -1,4 +1,4 @@
-﻿---
+---
 Name: 12 Defender
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 25
 Rarity: 4
 Special: Inferior, Limited Ammo 2

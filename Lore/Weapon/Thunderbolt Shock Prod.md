@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Thunderbolt Shock Prod
 Skill: Melee
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 2
 HP: 2
-Restricted: 
+Restricted: False
 Price: 875
 Rarity: 6
 Special: Concussive 1, Stun Damage

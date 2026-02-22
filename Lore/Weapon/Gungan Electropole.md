@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Gungan Electropole
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 3
 HP: 2
-Restricted: 
+Restricted: False
 Price: 450
 Rarity: 5
 Special: Stun 3, Stun setting

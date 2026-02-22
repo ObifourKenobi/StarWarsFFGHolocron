@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Fyr Assault Carbine
 Skill: Ranged (Heavy)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: 4
 HP: 1
-Restricted: 
+Restricted: False
 Price: 250
 Rarity: 4
 Special: Auto-fire, Inaccurate 1

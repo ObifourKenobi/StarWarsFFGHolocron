@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Z2 Stun Baton
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 6
 Range: Engaged
 Encum: 2
 HP: 2
-Restricted: 
+Restricted: False
 Price: 200
 Rarity: 4
 Special: Disorient 2, Stun Damage

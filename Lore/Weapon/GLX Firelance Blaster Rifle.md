@@ -1,4 +1,4 @@
-﻿---
+---
 Name: GLX Firelance Blaster Rifle
 Skill: Ranged (Heavy)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 3
 Range: Long
 Encum: 3
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,600
 Rarity: 6
 Special: Auto-fire, Disorient 2, Stun setting

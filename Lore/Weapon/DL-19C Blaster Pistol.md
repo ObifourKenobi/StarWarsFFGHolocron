@@ -1,4 +1,4 @@
-﻿---
+---
 Name: DL-19C Blaster Pistol
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 4
 Range: Medium
 Encum: 1
 HP: 4
-Restricted: 
+Restricted: False
 Price: 450
 Rarity: 4
 Special: Stun setting

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Training Lightsaber
 Skill: Lightsaber
 Dam: 6
@@ -6,7 +6,7 @@ Crit: -
 Range: Engaged
 Encum: 1
 HP: 5
-Restricted: 
+Restricted: False
 Price: 400
 Rarity: 6
 Special: Stun Damage

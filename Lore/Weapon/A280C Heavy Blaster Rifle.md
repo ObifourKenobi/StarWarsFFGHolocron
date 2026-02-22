@@ -1,4 +1,4 @@
-﻿---
+---
 Name: A280C Heavy Blaster Rifle
 Skill: Ranged (Heavy)
 Dam: 9
@@ -6,7 +6,7 @@ Crit: 4
 Range: Long
 Encum: 5
 HP: 2
-Restricted: 
+Restricted: False
 Price: 1,800
 Rarity: 7
 Special: Accurate 1, Cumbersome 3, Stun setting

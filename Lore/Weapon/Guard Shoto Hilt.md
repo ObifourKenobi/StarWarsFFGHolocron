@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Guard Shoto Hilt
 Skill: Lightsaber
 Dam: 0
@@ -6,7 +6,7 @@ Crit: -
 Range: Engaged
 Encum: 1
 HP: 3
-Restricted: 
+Restricted: False
 Price: 700
 Rarity: 7
 Special: Defensive 1, Deflection 2, Unwieldy 4

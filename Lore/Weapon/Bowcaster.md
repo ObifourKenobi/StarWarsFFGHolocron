@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Bowcaster
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 5
 HP: 2
-Restricted: 
+Restricted: False
 Price: 1,250
 Rarity: 7
 Special: Cumbersome 3

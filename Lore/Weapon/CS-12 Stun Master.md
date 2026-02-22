@@ -1,4 +1,4 @@
-﻿---
+---
 Name: CS-12 Stun Master
 Skill: Melee
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 575
 Rarity: 3
 Special: Disorient 2, Stun Damage

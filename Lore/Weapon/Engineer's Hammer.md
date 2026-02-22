@@ -6,7 +6,7 @@ Crit: 5
 Range: Engaged
 Encum: 2
 HP: -
-Restricted: 
+Restricted: False
 Price: 350
 Rarity: 2
 Special: Cumbersome 3, Disorient 1, Knockdown

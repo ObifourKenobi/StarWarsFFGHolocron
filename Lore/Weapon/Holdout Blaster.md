@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Holdout Blaster
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 4
 Range: Short
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 200
 Rarity: 4
 Special: Stun setting

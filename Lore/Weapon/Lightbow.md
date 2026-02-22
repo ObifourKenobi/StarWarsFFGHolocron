@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Lightbow
 Skill: Ranged (Heavy)
 Dam: 11
@@ -6,7 +6,7 @@ Crit: 3
 Range: Long
 Encum: 5
 HP: 1
-Restricted: 
+Restricted: False
 Price: 2,000
 Rarity: 8
 Special: Blast 4, Knockdown, Pierce 3, Slow-Firing 1

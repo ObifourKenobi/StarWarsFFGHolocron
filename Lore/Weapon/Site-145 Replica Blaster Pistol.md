@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Site-145 Replica Blaster Pistol
 Skill: Ranged (Light)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 1
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 1,750
 Rarity: 8
 Special: Stun setting

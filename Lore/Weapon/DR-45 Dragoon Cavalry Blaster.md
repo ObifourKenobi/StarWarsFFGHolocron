@@ -1,4 +1,4 @@
-﻿---
+---
 Name: DR-45 Dragoon Cavalry Blaster
 Skill: Ranged (Heavy)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 1
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,900
 Rarity: 6
 Special: Accurate 1, Stun setting

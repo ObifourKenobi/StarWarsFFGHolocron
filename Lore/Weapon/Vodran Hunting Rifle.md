@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Vodran Hunting Rifle
 Skill: Ranged (Heavy)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 4
 Range: Long
 Encum: 4
 HP: 2
-Restricted: 
+Restricted: False
 Price: 800
 Rarity: 7
 Special: Cumbersome 2

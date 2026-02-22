@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Staff of Office
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: 3
 HP: 2
-Restricted: 
+Restricted: False
 Price: 350
 Rarity: 6
 Special: Defensive 1, Disorient 2

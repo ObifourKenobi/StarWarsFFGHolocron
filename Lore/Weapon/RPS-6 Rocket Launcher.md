@@ -1,4 +1,4 @@
-﻿---
+---
 Name: RPS-6 Rocket Launcher
 Skill: Gunnery
 Dam: 22
@@ -6,7 +6,7 @@ Crit: 2
 Range: Extreme
 Encum: 8
 HP: 4
-Restricted: (R)
+Restricted: True
 Price: 8,200
 Rarity: 8
 Special: Blast 14, Breach 1, Cumbersome 4, Guided 2, Limited Ammo 7

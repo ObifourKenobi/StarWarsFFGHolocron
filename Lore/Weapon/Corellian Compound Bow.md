@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Corellian Compound Bow
 Skill: Ranged (Heavy)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 5
 Range: Medium
 Encum: 3
 HP: 1
-Restricted: 
+Restricted: False
 Price: 200
 Rarity: 5
 Special: Cumbersome 3, Knockdown, Limited Ammo 1, Pierce 1

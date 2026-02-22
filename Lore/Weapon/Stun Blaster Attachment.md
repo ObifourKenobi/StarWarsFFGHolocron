@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Stun Blaster Attachment
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: -
 Range: Short
 Encum: 1
 HP: -
-Restricted: 
+Restricted: False
 Price: 750
 Rarity: 5
 Special: Stun Damage, Unwieldy 2
@@ -14,7 +14,7 @@ Special: Stun Damage, Unwieldy 2
 
 # Stun Blaster Attachment
 
-By stripping down an otherwise functional stun blaster, wiring it into the power supply of a lightsaber hilt, and bolting the resulting device to the hilt, a Force user can make use of the blaster without relinquishing immediate access to the lightsaber.  More information about the attachment available on the Wookieepedia article.  STUN BLASTER ATTACHMENT OR This attachment can only be applied to lightsabers. Models Include: Custom variants. Base Modifiers: Enables weapon to fire using the following profile at the user's choice: (Ranged [Light]; Damage 5; Critical –; Range [Short]; Stun Damage, Unwieldy +2). The stun blaster attachment may not be used while the blade of the lightsaber is ignited. Modification Options: 1 Damage +1 Mod, 1 Decrease Unwieldy rating by 1 to a minimum of 1 Mod, 2 Item Quality (Disorient +1) Mods.
+By stripping down an otherwise functional stun blaster, wiring it into the power supply of a lightsaber hilt, and bolting the resulting device to the hilt, a Force user can make use of the blaster without relinquishing immediate access to the lightsaber.  More information about the attachment available on the Wookieepedia article.  STUN BLASTER ATTACHMENT OR This attachment can only be applied to lightsabers. Models Include: Custom variants. Base Modifiers: Enables weapon to fire using the following profile at the user's choice: (Ranged [Light]; Damage 5; Critical �; Range [Short]; Stun Damage, Unwieldy +2). The stun blaster attachment may not be used while the blade of the lightsaber is ignited. Modification Options: 1 Damage +1 Mod, 1 Decrease Unwieldy rating by 1 to a minimum of 1 Mod, 2 Item Quality (Disorient +1) Mods.
 
 ## Source
 [[Gadgets and Gear|Gadgets and Gear:96]]

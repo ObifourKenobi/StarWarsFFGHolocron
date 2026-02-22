@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Heavy Blaster Pistol
 Skill: Ranged (Light)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 2
 HP: 3
-Restricted: 
+Restricted: False
 Price: 700
 Rarity: 6
 Special: Stun setting

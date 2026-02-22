@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Ryyk Blade
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 3
 HP: 3
-Restricted: 
+Restricted: False
 Price: 400
 Rarity: 8
 Special: Cumbersome 3, Defensive 1, Superior

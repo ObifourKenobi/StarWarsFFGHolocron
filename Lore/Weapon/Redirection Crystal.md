@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Redirection Crystal
 Skill: Skulduggery
 Dam: 9
@@ -6,7 +6,7 @@ Crit: 4
 Range: Short
 Encum: -
 HP: -
-Restricted: (R)
+Restricted: True
 Price: 500
 Rarity: 9
 Special: Limited Ammo 1

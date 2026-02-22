@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Sap Gloves
 Skill: Brawl
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 5
 Range: Engaged
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 50
 Rarity: 4
 Special: Concussive 1

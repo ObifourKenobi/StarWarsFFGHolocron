@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Model 80 Blaster Pistol
 Skill: Ranged (Light)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 2
 Range: Medium
 Encum: 2
 HP: 3
-Restricted: 
+Restricted: False
 Price: 550
 Rarity: 5
 Special: Stun setting

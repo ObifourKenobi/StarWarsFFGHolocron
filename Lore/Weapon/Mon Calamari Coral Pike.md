@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Mon Calamari Coral Pike
 Skill: Melee
 Dam: +3
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 3
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,000
 Rarity: 6
 Special: Defensive 1, Pierce 2

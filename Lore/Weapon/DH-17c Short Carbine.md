@@ -1,4 +1,4 @@
-﻿---
+---
 Name: DH-17c Short Carbine
 Skill: Ranged (Heavy)
 Dam: 4
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 3
 HP: 2
-Restricted: 
+Restricted: False
 Price: 950
 Rarity: 6
 Special: Auto-fire, Stun setting

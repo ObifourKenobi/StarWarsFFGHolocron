@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Slugthrower Pistol
 Skill: Ranged (Light)
 Dam: 4
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 100
 Rarity: 3
 Special: 

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Heavy Blaster Rifle
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 3
 Range: Long
 Encum: 6
 HP: 4
-Restricted: 
+Restricted: False
 Price: 1,500
 Rarity: 6
 Special: Auto-fire, Cumbersome 3

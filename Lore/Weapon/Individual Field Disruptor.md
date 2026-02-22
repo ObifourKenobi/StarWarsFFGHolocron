@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Individual Field Disruptor
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: -
 Range: Engaged
 Encum: -
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 9,500
 Rarity: 7
 Special: Stun Damage

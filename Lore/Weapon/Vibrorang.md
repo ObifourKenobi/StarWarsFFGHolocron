@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Vibrorang
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 300
 Rarity: 4
 Special: Inaccurate 1, Pierce 2, Vicious 1

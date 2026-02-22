@@ -1,4 +1,4 @@
-﻿---
+---
 Name: VES-700 Pulse Rifle
 Skill: Ranged (Heavy)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 4
 HP: 3
-Restricted: 
+Restricted: False
 Price: 950
 Rarity: 6
 Special: Blast 6, Stun setting

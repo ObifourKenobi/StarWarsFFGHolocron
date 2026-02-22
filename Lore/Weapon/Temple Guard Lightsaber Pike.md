@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Temple Guard Lightsaber Pike
 Skill: Lightsaber
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 2
 HP: 4
-Restricted: (R)
+Restricted: True
 Price: 20,000
 Rarity: 10
 Special: Breach 1, Defensive 1, Linked 1, Sunder, Stun 4, Unwieldy 3

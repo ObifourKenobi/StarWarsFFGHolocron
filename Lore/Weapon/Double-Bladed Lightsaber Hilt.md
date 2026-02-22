@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Double-Bladed Lightsaber Hilt
 Skill: Lightsaber
 Dam: 0
@@ -6,7 +6,7 @@ Crit: -
 Range: Engaged
 Encum: 2
 HP: 4
-Restricted: 
+Restricted: False
 Price: 600
 Rarity: 6
 Special: Linked 1, Unwieldy 3

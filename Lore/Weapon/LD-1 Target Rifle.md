@@ -1,4 +1,4 @@
-﻿---
+---
 Name: LD-1 Target Rifle
 Skill: Ranged (Heavy)
 Dam: 9
@@ -6,7 +6,7 @@ Crit: 4
 Range: Extreme
 Encum: 6
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,275
 Rarity: 7
 Special: Accurate 2, Cumbersome 3, Pierce 3, Slow-Firing 1

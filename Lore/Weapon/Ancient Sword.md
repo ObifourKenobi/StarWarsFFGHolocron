@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Ancient Sword
 Skill: Lightsaber
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 3
 HP: 1
-Restricted: 
+Restricted: False
 Price: 350
 Rarity: 8
 Special: Defensive 1

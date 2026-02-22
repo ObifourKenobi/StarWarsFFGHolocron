@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Luke Skywalker's Lightsaber
 Skill: Lightsaber
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 1
 Range: Engaged
 Encum: 1
 HP: -
-Restricted: 
+Restricted: False
 Price: Not for Sale
 Rarity: 10
 Special: Breach 1, Return of the Jedi, Sunder, Vicious 2

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: RLR-331 Bulldog Rocket Rifle
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 4
 Range: Long
 Encum: 6
 HP: 3
-Restricted: (R)
+Restricted: True
 Price: 2,200
 Rarity: 7
 Special: Blast 8, Cumbersome 3, Guided 3, Limited Ammo 6

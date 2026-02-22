@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Longeing Whip
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: 3
 HP: 1
-Restricted: 
+Restricted: False
 Price: 600
 Rarity: 4
 Special: Ensnare 2, Stun Damage

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Verpine Shatter Rifle
 Skill: Ranged (Heavy)
 Dam: 12
@@ -6,7 +6,7 @@ Crit: 3
 Range: Extreme
 Encum: 3
 HP: 3
-Restricted: 
+Restricted: False
 Price: 30,000
 Rarity: 8
 Special: Knockdown, Pierce 4

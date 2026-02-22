@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Mini-Torpedo, Anti-Personnel
 Skill: Ranged (Heavy)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 2
 Range: Long
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 100
 Rarity: 5
 Special: Blast 6, Limited Ammo 1

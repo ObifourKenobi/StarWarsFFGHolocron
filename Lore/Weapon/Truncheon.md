@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Truncheon
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 5
 Range: Engaged
 Encum: 2
 HP: 0
-Restricted: 
+Restricted: False
 Price: 15
 Rarity: 1
 Special: Disorient 2

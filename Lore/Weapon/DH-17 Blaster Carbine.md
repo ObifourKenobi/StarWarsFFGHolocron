@@ -1,4 +1,4 @@
-﻿---
+---
 Name: DH-17 Blaster Carbine
 Skill: Ranged (Heavy)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 2
 HP: 3
-Restricted: 
+Restricted: False
 Price: 900
 Rarity: 6
 Special: Auto-fire, Inaccurate 1, Stun setting

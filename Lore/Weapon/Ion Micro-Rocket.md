@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Ion Micro-Rocket
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 100
 Rarity: 6
 Special: Ion, Limited Ammo 1, Sunder

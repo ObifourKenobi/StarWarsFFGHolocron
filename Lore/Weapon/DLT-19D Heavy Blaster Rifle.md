@@ -1,4 +1,4 @@
-﻿---
+---
 Name: DLT-19D Heavy Blaster Rifle
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 3
 Range: Long
 Encum: 5
 HP: 1
-Restricted: (R)
+Restricted: True
 Price: 3,100
 Rarity: 9
 Special: Accurate 2, Auto-fire, Cumbersome 3, Pierce 2

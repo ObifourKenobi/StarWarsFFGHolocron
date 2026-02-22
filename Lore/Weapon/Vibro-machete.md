@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Vibro-machete
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 2
 HP: 1
-Restricted: 
+Restricted: False
 Price: 550
 Rarity: 4
 Special: Pierce 1, Sunder, Vicious 1

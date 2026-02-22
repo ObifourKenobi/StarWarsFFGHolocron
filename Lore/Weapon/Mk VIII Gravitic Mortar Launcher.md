@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Mk VIII Gravitic Mortar Launcher
 Skill: Gunnery
 Dam: 4
@@ -6,7 +6,7 @@ Crit: NA
 Range: Long
 Encum: 6
 HP: 1
-Restricted: (R)
+Restricted: True
 Price: 2,800
 Rarity: 7
 Special: Inaccurate 1, Prepare 1

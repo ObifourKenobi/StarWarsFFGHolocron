@@ -1,4 +1,4 @@
-﻿---
+---
 Name: AJ-23 Concussive Rifle
 Skill: Ranged (Heavy)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: 4
 HP: 2
-Restricted: 
+Restricted: False
 Price: 8,000
 Rarity: 4
 Special: Blast 7, Concussive 2, Inaccurate 2, Knockdown, Stun Damage

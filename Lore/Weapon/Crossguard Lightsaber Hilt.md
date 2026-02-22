@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Crossguard Lightsaber Hilt
 Skill: Lightsaber
 Dam: 0
@@ -6,7 +6,7 @@ Crit: -
 Range: Engaged
 Encum: 1
 HP: 4
-Restricted: 
+Restricted: False
 Price: 900
 Rarity: 7
 Special: Defensive 1

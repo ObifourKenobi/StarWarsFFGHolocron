@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Mk II Paladin Blaster Rifle
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 6
 Range: Engaged
 Encum: 4
 HP: 2
-Restricted: 
+Restricted: False
 Price: 3,250
 Rarity: 8
 Special: Disorient 2, Stun Damage

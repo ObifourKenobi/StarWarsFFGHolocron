@@ -1,4 +1,4 @@
-﻿---
+---
 Name: SSB-1 Static Pistol
 Skill: Ranged (Light)
 Dam: 2
@@ -6,7 +6,7 @@ Crit: 4
 Range: Short
 Encum: 2
 HP: 1
-Restricted: 
+Restricted: False
 Price: 850
 Rarity: 7
 Special: Disorient 1, Stun 8

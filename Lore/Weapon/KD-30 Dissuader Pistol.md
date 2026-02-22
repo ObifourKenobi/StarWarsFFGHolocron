@@ -1,4 +1,4 @@
-﻿---
+---
 Name: KD-30 Dissuader Pistol
 Skill: Ranged (Light)
 Dam: 4
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: 2
 HP: 0
-Restricted: 
+Restricted: False
 Price: 350
 Rarity: 6
 Special: Pierce 1, Vicious 1

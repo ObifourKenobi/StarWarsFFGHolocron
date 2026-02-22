@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Concussion Missile
 Skill: Gunnery
 Dam: 14
@@ -6,7 +6,7 @@ Crit: 4
 Range: Extreme
 Encum: 0
 HP: 0
-Restricted: 
+Restricted: False
 Price: 200
 Rarity: 8
 Special: Blast 10, Concussive 3, Disorient 5, Guided 2

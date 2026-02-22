@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Vibro-bayonet
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 1
 HP: -
-Restricted: 
+Restricted: False
 Price: 300
 Rarity: 3
 Special: Inaccurate 1, Pierce 2, Vicious 1

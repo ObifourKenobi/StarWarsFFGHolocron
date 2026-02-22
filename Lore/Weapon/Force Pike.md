@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Force Pike
 Skill: Melee
 Dam: +3
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 3
 HP: 3
-Restricted: 
+Restricted: False
 Price: 500
 Rarity: 4
 Special: Pierce 1, Stun setting

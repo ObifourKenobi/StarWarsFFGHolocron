@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Combat Knife
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 25
 Rarity: 1
 Special: 

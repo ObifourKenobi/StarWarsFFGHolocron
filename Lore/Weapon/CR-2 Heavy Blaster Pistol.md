@@ -1,4 +1,4 @@
-﻿---
+---
 Name: CR-2 Heavy Blaster Pistol
 Skill: Ranged (Light)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 4
 Range: Medium
 Encum: 2
 HP: 2
-Restricted: 
+Restricted: False
 Price: 600
 Rarity: 5
 Special: Stun setting

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: DDC-MR6 Modular Rifle
 Skill: Ranged (Heavy)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 3
 HP: 6
-Restricted: 
+Restricted: False
 Price: 1,000
 Rarity: 6
 Special: Stun setting

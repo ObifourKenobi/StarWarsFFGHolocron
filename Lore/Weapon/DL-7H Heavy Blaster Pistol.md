@@ -1,4 +1,4 @@
-﻿---
+---
 Name: DL-7H Heavy Blaster Pistol
 Skill: Ranged (Light)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 2
 HP: 2
-Restricted: (R)
+Restricted: True
 Price: 850
 Rarity: 6
 Special: 

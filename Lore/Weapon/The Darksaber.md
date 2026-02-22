@@ -1,4 +1,4 @@
-﻿---
+---
 Name: The Darksaber
 Skill: Lightsaber
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: Unique
 Rarity: -
 Special: Accurate 1, Breach 1, Defensive 1, Sunder

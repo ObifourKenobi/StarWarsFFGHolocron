@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Thermal Detonator
 Skill: Ranged (Light)
 Dam: 20
@@ -6,7 +6,7 @@ Crit: 2
 Range: Short
 Encum: 1
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 2,000
 Rarity: 8
 Special: Blast 15, Breach 1, Limited Ammo 1, Vicious 4

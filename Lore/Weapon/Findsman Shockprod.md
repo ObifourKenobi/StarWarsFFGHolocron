@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Findsman Shockprod
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 5
 Range: Engaged
 Encum: 3
 HP: 1
-Restricted: 
+Restricted: False
 Price: 1,400
 Rarity: 6
 Special: Cortosis, Defensive 1, Stun Damage

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: H-7 Equalizer Blaster Pistol
 Skill: Ranged (Light)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 2
 Range: Medium
 Encum: 2
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,200
 Rarity: 8
 Special: Stun setting, Superior

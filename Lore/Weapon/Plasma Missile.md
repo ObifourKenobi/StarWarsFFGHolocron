@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Plasma Missile
 Skill: Gunnery
 Dam: 16
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 0
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 160
 Rarity: 8
 Special: Blast 14, Cumbersome 3, Inaccurate 1, Pierce 2

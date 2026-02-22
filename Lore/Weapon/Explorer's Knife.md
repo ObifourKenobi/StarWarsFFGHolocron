@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Explorer's Knife
 Skill: Melee
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 2
 HP: 0
-Restricted: 
+Restricted: False
 Price: 100
 Rarity: 3
 Special: Vicious 1

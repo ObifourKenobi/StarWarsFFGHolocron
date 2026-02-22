@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Training Stick
 Skill: Lightsaber
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 5
 Range: Engaged
 Encum: 2
 HP: 0
-Restricted: 
+Restricted: False
 Price: 35
 Rarity: 3
 Special: Accurate 1, Disorient 1, Stun Damage

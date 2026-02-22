@@ -1,4 +1,4 @@
-﻿---
+---
 Name: DC-17 Hand Blaster
 Skill: Ranged (Light)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 2
 HP: 3
-Restricted: (R)
+Restricted: True
 Price: 1,000
 Rarity: 6
 Special: Accurate 1, Stun setting

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: MSW-9 Molecular Stiletto
 Skill: Melee
 Dam: +0
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 500
 Rarity: 5
 Special: Pierce 5, Vicious 1

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Shoto Hilt
 Skill: Lightsaber
 Dam: 0
@@ -6,7 +6,7 @@ Crit: -
 Range: Engaged
 Encum: 1
 HP: 3
-Restricted: 
+Restricted: False
 Price: 300
 Rarity: 6
 Special: Accurate 1

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Basic Lightsaber Hilt
 Skill: Lightsaber
 Dam: 0
@@ -6,7 +6,7 @@ Crit: -
 Range: Engaged
 Encum: 1
 HP: 5
-Restricted: 
+Restricted: False
 Price: 300
 Rarity: 5
 Special: 

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Mon Calamari Battle Baton
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 4
 Range: Medium
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 250
 Rarity: 6
 Special: Stun setting

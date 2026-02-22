@@ -1,4 +1,4 @@
-﻿---
+---
 Name: CS14 Ghost Light Blaster Pistol
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 1
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 550
 Rarity: 6
 Special: Stun setting

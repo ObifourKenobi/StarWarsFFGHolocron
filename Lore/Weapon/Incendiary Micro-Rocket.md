@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Incendiary Micro-Rocket
 Skill: Ranged (Heavy)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 1
 HP: 1
-Restricted: 
+Restricted: False
 Price: 175
 Rarity: 5
 Special: Blast 6, Burn 2, Limited Ammo 1

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Energy Slingshot
 Skill: Ranged (Light)
 Dam: 3
@@ -6,7 +6,7 @@ Crit: -
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 40
 Rarity: 4
 Special: Disorient 2, Stun Damage

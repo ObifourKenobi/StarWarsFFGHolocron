@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Fusion Cutter
 Skill: Melee
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 2
 HP: -
-Restricted: 
+Restricted: False
 Price: 175
 Rarity: 2
 Special: Breach 1, Burn 3, Sunder, Vicious 3

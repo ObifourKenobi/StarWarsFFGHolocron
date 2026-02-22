@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Great Lightsaber
 Skill: Lightsaber
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 2
 Range: Engaged
 Encum: 2
 HP: 3
-Restricted: (R)
+Restricted: True
 Price: 12,000
 Rarity: 10
 Special: Breach 1, Cumbersome 3, Sunder

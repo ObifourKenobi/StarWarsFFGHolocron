@@ -1,4 +1,4 @@
-﻿---
+---
 Name: ELG-3A Blaster Pistol
 Skill: Ranged (Light)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 4
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 400
 Rarity: 5
 Special: Stun setting

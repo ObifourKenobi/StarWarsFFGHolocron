@@ -6,7 +6,7 @@ Crit: 2
 Range: Short
 Encum: 8
 HP: 3
-Restricted: (R)
+Restricted: True
 Price: 2,000
 Rarity: 8
 Special: Burn 4, Blast 9, Cumbersome 3, Vicious 2

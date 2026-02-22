@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Reinforced Gauntlets
 Skill: Brawl
 Dam: +1
@@ -6,7 +6,7 @@ Crit: 4
 Range: Engaged
 Encum: -
 HP: -
-Restricted: 
+Restricted: False
 Price: 250
 Rarity: 2
 Special: Disorient 3

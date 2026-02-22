@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Pulse Cannon
 Skill: Ranged (Heavy)
 Dam: 9
@@ -6,7 +6,7 @@ Crit: 3
 Range: Extreme
 Encum: 5
 HP: 1
-Restricted: (R)
+Restricted: True
 Price: 2,750
 Rarity: 6
 Special: Cumbersome 3, Pierce 2, Slow-Firing 1

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Spray Foam Grenade
 Skill: Ranged (Light)
 Dam: -
@@ -6,7 +6,7 @@ Crit: -
 Range: Short
 Encum: 1
 HP: 0
-Restricted: 
+Restricted: False
 Price: 150
 Rarity: 5
 Special: Ensnare 4, Limited Ammo 1

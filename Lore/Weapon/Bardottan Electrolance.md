@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Bardottan Electrolance
 Skill: Melee
 Dam: +2
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 3
 HP: 2
-Restricted: 
+Restricted: False
 Price: 300
 Rarity: 5
 Special: Defensive 2, Stun setting

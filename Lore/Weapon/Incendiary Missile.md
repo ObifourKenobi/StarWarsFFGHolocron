@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Incendiary Missile
 Skill: Gunnery
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 3
 Range: Extreme
 Encum: 0
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 145
 Rarity: 7
 Special: Blast 10, Burn 3, Guided 2

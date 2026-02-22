@@ -1,4 +1,4 @@
-﻿---
+---
 Name: SE-14C Blaster Pistol
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 4
 Range: Short
 Encum: 1
 HP: 2
-Restricted: 
+Restricted: False
 Price: 650
 Rarity: 6
 Special: Auto-fire, Stun setting

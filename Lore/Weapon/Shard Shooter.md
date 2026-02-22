@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Shard Shooter
 Skill: Ranged (Light)
 Dam: 5
@@ -6,7 +6,7 @@ Crit: 3
 Range: Medium
 Encum: 4
 HP: 2
-Restricted: 
+Restricted: False
 Price: 1,500
 Rarity: 7
 Special: Auto-fire, Pierce 1

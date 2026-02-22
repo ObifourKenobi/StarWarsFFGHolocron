@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Dart Gun
 Skill: Ranged (Light)
 Dam: 2
@@ -6,7 +6,7 @@ Crit: 5
 Range: Short
 Encum: -
 HP: -
-Restricted: 
+Restricted: False
 Price: 200
 Rarity: 4
 Special: Limited Ammo 1, Pierce 1

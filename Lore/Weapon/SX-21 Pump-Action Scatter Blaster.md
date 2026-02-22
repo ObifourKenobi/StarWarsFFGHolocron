@@ -1,4 +1,4 @@
-﻿---
+---
 Name: SX-21 Pump-Action Scatter Blaster
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 6
 HP: 4
-Restricted: 
+Restricted: False
 Price: 1,200
 Rarity: 6
 Special: Blast 6, Cumbersome 3, Prepare 1

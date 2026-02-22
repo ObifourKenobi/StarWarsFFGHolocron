@@ -1,4 +1,4 @@
-﻿---
+---
 Name: AA8 8-Gauge Scatter Gun
 Skill: Ranged (Heavy)
 Dam: 7
@@ -6,7 +6,7 @@ Crit: 6
 Range: Short
 Encum: 3
 HP: 2
-Restricted: 
+Restricted: False
 Price: 550
 Rarity: 4
 Special: Blast 3, Knockdown

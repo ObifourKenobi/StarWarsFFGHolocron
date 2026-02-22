@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Wrist Blaster
 Skill: Ranged (Light)
 Dam: 6
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 1
 HP: 0
-Restricted: (R)
+Restricted: True
 Price: 1,200
 Rarity: 6
 Special: Limited Ammo 1, Pierce 4

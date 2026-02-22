@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Arg'garok
 Skill: Melee
 Dam: +5
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 5
 HP: 3
-Restricted: 
+Restricted: False
 Price: 1,000
 Rarity: 7
 Special: Cumbersome 5, Inferior 1, Pierce 1, Sunder

@@ -1,4 +1,4 @@
-﻿---
+---
 Name: LJ-40 Concussion Carbine
 Skill: Ranged (Heavy)
 Dam: 8
@@ -6,7 +6,7 @@ Crit: 3
 Range: Short
 Encum: 4
 HP: 1
-Restricted: (R)
+Restricted: True
 Price: 2,500
 Rarity: 8
 Special: Blast 3, Concussive 1, Knockdown, Limited Ammo 3

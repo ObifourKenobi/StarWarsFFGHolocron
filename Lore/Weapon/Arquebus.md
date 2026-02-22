@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Arquebus
 Skill: Ranged (Heavy)
 Dam: 9
@@ -6,7 +6,7 @@ Crit: 5
 Range: Long
 Encum: 3
 HP: 4
-Restricted: 
+Restricted: False
 Price: 1,200
 Rarity: 5
 Special: Cumbersome 3, Prepare 1

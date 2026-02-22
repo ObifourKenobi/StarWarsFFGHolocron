@@ -1,4 +1,4 @@
-﻿---
+---
 Name: E-11s Sniper Rifle
 Skill: Ranged (Heavy)
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 3
 Range: Extreme
 Encum: 6
 HP: 3
-Restricted: (R)
+Restricted: True
 Price: 3,500
 Rarity: 7
 Special: Accurate 1, Cumbersome 2, Pierce 3, Slow-Firing 1

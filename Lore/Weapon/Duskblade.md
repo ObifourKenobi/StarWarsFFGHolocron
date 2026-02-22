@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Duskblade
 Skill: Melee
 Dam: +3
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 2
 HP: 1
-Restricted: 
+Restricted: False
 Price: 1,800
 Rarity: 8
 Special: Pierce 2, Superior

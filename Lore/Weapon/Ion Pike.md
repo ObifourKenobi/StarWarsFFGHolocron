@@ -1,4 +1,4 @@
-﻿---
+---
 Name: Ion Pike
 Skill: Melee
 Dam: 10
@@ -6,7 +6,7 @@ Crit: 3
 Range: Engaged
 Encum: 2
 HP: 1
-Restricted: 
+Restricted: False
 Price: 750
 Rarity: 6
 Special: Inaccurate 1, Ion, Pierce 4
