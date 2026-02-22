@@ -64,5 +64,5 @@ The Storm IV is a twin-pod cloud car manufactured by Bespin Motors, commonly use
 - [[Starships and Speeders|Starships and Speeders: The Essential Collection of Vehicles:19]]
 - [[Age of Rebellion Core Rulebook|Age of Rebellion Core Rulebook:262]]
 - [[Edge of the Empire Core Rulebook|Edge of the Empire Core Rulebook:248]]
-- [[The Jewel of Yavin|The Jewel of Yavin:44]]
-- [[Debts to Pay|Debts to Pay:9]]
+- [[Jewel of Yavin|The Jewel of Yavin:44]]
+- [[Edge of the Empire Game Master's Kit]]

@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Forgotten",
+                "query": "\"to Pay\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,6 +203,11 @@
   },
   "active": "d1b5b7c8e37c43bc",
   "lastOpenFiles": [
+    "Lore/Vehicles/Speeder/Storm IV Cloud Car.md",
+    "Lore/Books/Jewel of Yavin.md",
+    "Lore/Books/Suns of Fortune.md",
+    "The Jewel of Yavin.md",
+    "Lore/Books/Allies and Adversaries.md",
     "Lore/Vehicles/Speeder/Talon I Cloud Combat Car.md",
     "Lore/Vehicles/Speeder/Zephyr-G Swoop.md",
     "Lore/Vehicles/Speeder/XP-40 Luxury Coach.md",
@@ -225,11 +230,6 @@
     "Lore/Vehicles/Speeder/SoroSuub Rapid Service Speeder J-15.md",
     "Lore/Vehicles/Speeder/S-K2 Skywing Personal Speeder.md",
     "Lore/Vehicles/Speeder/Tetan Guard Airspeeder.md",
-    "Lore/Vehicles/Speeder/IML-2c Aquatic Scout Ship.md",
-    "Lore/Vehicles/Speeder/Flasherfish Personal Watercraft.md",
-    "Lore/Vehicles/Speeder/X-34 Landspeeder.md",
-    "Lore/Vehicles/Speeder/V5 Medium Cargo Floater.md",
-    "Lore/Vehicles/Speeder/V-35 Courier DA.md",
     "Lore/Vehicles/Speeder/generate_speeders.py",
     "Lore/Vehicles/Speeder",
     "Lore/Vehicles/Ground",
