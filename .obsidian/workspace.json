@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Careers/Technician.md",
-                "mode": "source",
-                "source": false
+                "file": "Lore/Careers/Warrior.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Technician"
+              "title": "Warrior"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "If successful, during the next encounter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Careers/Technician.md",
+                "file": "Lore/Careers/Warrior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Technician"
+              "title": "Rétrolien pour Warrior"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Careers/Technician.md",
+                "file": "Lore/Careers/Warrior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Technician"
+              "title": "Liens sortants de Warrior"
             }
           },
           {
@@ -156,16 +156,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Careers/Technician.md",
+                "file": "Lore/Careers/Warrior.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Technician"
+              "title": "Plan de Warrior"
+            }
+          },
+          {
+            "id": "95deca302092d946",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -186,34 +197,34 @@
   },
   "active": "7550935cb0dfa2bc",
   "lastOpenFiles": [
-    "Lore/Characteristic/Cunning.md",
-    "Lore/Characteristic/Intellect.md",
-    "Lore/Characteristic/Brawn.md",
+    "Lore/Careers/Sentinel.md",
+    "Lore/Careers/Warrior.md",
+    "Lore/Careers/Seeker.md",
+    "Lore/Talents/One With Nature.md",
+    "Lore/Talents/One with the Universe.md",
+    "Lore/Talents/Second Chances.md",
+    "Lore/Careers/Mystic.md",
+    "Lore/Careers/Guardian.md",
+    "Lore/Talents/Body Guard.md",
+    "Lore/Careers/Consular.md",
+    "Lore/Careers/Commander.md",
+    "Lore/Skills/Cool.md",
+    "Lore/Careers/Spy.md",
+    "Lore/Careers/Soldier.md",
     "Lore/Careers/Technician.md",
-    "Lore/Talents/Bypass Security.md",
-    "Lore/Books/Edge of the Empire Core Rulebook.md",
-    "Lore/Books/Edge of the Empire Beginner Game - Rulebook.md",
-    "Lore/Species/Skakoan.md",
+    "Lore/Careers/Engineer.md",
+    "Lore/Careers/Explorer.md",
     "Lore/Careers/Smuggler.md",
     "Lore/Careers/Hired Gun.md",
-    "Lore/Careers/Colonist.md",
-    "Lore/Careers/Explorer.md",
-    "Lore/Skills/Astrogation.md",
-    "Lore/Careers/Bounty Hunter.md",
-    "Lore/Talents/Nobody's Fool.md",
-    "Lore/Skills/Athletics.md",
-    "Lore/Books.base",
-    "Lore/Weapon/1.8 FD Anti-Infantry Autoturret.md",
-    "Lore/ItemQualities/Burn.md",
-    "Lore/Weapon/aKraB Clip-point Vibrodagger.md",
-    "Lore/Weapon/M8 Combat Knife.md",
-    "Lore/Weapon/Model 14 Stalker Vibrospear.md",
-    "Lore/Weapon/Mon Calamari Energy Lance.md",
-    "Lore/Weapon/Needle Gloves.md",
-    "Lore/Weapon/MSW-9 Molecular Stiletto.md",
-    "Lore/Weapon/MSW-12 NanoDagger.md",
-    "Lore/Weapon/MWC-35c Staccato Lightning Repeating Cannon.md",
+    "Lore/Careers/Diplomat.md",
+    "Lore/Careers/Ace.md",
+    "Lore/Species/Arcona.md",
     "Sans titre.canvas",
+    "Lore/Weapon/Electronet.md",
+    "Lore/Weapon/Electromag-Pulse Disruptor.md",
+    "Lore/Weapon/Diiro.md",
+    "Lore/Weapon/DH-X Heavy Blaster Rifle.md",
+    "Lore/Books.base",
     "Lore/Weapon/WeaponsMarkdown",
     "Lore/Weapon",
     "Lore/test/WeaponsMarkdown",
