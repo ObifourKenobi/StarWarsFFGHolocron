@@ -1,4 +1,4 @@
-﻿---
+---
 name: "Cortosis (Passive)"
 activation: Passive
 ranked: False

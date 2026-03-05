@@ -4,20 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "24f2515768e7b9e6",
+        "id": "67e58efa38dd8c00",
         "type": "tabs",
         "children": [
           {
-            "id": "d1b5b7c8e37c43bc",
+            "id": "5b3cf93610e74615",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Weapon/Crossguard Lightsaber Hilt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crossguard Lightsaber Hilt"
+            }
+          },
+          {
+            "id": "e5533f3a3508423f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notes de version 1.12.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"to Pay\"",
+                "query": "shuttle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +87,7 @@
               "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,54 +198,55 @@
               "title": "History"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 552.5,
-    "collapsed": true
+    "width": 552.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Créer une nouvelle base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1b5b7c8e37c43bc",
+  "active": "e5533f3a3508423f",
   "lastOpenFiles": [
-    "Lore/Vehicles/Speeder/Storm IV Cloud Car.md",
-    "Lore/Books/Jewel of Yavin.md",
-    "Lore/Books/Suns of Fortune.md",
-    "The Jewel of Yavin.md",
-    "Lore/Books/Allies and Adversaries.md",
-    "Lore/Vehicles/Speeder/Talon I Cloud Combat Car.md",
-    "Lore/Vehicles/Speeder/Zephyr-G Swoop.md",
-    "Lore/Vehicles/Speeder/XP-40 Luxury Coach.md",
-    "Lore/Vehicles/Speeder/XL-3c Guardsman Patrol Airspeeder.md",
-    "Lore/Vehicles/Speeder/WLO-5 Light Speeder Tank.md",
-    "Lore/Vehicles/Speeder/V-35 Courier FH.md",
-    "Lore/Vehicles/Speeder/Undicur-class Jumpspeeder.md",
-    "Lore/Vehicles/Speeder/Ubrikkian Industries Hauler Air Skiff.md",
-    "Lore/Vehicles/Speeder/T-47 Airspeeder.md",
-    "Lore/Books/Edge of the Empire Core Rulebook.md",
-    "Lore/Vehicles/Speeder/T-47 Sandspeeder.md",
-    "Forgotten Suns.md",
-    "Lore/Vehicles/Speeder/C-B7 Interceptor.md",
-    "Lore/Vehicles/Speeder/HAVr A9 Floating Fortress.md",
-    "Lore/Vehicles/Speeder/Flare-S Swoop.md",
-    "Lore/Vehicles/Speeder/Dewback 2 Repulsor Sled.md",
-    "Lore/Vehicles/Speeder/D-4s Projection Platform.md",
-    "Lore/Vehicles/Speeder/Ascendant Personal Stealth Flyer.md",
+    "Lore/Weapon/A280C Heavy Blaster Rifle.md",
+    "Lore/Books.base",
+    "Lore/Pictogram.md",
+    "templates/vehicle-template.md",
+    "templates/armor-template.md",
+    "TODO.md",
+    "Lore/Species/Togruta.md",
+    "Lore/Careers/Sentinel.md",
+    "Piloting (Planetary).md",
+    "Lore/Armor/worn-equipment/Biogel Suit.md",
+    "Lore/Armor/Attire/Holographic Costume.md",
+    "Lore/Armor/Beast/H-series Megafauna Carriage.md",
+    "Lore/Armor/Beast/Destri-series Laminate Beast Armor.md",
+    "Lore/Armor/Beast/Capari-series Padded Beast Armor.md",
+    "Lore/Armor/Heavy/Armored Robes.md",
+    "Lore/Careers/Colonist.md",
+    "Lore/Characteristic/Intellect.md",
+    "Lore/Characteristic/Agility.md",
+    "Lore/Force Power/Conjure.md",
+    "Lore/Force Power/Bind.md",
+    "Lore/ItemQualities/Slow-Firing.md",
+    "Lore/ItemQualities/Cortosis.md",
+    "Lore/ItemQualities/Auto-fire.md",
+    "Lore/ItemQualities/Blast.md",
+    "Lore/Skills/Xenology.md",
+    "Lore/Skills/Leadership.md",
+    "Lore/Skills/Gunnery.md",
     "Lore/Vehicles/Speeder/fix_sources.py",
-    "Lore/Vehicles/Speeder/SoroSuub Rapid Service Speeder J-15.md",
-    "Lore/Vehicles/Speeder/S-K2 Skywing Personal Speeder.md",
-    "Lore/Vehicles/Speeder/Tetan Guard Airspeeder.md",
     "Lore/Vehicles/Speeder/generate_speeders.py",
     "Lore/Vehicles/Speeder",
     "Lore/Vehicles/Ground",
@@ -238,7 +255,6 @@
     "Lore/Vehicles/Speeder",
     "Lore/Vehicles/Ground",
     "Lore/Vehicles",
-    "update_restricted.ps1",
     "Sans titre.canvas"
   ]
 }

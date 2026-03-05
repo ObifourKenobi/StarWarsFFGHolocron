@@ -53,7 +53,7 @@ Investigators examine unsolved crimes, using their knowledge and skills to figur
 **25 XP**: [[Valuable Facts]], [[Dedication]], [[Street Smarts|Improved Street Smarts]], [[Force Rating]]
 ## Racer
 Racers race.
-**Racer Bonus Career Skills**: [[Cool]], [[Coordination]], [[Piloting (Planetary)]], [[Piloting (Space)]]
+**Racer Bonus Career Skills**: [[Cool]], [[Coordination]], [[Piloting-Space]], [[Piloting-Planetary]]
 ### Talents
 **5 XP**: [[Grit]], [[Skilled Jockey]], [[Conditioned]], [[Shortcut]]
 **10 XP**: [[Shortcut]], [[Full Throttle]], [[Shortcut]], [[Conditioned]]

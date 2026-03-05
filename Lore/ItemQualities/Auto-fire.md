@@ -1,4 +1,4 @@
-﻿---
+---
 name: "Auto-fire (Active)"
 activation: Active
 ranked: False
