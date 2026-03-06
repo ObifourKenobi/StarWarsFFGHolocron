@@ -50,7 +50,7 @@ Most Explorer are searching for the new—new opportunities, new planets, new ci
 **20 XP**: [[Hard Headed]], [[Enduring]], [[Grit]], [[Knowledge Specialization]]
 **25 XP**: [[Pin]], [[Dedication]], [[Respected Scholar]], [[Museum Worthy]]
 ## Big-Game Hunter
-With the skills of a survivalist, the instincts of a bounty hunter, and the courage of a madman, the Big-Game Hunter tends to baffle everyone with [their] desire to actively track down, confront, and do battle with the most terrifying creatures in the galaxy.
+With the skills of a survivalist, the instincts of a bounty hunter, and the courage of a madman, the Big-Game Hunter tends to baffle everyone with **their** desire to actively track down, confront, and do battle with the most terrifying creatures in the galaxy.
 **Big-Game Hunter Bonus Career Skills**: [[Xenology]], [[Ranged-Heavy]], [[Stealth]], [[Survival]]
 ### Talents
 **5 XP**: [[Forager]], [[Grit]], [[Stalker]], [[Outdoorsman]]
@@ -59,7 +59,7 @@ With the skills of a survivalist, the instincts of a bounty hunter, and the cour
 **20 XP**: [[Grit]], [[Hunter's Quarry]], [[Quick Strike]], [[Expert Tracker]]
 **25 XP**: [[Bring it Down]], [[Hunter's Quarry|Improved Hunter's Quarry]], [[Dedication]], [[Superior Reflexes]]
 ## Driver
-On or above the ground, the driver becomes a part of the machine [they] drive, and [they] attempt maneuvers no design engineer ever intended [their] vehicle to do. // Pilots are great for traveling from one system to another, but it's the Drivers that move beings around once they hit dirtside.
+On or above the ground, the driver becomes a part of the machine **they** drive, and **they** attempt maneuvers no design engineer ever intended **their** vehicle to do. // Pilots are great for traveling from one system to another, but it's the Drivers that move beings around once they hit dirtside.
 **Ace Career Skills**: [[Astrogation]], [[Cool]], [[Gunnery]], [[Mechanics]], [[Perception]], [[Piloting-Planetary]], [[Piloting-Space]], [[Ranged-Light]]
 **Driver Bonus Career Skills**: [[Cool]], [[Gunnery]], [[Mechanics]], [[Piloting-Planetary]]
 ### Talents

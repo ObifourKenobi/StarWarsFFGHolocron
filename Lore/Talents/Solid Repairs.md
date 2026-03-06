@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-Whenever the character repairs hull trauma on a starship or vehicle, [they] repair one additional hull trauma per rank of Solid Repairs.
+Whenever the character repairs hull trauma on a starship or vehicle, **they** repair one additional hull trauma per rank of Solid Repairs.
 
 The following is a homebrew expansion of this talent from a community-produced homebrew sourcebook!
 

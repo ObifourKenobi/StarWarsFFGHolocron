@@ -22,7 +22,7 @@ Ranked: No
 Trees: Martial Artist
 
 
-Once per game session, when the character inflicts a Critical Injury with an unarmed attack, [they] may suffer 3 strain to change the result to any #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty  Critical Injury result. Combat checks to activate this talent cannot be made with any weapons.
+Once per game session, when the character inflicts a Critical Injury with an unarmed attack, **they** may suffer 3 strain to change the result to any #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty  Critical Injury result. Combat checks to activate this talent cannot be made with any weapons.
 
 # Sources
 [[Knights of Fate|Knights of Fate:31]]

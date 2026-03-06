@@ -36,7 +36,7 @@ Often, clone troopers need to operate in environments and situations where steal
 
 ## Special Qualities
 
-Characters wearing clone reconnaissance armor add a [boost] die to [Stealth] checks they make. These suits incorporate visors with integrated thermal and low-light sensors, allowing wearers to remove a [setback] die from visual [Perception] checks they make.
+Characters wearing clone reconnaissance armor add a #StarWarsBoost die to [[Stealth]] checks they make. These suits incorporate visors with integrated thermal and low-light sensors, allowing wearers to remove a #StarWarsSetback die from visual [[Perception]] checks they make.
 
 ## Sources
 - [[Collapse of the Republic|Collapse of the Republic:56-57]]

@@ -35,7 +35,7 @@ Cyricept's Mk IX Personal Mimetic Concealment Suits use active stealth technolog
 
 ## Special Qualities
 
-Wearing this armor upgrades the ability of all [Stealth] checks made by the wearer twice. In addition, the GM may spend a [despair] result or three [threat] results on any [Stealth] checks made by the wearer while the suit is active to have its power pack run dry. The suit cannot be used again until the powerpack is replaced, which requires a maneuver.
+Wearing this armor upgrades the ability of all [[Stealth]] checks made by the wearer twice. In addition, the GM may spend a #StarWarsDespair  result or three #StarWarsThreat results on any [[Stealth]] checks made by the wearer while the suit is active to have its power pack run dry. The suit cannot be used again until the powerpack is replaced, which requires a maneuver.
 
 ## Variants
 

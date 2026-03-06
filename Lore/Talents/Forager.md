@@ -3,7 +3,7 @@ activation: Passive
 ranked: No
 ---
 
-The character removes up to two #StarWarsSetback from [their] skill checks to find food, water, or shelter. Survival checks to forage take half the time.
+The character removes up to two #StarWarsSetback from **their** skill checks to find food, water, or shelter. Survival checks to forage take half the time.
 
 # Sources
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:143]]

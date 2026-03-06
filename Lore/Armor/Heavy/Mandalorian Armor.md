@@ -43,9 +43,9 @@ The basic profile of Mandalorian armor represents an unmodified suit of armor, b
 
 Common attachments installed into Mandalorian armor include Tracking Systems as well as Enhanced Optics Suites, Strength Enhancing Systems, and Vacuum Seals; the best suits of Mandalorian armor are often upgraded with features such as Cortosis Weave or Superior Armor Customization. Mandalorians also frequently wore jetpacks with their armor, but typically from an external mount, rather than as an integrated attachment.
 
-**Novice Hunter's Armor:** Tracking Systems (modified with a single Skill [Vigilance] Mod), Enhanced Optics Suite. If found on the market, this suit would cost anywhere from 8,675 to 10,350 credits.
+**Novice Hunter's Armor:** Tracking Systems (modified with a single Skill [[Vigilance]] Mod), Enhanced Optics Suite. If found on the market, this suit would cost anywhere from 8,675 to 10,350 credits.
 
-**Veteran Commando's Armor:** Integrated Holsters (All Mods installed), Strength Enhancing System (2 Innate Talent [Brace] Mods installed), Superior Armor Customization, Vacuum Sealed. If found on the market, this suit would cost anywhere from 12,250 to 18,500 credits.
+**Veteran Commando's Armor:** Integrated Holsters (All Mods installed), Strength Enhancing System (2 Innate Talent [[Brace]] Mods installed), Superior Armor Customization, Vacuum Sealed. If found on the market, this suit would cost anywhere from 12,250 to 18,500 credits.
 
 ## Sources
 

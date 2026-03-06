@@ -31,7 +31,7 @@ Originating in the forests and temperate coastal regions of Kintan, the Kadas'sa
 
 **Special Abilities:** Kadas'sa'Niktos begin the game with one rank in [[Coordination]]. They still may not train [[Coordination]] above rank 2 during character creation. They also gain a #StarWarsBoost die to [[Athletics]] checks made to climb trees and other surfaces their claws can pierce.
 
-**Claws:** When a Green Nikto makes [[Brawl]] checks to deal damage to an opponent, [they] deal +1 damage and have a Critical Rating of 3.
+**Claws:** When a Green Nikto makes [[Brawl]] checks to deal damage to an opponent, **they** deal +1 damage and have a Critical Rating of 3.
 
 ### ESRAL'SA'NIKTOS (MOUNTAIN NIKTOS)
 
@@ -45,7 +45,7 @@ Native to the rocky Gluss'elta Islands of their homeworld, Gluss'sa'Niktos, or P
 
 **Special Abilities:** Gluss'sa'Niktos begin the game with one rank in [[Athletics]]. They still may not train [[Athletics]] above rank 2 during character creation.
 
-**Swimmer:** A Pale Nikto never suffers movement penalties for traveling through water and can hold [their] breath for a number of rounds equal to twice [their] [[Brawn]] rating before beginning to drown.
+**Swimmer:** A Pale Nikto never suffers movement penalties for traveling through water and can hold **their** breath for a number of rounds equal to twice **their** [[Brawn]] rating before beginning to drown.
 
 ### M'SHENTO'SU'NIKTOS (SOUTHERN NIKTOS)
 

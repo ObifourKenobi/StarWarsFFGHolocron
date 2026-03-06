@@ -3,7 +3,7 @@ activation: Active (Maneuver)
 ranked: Yes
 ---
 
-Once per round on the character's turn, the character may perform a Side Step maneuver to try to avoid incoming ranged attacks. [They] then suffer a number of strain no greater than [their] ranks in Side Step. Until the start of the character's next turn, upgrade the difficulty of all ranged combat checks targeting the character a number of times equal to the strain suffered by the target.
+Once per round on the character's turn, the character may perform a Side Step maneuver to try to avoid incoming ranged attacks. **they** then suffer a number of strain no greater than **their** ranks in Side Step. Until the start of the character's next turn, upgrade the difficulty of all ranged combat checks targeting the character a number of times equal to the strain suffered by the target.
 
 Improved
 Activation: Active (Incidental, Out of Turn)

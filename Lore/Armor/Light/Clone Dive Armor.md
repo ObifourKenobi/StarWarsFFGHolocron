@@ -35,7 +35,7 @@ Some battlefronts are on water worlds such as Mon Cala, where clone troopers mus
 
 ## Special Qualities
 
-Clone dive armor provides twelve hours of oxygen. During this time, the wearer also has fresh water, nutrition supplements, and other biological necessities. While wearing clone dive armor, a character does not suffer movement penalties for travelling through water and removes up to one [setback] die from [Perception] checks due to underwater conditions.
+Clone dive armor provides twelve hours of oxygen. During this time, the wearer also has fresh water, nutrition supplements, and other biological necessities. While wearing clone dive armor, a character does not suffer movement penalties for travelling through water and removes up to one #StarWarsSetback die from [[Perception]] checks due to underwater conditions.
 
 ## Sources
 - [[Collapse of the Republic|Collapse of the Republic:56-57]]

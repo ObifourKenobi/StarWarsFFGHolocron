@@ -34,7 +34,7 @@ Another offering from Ayelixe/Krongbing Textiles, mountaineer armor is a suit of
 
 ## Special Qualities
 
-Mountaineer armor adds two [boost] dice to all [Athletics] checks made by the wearer to climb or rappel.
+Mountaineer armor adds two #StarWarsBoost dice to all [Athletics] checks made by the wearer to climb or rappel.
 
 ## Sources
 - [[Gadgets and Gear|Gadgets and Gear:74]]

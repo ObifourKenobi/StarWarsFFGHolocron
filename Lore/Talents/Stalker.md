@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-The character adds a #StarWarsBoost per rank of Stalker to [their] Coordination and Stealth checks.
+The character adds a #StarWarsBoost per rank of Stalker to **their** Coordination and Stealth checks.
 
 # Sources
 [[Gadgets and Gear|Gadgets and Gear:7]]

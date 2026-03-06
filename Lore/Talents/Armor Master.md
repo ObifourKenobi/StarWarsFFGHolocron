@@ -19,7 +19,7 @@ Ranked: No
 Trees: Armorer
 
 
-Once per round, when the character suffers a Critical Injury, [they] may suffer 3 strain to take the Armor Master incidental. If [they] do, [they] reduce the Critical Injury result that [they] suffer by 10 per point of [their] soak, to a minimum of 1.
+Once per round, when the character suffers a Critical Injury, **they** may suffer 3 strain to take the Armor Master incidental. If **they** do, **they** reduce the Critical Injury result that **they** suffer by 10 per point of **their** soak, to a minimum of 1.
 
 # Sources
 [[Collapse of the Republic|Collapse of the Republic:37]]

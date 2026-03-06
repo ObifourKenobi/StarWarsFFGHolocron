@@ -34,7 +34,7 @@ The Mk I NightStalker is a lightweight, surprisingly durable suit of armor that 
 
 ## Special Qualities
 
-When wearing a NightStalker suit, the wearer adds an automatic [success] result to [Stealth] checks they make and adds an automatic [threat] result to social skill checks they make.
+When wearing a NightStalker suit, the wearer adds an automatic [success] result to [[Stealth]] checks they make and adds an automatic #StarWarsThreat result to social skill checks they make.
 
 ## Sources
 - [[Gadgets and Gear|Gadgets and Gear:73]]

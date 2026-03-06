@@ -22,7 +22,7 @@ Ranked: No
 Trees: Shien Expert
 
 
-Force talent. If the character did not make a combat check during [their] previous turn, [they] suffer 1 strain when taking the Reflect incidental, instead of 3.
+Force talent. If the character did not make a combat check during **their** previous turn, **they** suffer 1 strain when taking the Reflect incidental, instead of 3.
 
 # Sources
 [[Gadgets and Gear|Gadgets and Gear:7]]

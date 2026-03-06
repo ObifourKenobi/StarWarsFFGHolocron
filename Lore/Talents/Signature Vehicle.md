@@ -3,7 +3,7 @@ activation: Passive
 ranked: No
 ---
 
-The character choose one starship or vehicle with a silhouette of 3 or lower that [they] own. This starship or vehicle is the character's "Signature Vehicle." [They] upgrade the ability of all Mechanics checks made to work on the vehicle once. If the starship or vehicle is ever lost or destroyed, the character may apply Signature Vehicle to a new starship or vehicle that meets the requirements. The process of modifying and acclimating to the new vehicle may take some time, at the GM's discretion. No two characters can have the same vehicle as their Signature Vehicle.
+The character choose one starship or vehicle with a silhouette of 3 or lower that **they** own. This starship or vehicle is the character's "Signature Vehicle." **they** upgrade the ability of all Mechanics checks made to work on the vehicle once. If the starship or vehicle is ever lost or destroyed, the character may apply Signature Vehicle to a new starship or vehicle that meets the requirements. The process of modifying and acclimating to the new vehicle may take some time, at the GM's discretion. No two characters can have the same vehicle as their Signature Vehicle.
 
 The following is a homebrew expansion of this talent from a community-produced homebrew sourcebook!
 

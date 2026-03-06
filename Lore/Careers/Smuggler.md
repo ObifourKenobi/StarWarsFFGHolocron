@@ -14,7 +14,7 @@ Career Skills:
 Though they spend most of their lives struggling to avoid Imperial entanglements, keeping their ships flying, dodging blaster fire, and having enough to eat, Smugglers are often seen as the freest beings in the galaxy.
 # Specializations
 ## Pilot
-Out among the stars, engines screaming through the cockpit while [they] perform a maneuver that would send lesser beings into seizures or unconsciousness, the Pilot is truly [themself]. // Plenty of folks know how to fly a starship, but a Smuggler who specializes as a Pilot develops a relationship with [their] ship, and it becomes an extension of [their] wit and [their] will.
+Out among the stars, engines screaming through the cockpit while **they** perform a maneuver that would send lesser beings into seizures or unconsciousness, the Pilot is truly **themself**. // Plenty of folks know how to fly a starship, but a Smuggler who specializes as a Pilot develops a relationship with **their** ship, and it becomes an extension of **their** wit and **their** will.
 **Ace Career Skills**: [[Astrogation]], [[Cool]], [[Gunnery]], [[Mechanics]], [[Perception]], [[Piloting-Planetary]], [[Piloting-Space]], [[Ranged-Light]]
 **Pilot Bonus Career Skills**: [[Astrogation]], [[Gunnery]], [[Piloting-Planetary]], [[Piloting-Space]]
 ### Talents
@@ -24,7 +24,7 @@ Out among the stars, engines screaming through the cockpit while [they] perform 
 **20 XP**: [[Grit]], [[Full Throttle|Supreme Full Throttle]], [[Tricky Target]], [[Defensive Driving]]
 **25 XP**: [[Master Pilot]], [[Dedication]], [[Toughened]], [[Brilliant Evasion]]
 ## Scoundrel
-Part con artist, part gunslinger, and part cantina brawler, the Scoundrel is quick-witted, quick on [their] feet, and quick to get [themself] into a great deal of trouble at the drop of a hat.
+Part con artist, part gunslinger, and part cantina brawler, the Scoundrel is quick-witted, quick on **their** feet, and quick to get **themself** into a great deal of trouble at the drop of a hat.
 **Scoundrel Bonus Career Skills**: [[Charm]], [[Cool]], [[Deception]], [[Ranged-Light]]
 ### Talents
 **5 XP**: [[Black Market Contacts]], [[Convincing Demeanor]], [[Quick Draw]], [[Rapid Reaction]]
@@ -33,7 +33,7 @@ Part con artist, part gunslinger, and part cantina brawler, the Scoundrel is qui
 **20 XP**: [[Toughened]], [[Rapid Reaction]], [[Hidden Storage]], [[Side Step]]
 **25 XP**: [[Dedication]], [[Natural Charmer]], [[Soft Spot]], [[Quick Strike]]
 ## Thief
-Where the Scoundrel is a bit flashier, and the Pilot focuses on mastering [their] ship, the Thief really is a covert operative.
+Where the Scoundrel is a bit flashier, and the Pilot focuses on mastering **their** ship, the Thief really is a covert operative.
 **Thief Bonus Career Skills**: [[Computers]], [[Skulduggery]], [[Stealth]], [[Vigilance]]
 ### Talents
 **5 XP**: [[Street Smarts]], [[Black Market Contacts]], [[Indistinguishable]], [[Bypass Security]]
@@ -42,7 +42,7 @@ Where the Scoundrel is a bit flashier, and the Pilot focuses on mastering [their
 **20 XP**: [[Bypass Security]], [[Natural Rogue]], [[Street Smarts]], [[Jump Up]]
 **25 XP**: [[Master of Shadows]], [[Dodge]], [[Indistinguishable]], [[Dedication]]
 ## Charmer
-Confident and elegant, the Charmer employs [their] wits and wiles with more precision than a laser scalpel.
+Confident and elegant, the Charmer employs **their** wits and wiles with more precision than a laser scalpel.
 **Charmer Bonus Career Skills**: [[Charm]], [[Cool]], [[Leadership]], [[Negotiation]]
 ### Talents
 **5 XP**: [[Smooth Talker]], [[Inspiring Rhetoric]], [[Kill With Kindness]], [[Grit]]

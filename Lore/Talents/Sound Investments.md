@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-At the beginning of each game session, the character gains credits equal to [their] ranks in Sound Investments times 100. How this money is earned is up to the player and GM, and could be actual investments, business dealings, or even a small legal or illegal side business. The GM can also decide that the current events of the adventure may make these funds unavailable.
+At the beginning of each game session, the character gains credits equal to **their** ranks in Sound Investments times 100. How this money is earned is up to the player and GM, and could be actual investments, business dealings, or even a small legal or illegal side business. The GM can also decide that the current events of the adventure may make these funds unavailable.
 
 The following is a homebrew expansion of this talent from a community-produced homebrew sourcebook!
 

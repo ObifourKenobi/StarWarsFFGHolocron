@@ -35,7 +35,7 @@ In rare circumstances, Jedi were called in to treat and societies for which stat
 
 ## Special Qualities
 
-A character wearing formal Council armor adds two automatic [advantage] results to [Negotiation] checks when interacting with individuals who hold Jedi in high regard. At the GM's discretion, the character may add two automatic [advantage] results to [Coercion] checks when interacting with individuals who hate or fear the Jedi (such as representatives of the Galactic Empire).
+A character wearing formal Council armor adds two automatic #StarWarsAdvantage results to [[Negotiation]] checks when interacting with individuals who hold Jedi in high regard. At the GM's discretion, the character may add two automatic #StarWarsAdvantagevantage  results to [[Coercion]] checks when interacting with individuals who hate or fear the Jedi (such as representatives of the Galactic Empire).
 
 ## Sources
 - [[Disciples of Harmony|Disciples of Harmony:45]]

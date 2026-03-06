@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-The character's appearance is so common that people have a hard time identifying distinguishing traits. Opposing characters upgrade the difficulty of any checks made to identify [them] once per rank of Indistinguishable.
+The character's appearance is so common that people have a hard time identifying distinguishing traits. Opposing characters upgrade the difficulty of any checks made to identify **them** once per rank of Indistinguishable.
 
 Improved
 Activation: Passive

@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-When the character recovers strain after an encounter has concluded, [they] recover one additional strain per rank in Rapid Recovery.
+When the character recovers strain after an encounter has concluded, **they** recover one additional strain per rank in Rapid Recovery.
 
 # Sources
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:150]]

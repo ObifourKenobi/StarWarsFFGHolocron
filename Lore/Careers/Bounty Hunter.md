@@ -11,7 +11,7 @@ Career Skills:
   - "[[Streetwise]]"
   - "[[Vigilance]]"
 ---
-The name says it all: this is a hunter who seeks to collect bounties for [their] work.
+The name says it all: this is a hunter who seeks to collect bounties for **their** work.
 
 He automatically **gains 1 rank in four of these skills** (of his choosing) **without spending experience**, and he receives a **discount** when he spends experience to purchase ranks in **any of these skills**.
 
@@ -26,7 +26,7 @@ Whereas most Bounty Hunters focus primarily on the capture of quarry, those who 
 **20 XP**: [[Stalker]], [[Sniper Shot]], [[Dodge]], [[Lethal Blows]]
 **25 XP**: [[Precise Aim]], [[Deadly Accuracy]], [[Dedication]], [[Master of Shadows]]
 ## Gadgeteer
-Considering how often a single Bounty Hunter finds [themself] faced with terrible odds (more often than not, an acquisition has friends or employees who work hard to protect [them]), it's not surprising how many specialize in high-tech gear and weapons.
+Considering how often a single Bounty Hunter finds **themself** faced with terrible odds (more often than not, an acquisition has friends or employees who work hard to protect **them**), it's not surprising how many specialize in high-tech gear and weapons.
 **Gadgeteer Bonus Career Skills**: [[Brawl]], [[Coercion]], [[Mechanics]], [[Ranged-Light]]
 ### Talents
 **5 XP**: [[Brace]], [[Toughened]], [[Intimidating]], [[Defensive Stance]]

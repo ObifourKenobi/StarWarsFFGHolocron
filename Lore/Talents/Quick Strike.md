@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-The character adds a #StarWarsBoost per rank of Quick Strike to [their] combat checks made against any target that has not yet acted in the encounter.
+The character adds a #StarWarsBoost per rank of Quick Strike to **their** combat checks made against any target that has not yet acted in the encounter.
 
 # Sources
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:150]]

@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-The character removes a #StarWarsSetback per rank of Expert Tracker from [their] checks to find or follow tracks. Survival checks made to track targets take 50% less time than normal (this does not decrease with additional ranks of Expert Tracker).
+The character removes a #StarWarsSetback per rank of Expert Tracker from **their** checks to find or follow tracks. Survival checks made to track targets take 50% less time than normal (this does not decrease with additional ranks of Expert Tracker).
 
 The following is a homebrew expansion of this talent from a community-produced homebrew sourcebook!
 

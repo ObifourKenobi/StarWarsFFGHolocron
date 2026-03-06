@@ -19,7 +19,7 @@ Ranked: No
 Trees: Soresu Defender
 
 
-Force talent. If the user did not make a combat check during [their] previous turn, [they] suffer 1 strain when taking the Parry incidental, instead of 3.
+Force talent. If the user did not make a combat check during **their** previous turn, **they** suffer 1 strain when taking the Parry incidental, instead of 3.
 
 # Sources
 [[Gadgets and Gear|Gadgets and Gear:6]]

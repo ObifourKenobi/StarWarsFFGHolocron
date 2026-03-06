@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-The character increases [their] wound threshold by two per rank of Toughened.
+The character increases **their** wound threshold by two per rank of Toughened.
 
 Improved
 Activation: Active (Incidental)

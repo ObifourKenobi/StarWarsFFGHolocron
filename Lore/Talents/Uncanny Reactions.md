@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-Force talent. The character adds a #StarWarsBoost per rank of Uncanny Reactions to [their] Vigilance checks.
+Force talent. The character adds a #StarWarsBoost per rank of Uncanny Reactions to **their** Vigilance checks.
 
 # Sources
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:153]]

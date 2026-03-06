@@ -11,7 +11,7 @@ Ranked: No
 Trees: Sentry
 
 
-Force talent. When performing the Saber Throw action, the character can choose a target within long range. If the character does so, [they] must spend two Force points to have the weapon return to [their] hand.
+Force talent. When performing the Saber Throw action, the character can choose a target within long range. If the character does so, **they** must spend two Force points to have the weapon return to **their** hand.
 
 # Sources
 [[Gadgets and Gear|Gadgets and Gear:7]]

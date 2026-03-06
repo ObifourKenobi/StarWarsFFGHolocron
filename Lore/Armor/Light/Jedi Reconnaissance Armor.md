@@ -35,7 +35,7 @@ In the chaos of a major conflict, many clone troopers fear that the sheer volume
 
 ## Special Qualities
 
-Characters wearing Jedi reconnaissance armor add a [boost] die to [Stealth] checks they make.
+Characters wearing Jedi reconnaissance armor add a #StarWarsBoost die to [[Stealth]] checks they make.
 
 ## Sources
 - [[Collapse of the Republic|Collapse of the Republic:56-57]]

@@ -11,7 +11,7 @@ Ranked: No
 Trees: Gadgeteer, Infiltrator
 
 
-When dealing strain damage with Melee or Brawl checks, the character may spend a #StarWarsTriumph result to stagger [their] target for one round per #StarWarsTriumph spent.
+When dealing strain damage with Melee or Brawl checks, the character may spend a #StarWarsTriumph result to stagger **their** target for one round per #StarWarsTriumph spent.
 
 # Sources
 [[Age of Rebellion Core Rulebook|Age of Rebellion Core Rulebook:157]]

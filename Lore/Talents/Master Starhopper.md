@@ -3,7 +3,7 @@ activation: Active (Incidental)
 ranked: No
 ---
 
-Once per round, the character may suffer two strain to decrease the difficulty of [their] next Astrogation check by one, to a minimum of #StarWarsDifficulty.
+Once per round, the character may suffer two strain to decrease the difficulty of **their** next Astrogation check by one, to a minimum of #StarWarsDifficulty.
 
 # Sources
 [[Savage Spirits|Savage Spirits:31]]

@@ -11,7 +11,7 @@ Ranked: No
 Trees: Demolitionist, Saboteur
 
 
-When activating Time to Go, the character may allow one ally [they] are engaged with to also perform an out of turn Move maneuver as an incidental to attempt to move into cover or out of the blast range of a weapon or explosion.  This incidental occurs after the ally determines [they] would be hit by the blast, but before damage is applied.
+When activating Time to Go, the character may allow one ally **they** are engaged with to also perform an out of turn Move maneuver as an incidental to attempt to move into cover or out of the blast range of a weapon or explosion.  This incidental occurs after the ally determines **they** would be hit by the blast, but before damage is applied.
 
 # Sources
 [[Age of Rebellion Core Rulebook|Age of Rebellion Core Rulebook:158]]

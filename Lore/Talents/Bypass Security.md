@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-The character removes a #StarWarsSetback per rank of Bypass Security from [their] Skulduggery and Computers skill checks made to disable a security device or open a locked door.
+The character removes a #StarWarsSetback per rank of Bypass Security from **their** Skulduggery and Computers skill checks made to disable a security device or open a locked door.
 
 The following is a homebrew expansion of this talent from a community-produced homebrew sourcebook!
 

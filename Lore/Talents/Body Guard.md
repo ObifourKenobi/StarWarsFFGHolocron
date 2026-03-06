@@ -3,7 +3,7 @@ activation: Active (Maneuver)
 ranked: Yes
 ---
 
-Once per round on the character's turn, the character may perform a Body Guard maneuver to protect one ally with whom [they] are engaged. [The character] then suffers a number of strain no greater than [their] ranks in Body Guard. Until the start of the character's next turn, upgrade the difficulty of all combat checks targeting the protected ally a number of times equal to the strain suffered by the character.
+Once per round on the character's turn, the character may perform a Body Guard maneuver to protect one ally with whom **they** are engaged. [The character] then suffers a number of strain no greater than **their** ranks in Body Guard. Until the start of the character's next turn, upgrade the difficulty of all combat checks targeting the protected ally a number of times equal to the strain suffered by the character.
 
 Improved
 Activation: Active (Incidental, Out of Turn)
@@ -19,7 +19,7 @@ Ranked: No
 Trees: Vanguard
 
 
-When the character uses the Body Guard maneuver, [they] may protect a number of engaged characters up to [their] ranks in Resilience instead of just one.
+When the character uses the Body Guard maneuver, **they** may protect a number of engaged characters up to **their** ranks in Resilience instead of just one.
 
 # Sources
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:140]]

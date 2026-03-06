@@ -34,7 +34,7 @@ Outlaw Techs are the specialists others call on when they want something out of 
 **20 XP**: [[Jury Rigged]], [[Speaks Binary]], [[Inventor]], [[Jury Rigged]]
 **25 XP**: [[Inventor]], [[Dedication]], [[Known Schematic]], [[Brace]]
 ## Slicer
-There are warriors who do battle with codes, data packets, lightning-quick programming skills, and intuitive rewiring of communication networks to unmake the enemy's plans and reduce [their] technology to just so much useless metal, plastic, and wires. // For the Slicer, a computer or datapad is just a puzzle to solve with prices for doing so.
+There are warriors who do battle with codes, data packets, lightning-quick programming skills, and intuitive rewiring of communication networks to unmake the enemy's plans and reduce **their** technology to just so much useless metal, plastic, and wires. // For the Slicer, a computer or datapad is just a puzzle to solve with prices for doing so.
 **Spy Career Skills**: [[Computers]], [[Cool]], [[Coordination]], [[Deception]], [[Warfare]], [[Perception]], [[Skulduggery]], [[Stealth]]
 **Slicer Bonus Career Skills**: [[Computers]], [[Education]], [[Underworld]], [[Stealth]]
 ### Talents

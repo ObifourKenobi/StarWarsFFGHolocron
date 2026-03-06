@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-The character removes a #StarWarsSetback per rank of Researcher from [their] Knowledge checks. Researching takes 50% less time (this does not increase with additional ranks of Researcher).
+The character removes a #StarWarsSetback per rank of Researcher from **their** Knowledge checks. Researching takes 50% less time (this does not increase with additional ranks of Researcher).
 
 Improved
 Activation: Passive

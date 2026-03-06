@@ -37,7 +37,7 @@ Originally designed by a high-end clothing manufacturer for making literally fla
 
 ## Special Qualities
 
-Once per encounter, a character wearing a flare jacket can trigger the charges as a maneuver. Each character within short range (besides the wearer) must make a **Hard difficulty [Vigilance check]**. Each character who fails is staggered for one round, plus one additional round per three [threat] results.
+Once per encounter, a character wearing a flare jacket can trigger the charges as a maneuver. Each character within short range (besides the wearer) must make a **Hard difficulty [Vigilance check]**. Each character who fails is staggered for one round, plus one additional round per three #StarWarsThreat results.  
 
 ## Sources
 - [[Gadgets and Gear|Gadgets and Gear:70-71]]

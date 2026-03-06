@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-The character removes #StarWarsSetback per rank of Skilled Jockey from [their] [[Piloting-Planetary]] and [[Piloting-Space]] checks.
+The character removes #StarWarsSetback per rank of Skilled Jockey from **their** [[Piloting-Planetary]] and [[Piloting-Space]] checks.
 
 # Sources
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:152]]

@@ -3,7 +3,7 @@ activation: Passive
 ranked: No
 ---
 
-Lightsaber becomes a career skill. The character may also decrease the difficulty of checks made to construct or repair lightsaber hilts a number of times equal to half [their] ranks in Knowledge (Lore) (rounded up), to a minimum of Easy. This does not include checks made to install mods.
+Lightsaber becomes a career skill. The character may also decrease the difficulty of checks made to construct or repair lightsaber hilts a number of times equal to half **their** ranks in Knowledge (Lore) (rounded up), to a minimum of Easy. This does not include checks made to install mods.
 
 Improved
 Activation: Passive

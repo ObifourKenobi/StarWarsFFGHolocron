@@ -34,7 +34,7 @@ Blaster and other advanced weapons can make a mockery of even the most sophistic
 
 ## Special Qualities
 
-When wearing beast-hide armor, a character gains an automatic [advantage] result on [Coercion] checks and an automatic [threat] on [Charm] checks. The GM may determine that this armor provides further benefits or drawbacks depending on the situation.
+When wearing beast-hide armor, a character gains an automatic #StarWarsAdvantage result on [[Coercion]] checks and an automatic #StarWarsThreat on [[Charm]] checks. The GM may determine that this armor provides further benefits or drawbacks depending on the situation.
 
 ## Variants
 

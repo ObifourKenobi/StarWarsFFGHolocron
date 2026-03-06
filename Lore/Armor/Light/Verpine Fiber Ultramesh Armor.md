@@ -35,7 +35,7 @@ Fiber ultramesh armor is the standard armor of Verpine colony guards. It is a mo
 
 ## Special Qualities
 
-As a maneuver, the wearer may power up or power down the armor. While the armor is powered up, the wearer gains +2 defense. However, any character may spend a [triumph] result or two [advantage] results from a combat check against the wearer to cause it to run out of power, at which point the armor becomes powered down and cannot be powered up until the end of the encounter.
+As a maneuver, the wearer may power up or power down the armor. While the armor is powered up, the wearer gains +2 defense. However, any character may spend a #StarWarsTriumph  result or two #StarWarsAdvantage  results from a combat check against the wearer to cause it to run out of power, at which point the armor becomes powered down and cannot be powered up until the end of the encounter.
 
 ## Sources
 - [[Gadgets and Gear|Gadgets and Gear:79]]

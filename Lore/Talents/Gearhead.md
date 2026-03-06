@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-The character removes a #StarWarsSetback per rank of Gearhead from [their] Mechanics checks. In addition, the credit cost to add mods to attachments decreases by 50% (this does not increase with additional ranks of Gearhead).
+The character removes a #StarWarsSetback per rank of Gearhead from **their** Mechanics checks. In addition, the credit cost to add mods to attachments decreases by 50% (this does not increase with additional ranks of Gearhead).
 
 # Sources
 [[Keeping the Peace|Keeping the Peace:30]]

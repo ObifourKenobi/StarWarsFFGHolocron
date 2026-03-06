@@ -3,7 +3,7 @@ activation: Active (Incidental)
 ranked: No
 ---
 
-Once per check, the character may suffer two strain to increase the #StarWarsDifficulty of the check by one. Then, after canceling opposing symbols, [they] double the number of remaining #StarWarsAdvantage.
+Once per check, the character may suffer two strain to increase the #StarWarsDifficulty of the check by one. Then, after canceling opposing symbols, **they** double the number of remaining #StarWarsAdvantage.
 
 Improved
 Activation: Passive

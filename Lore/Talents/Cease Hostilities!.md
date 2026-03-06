@@ -4,7 +4,7 @@ ranked: No
 homebrew: True
 ---
 
-_Force talent._ Once per encounter, as an action, may make an opposed [Coercion](https://star-wars-rpg-ffg.fandom.com/wiki/Coercion_\(Will\) "Coercion (Will)") vs. [Discipline](https://star-wars-rpg-ffg.fandom.com/wiki/Discipline_\(Will\) "Discipline (Will)") check to stagger an enemy Rival or Minion target within short range until the end of their next turn.
+_Force talent._ Once per encounter, as an action, may make an opposed [[Coercion]](https://star-wars-rpg-ffg.fandom.com/wiki/Coercion_\(Will\) "Coercion (Will)") vs. [Discipline](https://star-wars-rpg-ffg.fandom.com/wiki/Discipline_\(Will\) "Discipline (Will)") check to stagger an enemy Rival or Minion target within short range until the end of their next turn.
 
 ## Improved
 

@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-When [they] sell legal goods to a reputable merchant or business, the character gains an additional 10% credits per rank of Wheel and Deal (based on the original selling price of the good or item).
+When **they** sell legal goods to a reputable merchant or business, the character gains an additional 10% credits per rank of Wheel and Deal (based on the original selling price of the good or item).
 
 The following is a homebrew expansion of this talent from a community-produced homebrew sourcebook!
 

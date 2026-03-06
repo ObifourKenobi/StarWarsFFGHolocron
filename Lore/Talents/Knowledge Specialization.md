@@ -3,7 +3,7 @@ activation: Active (Incidental)
 ranked: Yes
 ---
 
-When the character first acquires this talent, [they] may choose one Knowledge skill. When making checks with that skill, [they] may spend a #StarWarsTriumph result to gain additional success results equal to [their] ranks in Knowledge Specialization.
+When the character first acquires this talent, **they** may choose one Knowledge skill. When making checks with that skill, **they** may spend a #StarWarsTriumph result to gain additional success results equal to **their** ranks in Knowledge Specialization.
 
 # Sources
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:146]]

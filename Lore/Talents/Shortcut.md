@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-During a chase, the character adds a #StarWarsBoost per rank of Shortcut to [their] checks made to catch or escape an opponent.
+During a chase, the character adds a #StarWarsBoost per rank of Shortcut to **their** checks made to catch or escape an opponent.
 
 Improved
 Activation: Active (Incidental)

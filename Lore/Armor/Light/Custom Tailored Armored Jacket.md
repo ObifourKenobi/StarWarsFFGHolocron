@@ -35,7 +35,7 @@ Kamperdine Clothing Specialists is a boutique manufacturer of custom clothing. T
 
 ## Special Qualities
 
-Kamperdine armored jackets are each tailored to a specific wearer. When worn by that wearer, they add an [advantage] result to any successful [Charm], [Deception], or [Negotiation] checks the character makes (the GM may decide that the bonus does not apply in certain situations, such as dealings over a comlink).
+Kamperdine armored jackets are each tailored to a specific wearer. When worn by that wearer, they add an #StarWarsAdvantage result to any successful [[Charm]], [Deception], or [[Negotiation]] checks the character makes (the GM may decide that the bonus does not apply in certain situations, such as dealings over a comlink).
 
 ## Sources
 - [[Gadgets and Gear|Gadgets and Gear:70]]

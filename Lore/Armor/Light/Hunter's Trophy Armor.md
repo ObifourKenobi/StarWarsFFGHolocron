@@ -35,7 +35,7 @@ Bounty hunters who specialize in wild animals and dangerous beasts sometimes mak
 
 ## Special Qualities
 
-A character wearing trophy armor suffers a [setback] die to [Charm] checks, but gains two [boost] die to [Coercion] checks due to the armor's intimidating appearance. At the GM's discretion, [Charm] checks made to impress or persuade other characters of the wearer's prowess may receive two [boost] dice instead of a [setback] die.
+A character wearing trophy armor suffers a #StarWarsSetback die to [[Charm]] checks, but gains two #StarWarsBoost  die to [[Coercion]] checks due to the armor's intimidating appearance. At the GM's discretion, [[Charm]] checks made to impress or persuade other characters of the wearer's prowess may receive two #StarWarsBoost dice instead of a #StarWarsSetback die.
 
 ## Variants
 

@@ -38,7 +38,7 @@ Storm commandos are among the Empire's most elite troopers, and they utilize the
 
 The armor's helmet is equipped with macrobinoculars and scanner goggles, as well as a comlink.
 
-While wearing storm commando armor, a character removes a [setback] die due to darkness, smoke, or similar environmental factors that obscure vision from [Perception], [Vigilance], and combat checks. Additionally, this armor adds a [setback] die to other characters' [Perception] checks to detect the wearer.
+While wearing storm commando armor, a character removes a #StarWarsSetback die due to darkness, smoke, or similar environmental factors that obscure vision from [[Perception]], [[Vigilance]], and combat checks. Additionally, this armor adds a #StarWarsSetback  die to other characters' [[Perception]] checks to detect the wearer.
 
 ## Sources
 - [[Gadgets and Gear|Gadgets and Gear:72]]

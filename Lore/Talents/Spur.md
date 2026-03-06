@@ -3,7 +3,7 @@ activation: Active (Action)
 ranked: No
 ---
 
-The character may push an animal past its normal comfort level. When riding a beast, [they] may perform the spur action, attempting a #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty  Survival check. With success, the beast's top speed increases by 1. The character can choose to end the effects of this at the start of any of [their] turns. However, if [they] choose to maintain the effects for that turn, the beast suffers 2 strain. The beast still cannot perform actions or maneuvers it could not perform normally (e.g., actions that have a minimum speed requirement).
+The character may push an animal past its normal comfort level. When riding a beast, **they** may perform the spur action, attempting a #StarWarsDifficulty #StarWarsDifficulty #StarWarsDifficulty  Survival check. With success, the beast's top speed increases by 1. The character can choose to end the effects of this at the start of any of **their** turns. However, if **they** choose to maintain the effects for that turn, the beast suffers 2 strain. The beast still cannot perform actions or maneuvers it could not perform normally (e.g., actions that have a minimum speed requirement).
 
 Improved
 Activation: Active (Maneuver)

@@ -50,7 +50,7 @@ Entrepreneurs know that there is only one thing worth investing in—the future.
 **20 XP**: [[Sound Investments]], [[Toughened]], [[Master Merchant]], [[Know Somebody]]
 **25 XP**: [[Natural Merchant]], [[Intense Focus]], [[Dedication]], [[Sound Investments]]
 ## Marshal
-Criminals might run and criminals might hide, but the Marshal won't rest until [they] drag them back to town in binders.
+Criminals might run and criminals might hide, but the Marshal won't rest until **they** drag them back to town in binders.
 **Marshal Bonus Career Skills**: [[Coercion]], [[Underworld]], [[Ranged-Light]], [[Vigilance]]
 ### Talents
 **5 XP**: [[Hard Headed]], [[Grit]], [[Street Smarts]], [[Toughened]]
@@ -59,7 +59,7 @@ Criminals might run and criminals might hide, but the Marshal won't rest until [
 **20 XP**: [[Durable]], [[Unrelenting Skeptic]], [[Bad Cop]], [[Point Blank]]
 **25 XP**: [[Hard Headed|Improved Hard Headed]], [[Unrelenting Skeptic|Improved Unrelenting Skeptic]], [[Dedication]], [[Natural Marksman]]
 ## Performer
-The Performer must always be at the center of attention, and if all eyes aren't on the Performer, [they] have ways to make them shift their focus.
+The Performer must always be at the center of attention, and if all eyes aren't on the Performer, **they** have ways to make them shift their focus.
 **Performer Bonus Career Skills**: [[Charm]], [[Coordination]], [[Deception]], [[Melee]]
 ### Talents
 **5 XP**: [[Smooth Talker]], [[Kill with Kindness]], [[Distracting Behavior]], [[Convincing Demeanor]]

@@ -3,7 +3,7 @@ activation: Active (Incidental)
 ranked: No
 ---
 
-Once per round, on the character's turn, [they] may draw or holster an easily accessible weapon or item as an incidental, instead of a maneuver. This talent also reduces the amount of time to draw or stow a weapon that usually requires more than one maneuver to properly prepare or stow, by one maneuver.
+Once per round, on the character's turn, **they** may draw or holster an easily accessible weapon or item as an incidental, instead of a maneuver. This talent also reduces the amount of time to draw or stow a weapon that usually requires more than one maneuver to properly prepare or stow, by one maneuver.
 
 Improved
 Activation: Passive

@@ -14,7 +14,7 @@ Career Skills:
 Piloting vehicles, from repulsorlift speeders to massive starships and everything in between, is a fairly common skill for anyone who lives outside of a completely isolated society.
 # Specializations
 ## Driver
-On or above the ground, the driver becomes a part of the machine [they] drive, and [they] attempt maneuvers no design engineer ever intended [their] vehicle to do. // Pilots are great for traveling from one system to another, but it's the Drivers that move beings around once they hit dirtside.
+On or above the ground, the driver becomes a part of the machine **they** drive, and **they** attempt maneuvers no design engineer ever intended **their** vehicle to do. // Pilots are great for traveling from one system to another, but it's the Drivers that move beings around once they hit dirtside.
 **Driver Bonus Career Skills**: [[Cool]], [[Gunnery]], [[Mechanics]], [[Piloting-Planetary]]
 ### Talents
 **5 XP**: [[Full Throttle]], [[All-Terrain Driver]], [[Fine Tuning]], [[Gearhead]]
@@ -32,7 +32,7 @@ For the Gunner, the output of a vehicle or ship weapon is the ultimate expressio
 **20 XP**: [[Toughened]], [[Enduring]], [[Brace]], [[Exhaust Port]]
 **25 XP**: [[Heroic Fortitude]], [[Jury Rigged]], [[Dedication]], [[True Aim]]
 ## Pilot
-Out among the stars, engines screaming through the cockpit while [they] perform a maneuver that would send lesser beings into seizures or unconsciousness, the Pilot is truly [themself]. // Plenty of folks know how to fly a starship, but a Smuggler who specializes as a Pilot develops a relationship with [their] ship, and it becomes an extension of [their] wit and [their] will.
+Out among the stars, engines screaming through the cockpit while **they** perform a maneuver that would send lesser beings into seizures or unconsciousness, the Pilot is truly **themself**. // Plenty of folks know how to fly a starship, but a Smuggler who specializes as a Pilot develops a relationship with **their** ship, and it becomes an extension of **their** wit and **their** will.
 **Pilot Bonus Career Skills**: [[Astrogation]], [[Gunnery]], [[Piloting-Planetary]], [[Piloting-Space]]
 ### Talents
 **5 XP**: [[Full Throttle]], [[Skilled Jockey]], [[Galaxy Mapper]], [[Let's Ride]]
@@ -50,7 +50,7 @@ Many worlds in the galaxy are too backward, too poor, or have environments too e
 **20 XP**: [[Spur|Improved Spur]], [[Spur]], [[Natural Outdoorsman]], [[Expert Handler]]
 **25 XP**: [[Spur|Supreme Spur]], [[Dedication]], [[Grit]], [[Soothing Tone]]
 ## Hotshot
-Where the Ace Pilot uses hard-won skill, technique, and by-the-book tactics, the Hotshot is naturally gifted, overly aggressive, and makes the rest up as [they] speed along.
+Where the Ace Pilot uses hard-won skill, technique, and by-the-book tactics, the Hotshot is naturally gifted, overly aggressive, and makes the rest up as **they** speed along.
 **Hotshot Bonus Career Skills**: [[Cool]], [[Coordination]], [[Piloting-Planetary]], [[Piloting-Space]]
 ### Talents
 **5 XP**: [[Shortcut]], [[High-G Training]], [[Skilled Jockey]], [[Grit]]

@@ -36,7 +36,7 @@ Like most types of armored clothing, second skin armor offers moderate protectio
 
 ## Special Qualities
 
-Add two [setback] dice to a character's [Perception] checks to notice second skin armor on the wearer.
+Add two #StarWarsSetback dice to a character's [[Perception]] checks to notice second skin armor on the wearer.
 
 ## Sources
 - [[Gadgets and Gear|Gadgets and Gear:77]]

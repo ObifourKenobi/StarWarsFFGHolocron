@@ -3,7 +3,7 @@ activation: Passive
 ranked: No
 ---
 
-When targeted by a Deception check, the character automatically adds failure results to the check equal to [their] ranks in Vigilance.
+When targeted by a Deception check, the character automatically adds failure results to the check equal to **their** ranks in Vigilance.
 
 Improved
 Activation: Active (Incidental, Out of Turn)

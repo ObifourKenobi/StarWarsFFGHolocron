@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-Whenever the character repairs system strain on a starship or vehicle, [they] repair one additional system strain per rank of Fine Tuning.
+Whenever the character repairs system strain on a starship or vehicle, **they** repair one additional system strain per rank of Fine Tuning.
 
 The following is a homebrew expansion of this talent from a community-produced homebrew sourcebook!
 

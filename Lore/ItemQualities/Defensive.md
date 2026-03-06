@@ -10,4 +10,4 @@ ranked: True
 Increase melee defense by X.
 
 ## Full Description
-A character wielding a weapon with the Defensive quality increases [their] melee defense by the weapon's Defensive rating.
+A character wielding a weapon with the Defensive quality increases **their** melee defense by the weapon's Defensive rating.

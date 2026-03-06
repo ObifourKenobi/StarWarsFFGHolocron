@@ -3,7 +3,7 @@ activation: Passive
 ranked: Yes
 ---
 
-The character removes a #StarWarsSetback per rank of Keen Eyed from [their] Perception and Vigilance checks. Checks made to search a specific area take 50% less time than normal. This does not decrease with additional ranks of Keen Eyed.
+The character removes a #StarWarsSetback per rank of Keen Eyed from **their** Perception and Vigilance checks. Checks made to search a specific area take 50% less time than normal. This does not decrease with additional ranks of Keen Eyed.
 
 The following is a homebrew expansion of this talent from a community-produced homebrew sourcebook!
 

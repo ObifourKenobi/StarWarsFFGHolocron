@@ -3,7 +3,7 @@ activation: Active (Incidental)
 ranked: Yes
 ---
 
-Once per encounter, the character may use a Second Wind incidental to recover an amount of strain equal to [their] ranks in Second Wind.
+Once per encounter, the character may use a Second Wind incidental to recover an amount of strain equal to **their** ranks in Second Wind.
 
 # Sources
 [[Force and Destiny Core Rulebook|Force and Destiny Core Rulebook:151]]
