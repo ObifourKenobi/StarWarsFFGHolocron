@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Armor/Light/Mk IX Personal Mimetic Concealment Suit.md",
+                "file": "Lore/Vehicles/Starship/M3-A Scyk Interceptor.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Mk IX Personal Mimetic Concealment Suit"
+              "title": "M3-A Scyk Interceptor"
             }
           }
         ]
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 552.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,44 +204,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f05a3b55656d745",
+  "active": "5b3cf93610e74615",
   "lastOpenFiles": [
-    "Lore/Armor/Heavy/Mandalorian Armor.md",
-    "Lore/Armor/Light/Jedi Reconnaissance Armor.md",
-    "Lore/Talents/Inspiring Kill.md",
-    "Lore/Armor/Light/Imperial Storm Commando Armor.md",
-    "Lore/Armor/Light/Flare Jacket.md",
-    "Lore/Weapon/Explosive Tipped Arrow.md",
-    "Lore/Armor/Light/Clone Reconnaissance Armor.md",
-    "Lore/Force Power/Conjure.md",
-    "Lore/Weapon/Concealed Escape Kit.md",
-    "Lore/Species/Dug.md",
-    "Lore/Armor/Light/Formal Council Armor.md",
-    "Lore/Weapon/Grapnel-Harpoon Launcher.md",
-    "Lore/Armor/Light/Hunter's Trophy Armor.md",
-    "Lore/Weapon/Incendiary Arrow.md",
-    "Lore/ItemQualities/Ion.md",
-    "Lore/Force Power/Jerserra's Influence.md",
-    "Lore/Talents/One with the Universe.md",
-    "Lore/Weapon/Rivet Gun.md",
-    "Lore/ItemQualities/Superior.md",
-    "Lore/Armor/Light/Verpine Fiber Ultramesh Armor.md",
-    "Lore/Careers/Warrior.md",
-    "Lore/Weapon/Vibrorang.md",
-    "Lore/Weapon/Vibro-bayonet.md",
-    "Lore/Force Power/Sense.md",
-    "Lore/Weapon/Basic Lightsaber Hilt.md",
-    "Lore/Force Power/Battle Meditation.md",
-    "Lore/Books.base",
-    "Lore/Vehicles/Speeder/fix_sources.py",
-    "Lore/Vehicles/Speeder/generate_speeders.py",
-    "Lore/Vehicles/Speeder",
-    "Lore/Vehicles/Ground",
-    "Lore/Vehicles/Walker",
-    "Lore/Vehicles/Air Speeder",
-    "Lore/Vehicles/Speeder",
-    "Lore/Vehicles/Ground",
-    "Lore/Vehicles",
+    "Lore/Vehicles/Starship/T-70 X-wing.md",
+    "Lore/Vehicles/Starship/Delta-12 Skysprite.md",
+    "Lore/Vehicles/Starship/HWK-290 Light Freighter.md",
+    "Lore/Vehicles/Starship/Firespray System Patrol Craft.md",
+    "Lore/Vehicles/Starship/Millennium Falcon.md",
+    "Lore/Vehicles/Starship/Slave I.md",
+    "Lore/Vehicles/Starship/StarViper M-2.md",
+    "Lore/Vehicles/Starship/VCX-100 Light Freighter.md",
+    "Lore/Vehicles/Starship/Lancer-class Pursuit Craft.md",
+    "Lore/Vehicles/Starship/YT-2400 Light Freighter.md",
+    "Lore/Vehicles/Starship/YT-1300 Light Freighter.md",
+    "Lore/Vehicles/Starship/GR-75 Medium Transport.md",
+    "Lore/Vehicles/Starship/Droid Tri-Fighter.md",
+    "Lore/Vehicles/Starship/M12-L Kimogila Heavy Starfighter.md",
+    "Lore/Vehicles/Capital Ship/CR90 Corvette.md",
+    "Lore/Vehicles/Starship/Baudo-class Star Yacht.md",
+    "Lore/Vehicles/Starship/Ainik-class Scientific Survey Vessel.md",
+    "Lore/Vehicles/Starship/Aggressor Assault Fighter.md",
+    "Lore/Vehicles/Starship/Alpha-3 Nimbus-class V-wing Starfighter.md",
+    "Lore/Vehicles/Starship/Delta-7 Aethersprite-class Interceptor.md",
+    "Lore/Vehicles/Starship/N-1 Starfighter.md",
+    "Lore/Vehicles/Starship/RZ-2 A-wing.md",
+    "Lore/Vehicles/Starship/LAF-250 Starfighter.md",
+    "Lore/Vehicles/Starship/M3-A Scyk Interceptor.md",
+    "Lore/Vehicles/Starship/E-7 E-Wing Multi-Role Starfighter.md",
+    "Lore/Vehicles/Starship/Delta-6 System Defense Starfighter.md",
+    "Lore/Vehicles/Capital Ship",
+    "Lore/Vehicles/Starship",
+    "ships_to_fetch.txt",
+    "fetch_missing_vehicles.py",
+    "missing_ships.txt",
+    "starships_category.json",
+    "check_missing.py",
+    "create_capital_ships.py",
+    "update_all.py",
+    "update_shuttles.py",
     "Sans titre.canvas"
   ]
 }
