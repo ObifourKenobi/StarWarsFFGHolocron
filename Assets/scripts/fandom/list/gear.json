@@ -1,0 +1,4034 @@
+[
+  {
+    "name": "3-MAL Secure Comlink",
+    "encumbrance": 0,
+    "price": "250",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/3-MAL_Secure_Comlink",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=3-MAL_Secure_Comlink&format=json"
+  },
+  {
+    "name": "Artillery Remote",
+    "encumbrance": 1,
+    "price": "400",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Artillery_Remote",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Artillery_Remote&format=json"
+  },
+  {
+    "name": "Electronics Whistler",
+    "encumbrance": 3,
+    "price": "1250",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Carbanti_United_Electronics_Whistler",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Carbanti_United_Electronics_Whistler&format=json"
+  },
+  {
+    "name": "X-500 Portable HoloNet Relay",
+    "encumbrance": 15,
+    "price": "75000",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Chedak_Communications_X-500_Portable_HoloNet_Relay",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Chedak_Communications_X-500_Portable_HoloNet_Relay&format=json"
+  },
+  {
+    "name": "Pioneer Long-Range Transceiver",
+    "encumbrance": 5,
+    "price": "1000",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cirenian_Communications_Pioneer_Long-Range_Transceiver",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cirenian_Communications_Pioneer_Long-Range_Transceiver&format=json"
+  },
+  {
+    "name": "Comlink (handheld)",
+    "encumbrance": 0,
+    "price": "25",
+    "rarity": "0",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Comlink",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Comlink&format=json"
+  },
+  {
+    "name": "Comlink (long range)",
+    "encumbrance": 2,
+    "price": "200",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Comlink",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Comlink&format=json"
+  },
+  {
+    "name": "Comm Scrambler",
+    "encumbrance": 0,
+    "price": "1000",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Comm_Scrambler",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Comm_Scrambler&format=json"
+  },
+  {
+    "name": "Communications Media Manipulator",
+    "encumbrance": 6,
+    "price": "400",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Communications_Media_Manipulator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Communications_Media_Manipulator&format=json"
+  },
+  {
+    "name": "DH77 Headcomm",
+    "encumbrance": 0,
+    "price": "400",
+    "rarity": "3",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/DH77_Headcomm",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=DH77_Headcomm&format=json"
+  },
+  {
+    "name": "Earbud Comlink",
+    "encumbrance": 0,
+    "price": "75",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Earbud_Comlink",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Earbud_Comlink&format=json"
+  },
+  {
+    "name": "False Voice Transmitter",
+    "encumbrance": 4,
+    "price": "1400",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/False_Voice_Transmitter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=False_Voice_Transmitter&format=json"
+  },
+  {
+    "name": "Hardened Comlink",
+    "encumbrance": 3,
+    "price": "450",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hardened_Comlink",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hardened_Comlink&format=json"
+  },
+  {
+    "name": "Collar-Amp",
+    "encumbrance": 0,
+    "price": "50",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Herzfall_Communications_Collar-Amp",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Herzfall_Communications_Collar-Amp&format=json"
+  },
+  {
+    "name": "Holo-Megacaster",
+    "encumbrance": 1,
+    "price": "600",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Holo-Megacaster",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Holo-Megacaster&format=json"
+  },
+  {
+    "name": "Holo-Messenger",
+    "encumbrance": 0,
+    "price": "250",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Holo-Messenger",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Holo-Messenger&format=json"
+  },
+  {
+    "name": "Integrated Public Address System",
+    "encumbrance": 4,
+    "price": "200",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Integrated_Public_Address_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Integrated_Public_Address_System&format=json"
+  },
+  {
+    "name": "Polis Massan Voicebox",
+    "encumbrance": 1,
+    "price": "50",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Polis_Massan_Voicebox",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Polis_Massan_Voicebox&format=json"
+  },
+  {
+    "name": "PTP Link",
+    "encumbrance": 2,
+    "price": "100",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/PTP_Link",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=PTP_Link&format=json"
+  },
+  {
+    "name": "Remote DVI Activator (long range)",
+    "encumbrance": 0,
+    "price": "1500",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Remote_DVI_Activator_(Long_Range)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Remote_DVI_Activator_(Long_Range)&format=json"
+  },
+  {
+    "name": "Remote DVI Activator (short range)",
+    "encumbrance": 0,
+    "price": "300",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Remote_DVI_Activator_(Long_Range)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Remote_DVI_Activator_(Long_Range)&format=json"
+  },
+  {
+    "name": "ShockHold Hardened Comlink",
+    "encumbrance": 3,
+    "price": "450",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/ShockHold_Hardened_Comlink",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=ShockHold_Hardened_Comlink&format=json"
+  },
+  {
+    "name": "Verpine Comlink",
+    "encumbrance": 1,
+    "price": "250",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Verpine_Comlink",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Verpine_Comlink&format=json"
+  },
+  {
+    "name": "Agent's Bag",
+    "encumbrance": 2,
+    "price": "200",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Agent%27s_Bag",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Agent%2527s_Bag&format=json"
+  },
+  {
+    "name": "Backpack",
+    "encumbrance": 0,
+    "price": "50",
+    "rarity": "0",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Backpack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Backpack&format=json"
+  },
+  {
+    "name": "Model 58 Concealment Holster",
+    "encumbrance": 0,
+    "price": "40",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/BlasTech_Model_58_Concealment_Holster",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=BlasTech_Model_58_Concealment_Holster&format=json"
+  },
+  {
+    "name": "Mk. IV Modular Backpack",
+    "encumbrance": 0,
+    "price": "75",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Creshaldyne_Mk._IV_Modular_Backpack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Creshaldyne_Mk._IV_Modular_Backpack&format=json"
+  },
+  {
+    "name": "Mk. IV Modular Backpack (extra pouch)",
+    "encumbrance": 0,
+    "price": "15",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Creshaldyne_Mk._IV_Modular_Backpack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Creshaldyne_Mk._IV_Modular_Backpack&format=json"
+  },
+  {
+    "name": "Imperial Army Military Pack",
+    "encumbrance": 0,
+    "price": "60",
+    "rarity": "0",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Imperial_Army_Military_Pack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Imperial_Army_Military_Pack&format=json"
+  },
+  {
+    "name": "Load-Bearing Gear",
+    "encumbrance": 0,
+    "price": "100",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Load-Bearing_Gear",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Load-Bearing_Gear&format=json"
+  },
+  {
+    "name": "Mk. III Modular Backpack",
+    "encumbrance": 0,
+    "price": "75",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mk._III_Modular_Backpack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mk._III_Modular_Backpack&format=json"
+  },
+  {
+    "name": "Mk. III Modular Backpack (extra pouch)",
+    "encumbrance": 0,
+    "price": "15",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mk._III_Modular_Backpack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mk._III_Modular_Backpack&format=json"
+  },
+  {
+    "name": "Modular Backpack Frame (GaG)",
+    "encumbrance": 0,
+    "price": "10",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Modular_Backpack_Frame",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Modular_Backpack_Frame&format=json"
+  },
+  {
+    "name": "Modular Backpack Frame (FiB)",
+    "encumbrance": 0,
+    "price": "10",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Modular_Backpack_Frame",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Modular_Backpack_Frame&format=json"
+  },
+  {
+    "name": "Pannier Modular Cargo Handling System",
+    "encumbrance": 0,
+    "price": "500",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pannier_Modular_Cargo_Handling_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pannier_Modular_Cargo_Handling_System&format=json"
+  },
+  {
+    "name": "Pannier Modular Cargo Handling System (extra cargo container)",
+    "encumbrance": 0,
+    "price": "350",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pannier_Modular_Cargo_Handling_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pannier_Modular_Cargo_Handling_System&format=json"
+  },
+  {
+    "name": "Military Belt Pouch",
+    "encumbrance": 0,
+    "price": "10",
+    "rarity": "0",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Rim_Excursions_Inc._Military_Belt_Pouch",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Rim_Excursions_Inc._Military_Belt_Pouch&format=json"
+  },
+  {
+    "name": "Saddlebags",
+    "encumbrance": 0,
+    "price": "25",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Saddlebags",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Saddlebags&format=json"
+  },
+  {
+    "name": "Spacer's Duffel",
+    "encumbrance": 0,
+    "price": "50",
+    "rarity": "0",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Spacer%27s_Duffel",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Spacer%2527s_Duffel&format=json"
+  },
+  {
+    "name": "Specimen Container (tiny)",
+    "encumbrance": 0,
+    "price": "10",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Specimen_Containers",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Specimen_Containers&format=json"
+  },
+  {
+    "name": "Specimen Container (small)",
+    "encumbrance": 1,
+    "price": "25",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Specimen_Containers",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Specimen_Containers&format=json"
+  },
+  {
+    "name": "Specimen Container (medium)",
+    "encumbrance": 3,
+    "price": "50",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Specimen_Containers",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Specimen_Containers&format=json"
+  },
+  {
+    "name": "Specimen Container (large)",
+    "encumbrance": 5,
+    "price": "150",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Specimen_Containers",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Specimen_Containers&format=json"
+  },
+  {
+    "name": "Surveyor's Bag",
+    "encumbrance": 0,
+    "price": "50",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Surveyor%27s_Bag",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Surveyor%2527s_Bag&format=json"
+  },
+  {
+    "name": "Utility Belt",
+    "encumbrance": 0,
+    "price": "25",
+    "rarity": "0",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Utility_Belt",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Utility_Belt&format=json"
+  },
+  {
+    "name": "Wizard Pouch",
+    "encumbrance": 0,
+    "price": "50",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Wizard_Pouch",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Wizard_Pouch&format=json"
+  },
+  {
+    "name": "Ashes of Malachor",
+    "encumbrance": 0,
+    "price": "750",
+    "rarity": "8",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ashes_of_Malachor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ashes_of_Malachor&format=json"
+  },
+  {
+    "name": "Avabush Spice (dose)",
+    "encumbrance": 0,
+    "price": "25",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Avabush_Spice",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Avabush_Spice&format=json"
+  },
+  {
+    "name": "Avabush Spice (100 dose cargo container)",
+    "encumbrance": 3,
+    "price": "2000",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Avabush_Spice",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Avabush_Spice&format=json"
+  },
+  {
+    "name": "Booster Blue (dose)",
+    "encumbrance": 0,
+    "price": "10",
+    "rarity": "5",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Booster_Blue",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Booster_Blue&format=json"
+  },
+  {
+    "name": "Booster Blue (100 dose cargo container)",
+    "encumbrance": 3,
+    "price": "750",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Booster_Blue",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Booster_Blue&format=json"
+  },
+  {
+    "name": "Bubse Spice (dose)",
+    "encumbrance": 0,
+    "price": "200",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bubse_Spice",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bubse_Spice&format=json"
+  },
+  {
+    "name": "Bubse Spice (100-dose cargo container)",
+    "encumbrance": 5,
+    "price": "17500",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bubse_Spice",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bubse_Spice&format=json"
+  },
+  {
+    "name": "Corellian Whiskey (bottle)",
+    "encumbrance": 1,
+    "price": "25",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Corellian_Whiskey",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Corellian_Whiskey&format=json"
+  },
+  {
+    "name": "Corellian Whiskey (25 bottle case)",
+    "encumbrance": 20,
+    "price": "500",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Corellian_Whiskey",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Corellian_Whiskey&format=json"
+  },
+  {
+    "name": "Whyren's Reserve (bottle)",
+    "encumbrance": 1,
+    "price": "100",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Corellian_Whiskey",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Corellian_Whiskey&format=json"
+  },
+  {
+    "name": "Whyren's Reserve (20 bottle case)",
+    "encumbrance": 10,
+    "price": "1500",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Corellian_Whiskey",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Corellian_Whiskey&format=json"
+  },
+  {
+    "name": "Death Sticks (dose)",
+    "encumbrance": 0,
+    "price": "5",
+    "rarity": "1",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Death_Sticks",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Death_Sticks&format=json"
+  },
+  {
+    "name": "Death Sticks (100 dose cargo container)",
+    "encumbrance": 3,
+    "price": "250",
+    "rarity": "2",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Death_Sticks",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Death_Sticks&format=json"
+  },
+  {
+    "name": "Frangawl Force Powder (dose)",
+    "encumbrance": 0,
+    "price": "2000",
+    "rarity": "10",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Frangawl_Force_Powder",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Frangawl_Force_Powder&format=json"
+  },
+  {
+    "name": "Glitterstim (dose)",
+    "encumbrance": 0,
+    "price": "100",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Glitterstim",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Glitterstim&format=json"
+  },
+  {
+    "name": "Glitterstim (100 dose cargo container)",
+    "encumbrance": 5,
+    "price": "5000",
+    "rarity": "8",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Glitterstim",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Glitterstim&format=json"
+  },
+  {
+    "name": "Gunjack Spice (dose)",
+    "encumbrance": 1,
+    "price": "75",
+    "rarity": "5",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gunjack_Spice",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gunjack_Spice&format=json"
+  },
+  {
+    "name": "Gunjack Spice (100 dose cargo container)",
+    "encumbrance": 14,
+    "price": "7000",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gunjack_Spice",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gunjack_Spice&format=json"
+  },
+  {
+    "name": "Impact (dose)",
+    "encumbrance": 0,
+    "price": "125",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Impact",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Impact&format=json"
+  },
+  {
+    "name": "Impact (100 dose cargo container)",
+    "encumbrance": 5,
+    "price": "10000",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Impact",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Impact&format=json"
+  },
+  {
+    "name": "Ji Rikknit (dose)",
+    "encumbrance": 0,
+    "price": "50",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ji_Rikknit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ji_Rikknit&format=json"
+  },
+  {
+    "name": "Ji Rikknit (100 dose cargo container)",
+    "encumbrance": 5,
+    "price": "3000",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ji_Rikknit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ji_Rikknit&format=json"
+  },
+  {
+    "name": "Karrak Spice (dose)",
+    "encumbrance": 0,
+    "price": "80",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Karrak_Spice",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Karrak_Spice&format=json"
+  },
+  {
+    "name": "Karrak Spice (100 dose cargo container)",
+    "encumbrance": 5,
+    "price": "6400",
+    "rarity": "8",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Karrak_Spice",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Karrak_Spice&format=json"
+  },
+  {
+    "name": "Lesai (dose)",
+    "encumbrance": 0,
+    "price": "500",
+    "rarity": "9",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Lesai",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Lesai&format=json"
+  },
+  {
+    "name": "Lesai (20 dose enviro-sealed cargo pod)",
+    "encumbrance": 2,
+    "price": "7500",
+    "rarity": "10",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Lesai",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Lesai&format=json"
+  },
+  {
+    "name": "Longsight (dose)",
+    "encumbrance": 0,
+    "price": "650",
+    "rarity": "8",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Longsight",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Longsight&format=json"
+  },
+  {
+    "name": "Marcan Herb (dose)",
+    "encumbrance": 1,
+    "price": "20",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Marcan_Herb",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Marcan_Herb&format=json"
+  },
+  {
+    "name": "Marcan Herb (100-dose cargo container)",
+    "encumbrance": 25,
+    "price": "1750",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Marcan_Herb",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Marcan_Herb&format=json"
+  },
+  {
+    "name": "Muon Gold (dose)",
+    "encumbrance": 0,
+    "price": "50",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Muon_Gold",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Muon_Gold&format=json"
+  },
+  {
+    "name": "Muon Gold (100 dose cargo container)",
+    "encumbrance": 3,
+    "price": "4000",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Muon_Gold",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Muon_Gold&format=json"
+  },
+  {
+    "name": "Nannarium Root (dose)",
+    "encumbrance": 0,
+    "price": "200",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Nannarium_Root",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Nannarium_Root&format=json"
+  },
+  {
+    "name": "Neutron Pixie (dose)",
+    "encumbrance": 1,
+    "price": "100",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Neutron_Pixie",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Neutron_Pixie&format=json"
+  },
+  {
+    "name": "Neutron Pixie (100 dose cargo container)",
+    "encumbrance": 25,
+    "price": "8500",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Neutron_Pixie",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Neutron_Pixie&format=json"
+  },
+  {
+    "name": "Ryll (dose)",
+    "encumbrance": 1,
+    "price": "50",
+    "rarity": "4",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ryll",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ryll&format=json"
+  },
+  {
+    "name": "Ryll (100-dose cargo container)",
+    "encumbrance": 25,
+    "price": "4500",
+    "rarity": "5",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ryll",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ryll&format=json"
+  },
+  {
+    "name": "Sulfur Inhaler (10 doses | ND)",
+    "encumbrance": 0,
+    "price": "200",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sulfur_Inhaler",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sulfur_Inhaler&format=json"
+  },
+  {
+    "name": "Sulfur Inhaler (10 doses | NoP)",
+    "encumbrance": 0,
+    "price": "120",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sulfur_Inhaler",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sulfur_Inhaler&format=json"
+  },
+  {
+    "name": "Vutalamine",
+    "encumbrance": 0,
+    "price": "125",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Vutalamine",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Vutalamine&format=json"
+  },
+  {
+    "name": "Yaladai Spice (dose)",
+    "encumbrance": 0,
+    "price": "1000",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Yaladai_Spice",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Yaladai_Spice&format=json"
+  },
+  {
+    "name": "Yaladai Spice (100 cargo dose container)",
+    "encumbrance": 5,
+    "price": "80000",
+    "rarity": "8",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Yaladai_Spice",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Yaladai_Spice&format=json"
+  },
+  {
+    "name": "Yarrock (dose)",
+    "encumbrance": 0,
+    "price": "350",
+    "rarity": "8",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Yarrock",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Yarrock&format=json"
+  },
+  {
+    "name": "Yarrock (100 dose cargo container)",
+    "encumbrance": 3,
+    "price": "20000",
+    "rarity": "9",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Yarrock",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Yarrock&format=json"
+  },
+  {
+    "name": "Affide Crystal",
+    "encumbrance": 0,
+    "price": "500",
+    "rarity": "8",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Affide_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Affide_Crystal&format=json"
+  },
+  {
+    "name": "Bearsloth Venom",
+    "encumbrance": 0,
+    "price": "150",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bearsloth_Venom",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bearsloth_Venom&format=json"
+  },
+  {
+    "name": "Cyanoxis D-570",
+    "encumbrance": 1,
+    "price": "50",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cyanoxis_D-570",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cyanoxis_D-570&format=json"
+  },
+  {
+    "name": "Dendriton Toxin",
+    "encumbrance": 0,
+    "price": "125",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Dendriton_Toxin",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dendriton_Toxin&format=json"
+  },
+  {
+    "name": "Dioxis Gas",
+    "encumbrance": 0,
+    "price": "100",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Dioxis_Gas",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dioxis_Gas&format=json"
+  },
+  {
+    "name": "Questioner-9 Interrogation Serum (dose)",
+    "encumbrance": 0,
+    "price": "300",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Questioner-9_Interrogation_Serum",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Questioner-9_Interrogation_Serum&format=json"
+  },
+  {
+    "name": "Questioner-9 Interrogation Serum (100 cargo dose container)",
+    "encumbrance": 5,
+    "price": "24000",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Questioner-9_Interrogation_Serum",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Questioner-9_Interrogation_Serum&format=json"
+  },
+  {
+    "name": "Raquor Venom",
+    "encumbrance": 0,
+    "price": "150",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Raquor_Venom",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Raquor_Venom&format=json"
+  },
+  {
+    "name": "Skirtopanol",
+    "encumbrance": 0,
+    "price": "500",
+    "rarity": "8",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Skirtopanol",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Skirtopanol&format=json"
+  },
+  {
+    "name": "Sleeppack (dose)",
+    "encumbrance": 0,
+    "price": "250",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sleeppack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sleeppack&format=json"
+  },
+  {
+    "name": "Synthetic Anesthetic",
+    "encumbrance": 0,
+    "price": "35",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Synthetic_Anesthetic",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Synthetic_Anesthetic&format=json"
+  },
+  {
+    "name": "Synthetic Neuroparalytic",
+    "encumbrance": 0,
+    "price": "75",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Synthetic_Neuroparalytic",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Synthetic_Neuroparalytic&format=json"
+  },
+  {
+    "name": "Synthetic Neurotoxin",
+    "encumbrance": 0,
+    "price": "50",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Synthetic_Neurotoxin",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Synthetic_Neurotoxin&format=json"
+  },
+  {
+    "name": "Nala Tree Frog (12 frogs)",
+    "encumbrance": 1,
+    "price": "15",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Nala_Tree_Frog",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Nala_Tree_Frog&format=json"
+  },
+  {
+    "name": "Ryshcate (cake)",
+    "encumbrance": 0,
+    "price": "10",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ryshcate",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ryshcate&format=json"
+  },
+  {
+    "name": "Stimcaf Powder",
+    "encumbrance": 0,
+    "price": "3",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Stimcaf_Powder",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Stimcaf_Powder&format=json"
+  },
+  {
+    "name": "Adrenal Implant",
+    "encumbrance": 0,
+    "price": "2250",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Adrenal_Implant",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Adrenal_Implant&format=json"
+  },
+  {
+    "name": "Appraiser's Eye",
+    "encumbrance": 0,
+    "price": "700",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Appraiser%27s_Eye",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Appraiser%2527s_Eye&format=json"
+  },
+  {
+    "name": "Biofeedback Regulator",
+    "encumbrance": 0,
+    "price": "3000",
+    "rarity": "8",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Biofeedback_Regulator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Biofeedback_Regulator&format=json"
+  },
+  {
+    "name": "CAAF-2 System Cybernetic Avionics Interface",
+    "encumbrance": 0,
+    "price": "8000",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/CAAF-2_System_Cybernetic_Avionics_Interface",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=CAAF-2_System_Cybernetic_Avionics_Interface&format=json"
+  },
+  {
+    "name": "Cortex Bomb",
+    "encumbrance": 0,
+    "price": "1200",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cortex_Bomb",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cortex_Bomb&format=json"
+  },
+  {
+    "name": "Cyber Disguise",
+    "encumbrance": 0,
+    "price": "18000",
+    "rarity": "8",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cyber_Disguise",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cyber_Disguise&format=json"
+  },
+  {
+    "name": "Cybernetic Arms (Mod V and Mod VI)",
+    "encumbrance": 0,
+    "price": "10000",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cybernetic_Arms_(Mod_V_and_Mod_VI)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cybernetic_Arms_(Mod_V_and_Mod_VI)&format=json"
+  },
+  {
+    "name": "Cybernetic Brain Implant",
+    "encumbrance": 0,
+    "price": "10000",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cybernetic_Brain_Implant",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cybernetic_Brain_Implant&format=json"
+  },
+  {
+    "name": "Cybernetic Cavity",
+    "encumbrance": 0,
+    "price": "775",
+    "rarity": "3",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cybernetic_Cavity",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cybernetic_Cavity&format=json"
+  },
+  {
+    "name": "Cybernetic Eyes",
+    "encumbrance": 0,
+    "price": "7500",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cybernetic_Eyes",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cybernetic_Eyes&format=json"
+  },
+  {
+    "name": "Cybernetic Legs (Mod II and Mod III)",
+    "encumbrance": 0,
+    "price": "10000",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cybernetic_Legs_(Mod_II_and_Mod_III)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cybernetic_Legs_(Mod_II_and_Mod_III)&format=json"
+  },
+  {
+    "name": "Cybernetic Reflexes",
+    "encumbrance": 0,
+    "price": "2750",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cybernetic_Reflexes",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cybernetic_Reflexes&format=json"
+  },
+  {
+    "name": "Cybernetic Respirator",
+    "encumbrance": 0,
+    "price": "2000",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cybernetic_Respirator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cybernetic_Respirator&format=json"
+  },
+  {
+    "name": "Cybernetic Weapon Implant",
+    "encumbrance": 0,
+    "price": "4000",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cybernetic_Weapon_Implant",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cybernetic_Weapon_Implant&format=json"
+  },
+  {
+    "name": "Cyberscanner Limb",
+    "encumbrance": 0,
+    "price": "4000",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cyberscanner_Limb",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cyberscanner_Limb&format=json"
+  },
+  {
+    "name": "Digital Lockpick",
+    "encumbrance": 0,
+    "price": "2750",
+    "rarity": "5",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Digital_Lockpick",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Digital_Lockpick&format=json"
+  },
+  {
+    "name": "Escape Circuit",
+    "encumbrance": 0,
+    "price": "1000",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Escape_Circuit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Escape_Circuit&format=json"
+  },
+  {
+    "name": "Explosive Implant",
+    "encumbrance": 0,
+    "price": "2000",
+    "rarity": "8",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Explosive_Implant",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Explosive_Implant&format=json"
+  },
+  {
+    "name": "Gank Comm Implant",
+    "encumbrance": 0,
+    "price": "250",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gank_Comm_Implant",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gank_Comm_Implant&format=json"
+  },
+  {
+    "name": "Immune Implant",
+    "encumbrance": 0,
+    "price": "5000",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Immune_Implant",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Immune_Implant&format=json"
+  },
+  {
+    "name": "Implant Armor",
+    "encumbrance": 0,
+    "price": "7500",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Implant_Armor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Implant_Armor&format=json"
+  },
+  {
+    "name": "Implanted Cyberjack",
+    "encumbrance": 0,
+    "price": "3750",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Implanted_Cyberjack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Implanted_Cyberjack&format=json"
+  },
+  {
+    "name": "Lockbreaker Hand",
+    "encumbrance": 0,
+    "price": "2200",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Lockbreaker_Hand",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Lockbreaker_Hand&format=json"
+  },
+  {
+    "name": "Multi-Tool Hand",
+    "encumbrance": 0,
+    "price": "650",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Multi-Tool_Hand",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Multi-Tool_Hand&format=json"
+  },
+  {
+    "name": "Networked Slicing Uplink",
+    "encumbrance": 0,
+    "price": "1250",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Networked_Slicing_Uplink",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Networked_Slicing_Uplink&format=json"
+  },
+  {
+    "name": "Neural Recorder",
+    "encumbrance": 0,
+    "price": "250",
+    "rarity": "8",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Neural_Recorder",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Neural_Recorder&format=json"
+  },
+  {
+    "name": "Cyborg/Droid Interface",
+    "encumbrance": 0,
+    "price": "600",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Neuro-Saav_Cyborg/Droid_Interface",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Neuro-Saav_Cyborg%2FDroid_Interface&format=json"
+  },
+  {
+    "name": "Neuromachine Interface",
+    "encumbrance": 0,
+    "price": "3500",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Neuromachine_Interface",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Neuromachine_Interface&format=json"
+  },
+  {
+    "name": "Pain Damper",
+    "encumbrance": 0,
+    "price": "1800",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pain_Damper",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pain_Damper&format=json"
+  },
+  {
+    "name": "Prosthetic Replacement (limb)",
+    "encumbrance": 0,
+    "price": "2000",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Prosthetic_Replacement",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Prosthetic_Replacement&format=json"
+  },
+  {
+    "name": "Prosthetic Replacement (organ)",
+    "encumbrance": 0,
+    "price": "1000",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Prosthetic_Replacement",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Prosthetic_Replacement&format=json"
+  },
+  {
+    "name": "Q-22 Retinal Tracker",
+    "encumbrance": 0,
+    "price": "2500",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Q-22_Retinal_Tracker",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Q-22_Retinal_Tracker&format=json"
+  },
+  {
+    "name": "Repulsor Fist",
+    "encumbrance": 0,
+    "price": "4750",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Repulsor_Fist",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Repulsor_Fist&format=json"
+  },
+  {
+    "name": "Retinal Implant",
+    "encumbrance": 0,
+    "price": "1250",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Retinal_Implant",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Retinal_Implant&format=json"
+  },
+  {
+    "name": "Surge Override Switch",
+    "encumbrance": 0,
+    "price": "1000",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Surge_Override_Switch",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Surge_Override_Switch&format=json"
+  },
+  {
+    "name": "Swift 78B Vessel Courier System",
+    "encumbrance": 0,
+    "price": "5000",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Swift_78B_Vessel_Courier_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Swift_78B_Vessel_Courier_System&format=json"
+  },
+  {
+    "name": "Vessel Implant",
+    "encumbrance": 0,
+    "price": "900",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Vessel_Implant",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Vessel_Implant&format=json"
+  },
+  {
+    "name": "Vocal Emulator Implant",
+    "encumbrance": 0,
+    "price": "1300",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Vocal_Emulator_Implant",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Vocal_Emulator_Implant&format=json"
+  },
+  {
+    "name": "Bardottan Chronoscanner",
+    "encumbrance": 0,
+    "price": "1200",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bardottan_Chronoscanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bardottan_Chronoscanner&format=json"
+  },
+  {
+    "name": "Bioscan (GaG)",
+    "encumbrance": 2,
+    "price": "2000",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bioscan_(Scanner)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bioscan_(Scanner)&format=json"
+  },
+  {
+    "name": "Bioscan (ND)",
+    "encumbrance": 1,
+    "price": "2000",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bioscan_(Scanner)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bioscan_(Scanner)&format=json"
+  },
+  {
+    "name": "Cargo Scanner",
+    "encumbrance": 1,
+    "price": "300",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cargo_Scanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cargo_Scanner&format=json"
+  },
+  {
+    "name": "Mark 10 Demolitions Scanner",
+    "encumbrance": 1,
+    "price": "300",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Chedak_Mark_10_Demolitions_Scanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Chedak_Mark_10_Demolitions_Scanner&format=json"
+  },
+  {
+    "name": "Com-Scan",
+    "encumbrance": 10,
+    "price": "5000",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Com-Scan",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Com-Scan&format=json"
+  },
+  {
+    "name": "Combat Scanner",
+    "encumbrance": 1,
+    "price": "2000",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Combat_Scanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Combat_Scanner&format=json"
+  },
+  {
+    "name": "EnhanceScan Long-Range Terrain Scanner",
+    "encumbrance": 6,
+    "price": "850",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/CryonCorp_EnhanceScan_Long-Range_Terrain_Scanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=CryonCorp_EnhanceScan_Long-Range_Terrain_Scanner&format=json"
+  },
+  {
+    "name": "General Purpose Scanner",
+    "encumbrance": 2,
+    "price": "500",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/General_Purpose_Scanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=General_Purpose_Scanner&format=json"
+  },
+  {
+    "name": "Geoscanner",
+    "encumbrance": 2,
+    "price": "4800",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Geoscanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Geoscanner&format=json"
+  },
+  {
+    "name": "Hand Scanner",
+    "encumbrance": 0,
+    "price": "100",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hand_Scanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hand_Scanner&format=json"
+  },
+  {
+    "name": "Holoscanner",
+    "encumbrance": 10,
+    "price": "2200-10000",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Holoscanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Holoscanner&format=json"
+  },
+  {
+    "name": "Hunting Goggles",
+    "encumbrance": 0,
+    "price": "600",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hunting_Goggles",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hunting_Goggles&format=json"
+  },
+  {
+    "name": "ILF–6500 Life–form Scanner",
+    "encumbrance": 4,
+    "price": "900",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/ILF%E2%80%936500_Life%E2%80%93form_Scanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=ILF%25E2%2580%25936500_Life%25E2%2580%2593form_Scanner&format=json"
+  },
+  {
+    "name": "Low-Feedback Scanner",
+    "encumbrance": 4,
+    "price": "700",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Low-Feedback_Scanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Low-Feedback_Scanner&format=json"
+  },
+  {
+    "name": "Mine Detector",
+    "encumbrance": 1,
+    "price": "350",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mine_Detector",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mine_Detector&format=json"
+  },
+  {
+    "name": "Scanner Goggles",
+    "encumbrance": 0,
+    "price": "150",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Scanner_Goggles",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Scanner_Goggles&format=json"
+  },
+  {
+    "name": "SE–90 Structural Engineering Scanner",
+    "encumbrance": 1,
+    "price": "675",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/SE%E2%80%9390_Structural_Engineering_Scanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=SE%25E2%2580%259390_Structural_Engineering_Scanner&format=json"
+  },
+  {
+    "name": "Shipboard Systems Scanner",
+    "encumbrance": 1,
+    "price": "145",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Shipboard_Systems_Scanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Shipboard_Systems_Scanner&format=json"
+  },
+  {
+    "name": "Surveillance Scanner",
+    "encumbrance": 2,
+    "price": "750",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Surveillance_Scanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Surveillance_Scanner&format=json"
+  },
+  {
+    "name": "Arakyd Industries Recon Remote",
+    "encumbrance": 1,
+    "price": "250",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Arakyd_Industries_Recon_Remote",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Arakyd_Industries_Recon_Remote&format=json"
+  },
+  {
+    "name": "Concealed Recorder",
+    "encumbrance": 0,
+    "price": "175",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Concealed_Recorder",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Concealed_Recorder&format=json"
+  },
+  {
+    "name": "Electrobinoculars",
+    "encumbrance": 1,
+    "price": "250",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Electrobinoculars",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Electrobinoculars&format=json"
+  },
+  {
+    "name": "HoloNet Homing Beacon (GaG)",
+    "encumbrance": 2,
+    "price": "1100",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/HoloNet_Homing_Beacon",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=HoloNet_Homing_Beacon&format=json"
+  },
+  {
+    "name": "HoloNet Homing Beacon (ND)",
+    "encumbrance": 0,
+    "price": "500",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/HoloNet_Homing_Beacon",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=HoloNet_Homing_Beacon&format=json"
+  },
+  {
+    "name": "HSI–280 Hyperwave Signal Interceptor",
+    "encumbrance": 5,
+    "price": "10500",
+    "rarity": "8",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/HSI%E2%80%93280_Hyperwave_Signal_Interceptor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=HSI%25E2%2580%2593280_Hyperwave_Signal_Interceptor&format=json"
+  },
+  {
+    "name": "Infrabinoculars",
+    "encumbrance": 1,
+    "price": "350",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Infrabinoculars",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Infrabinoculars&format=json"
+  },
+  {
+    "name": "Infrabinoculars (long-range)",
+    "encumbrance": 1,
+    "price": "500",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Infrabinoculars",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Infrabinoculars&format=json"
+  },
+  {
+    "name": "Macrobinoculars",
+    "encumbrance": 1,
+    "price": "75",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Macrobinoculars",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Macrobinoculars&format=json"
+  },
+  {
+    "name": "Microdroid Listener",
+    "encumbrance": 0,
+    "price": "1500",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Microdroid_Listener",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Microdroid_Listener&format=json"
+  },
+  {
+    "name": "PX-7 Heat Sensor",
+    "encumbrance": 3,
+    "price": "250",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/PX-7_Heat_Sensor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=PX-7_Heat_Sensor&format=json"
+  },
+  {
+    "name": "SE–Vigilant Automated Sensor",
+    "encumbrance": 2,
+    "price": "3000",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/SE%E2%80%93Vigilant_Automated_Sensor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=SE%25E2%2580%2593Vigilant_Automated_Sensor&format=json"
+  },
+  {
+    "name": "Sporting Macrobinoculars",
+    "encumbrance": 1,
+    "price": "250",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sporting_Macrobinoculars",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sporting_Macrobinoculars&format=json"
+  },
+  {
+    "name": "Surveillance Tagger",
+    "encumbrance": 0,
+    "price": "175",
+    "rarity": "4",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Surveillance_Tagger",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Surveillance_Tagger&format=json"
+  },
+  {
+    "name": "Tracker's Goggles",
+    "encumbrance": 0,
+    "price": "600",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Tracker%27s_Goggles",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tracker%2527s_Goggles&format=json"
+  },
+  {
+    "name": "B310 Micro-Imager",
+    "encumbrance": 2,
+    "price": "5250",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Applied_Imaging_B310_Micro-Imager",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Applied_Imaging_B310_Micro-Imager&format=json"
+  },
+  {
+    "name": "Authentication Tools",
+    "encumbrance": 1,
+    "price": "100",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Authentication_Tools",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Authentication_Tools&format=json"
+  },
+  {
+    "name": "Ground-Penetrating Sensor Pack",
+    "encumbrance": 5,
+    "price": "950",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/CryonCorp_Ground-Penetrating_Sensor_Pack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=CryonCorp_Ground-Penetrating_Sensor_Pack&format=json"
+  },
+  {
+    "name": "Forensics Investigation Kit",
+    "encumbrance": 4,
+    "price": "450",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Forensics_Investigation_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Forensics_Investigation_Kit&format=json"
+  },
+  {
+    "name": "Ez1 Analyzer",
+    "encumbrance": 1,
+    "price": "300",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/SuriTech_Foodstuffs_Ez1_Analyzer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=SuriTech_Foodstuffs_Ez1_Analyzer&format=json"
+  },
+  {
+    "name": "Surveillance Detector",
+    "encumbrance": 1,
+    "price": "450",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Surveillance_Detector",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Surveillance_Detector&format=json"
+  },
+  {
+    "name": "Surveyor's Equipment",
+    "encumbrance": 6,
+    "price": "700",
+    "rarity": "8",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Surveyor%27s_Equipment",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Surveyor%2527s_Equipment&format=json"
+  },
+  {
+    "name": "Toxin Detector",
+    "encumbrance": 1,
+    "price": "125",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Toxin_Detector",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Toxin_Detector&format=json"
+  },
+  {
+    "name": "Veridicator 200",
+    "encumbrance": 1,
+    "price": "4000",
+    "rarity": "8",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Veridicator_200",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Veridicator_200&format=json"
+  },
+  {
+    "name": "Weapon Detection Goggles",
+    "encumbrance": 1,
+    "price": "750",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Weapon_Detection_Goggles",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Weapon_Detection_Goggles&format=json"
+  },
+  {
+    "name": "1.4 FD P-Tower Light Anti-Vehicle Battery",
+    "encumbrance": 0,
+    "price": "4000",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/1.4_FD_P-Tower_Light_Anti-Vehicle_Battery",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=1.4_FD_P-Tower_Light_Anti-Vehicle_Battery&format=json"
+  },
+  {
+    "name": "Heat Sink Power Generator",
+    "encumbrance": 0,
+    "price": "550",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/AlderaanMotors_Heat_Sink_Power_Generator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=AlderaanMotors_Heat_Sink_Power_Generator&format=json"
+  },
+  {
+    "name": "BKR B-70 Modular Reinforced Bunker",
+    "encumbrance": 0,
+    "price": "4900",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/BKR_B-70_Modular_Reinforced_Bunker",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=BKR_B-70_Modular_Reinforced_Bunker&format=json"
+  },
+  {
+    "name": "COM C-52 Command Center (FO)",
+    "encumbrance": 0,
+    "price": "2750",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/COM_C-52_Command_Center",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=COM_C-52_Command_Center&format=json"
+  },
+  {
+    "name": "COM C-52 Command Center (LbE)",
+    "encumbrance": 0,
+    "price": "1750",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/COM_C-52_Command_Center",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=COM_C-52_Command_Center&format=json"
+  },
+  {
+    "name": "MILBAR F-221 Modular Barracks (FO)",
+    "encumbrance": 0,
+    "price": "2100",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/MILBAR_F-221_Modular_Barracks",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=MILBAR_F-221_Modular_Barracks&format=json"
+  },
+  {
+    "name": "MILBAR F-221 Modular Barracks (LbE)",
+    "encumbrance": 0,
+    "price": "2000",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/MILBAR_F-221_Modular_Barracks",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=MILBAR_F-221_Modular_Barracks&format=json"
+  },
+  {
+    "name": "Mk. I Cat's Eye Multipurpose Sensor Suite",
+    "encumbrance": 0,
+    "price": "2750",
+    "rarity": "5",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/CryonCorp_Mk._I_Cat%27s_Eye_Multipurpose_Sensor_Suite",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=CryonCorp_Mk._I_Cat%2527s_Eye_Multipurpose_Sensor_Suite&format=json"
+  },
+  {
+    "name": "Nyalsan II Planetary Shield Generator",
+    "encumbrance": 0,
+    "price": "460000",
+    "rarity": "4",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/DefenStar_Ltd._Nyalsan_II_Planetary_Shield_Generator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=DefenStar_Ltd._Nyalsan_II_Planetary_Shield_Generator&format=json"
+  },
+  {
+    "name": "Fac L-120 Modular Motor Pool",
+    "encumbrance": 0,
+    "price": "1200",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Fac_L-120_Modular_Motor_Pool",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fac_L-120_Modular_Motor_Pool&format=json"
+  },
+  {
+    "name": "DF.11 Anti-Infantry Battery",
+    "encumbrance": 0,
+    "price": "7500",
+    "rarity": "5",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Golan_Arms_DF.11_Anti-Infantry_Battery",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Golan_Arms_DF.11_Anti-Infantry_Battery&format=json"
+  },
+  {
+    "name": "HNG F-104 Modular Hangar",
+    "encumbrance": 0,
+    "price": "2200",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/HNG_F-104_Modular_Hangar",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=HNG_F-104_Modular_Hangar&format=json"
+  },
+  {
+    "name": "HNG F-304 Hangar/Motor Pool",
+    "encumbrance": 0,
+    "price": "4200",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/HNG_F-304_Hangar/Motor_Pool",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=HNG_F-304_Hangar%2FMotor_Pool&format=json"
+  },
+  {
+    "name": "PSF Mk III Power Fence",
+    "encumbrance": 10,
+    "price": "10000",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/PSF_Mk_III_Power_Fence",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=PSF_Mk_III_Power_Fence&format=json"
+  },
+  {
+    "name": "TacNet Tactical Data Network",
+    "encumbrance": 0,
+    "price": "1000",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/TacNet_Tactical_Data_Network",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=TacNet_Tactical_Data_Network&format=json"
+  },
+  {
+    "name": "Advanced / Outlaw Tech Flesh Camouflage Kit",
+    "encumbrance": 2,
+    "price": "2500",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Advanced_Flesh_Camouflage_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Advanced_Flesh_Camouflage_Kit&format=json"
+  },
+  {
+    "name": "BlackOps / Outlaw Tech Data Breaker",
+    "encumbrance": 1,
+    "price": "1000",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/BlackOps_Data_Breaker",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=BlackOps_Data_Breaker&format=json"
+  },
+  {
+    "name": "Dataspike",
+    "encumbrance": 1,
+    "price": "100",
+    "rarity": "3",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Dataspike",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dataspike&format=json"
+  },
+  {
+    "name": "Disguise Kit (GaG, AoR, EotE)",
+    "encumbrance": 2,
+    "price": "100",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Disguise_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Disguise_Kit&format=json"
+  },
+  {
+    "name": "Disguise Kit (FaD)",
+    "encumbrance": 0,
+    "price": "100",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Disguise_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Disguise_Kit&format=json"
+  },
+  {
+    "name": "Electromag-Pulse Disruptor",
+    "encumbrance": 1,
+    "price": "180",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Electromag-Pulse_Disruptor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Electromag-Pulse_Disruptor&format=json"
+  },
+  {
+    "name": "Electronic Lock Breaker",
+    "encumbrance": 1,
+    "price": "1000",
+    "rarity": "5",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Electronic_Lock_Breaker",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Electronic_Lock_Breaker&format=json"
+  },
+  {
+    "name": "Falsified Credentials",
+    "encumbrance": 0,
+    "price": "800",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Falsified_Credentials",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Falsified_Credentials&format=json"
+  },
+  {
+    "name": "Fingerprint Masque",
+    "encumbrance": 0,
+    "price": "1000",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Fingerprint_Masque",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fingerprint_Masque&format=json"
+  },
+  {
+    "name": "Forgery Tools",
+    "encumbrance": 2,
+    "price": "650",
+    "rarity": "8",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Forgery_Tools",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Forgery_Tools&format=json"
+  },
+  {
+    "name": "Holographic Disguise Matrix",
+    "encumbrance": 1,
+    "price": "10000",
+    "rarity": "9",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Holographic_Disguise_Matrix",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Holographic_Disguise_Matrix&format=json"
+  },
+  {
+    "name": "Holographic Image Disguiser",
+    "encumbrance": 2,
+    "price": "1100",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Holographic_Image_Disguiser",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Holographic_Image_Disguiser&format=json"
+  },
+  {
+    "name": "Lockpicking Tools",
+    "encumbrance": 1,
+    "price": "50",
+    "rarity": "8",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Lockpicking_Tools",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Lockpicking_Tools&format=json"
+  },
+  {
+    "name": "Personal Stealth Field",
+    "encumbrance": 1,
+    "price": "20000",
+    "rarity": "9",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Personal_Stealth_Field",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Personal_Stealth_Field&format=json"
+  },
+  {
+    "name": "Scramble Key",
+    "encumbrance": 1,
+    "price": "750",
+    "rarity": "4",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Scramble_Key",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Scramble_Key&format=json"
+  },
+  {
+    "name": "Shadowcloak",
+    "encumbrance": 2,
+    "price": "2500",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Shadowcloak",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Shadowcloak&format=json"
+  },
+  {
+    "name": "Signature Modulation Pad",
+    "encumbrance": 2,
+    "price": "250",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Signature_Modulation_Pad",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Signature_Modulation_Pad&format=json"
+  },
+  {
+    "name": "Slicer Gear",
+    "encumbrance": 2,
+    "price": "500",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Slicer_Gear",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Slicer_Gear&format=json"
+  },
+  {
+    "name": "Antidote Set",
+    "encumbrance": 1,
+    "price": "250",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Antidote_Set",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Antidote_Set&format=json"
+  },
+  {
+    "name": "Antishock Blanket",
+    "encumbrance": 2,
+    "price": "250",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Antishock_Blanket",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Antishock_Blanket&format=json"
+  },
+  {
+    "name": "Military Medpac (Untrained/Emergency)",
+    "encumbrance": 2,
+    "price": "400",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Athakam_Medtech_Military_Medpac_(Untrained/Emergency)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Athakam_Medtech_Military_Medpac_(Untrained%2FEmergency)&format=json"
+  },
+  {
+    "name": "Bacta (litre)",
+    "encumbrance": 1,
+    "price": "20",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bacta",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bacta&format=json"
+  },
+  {
+    "name": "Bacta (tank)",
+    "encumbrance": 12,
+    "price": "4000",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bacta",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bacta&format=json"
+  },
+  {
+    "name": "Bioscan",
+    "encumbrance": 1,
+    "price": "5000",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bioscan_(Xeno-medicine)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bioscan_(Xeno-medicine)&format=json"
+  },
+  {
+    "name": "Blood Scanner",
+    "encumbrance": 1,
+    "price": "400",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Blood_Scanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Blood_Scanner&format=json"
+  },
+  {
+    "name": "Calming Salve",
+    "encumbrance": 0,
+    "price": "25",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Calming_Salve",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Calming_Salve&format=json"
+  },
+  {
+    "name": "ECM-598 Medical Backpack",
+    "encumbrance": 2,
+    "price": "450",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/CAPC_ECM-598_Medical_Backpack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=CAPC_ECM-598_Medical_Backpack&format=json"
+  },
+  {
+    "name": "Cerebral Stabilizer",
+    "encumbrance": 3,
+    "price": "2200",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cerebral_Stabilizer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cerebral_Stabilizer&format=json"
+  },
+  {
+    "name": "Emergency Medpac",
+    "encumbrance": 1,
+    "price": "100",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Emergency_Medpac",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Emergency_Medpac&format=json"
+  },
+  {
+    "name": "Healer's Kit",
+    "encumbrance": 2,
+    "price": "-",
+    "rarity": "-",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Healer%27s_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Healer%2527s_Kit&format=json"
+  },
+  {
+    "name": "Medpac",
+    "encumbrance": 2,
+    "price": "400",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Medpac",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Medpac&format=json"
+  },
+  {
+    "name": "Med–Aid Patch",
+    "encumbrance": 1,
+    "price": "20",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Med%E2%80%93Aid_Patch",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Med%25E2%2580%2593Aid_Patch&format=json"
+  },
+  {
+    "name": "Military Traumapac",
+    "encumbrance": 1,
+    "price": "50",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Military_Traumapac",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Military_Traumapac&format=json"
+  },
+  {
+    "name": "Nullicaine",
+    "encumbrance": 0,
+    "price": "25",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Nullicaine",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Nullicaine&format=json"
+  },
+  {
+    "name": "Physician's Kit",
+    "encumbrance": 2,
+    "price": "400",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Physician%27s_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Physician%2527s_Kit&format=json"
+  },
+  {
+    "name": "Plasma Protein Replicator",
+    "encumbrance": 3,
+    "price": "5500",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Plasma_Protein_Replicator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Plasma_Protein_Replicator&format=json"
+  },
+  {
+    "name": "Spray Plasto-Cast",
+    "encumbrance": 1,
+    "price": "35",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Spray_Plasto-Cast",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Spray_Plasto-Cast&format=json"
+  },
+  {
+    "name": "Stimpack",
+    "encumbrance": 0,
+    "price": "25",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Stimpack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Stimpack&format=json"
+  },
+  {
+    "name": "Stimstick (GaG)",
+    "encumbrance": 0,
+    "price": "10",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Stimstick",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Stimstick&format=json"
+  },
+  {
+    "name": "Stimstick (FiB)",
+    "encumbrance": 0,
+    "price": "5",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Stimstick",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Stimstick&format=json"
+  },
+  {
+    "name": "Synthskin/Synthflesh",
+    "encumbrance": 0,
+    "price": "10",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Synthskin/Synthflesh",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Synthskin%2FSynthflesh&format=json"
+  },
+  {
+    "name": "XV-20 Portable Veterinary Kit",
+    "encumbrance": 2,
+    "price": "500",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/XV-20_Portable_Veterinary_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=XV-20_Portable_Veterinary_Kit&format=json"
+  },
+  {
+    "name": "XV–38 Portable Large Veterinary Kit",
+    "encumbrance": 3,
+    "price": "600",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/XV%E2%80%9338_Portable_Large_Veterinary_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=XV%25E2%2580%259338_Portable_Large_Veterinary_Kit&format=json"
+  },
+  {
+    "name": "Dai Bendu Holocron",
+    "encumbrance": 1,
+    "price": "125000",
+    "rarity": "10",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Dai_Bendu_Holocron",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dai_Bendu_Holocron&format=json"
+  },
+  {
+    "name": "Demon Mask",
+    "encumbrance": 1,
+    "price": "4000",
+    "rarity": "10",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Demon_Mask",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Demon_Mask&format=json"
+  },
+  {
+    "name": "Dolina Ring Seeds",
+    "encumbrance": 0,
+    "price": "18000",
+    "rarity": "10",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Dolina_Ring_Seeds",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dolina_Ring_Seeds&format=json"
+  },
+  {
+    "name": "Holocron",
+    "encumbrance": 1,
+    "price": "100000",
+    "rarity": "10",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Holocron",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Holocron&format=json"
+  },
+  {
+    "name": "Lasan Chronicles of the Three",
+    "encumbrance": 0,
+    "price": "3000",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Lasan_Chronicles_of_the_Three",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Lasan_Chronicles_of_the_Three&format=json"
+  },
+  {
+    "name": "Master Lodaka's Lightsaber",
+    "encumbrance": 0,
+    "price": "20000",
+    "rarity": "10",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Master_Lodaka%27s_Lightsaber",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Master_Lodaka%2527s_Lightsaber&format=json"
+  },
+  {
+    "name": "Meditation Focus",
+    "encumbrance": 1,
+    "price": "4000",
+    "rarity": "10",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Meditation_Focus",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Meditation_Focus&format=json"
+  },
+  {
+    "name": "Talisman of Iron Fists",
+    "encumbrance": 1,
+    "price": "8000",
+    "rarity": "10",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Talisman_of_Iron_Fists",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Talisman_of_Iron_Fists&format=json"
+  },
+  {
+    "name": "Taradon's Helm",
+    "encumbrance": 0,
+    "price": "11000",
+    "rarity": "10",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Taradon%27s_Helm",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Taradon%2527s_Helm&format=json"
+  },
+  {
+    "name": "Tear of the Elders",
+    "encumbrance": 0,
+    "price": "7500",
+    "rarity": "9",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Tear_of_the_Elders",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tear_of_the_Elders&format=json"
+  },
+  {
+    "name": "Bardottan Sphere",
+    "encumbrance": 0,
+    "price": "50000",
+    "rarity": "10",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/The_Bardottan_Sphere",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=The_Bardottan_Sphere&format=json"
+  },
+  {
+    "name": "Crown of Verity",
+    "encumbrance": 0,
+    "price": "6000",
+    "rarity": "9",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/The_Crown_of_Verity",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=The_Crown_of_Verity&format=json"
+  },
+  {
+    "name": "Dram of Orphne",
+    "encumbrance": 0,
+    "price": "9000",
+    "rarity": "8",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/The_Dram_of_Orphne",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=The_Dram_of_Orphne&format=json"
+  },
+  {
+    "name": "Eyes of Laqasa",
+    "encumbrance": 0,
+    "price": "2000",
+    "rarity": "10",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/The_Eyes_of_Laqasa",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=The_Eyes_of_Laqasa&format=json"
+  },
+  {
+    "name": "Grimoire of Syclos the Lame",
+    "encumbrance": 0,
+    "price": "4000",
+    "rarity": "10",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/The_Grimoire_of_Syclos_the_Lame",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=The_Grimoire_of_Syclos_the_Lame&format=json"
+  },
+  {
+    "name": "Herder's Gauntlets",
+    "encumbrance": 0,
+    "price": "8000",
+    "rarity": "9",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/The_Herder%27s_Gauntlets",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=The_Herder%2527s_Gauntlets&format=json"
+  },
+  {
+    "name": "Thisspiasian Puzzle Rings",
+    "encumbrance": 1,
+    "price": "500",
+    "rarity": "8",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Thisspiasian_Puzzle_Rings",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Thisspiasian_Puzzle_Rings&format=json"
+  },
+  {
+    "name": "Vision Cubes",
+    "encumbrance": 0,
+    "price": "1000",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Vision_Cubes",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Vision_Cubes&format=json"
+  },
+  {
+    "name": "Vurk Meditation Orb",
+    "encumbrance": 2,
+    "price": "1000",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Vurk_Meditation_Orb",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Vurk_Meditation_Orb&format=json"
+  },
+  {
+    "name": "\"Knack\" Restraining Bolt",
+    "encumbrance": 0,
+    "price": "750",
+    "rarity": "8",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/%22Knack%22_Restraining_Bolt",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=%2522Knack%2522_Restraining_Bolt&format=json"
+  },
+  {
+    "name": "AL-DR8 Grav-Binders",
+    "encumbrance": 1,
+    "price": "300",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/AL-DR8_Grav-Binders",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=AL-DR8_Grav-Binders&format=json"
+  },
+  {
+    "name": "Binders (GaG, AoR, EotE)",
+    "encumbrance": 0,
+    "price": "25",
+    "rarity": "0",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Binders",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Binders&format=json"
+  },
+  {
+    "name": "Binders (FaD)",
+    "encumbrance": 2,
+    "price": "25",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Binders",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Binders&format=json"
+  },
+  {
+    "name": "Comm Jammer",
+    "encumbrance": 4,
+    "price": "400",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Comm_Jammer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Comm_Jammer&format=json"
+  },
+  {
+    "name": "A-212 Tracing Console",
+    "encumbrance": 12,
+    "price": "3000",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ealewon_A-212_Tracing_Console",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ealewon_A-212_Tracing_Console&format=json"
+  },
+  {
+    "name": "Explosive Shackles",
+    "encumbrance": 2,
+    "price": "500",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Explosive_Shackles",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Explosive_Shackles&format=json"
+  },
+  {
+    "name": "Gravity Lock",
+    "encumbrance": 14,
+    "price": "7400",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gravity_Lock",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gravity_Lock&format=json"
+  },
+  {
+    "name": "Magna-Lock Safe",
+    "encumbrance": 12,
+    "price": "1000",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Magna-Lock_Safe",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Magna-Lock_Safe&format=json"
+  },
+  {
+    "name": "MCI–100 Magnacuffs",
+    "encumbrance": 1,
+    "price": "100",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/MCI%E2%80%93100_Magnacuffs",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=MCI%25E2%2580%2593100_Magnacuffs&format=json"
+  },
+  {
+    "name": "Repulsor Trap",
+    "encumbrance": 7,
+    "price": "5000",
+    "rarity": "9",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Repulsor_Trap",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Repulsor_Trap&format=json"
+  },
+  {
+    "name": "Restraining Bolt",
+    "encumbrance": 0,
+    "price": "35",
+    "rarity": "0",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Restraining_Bolt",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Restraining_Bolt&format=json"
+  },
+  {
+    "name": "Security Collar",
+    "encumbrance": 1,
+    "price": "300",
+    "rarity": "5",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Security_Collar",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Security_Collar&format=json"
+  },
+  {
+    "name": "Security Sweeper",
+    "encumbrance": 1,
+    "price": "400",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Security_Sweeper",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Security_Sweeper&format=json"
+  },
+  {
+    "name": "Shift Coffer",
+    "encumbrance": 5,
+    "price": "2500",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Shift_Coffer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Shift_Coffer&format=json"
+  },
+  {
+    "name": "Sleight Box",
+    "encumbrance": 2,
+    "price": "400",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sleight_Box",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sleight_Box&format=json"
+  },
+  {
+    "name": "Sound Dampener",
+    "encumbrance": 2,
+    "price": "600",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sound_Dampener",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sound_Dampener&format=json"
+  },
+  {
+    "name": "Stun Collar",
+    "encumbrance": 2,
+    "price": "800",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Stun_Collar",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Stun_Collar&format=json"
+  },
+  {
+    "name": "Stuncuffs",
+    "encumbrance": 0,
+    "price": "100",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Stuncuffs",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Stuncuffs&format=json"
+  },
+  {
+    "name": "Privacy-7 Audio Curtain",
+    "encumbrance": 4,
+    "price": "500",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/TaggeCo_Privacy-7_Audio_Curtain",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=TaggeCo_Privacy-7_Audio_Curtain&format=json"
+  },
+  {
+    "name": "Vid–Vox Scrambler",
+    "encumbrance": 2,
+    "price": "2400",
+    "rarity": "8",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Vid%E2%80%93Vox_Scrambler",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Vid%25E2%2580%2593Vox_Scrambler&format=json"
+  },
+  {
+    "name": "A99 Aquata Breather",
+    "encumbrance": 0,
+    "price": "100",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/A99_Aquata_Breather",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=A99_Aquata_Breather&format=json"
+  },
+  {
+    "name": "A99 Custom Biome Generator",
+    "encumbrance": 45,
+    "price": "9000",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/A99_Custom_Biome_Generator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=A99_Custom_Biome_Generator&format=json"
+  },
+  {
+    "name": "Aquasuit",
+    "encumbrance": 3,
+    "price": "250",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Aquasuit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Aquasuit&format=json"
+  },
+  {
+    "name": "Beast Call",
+    "encumbrance": 1,
+    "price": "100",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Beast_Call",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Beast_Call&format=json"
+  },
+  {
+    "name": "Beastmaster Chem Lure",
+    "encumbrance": 1,
+    "price": "125",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Beastmaster_Chem_Lure",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Beastmaster_Chem_Lure&format=json"
+  },
+  {
+    "name": "Breath Mask and Respirator",
+    "encumbrance": 1,
+    "price": "25",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Breath_Mask_and_Respirator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Breath_Mask_and_Respirator&format=json"
+  },
+  {
+    "name": "Camouflage Netting (one roll)",
+    "encumbrance": 4,
+    "price": "100",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Camouflage_Netting",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Camouflage_Netting&format=json"
+  },
+  {
+    "name": "Climbing Gear",
+    "encumbrance": 1,
+    "price": "50",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Climbing_Gear",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Climbing_Gear&format=json"
+  },
+  {
+    "name": "Condenser Unit",
+    "encumbrance": 2,
+    "price": "300",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Condenser_Unit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Condenser_Unit&format=json"
+  },
+  {
+    "name": "Crash Survival Kit",
+    "encumbrance": 5,
+    "price": "300",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Crash_Survival_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Crash_Survival_Kit&format=json"
+  },
+  {
+    "name": "CX–2000 Holographic Ghillie Suit",
+    "encumbrance": 1,
+    "price": "800",
+    "rarity": "8",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/CX%E2%80%932000_Holographic_Ghillie_Suit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=CX%25E2%2580%25932000_Holographic_Ghillie_Suit&format=json"
+  },
+  {
+    "name": "BC-7 Environmental Cocoon",
+    "encumbrance": 3,
+    "price": "2000",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Czerka_BC-7_Environmental_Cocoon",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Czerka_BC-7_Environmental_Cocoon&format=json"
+  },
+  {
+    "name": "Syntherope (20 meters)",
+    "encumbrance": 1,
+    "price": "5",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Degan_Explorations_Syntherope",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Degan_Explorations_Syntherope&format=json"
+  },
+  {
+    "name": "Disaster Relief Kit",
+    "encumbrance": 2,
+    "price": "250",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Disaster_Relief_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Disaster_Relief_Kit&format=json"
+  },
+  {
+    "name": "Electro-Snare",
+    "encumbrance": 1,
+    "price": "50",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Electro-Snare",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Electro-Snare&format=json"
+  },
+  {
+    "name": "Elysium Model 2 Atmospheric Processor",
+    "encumbrance": 10000,
+    "price": "4500000",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Elysium_Model_2_Atmospheric_Processor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Elysium_Model_2_Atmospheric_Processor&format=json"
+  },
+  {
+    "name": "Entrenching Tool",
+    "encumbrance": 1,
+    "price": "20",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Entrenching_Tool",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Entrenching_Tool&format=json"
+  },
+  {
+    "name": "EVA Powersuit",
+    "encumbrance": 12,
+    "price": "1500",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/EVA_Powersuit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=EVA_Powersuit&format=json"
+  },
+  {
+    "name": "CN-15 Camouflage Netting (one roll)",
+    "encumbrance": 4,
+    "price": "100",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Fabritech_CN-15_Camouflage_Netting",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fabritech_CN-15_Camouflage_Netting&format=json"
+  },
+  {
+    "name": "CN-21 Camouflage Paint",
+    "encumbrance": 0,
+    "price": "40",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Fabritech_CN-21_Camouflage_Paint",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fabritech_CN-21_Camouflage_Paint&format=json"
+  },
+  {
+    "name": "FasClean Atmospheric Reactive Damper",
+    "encumbrance": 300,
+    "price": "200000",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/FasClean_Atmospheric_Reactive_Damper",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=FasClean_Atmospheric_Reactive_Damper&format=json"
+  },
+  {
+    "name": "Field Ration Pack",
+    "encumbrance": 0,
+    "price": "5",
+    "rarity": "0",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Field_Ration_Pack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Field_Ration_Pack&format=json"
+  },
+  {
+    "name": "Fire Paste (GaG)",
+    "encumbrance": 3,
+    "price": "500",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Fire_Paste",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fire_Paste&format=json"
+  },
+  {
+    "name": "Fire Paste (DC)",
+    "encumbrance": 0,
+    "price": "3",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Fire_Paste",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fire_Paste&format=json"
+  },
+  {
+    "name": "Food Preparation System",
+    "encumbrance": 3,
+    "price": "20",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Food_Preparation_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Food_Preparation_System&format=json"
+  },
+  {
+    "name": "Fusion Lantern",
+    "encumbrance": 2,
+    "price": "150",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Fusion_Lantern",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fusion_Lantern&format=json"
+  },
+  {
+    "name": "Scout 5 Field Goggles",
+    "encumbrance": 0,
+    "price": "5",
+    "rarity": "0",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gandorthral_Atmospherics_Scout_5_Field_Goggles",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gandorthral_Atmospherics_Scout_5_Field_Goggles&format=json"
+  },
+  {
+    "name": "Portable Survival Shelter",
+    "encumbrance": 2,
+    "price": "200",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gandorthral_Portable_Survival_Shelter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gandorthral_Portable_Survival_Shelter&format=json"
+  },
+  {
+    "name": "Glow Rod",
+    "encumbrance": 1,
+    "price": "10",
+    "rarity": "0",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Glow_Rod",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Glow_Rod&format=json"
+  },
+  {
+    "name": "GX-8 Water Vaporator",
+    "encumbrance": 12,
+    "price": "2000",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/GX-8_Water_Vaporator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=GX-8_Water_Vaporator&format=json"
+  },
+  {
+    "name": "Imperial Army Canteen",
+    "encumbrance": 1,
+    "price": "7",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Imperial_Army_Canteen",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Imperial_Army_Canteen&format=json"
+  },
+  {
+    "name": "Imperial Army Field Rations",
+    "encumbrance": 0,
+    "price": "10",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Imperial_Army_Field_Rations",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Imperial_Army_Field_Rations&format=json"
+  },
+  {
+    "name": "InstaMist Generator",
+    "encumbrance": 5,
+    "price": "150",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/InstaMist_Generator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=InstaMist_Generator&format=json"
+  },
+  {
+    "name": "Jedi Utility Belt (RotS)",
+    "encumbrance": 0,
+    "price": "800",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Jedi_Utility_Belt",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jedi_Utility_Belt&format=json"
+  },
+  {
+    "name": "Jedi Utility Belt (KtP)",
+    "encumbrance": 0,
+    "price": "1000",
+    "rarity": "8",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Jedi_Utility_Belt",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jedi_Utility_Belt&format=json"
+  },
+  {
+    "name": "Kamperdine Clothing Specialists Body Glove",
+    "encumbrance": 2,
+    "price": "700",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Kamperdine_Clothing_Specialists_Body_Glove",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Kamperdine_Clothing_Specialists_Body_Glove&format=json"
+  },
+  {
+    "name": "Luma Flare",
+    "encumbrance": 1,
+    "price": "50",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Luma_Flare",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Luma_Flare&format=json"
+  },
+  {
+    "name": "Mon Calamari Organic Gill",
+    "encumbrance": 1,
+    "price": "200",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mon_Calamari_Organic_Gill",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mon_Calamari_Organic_Gill&format=json"
+  },
+  {
+    "name": "Personal Transponder",
+    "encumbrance": 0,
+    "price": "100",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Personal_Transponder",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Personal_Transponder&format=json"
+  },
+  {
+    "name": "Portable Electric Perimeter Fence",
+    "encumbrance": 6,
+    "price": "800",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Portable_Electric_Perimeter_Fence",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Portable_Electric_Perimeter_Fence&format=json"
+  },
+  {
+    "name": "Portable Power Generator",
+    "encumbrance": 10,
+    "price": "500",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Portable_Power_Generator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Portable_Power_Generator&format=json"
+  },
+  {
+    "name": "Portable Shelter",
+    "encumbrance": 2,
+    "price": "200",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Portable_Shelter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Portable_Shelter&format=json"
+  },
+  {
+    "name": "WPR-60",
+    "encumbrance": 4,
+    "price": "100",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pretormin_Environmental_WPR-60",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pretormin_Environmental_WPR-60&format=json"
+  },
+  {
+    "name": "Plastent",
+    "encumbrance": 3,
+    "price": "300",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pretormin_Plastent",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pretormin_Plastent&format=json"
+  },
+  {
+    "name": "Riding Tack",
+    "encumbrance": 3,
+    "price": "100",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Riding_Tack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Riding_Tack&format=json"
+  },
+  {
+    "name": "Tauntaun Pup Tent",
+    "encumbrance": 3,
+    "price": "30",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Rim_Excursions_Inc._Tauntaun_Pup_Tent",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Rim_Excursions_Inc._Tauntaun_Pup_Tent&format=json"
+  },
+  {
+    "name": "PED-21 Distress Beacon",
+    "encumbrance": 0,
+    "price": "50",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Saladar_Systems_PED-21_Distress_Beacon",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Saladar_Systems_PED-21_Distress_Beacon&format=json"
+  },
+  {
+    "name": "Spacesuit",
+    "encumbrance": 4,
+    "price": "100",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Spacesuit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Spacesuit&format=json"
+  },
+  {
+    "name": "\"Survivalist\" Mess Kit",
+    "encumbrance": 0,
+    "price": "10",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Survival_Equipment_Inc._%22Survivalist%22_Mess_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Survival_Equipment_Inc._%2522Survivalist%2522_Mess_Kit&format=json"
+  },
+  {
+    "name": "Field Kitchen",
+    "encumbrance": 5,
+    "price": "500",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Survival_Equipment_Inc._Field_Kitchen",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Survival_Equipment_Inc._Field_Kitchen&format=json"
+  },
+  {
+    "name": "FlashFire Camp Stove",
+    "encumbrance": 2,
+    "price": "60",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Survival_Equipment_Inc._FlashFire_Camp_Stove",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Survival_Equipment_Inc._FlashFire_Camp_Stove&format=json"
+  },
+  {
+    "name": "Viscera Field Dressing Kit",
+    "encumbrance": 3,
+    "price": "300",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Survival_Equipment_Inc._Viscera_Field_Dressing_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Survival_Equipment_Inc._Viscera_Field_Dressing_Kit&format=json"
+  },
+  {
+    "name": "Tent",
+    "encumbrance": 4,
+    "price": "100",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Tent",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tent&format=json"
+  },
+  {
+    "name": "Thermal Cloak",
+    "encumbrance": 2,
+    "price": "200",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Thermal_Cloak",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Thermal_Cloak&format=json"
+  },
+  {
+    "name": "Water Purifier",
+    "encumbrance": 1,
+    "price": "50",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Water_Purifier",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Water_Purifier&format=json"
+  },
+  {
+    "name": "Wilderness Survival Kit",
+    "encumbrance": 5,
+    "price": "350",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Wilderness_Survival_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Wilderness_Survival_Kit&format=json"
+  },
+  {
+    "name": "XV-09 Chemical Restraint Harness",
+    "encumbrance": 2,
+    "price": "1200",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/XV-09_Chemical_Restraint_Harness",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=XV-09_Chemical_Restraint_Harness&format=json"
+  },
+  {
+    "name": "Adamite Signet Ring",
+    "encumbrance": 0,
+    "price": "500",
+    "rarity": "8",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Adamite_Signet_Ring",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Adamite_Signet_Ring&format=json"
+  },
+  {
+    "name": "BPEA-1A Cascader",
+    "encumbrance": 0,
+    "price": "1800",
+    "rarity": "8",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/BPEA-1A_Cascader",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=BPEA-1A_Cascader&format=json"
+  },
+  {
+    "name": "Dress Uniform",
+    "encumbrance": 1,
+    "price": "100",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Dress_Uniform",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dress_Uniform&format=json"
+  },
+  {
+    "name": "Expensive Jewelry",
+    "encumbrance": 0,
+    "price": "2000",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Expensive_Jewelry",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Expensive_Jewelry&format=json"
+  },
+  {
+    "name": "Poisoner's Ring",
+    "encumbrance": 0,
+    "price": "500",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Poisoner%27s_Ring",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Poisoner%2527s_Ring&format=json"
+  },
+  {
+    "name": "Republic Insignia (genuine)",
+    "encumbrance": 0,
+    "price": "Special",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Republic_Insignia",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Republic_Insignia&format=json"
+  },
+  {
+    "name": "Republic Insignia (replica)",
+    "encumbrance": 0,
+    "price": "100",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Republic_Insignia",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Republic_Insignia&format=json"
+  },
+  {
+    "name": "Republic Seal of Service",
+    "encumbrance": 0,
+    "price": "Special",
+    "rarity": "9",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Republic_Seal_of_Service",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Republic_Seal_of_Service&format=json"
+  },
+  {
+    "name": "Ribbon Rack",
+    "encumbrance": 0,
+    "price": "15",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ribbon_Rack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ribbon_Rack&format=json"
+  },
+  {
+    "name": "Signet Ring",
+    "encumbrance": 0,
+    "price": "750",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Signet_Ring",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Signet_Ring&format=json"
+  },
+  {
+    "name": "Symbol of Command",
+    "encumbrance": 1,
+    "price": "100",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Symbol_of_Command",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Symbol_of_Command&format=json"
+  },
+  {
+    "name": "\"Rider\" Ascension Pistol",
+    "encumbrance": 1,
+    "price": "275",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/%22Rider%22_Ascension_Pistol",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=%2522Rider%2522_Ascension_Pistol&format=json"
+  },
+  {
+    "name": "AG/1 Mk III Targeting Goggles",
+    "encumbrance": 1,
+    "price": "1000",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/AG/1_Mk_III_Targeting_Goggles",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=AG%2F1_Mk_III_Targeting_Goggles&format=json"
+  },
+  {
+    "name": "Anti–Grav Chute",
+    "encumbrance": 1,
+    "price": "450",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Anti%E2%80%93Grav_Chute",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Anti%25E2%2580%2593Grav_Chute&format=json"
+  },
+  {
+    "name": "Transliterator",
+    "encumbrance": 1,
+    "price": "1200",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Consolidated_Learning_Systems_Transliterator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Consolidated_Learning_Systems_Transliterator&format=json"
+  },
+  {
+    "name": "Thermal Cutter",
+    "encumbrance": 2,
+    "price": "125",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Copora-Tech_Thermal_Cutter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Copora-Tech_Thermal_Cutter&format=json"
+  },
+  {
+    "name": "Credit Cleaner",
+    "encumbrance": 12,
+    "price": "2500",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Credit_Cleaner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Credit_Cleaner&format=json"
+  },
+  {
+    "name": "Data Dead Drop",
+    "encumbrance": 0,
+    "price": "150",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Data_Dead_Drop",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Data_Dead_Drop&format=json"
+  },
+  {
+    "name": "Data Goggles",
+    "encumbrance": 1,
+    "price": "250",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Data_Goggles",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Data_Goggles&format=json"
+  },
+  {
+    "name": "Datapad",
+    "encumbrance": 1,
+    "price": "75",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Datapad",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Datapad&format=json"
+  },
+  {
+    "name": "DF-15 Medium-Yield Fusion Generator",
+    "encumbrance": 4,
+    "price": "550",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Draxton_DF-15_Medium-Yield_Fusion_Generator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Draxton_DF-15_Medium-Yield_Fusion_Generator&format=json"
+  },
+  {
+    "name": "Foot Speeder",
+    "encumbrance": 4,
+    "price": "2000",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Foot_Speeder",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Foot_Speeder&format=json"
+  },
+  {
+    "name": "Hologoggles",
+    "encumbrance": 1,
+    "price": "6000",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hologoggles",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hologoggles&format=json"
+  },
+  {
+    "name": "MDD-12 \"Mercantiler\" Datapad",
+    "encumbrance": 1,
+    "price": "250",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/MDD-12_%22Mercantiler%22_Datapad",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=MDD-12_%2522Mercantiler%2522_Datapad&format=json"
+  },
+  {
+    "name": "Mem-Stik",
+    "encumbrance": 0,
+    "price": "30",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mem-Stik",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mem-Stik&format=json"
+  },
+  {
+    "name": "Starmapper Handheld Navicomputer",
+    "encumbrance": 1,
+    "price": "3500",
+    "rarity": "8",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Microaxial_Starmapper_Handheld_Navicomputer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Microaxial_Starmapper_Handheld_Navicomputer&format=json"
+  },
+  {
+    "name": "MicroData P-2 Pocket Attaché",
+    "encumbrance": 1,
+    "price": "800",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/MicroData_P-2_Pocket_Attach%C3%A9",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=MicroData_P-2_Pocket_Attach%25C3%25A9&format=json"
+  },
+  {
+    "name": "Model 31 Palm Stunner",
+    "encumbrance": 1,
+    "price": "500",
+    "rarity": "5",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Model_31_Palm_Stunner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Model_31_Palm_Stunner&format=json"
+  },
+  {
+    "name": "Nano-droids",
+    "encumbrance": 0,
+    "price": "50000",
+    "rarity": "9",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Nano-droids",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Nano-droids&format=json"
+  },
+  {
+    "name": "Species Database",
+    "encumbrance": 2,
+    "price": "150",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Species_Database",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Species_Database&format=json"
+  },
+  {
+    "name": "Synoptic Teacher",
+    "encumbrance": 1,
+    "price": "8500",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Synoptic_Teacher",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Synoptic_Teacher&format=json"
+  },
+  {
+    "name": "Holo V Audio/Visual Translator",
+    "encumbrance": 1,
+    "price": "750",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/TranLang_Holo_V_Audio/Visual_Translator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=TranLang_Holo_V_Audio%2FVisual_Translator&format=json"
+  },
+  {
+    "name": "Urban Compass",
+    "encumbrance": 1,
+    "price": "125",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Urban_Compass",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Urban_Compass&format=json"
+  },
+  {
+    "name": "Verpine Headband",
+    "encumbrance": 1,
+    "price": "500",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Verpine_Headband",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Verpine_Headband&format=json"
+  },
+  {
+    "name": "Chance Cubes",
+    "encumbrance": 0,
+    "price": "1",
+    "rarity": "0",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Chance_Cubes",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Chance_Cubes&format=json"
+  },
+  {
+    "name": "Dejarik Table",
+    "encumbrance": 10,
+    "price": "350",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Dejarik_Table",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dejarik_Table&format=json"
+  },
+  {
+    "name": "Loaded Chance Cubes",
+    "encumbrance": 1,
+    "price": "100",
+    "rarity": "5",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Loaded_Chance_Cubes",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Loaded_Chance_Cubes&format=json"
+  },
+  {
+    "name": "Marked Sabacc Deck",
+    "encumbrance": 1,
+    "price": "500",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Marked_Sabacc_Deck",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Marked_Sabacc_Deck&format=json"
+  },
+  {
+    "name": "Musical Instruments (common)",
+    "encumbrance": 1,
+    "price": "50-100",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Musical_Instruments",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Musical_Instruments&format=json"
+  },
+  {
+    "name": "Musical Instruments (high quality)",
+    "encumbrance": 1,
+    "price": "500-1500",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Musical_Instruments",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Musical_Instruments&format=json"
+  },
+  {
+    "name": "Musical Instruments (legendary)",
+    "encumbrance": 1,
+    "price": "20000+",
+    "rarity": "10",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Musical_Instruments",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Musical_Instruments&format=json"
+  },
+  {
+    "name": "Sabacc Deck",
+    "encumbrance": 0,
+    "price": "40",
+    "rarity": "0",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sabacc_Deck",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sabacc_Deck&format=json"
+  },
+  {
+    "name": "Skifter",
+    "encumbrance": 0,
+    "price": "500",
+    "rarity": "6",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Skifter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Skifter&format=json"
+  },
+  {
+    "name": "Thunderhead Portable Entertainment System",
+    "encumbrance": 10,
+    "price": "2500",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Thunderhead_Portable_Entertainment_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Thunderhead_Portable_Entertainment_System&format=json"
+  },
+  {
+    "name": "\"Breaker\" Heavy Hydrospanner",
+    "encumbrance": 3,
+    "price": "250",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/%22Breaker%22_Heavy_Hydrospanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=%2522Breaker%2522_Heavy_Hydrospanner&format=json"
+  },
+  {
+    "name": "\"Quickflash\" Burning Gel",
+    "encumbrance": 1,
+    "price": "150",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/%22Quickflash%22_Burning_Gel",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=%2522Quickflash%2522_Burning_Gel&format=json"
+  },
+  {
+    "name": "Ardos Disk",
+    "encumbrance": 1,
+    "price": "10000",
+    "rarity": "5",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ardos_Disk",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ardos_Disk&format=json"
+  },
+  {
+    "name": "Foreman-series Owner's Workshop Manual",
+    "encumbrance": 1,
+    "price": "100",
+    "rarity": "vehicle rarity",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Chiles-Zraii_Foreman-series_Owner%27s_Workshop_Manual",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Chiles-Zraii_Foreman-series_Owner%2527s_Workshop_Manual&format=json"
+  },
+  {
+    "name": "Concealed Escape Kit",
+    "encumbrance": 0,
+    "price": "450",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Concealed_Escape_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Concealed_Escape_Kit&format=json"
+  },
+  {
+    "name": "Cultural Etiquette Manual",
+    "encumbrance": 0,
+    "price": "35",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cultural_Etiquette_Manual",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cultural_Etiquette_Manual&format=json"
+  },
+  {
+    "name": "Custom Tool Kit",
+    "encumbrance": 5,
+    "price": "700",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Custom_Tool_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Custom_Tool_Kit&format=json"
+  },
+  {
+    "name": "CZ-88 Heavy Loader Arm",
+    "encumbrance": 30,
+    "price": "1500",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/CZ-88_Heavy_Loader_Arm",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=CZ-88_Heavy_Loader_Arm&format=json"
+  },
+  {
+    "name": "Demolitions Tool Kit",
+    "encumbrance": 4,
+    "price": "400",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Demolitions_Tool_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Demolitions_Tool_Kit&format=json"
+  },
+  {
+    "name": "Destro-6 Demolition Charge",
+    "encumbrance": 1,
+    "price": "750",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Destro-6_Demolition_Charge",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Destro-6_Demolition_Charge&format=json"
+  },
+  {
+    "name": "Diplomatic Authorization (CotR)",
+    "encumbrance": 0,
+    "price": "10000",
+    "rarity": "5",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Diplomatic_Authorization",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Diplomatic_Authorization&format=json"
+  },
+  {
+    "name": "Diplomatic Authorization (DA)",
+    "encumbrance": 0,
+    "price": "10000",
+    "rarity": "8",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Diplomatic_Authorization",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Diplomatic_Authorization&format=json"
+  },
+  {
+    "name": "Emergency Repair Patch (GaG, AoR, EotE)",
+    "encumbrance": 0,
+    "price": "25",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Emergency_Repair_Patch",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Emergency_Repair_Patch&format=json"
+  },
+  {
+    "name": "Emergency Repair Patch (EV)",
+    "encumbrance": 1,
+    "price": "25",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Emergency_Repair_Patch",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Emergency_Repair_Patch&format=json"
+  },
+  {
+    "name": "Engineer's Hammer",
+    "encumbrance": 2,
+    "price": "350",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Engineer%27s_Hammer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Engineer%2527s_Hammer&format=json"
+  },
+  {
+    "name": "Explosive Ordnance Disposal (EOD) Kit",
+    "encumbrance": 4,
+    "price": "400",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Explosive_Ordnance_Disposal_(EOD)_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Explosive_Ordnance_Disposal_(EOD)_Kit&format=json"
+  },
+  {
+    "name": "Explosives Belt",
+    "encumbrance": 1,
+    "price": "450",
+    "rarity": "7",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Explosives_Belt",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Explosives_Belt&format=json"
+  },
+  {
+    "name": "Extra Reload",
+    "encumbrance": 1,
+    "price": "25",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Extra_Reload",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Extra_Reload&format=json"
+  },
+  {
+    "name": "Foamcast",
+    "encumbrance": 1,
+    "price": "25",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Foamcast",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Foamcast&format=json"
+  },
+  {
+    "name": "Fusion Cutter",
+    "encumbrance": 2,
+    "price": "175",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Fusion_Cutter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fusion_Cutter&format=json"
+  },
+  {
+    "name": "Garrote Chrono",
+    "encumbrance": 0,
+    "price": "100",
+    "rarity": "5",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Garrote_Chrono",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Garrote_Chrono&format=json"
+  },
+  {
+    "name": "Hand Grinder",
+    "encumbrance": 5,
+    "price": "500",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hand_Grinder",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hand_Grinder&format=json"
+  },
+  {
+    "name": "Hull Sealant Canisters",
+    "encumbrance": 1,
+    "price": "100",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hull_Sealant_Canisters",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hull_Sealant_Canisters&format=json"
+  },
+  {
+    "name": "Insider's Guide",
+    "encumbrance": 0,
+    "price": "25",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Insider%27s_Guide",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Insider%2527s_Guide&format=json"
+  },
+  {
+    "name": "Ion Thruster Gun",
+    "encumbrance": 8,
+    "price": "300",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ion_Thruster_Gun",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ion_Thruster_Gun&format=json"
+  },
+  {
+    "name": "Jet Pack",
+    "encumbrance": 2,
+    "price": "4500",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Jet_Pack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jet_Pack&format=json"
+  },
+  {
+    "name": "JT-12C Jetpack",
+    "encumbrance": 2,
+    "price": "4750",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/JT-12C_Jetpack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=JT-12C_Jetpack&format=json"
+  },
+  {
+    "name": "Lightsaber Maintenance Kit / Jedi Multi-Tool (GaG, KtP)",
+    "encumbrance": 2,
+    "price": "700",
+    "rarity": "9",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Lightsaber_Maintenance_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Lightsaber_Maintenance_Kit&format=json"
+  },
+  {
+    "name": "Lightsaber Maintenance Kit / Jedi Multi-Tool (RotS)",
+    "encumbrance": 2,
+    "price": "400",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Lightsaber_Maintenance_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Lightsaber_Maintenance_Kit&format=json"
+  },
+  {
+    "name": "Excavator Precision Tool Kit",
+    "encumbrance": 5,
+    "price": "500",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Loronar_Corporation_Excavator_Precision_Tool_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Loronar_Corporation_Excavator_Precision_Tool_Kit&format=json"
+  },
+  {
+    "name": "Mechanical Dianoga",
+    "encumbrance": 4,
+    "price": "225",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mechanical_Dianoga",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mechanical_Dianoga&format=json"
+  },
+  {
+    "name": "Military Field Manual",
+    "encumbrance": 1,
+    "price": "25",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Military_Field_Manual",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Military_Field_Manual&format=json"
+  },
+  {
+    "name": "Model 40 Field Repulsor Hoist (set of 6)",
+    "encumbrance": 3,
+    "price": "550",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Model_40_Field_Repulsor_Hoist",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Model_40_Field_Repulsor_Hoist&format=json"
+  },
+  {
+    "name": "Multi-Goo Gun",
+    "encumbrance": 2,
+    "price": "250",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Multi-Goo_Gun",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Multi-Goo_Gun&format=json"
+  },
+  {
+    "name": "OR-Series Tech Recycling Station",
+    "encumbrance": 10,
+    "price": "1500",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/OR-Series_Tech_Recycling_Station",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=OR-Series_Tech_Recycling_Station&format=json"
+  },
+  {
+    "name": "Signature Scent Synthesizer",
+    "encumbrance": 1,
+    "price": "1500",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Paradour_Enterprises_Signature_Scent_Synthesizer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Paradour_Enterprises_Signature_Scent_Synthesizer&format=json"
+  },
+  {
+    "name": "Pioneer Squad Tool Kit",
+    "encumbrance": 25,
+    "price": "4000",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pioneer_Squad_Tool_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pioneer_Squad_Tool_Kit&format=json"
+  },
+  {
+    "name": "Powered Entrenching Tool",
+    "encumbrance": 5,
+    "price": "625",
+    "rarity": "4",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Powered_Entrenching_Tool",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Powered_Entrenching_Tool&format=json"
+  },
+  {
+    "name": "R82 Jump Boots",
+    "encumbrance": 2,
+    "price": "2000",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/R82_Jump_Boots",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=R82_Jump_Boots&format=json"
+  },
+  {
+    "name": "Repulsor Assist Unit",
+    "encumbrance": 1,
+    "price": "620",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Repulsor_Assist_Unit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Repulsor_Assist_Unit&format=json"
+  },
+  {
+    "name": "Repulsor Clamp",
+    "encumbrance": 3,
+    "price": "250",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Repulsor_Clamp",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Repulsor_Clamp&format=json"
+  },
+  {
+    "name": "Repulsor Gun",
+    "encumbrance": 5,
+    "price": "200",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Repulsor_Gun",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Repulsor_Gun&format=json"
+  },
+  {
+    "name": "Rivet Gun",
+    "encumbrance": 4,
+    "price": "900",
+    "rarity": "1",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Rivet_Gun",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Rivet_Gun&format=json"
+  },
+  {
+    "name": "Rocket Boots",
+    "encumbrance": 2,
+    "price": "2500",
+    "rarity": "8",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Rocket_Boots",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Rocket_Boots&format=json"
+  },
+  {
+    "name": "Saline Pump",
+    "encumbrance": 1,
+    "price": "2500",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Saline_Pump",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Saline_Pump&format=json"
+  },
+  {
+    "name": "Slicewire",
+    "encumbrance": 1,
+    "price": "200",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Slicewire",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Slicewire&format=json"
+  },
+  {
+    "name": "Surveyor's Tool",
+    "encumbrance": 6,
+    "price": "500",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Surveyor%27s_Tools",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Surveyor%2527s_Tools&format=json"
+  },
+  {
+    "name": "Tool Belt",
+    "encumbrance": 3,
+    "price": "500",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Tool_Belt",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tool_Belt&format=json"
+  },
+  {
+    "name": "Tool Kit",
+    "encumbrance": 4,
+    "price": "350",
+    "rarity": "2",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Tool_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tool_Kit&format=json"
+  },
+  {
+    "name": "Training Weights",
+    "encumbrance": 3,
+    "price": "100",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Training_Weights",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Training_Weights&format=json"
+  },
+  {
+    "name": "Vergence Starchart",
+    "encumbrance": 0,
+    "price": "1000",
+    "rarity": "10",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Vergence_Starchart",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Vergence_Starchart&format=json"
+  },
+  {
+    "name": "Verpine Bond Gauntlets",
+    "encumbrance": 1,
+    "price": "250",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Verpine_Bond_Gauntlets",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Verpine_Bond_Gauntlets&format=json"
+  },
+  {
+    "name": "Vibro-Pickaxe",
+    "encumbrance": 5,
+    "price": "650",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Vibro-Pickaxe",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Vibro-Pickaxe&format=json"
+  },
+  {
+    "name": "VX–A Intelligent Toolbox",
+    "encumbrance": 3,
+    "price": "2500",
+    "rarity": "8",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/VX%E2%80%93A_Intelligent_Toolbox",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=VX%25E2%2580%2593A_Intelligent_Toolbox&format=json"
+  },
+  {
+    "name": "Weapon Maintenance Kit",
+    "encumbrance": 2,
+    "price": "450",
+    "rarity": "3",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Weapon_Maintenance_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Weapon_Maintenance_Kit&format=json"
+  },
+  {
+    "name": "Welding Rod",
+    "encumbrance": 4,
+    "price": "1750",
+    "rarity": "5",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Welding_Rod",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Welding_Rod&format=json"
+  },
+  {
+    "name": "WJ-880 Blinding Helmet",
+    "encumbrance": 3,
+    "price": "10",
+    "rarity": "8",
+    "restricted": true,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/WJ-880_Blinding_Helmet",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=WJ-880_Blinding_Helmet&format=json"
+  },
+  {
+    "name": "X5R Heavy Demolitions Kit",
+    "encumbrance": 4,
+    "price": "1000",
+    "rarity": "6",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/X5R_Heavy_Demolitions_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=X5R_Heavy_Demolitions_Kit&format=json"
+  },
+  {
+    "name": "Z-6 Jetpack",
+    "encumbrance": 3,
+    "price": "5250",
+    "rarity": "7",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Z-6_Jetpack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Z-6_Jetpack&format=json"
+  },
+  {
+    "name": "Lando Calrissian's Cape Armoire",
+    "encumbrance": 10,
+    "price": "10000",
+    "rarity": "10",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Lando_Calrissian%27s_Cape_Armoire",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Lando_Calrissian%2527s_Cape_Armoire&format=json"
+  },
+  {
+    "name": "Leia Organa's Diplomatic Wardrobe",
+    "encumbrance": 10,
+    "price": "24000",
+    "rarity": "10",
+    "restricted": false,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Leia_Organa%27s_Diplomatic_Wardrobe",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Leia_Organa%2527s_Diplomatic_Wardrobe&format=json"
+  }
+]

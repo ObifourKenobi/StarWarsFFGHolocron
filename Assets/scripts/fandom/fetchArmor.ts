@@ -7,7 +7,7 @@ interface ArmorItem {
 	soak: number;
 	hardPoints: number;
 	encumbrance: number;
-	restricted: string;
+	restricted: boolean;
 	price: string;
 	rarity: string;
 	sourceURL: string;
@@ -57,8 +57,8 @@ function toArmorItem(cells: Element[]): ArmorItem | null {
 		soak: toInteger(extractCellText(cells[2])),
 		hardPoints: toInteger(extractCellText(cells[3])),
 		encumbrance: toInteger(extractCellText(cells[4])),
-		restricted: extractCellText(cells[5]),
-		price: extractCellText(cells[6]),
+		restricted: extractCellText(cells[5]) === "(R)",
+		price: extractCellText(cells[6]).replace(/,/g, ""),
 		rarity: extractCellText(cells[7]),
 		sourceURL,
 		sourceAPIURL,
@@ -111,12 +111,14 @@ export async function fetchArmorData(): Promise<{
 	}
 
 	const items = Array.from(armorMap.values());
+	console.log(`Found ${items.length} armor`);
 
 	const outputDir = new URL("./list", import.meta.url).pathname;
 	await Deno.mkdir(outputDir, { recursive: true });
 
 	const outputFile = join(outputDir, "armor.json");
 	await Deno.writeTextFile(outputFile, JSON.stringify(items, null, 2));
+	console.log(`Saved ${items.length} armor to ${outputFile}`);
 
 	return { items, outputFile };
 }

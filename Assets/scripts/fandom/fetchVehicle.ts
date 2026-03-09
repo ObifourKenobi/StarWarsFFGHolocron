@@ -11,7 +11,7 @@ type VehicleItem = {
 	armor: string;
 	hullTrauma: number;
 	systemStrain: number;
-	restricted: string;
+	restricted: boolean;
 	price: string;
 	rarity: number;
 	sourceURL: string;
@@ -68,8 +68,8 @@ function toVehicleItem(cells: Element[]): VehicleItem | null {
 		armor: extractCellText(cells[5]),
 		hullTrauma: toInteger(extractCellText(cells[6])),
 		systemStrain: toInteger(extractCellText(cells[7])),
-		restricted: extractCellText(cells[8]),
-		price: extractCellText(cells[9]),
+		restricted: extractCellText(cells[8]) === "(R)",
+		price: extractCellText(cells[9]).replace(/,/g, ""),
 		rarity: toInteger(extractCellText(cells[10])),
 		sourceURL,
 		sourceAPIURL,
@@ -126,12 +126,14 @@ export async function fetchVehiclesData(): Promise<{ items: VehicleItem[]; outpu
 
 	const items = tables.flatMap((table) => parseTable(table));
 	const deduped = [...new Map(items.map((item) => [item.name, item])).values()];
+	console.log(`Found ${deduped.length} vehicles`);
 
 	const outputDir = join(dirname(fromFileUrl(import.meta.url)), "list");
 	await Deno.mkdir(outputDir, { recursive: true });
 	const outputFile = join(outputDir, OUTPUT_FILE_NAME);
 
 	await Deno.writeTextFile(outputFile, JSON.stringify(deduped, null, 2));
+	console.log(`Saved ${deduped.length} vehicles to ${outputFile}`);
 
 	return { items: deduped, outputFile };
 }

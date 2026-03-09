@@ -1,17 +1,29 @@
 import { fetchBooksData } from "./fetchBook.ts";
 import { fetchArmorData } from "./fetchArmor.ts";
+import { fetchAttachmentData } from "./fetchAttachment.ts";
+import { fetchGearData } from "./fetchGear.ts";
+import { fetchDroidData } from "./fetchDroid.ts";
+import { fetchBeastData } from "./fetchBeast.ts";
+import { saveCareers } from "./fetchCareers.ts";
 import { fetchSpeciesData } from "./fetchSpecies.ts";
 import { fetchVehiclesData } from "./fetchVehicle.ts";
 import { fetchShipsData } from "./fetchShip.ts";
+import { fetchWeaponData } from "./fetchWeapon.ts";
 
 type FetchResult = { outputFile: string };
 
 async function listAll(): Promise<void> {
 	await fetchBooksData();
 	await fetchArmorData();
+	await fetchAttachmentData();
+	await fetchGearData();
+	await fetchDroidData();
+	await fetchBeastData();
+	await saveCareers();
 	await fetchSpeciesData();
 	await fetchVehiclesData();
 	await fetchShipsData();
+	await fetchWeaponData();
 }
 
 function getArgValue(flag: string): string | undefined {
@@ -43,6 +55,21 @@ async function run(): Promise<void> {
 		case "armor":
 			result = await fetchArmorData();
 			break;
+		case "attachment":
+			result = await fetchAttachmentData();
+			break;
+		case "gear":
+			result = await fetchGearData();
+			break;
+		case "droid":
+			result = await fetchDroidData();
+			break;
+		case "beast":
+			result = await fetchBeastData();
+			break;
+		case "careers":
+			await saveCareers();
+			break;
 		case "species":
 			result = await fetchSpeciesData();
 			break;
@@ -52,9 +79,12 @@ async function run(): Promise<void> {
 		case "ships":
 			result = await fetchShipsData();
 			break;
+		case "weapons":
+			result = await fetchWeaponData();
+			break;
 		default:
 			console.error(
-				`Unsupported type: ${type}. Supported: books, armor, species, vehicles, ships.`,
+				`Unsupported type: ${type}. Supported: books, armor, attachment, gear, droid, beast, careers, species, vehicles, ships, weapons.`,
 			);
 			Deno.exit(1);
 	}

@@ -79,11 +79,13 @@ export async function fetchBooksData(): Promise<{ items: BookItem[]; outputFile:
 	}
 
 	const deduped = [...new Map(items.map((item) => [item.code_name, item])).values()];
+	console.log(`Found ${deduped.length} books`);
 
 	const outputDir = join(dirname(fromFileUrl(import.meta.url)), "list");
 	await Deno.mkdir(outputDir, { recursive: true });
 	const outputFile = join(outputDir, OUTPUT_FILE_NAME);
 	await Deno.writeTextFile(outputFile, JSON.stringify(deduped, null, 2));
+	console.log(`Saved ${deduped.length} books to ${outputFile}`);
 
 	return { items: deduped, outputFile };
 }

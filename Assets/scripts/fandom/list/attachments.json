@@ -1,0 +1,3242 @@
+[
+  {
+    "name": "Bantha's Eye Laser Sight",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/%22Bantha%27s_Eye%22_Laser_Sight",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=%2522Bantha%2527s_Eye%2522_Laser_Sight&format=json"
+  },
+  {
+    "name": "Amplifying Chamber",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "350",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Amplifying_Chamber",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Amplifying_Chamber&format=json"
+  },
+  {
+    "name": "Ascension Gun",
+    "hardPoints": 1,
+    "encumbrance": 1,
+    "restricted": false,
+    "price": "500",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ascension_Gun",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ascension_Gun&format=json"
+  },
+  {
+    "name": "Augmented Spin Barrel",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1750",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Augmented_Spin_Barrel",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Augmented_Spin_Barrel&format=json"
+  },
+  {
+    "name": "Augmented Vibro-motor",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Augmented_Vibro-motor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Augmented_Vibro-motor&format=json"
+  },
+  {
+    "name": "Balanced Hilt",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1500",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Balanced_Hilt",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Balanced_Hilt&format=json"
+  },
+  {
+    "name": "Bayonet",
+    "hardPoints": 1,
+    "encumbrance": 1,
+    "restricted": false,
+    "price": "50",
+    "rarity": "1",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bayonet",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bayonet&format=json"
+  },
+  {
+    "name": "Beam Splitter",
+    "hardPoints": 3,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "1250",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Beam_Splitter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Beam_Splitter&format=json"
+  },
+  {
+    "name": "Bipod Mount",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "100",
+    "rarity": "1",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bipod_Mount",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bipod_Mount&format=json"
+  },
+  {
+    "name": "Blaster Actuating Module",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Blaster_Actuating_Module",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Blaster_Actuating_Module&format=json"
+  },
+  {
+    "name": "Blaster Energy Dampener",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "750",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Blaster_Energy_Dampener",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Blaster_Energy_Dampener&format=json"
+  },
+  {
+    "name": "Blaster Suppressor (GaG, SoR, LoNH)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "750",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Blaster_Suppressor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Blaster_Suppressor&format=json"
+  },
+  {
+    "name": "Blaster Suppressor (SoR table entry)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "750",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Blaster_Suppressor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Blaster_Suppressor&format=json"
+  },
+  {
+    "name": "Bowcaster Accelerator Enhancement",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "250",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bowcaster_Accelerator_Enhancement",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bowcaster_Accelerator_Enhancement&format=json"
+  },
+  {
+    "name": "Bowcaster Automatic Re-cocker",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bowcaster_Automatic_Re-cocker",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bowcaster_Automatic_Re-cocker&format=json"
+  },
+  {
+    "name": "Built-in Blaster Sight",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "150",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Built-in_Blaster_Sight",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Built-in_Blaster_Sight&format=json"
+  },
+  {
+    "name": "Clone Firing Key",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "250",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Clone_Firing_Key",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Clone_Firing_Key&format=json"
+  },
+  {
+    "name": "Combat Tested",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "50",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Combat_Tested",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Combat_Tested&format=json"
+  },
+  {
+    "name": "Componentization (GaG)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "750",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Componentization",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Componentization&format=json"
+  },
+  {
+    "name": "Componentization (CaM)",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1150",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Componentization",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Componentization&format=json"
+  },
+  {
+    "name": "Cortosis Forging",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "8000",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cortosis_Forging",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cortosis_Forging&format=json"
+  },
+  {
+    "name": "Custom Grip",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Custom_Grip",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Custom_Grip&format=json"
+  },
+  {
+    "name": "Droid Brain Detonator",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1000",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Droid_Brain_Detonator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Droid_Brain_Detonator&format=json"
+  },
+  {
+    "name": "Droid Targeting System",
+    "hardPoints": 3,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "3200",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Droid_Targeting_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Droid_Targeting_System&format=json"
+  },
+  {
+    "name": "Electronic Sighting System",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Electronic_Sighting_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Electronic_Sighting_System&format=json"
+  },
+  {
+    "name": "Energy Overclock Setting",
+    "hardPoints": 3,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Energy_Overclock_Setting",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Energy_Overclock_Setting&format=json"
+  },
+  {
+    "name": "Enhanced XCiter",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "1500",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Enhanced_XCiter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Enhanced_XCiter&format=json"
+  },
+  {
+    "name": "Environmental Adaptation Kit",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "100",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Environmental_Adaptation_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Environmental_Adaptation_Kit&format=json"
+  },
+  {
+    "name": "Filed Front Sight",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "25",
+    "rarity": "0",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Filed_Front_Sight",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Filed_Front_Sight&format=json"
+  },
+  {
+    "name": "Force-Attuned Resonator",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "1000",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Force-Attuned_Resonator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Force-Attuned_Resonator&format=json"
+  },
+  {
+    "name": "Force-Attuned Resonator (table entry)",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "1000",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Force-Attuned_Resonator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Force-Attuned_Resonator&format=json"
+  },
+  {
+    "name": "Forearm Grip",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "250",
+    "rarity": "1",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Forearm_Grip",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Forearm_Grip&format=json"
+  },
+  {
+    "name": "Galven Pattern Resequencing",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1000",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Galven_Pattern_Resequencing",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Galven_Pattern_Resequencing&format=json"
+  },
+  {
+    "name": "Gene-Lock",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gene-Lock",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gene-Lock&format=json"
+  },
+  {
+    "name": "Grenade Cling",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "70",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Grenade_Cling",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Grenade_Cling&format=json"
+  },
+  {
+    "name": "Gunner Droid Brain",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "7000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gunner_Droid_Brain",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gunner_Droid_Brain&format=json"
+  },
+  {
+    "name": "Gyrostabilizer",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gyrostabilizer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gyrostabilizer&format=json"
+  },
+  {
+    "name": "Hair Trigger",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "250",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hair_Trigger",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hair_Trigger&format=json"
+  },
+  {
+    "name": "Hunting Barrel",
+    "hardPoints": 3,
+    "encumbrance": 1,
+    "restricted": true,
+    "price": "1200",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hunting_Barrel",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hunting_Barrel&format=json"
+  },
+  {
+    "name": "Insulated Firing Mechanisms",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1000",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Insulated_Firing_Mechanisms",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Insulated_Firing_Mechanisms&format=json"
+  },
+  {
+    "name": "Integrated Illuminator",
+    "hardPoints": 1,
+    "encumbrance": 1,
+    "restricted": false,
+    "price": "200",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Integrated_Illuminator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Integrated_Illuminator&format=json"
+  },
+  {
+    "name": "Integrated Scanner",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "675",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Integrated_Scanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Integrated_Scanner&format=json"
+  },
+  {
+    "name": "Ionizing Focusing Coils",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "800",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ionizing_Focusing_Coils",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ionizing_Focusing_Coils&format=json"
+  },
+  {
+    "name": "Lightweight Frame",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "650",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Lightweight_Frame",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Lightweight_Frame&format=json"
+  },
+  {
+    "name": "Magnetic Weapon Tether",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "250",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Magnetic_Weapon_Tether",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Magnetic_Weapon_Tether&format=json"
+  },
+  {
+    "name": "Mandalorian Chamber",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "250",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mandalorian_Chamber",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mandalorian_Chamber&format=json"
+  },
+  {
+    "name": "Marked-Target Firing Lock",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "900",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Marked-Target_Firing_Lock",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Marked-Target_Firing_Lock&format=json"
+  },
+  {
+    "name": "Marksman Barrel",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1200",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Marksman_Barrel",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Marksman_Barrel&format=json"
+  },
+  {
+    "name": "Mono-molecular Edge",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1000",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mono-molecular_Edge",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mono-molecular_Edge&format=json"
+  },
+  {
+    "name": "Motion Tracker",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Motion_Tracker",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Motion_Tracker&format=json"
+  },
+  {
+    "name": "Multi-optic Sight (GaG, AoR, EotE)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "2000",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Multi-optic_Sight",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Multi-optic_Sight&format=json"
+  },
+  {
+    "name": "Multi-optic Sight (SS)",
+    "hardPoints": 1,
+    "encumbrance": 1,
+    "restricted": false,
+    "price": "2000",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Multi-optic_Sight",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Multi-optic_Sight&format=json"
+  },
+  {
+    "name": "Night Vision Scope",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Night_Vision_Scope",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Night_Vision_Scope&format=json"
+  },
+  {
+    "name": "Optimized Energy Cell",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "100",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Optimized_Energy_Cell",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Optimized_Energy_Cell&format=json"
+  },
+  {
+    "name": "Ordnance Impeller",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ordnance_Impeller",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ordnance_Impeller&format=json"
+  },
+  {
+    "name": "Overcharge Valve",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "1500",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Overcharge_Valve",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Overcharge_Valve&format=json"
+  },
+  {
+    "name": "Overcharged Actuating Module",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "650",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Overcharged_Actuating_Module",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Overcharged_Actuating_Module&format=json"
+  },
+  {
+    "name": "Paired Weapons",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "300",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Paired_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Paired_Weapons&format=json"
+  },
+  {
+    "name": "Pistol Grip",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "400",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pistol_Grip",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pistol_Grip&format=json"
+  },
+  {
+    "name": "Poison Reservoir",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "400",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Poison_Reservoir",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Poison_Reservoir&format=json"
+  },
+  {
+    "name": "Proximity Detonator (GaG)",
+    "hardPoints": 1,
+    "encumbrance": 1,
+    "restricted": false,
+    "price": "200",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Proximity_Detonator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Proximity_Detonator&format=json"
+  },
+  {
+    "name": "Proximity Detonator (CotR)",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "100",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Proximity_Detonator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Proximity_Detonator&format=json"
+  },
+  {
+    "name": "Proximity Detonator (FO)",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "120",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Proximity_Detonator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Proximity_Detonator&format=json"
+  },
+  {
+    "name": "Rapid-Recharge XCiter",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "750",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Rapid-Recharge_XCiter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Rapid-Recharge_XCiter&format=json"
+  },
+  {
+    "name": "Scanner-Proof Hardware",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "1000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Scanner-Proof_Hardware",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Scanner-Proof_Hardware&format=json"
+  },
+  {
+    "name": "Secondary Ion Blaster",
+    "hardPoints": 2,
+    "encumbrance": 2,
+    "restricted": false,
+    "price": "400",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Secondary_Ion_Blaster",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Secondary_Ion_Blaster&format=json"
+  },
+  {
+    "name": "Secondary Missile System",
+    "hardPoints": 3,
+    "encumbrance": 3,
+    "restricted": false,
+    "price": "3000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Secondary_Missile_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Secondary_Missile_System&format=json"
+  },
+  {
+    "name": "Serrated Edge",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "50",
+    "rarity": "1",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Serrated_Edge",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Serrated_Edge&format=json"
+  },
+  {
+    "name": "Set Trigger",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "450",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Set_Trigger",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Set_Trigger&format=json"
+  },
+  {
+    "name": "Shadowsheath",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "1500",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Shadowsheath",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Shadowsheath&format=json"
+  },
+  {
+    "name": "Shield Discharge Pack",
+    "hardPoints": 1,
+    "encumbrance": 1,
+    "restricted": false,
+    "price": "800",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Shield_Discharge_Pack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Shield_Discharge_Pack&format=json"
+  },
+  {
+    "name": "Shock Pulse Emitter",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1500",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Shock_Pulse_Emitter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Shock_Pulse_Emitter&format=json"
+  },
+  {
+    "name": "Shortened Barrel",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "250",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Shortened_Barrel",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Shortened_Barrel&format=json"
+  },
+  {
+    "name": "Slugthrower Suppressor",
+    "hardPoints": 1,
+    "encumbrance": 1,
+    "restricted": true,
+    "price": "100",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Slugthrower_Suppressor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Slugthrower_Suppressor&format=json"
+  },
+  {
+    "name": "Sonic Scope",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1500",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sonic_Scope",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sonic_Scope&format=json"
+  },
+  {
+    "name": "Spread Barrel",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1725",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Spread_Barrel",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Spread_Barrel&format=json"
+  },
+  {
+    "name": "Staged Rocket Booster (GaG)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "250",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Staged_Rocket_Booster",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Staged_Rocket_Booster&format=json"
+  },
+  {
+    "name": "Staged Rocket Booster (ND)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "25",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Staged_Rocket_Booster",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Staged_Rocket_Booster&format=json"
+  },
+  {
+    "name": "Stripped Down",
+    "hardPoints": 3,
+    "encumbrance": -1,
+    "restricted": false,
+    "price": "250",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Stripped_Down",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Stripped_Down&format=json"
+  },
+  {
+    "name": "Stun pulse",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "250",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Stun_Pulse",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Stun_Pulse&format=json"
+  },
+  {
+    "name": "Superior Weapon Customization",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "5000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Superior_Weapon_Customization",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Superior_Weapon_Customization&format=json"
+  },
+  {
+    "name": "Telescopic Optical Sight",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "250",
+    "rarity": "1",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Telescopic_Optical_Sight",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Telescopic_Optical_Sight&format=json"
+  },
+  {
+    "name": "Tibanna-Jacked",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "150",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Tibanna-Jacked",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tibanna-Jacked&format=json"
+  },
+  {
+    "name": "Under-barrel Flame Projector",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "3000",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Under-barrel_Flame_Projector",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Under-barrel_Flame_Projector&format=json"
+  },
+  {
+    "name": "Under-barrel Grapnel Launcher",
+    "hardPoints": 2,
+    "encumbrance": 2,
+    "restricted": false,
+    "price": "500",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Under-barrel_Grapnel_Launcher",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Under-barrel_Grapnel_Launcher&format=json"
+  },
+  {
+    "name": "Under-barrel Grenade Launcher (GaG)",
+    "hardPoints": 2,
+    "encumbrance": 2,
+    "restricted": true,
+    "price": "2000",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Under-barrel_Grenade_Launcher",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Under-barrel_Grenade_Launcher&format=json"
+  },
+  {
+    "name": "Under-barrel Grenade Launcher (AoR, EotE)",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "2000",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Under-barrel_Grenade_Launcher",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Under-barrel_Grenade_Launcher&format=json"
+  },
+  {
+    "name": "Under-barrel Micro-Rocket Rack",
+    "hardPoints": 3,
+    "encumbrance": 3,
+    "restricted": true,
+    "price": "1200",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Under-barrel_Micro-Rocket_Rack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Under-barrel_Micro-Rocket_Rack&format=json"
+  },
+  {
+    "name": "Underslung Scattergun (GaG)",
+    "hardPoints": 3,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "750",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Underslung_Scattergun",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Underslung_Scattergun&format=json"
+  },
+  {
+    "name": "Underslung Scattergun (FC)",
+    "hardPoints": 3,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "750",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Underslung_Scattergun",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Underslung_Scattergun&format=json"
+  },
+  {
+    "name": "Vibro-bayonet",
+    "hardPoints": 1,
+    "encumbrance": 1,
+    "restricted": false,
+    "price": "300",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Vibro-bayonet",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Vibro-bayonet&format=json"
+  },
+  {
+    "name": "Weapon Harness",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Weapon_Harness",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Weapon_Harness&format=json"
+  },
+  {
+    "name": "Weapon Signature Reduction",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Weapon_Signature_Reduction",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Weapon_Signature_Reduction&format=json"
+  },
+  {
+    "name": "Weapon Sling",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "100",
+    "rarity": "0",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Weapon_Sling",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Weapon_Sling&format=json"
+  },
+  {
+    "name": "Weighted Head",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "250",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Weighted_Head",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Weighted_Head&format=json"
+  },
+  {
+    "name": "Wrist Mount (GaG)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "275",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Wrist_Mount",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Wrist_Mount&format=json"
+  },
+  {
+    "name": "Wrist Mount (CotR, DC)",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "275",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Wrist_Mount",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Wrist_Mount&format=json"
+  },
+  {
+    "name": "XCiter Overcharge",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "1100",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/XCiter_Overcharge",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=XCiter_Overcharge&format=json"
+  },
+  {
+    "name": "Barab Ingot",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "15000",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Barab_Ingot",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Barab_Ingot&format=json"
+  },
+  {
+    "name": "Blade Drain",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "4000",
+    "rarity": "9",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Blade_Drain",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Blade_Drain&format=json"
+  },
+  {
+    "name": "Catastrophic Failure Modification",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "0",
+    "rarity": "-",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Catastrophic_Failure_Modification",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Catastrophic_Failure_Modification&format=json"
+  },
+  {
+    "name": "Christophsis Crystal",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "11000",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Christophsis_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Christophsis_Crystal&format=json"
+  },
+  {
+    "name": "Corrupted Crystal",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "Not for Sale",
+    "rarity": "9",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Corrupted_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Corrupted_Crystal&format=json"
+  },
+  {
+    "name": "Cracked Crystal",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "Not for Sale",
+    "rarity": "10",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cracked_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cracked_Crystal&format=json"
+  },
+  {
+    "name": "Cracked Jedha Crystal",
+    "hardPoints": 3,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "8000",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cracked_Jedha_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cracked_Jedha_Crystal&format=json"
+  },
+  {
+    "name": "Curved Hilt",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Curved_Hilt",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Curved_Hilt&format=json"
+  },
+  {
+    "name": "Cyclic Crystal Array",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "1500",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cyclic_Crystal_Array",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cyclic_Crystal_Array&format=json"
+  },
+  {
+    "name": "Damping Emitter",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "2000",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Damping_Emitter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Damping_Emitter&format=json"
+  },
+  {
+    "name": "Dantari Crystal",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "12000",
+    "rarity": "9",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Dantari_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dantari_Crystal&format=json"
+  },
+  {
+    "name": "Dragite Gem",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "14000",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Dragite_Gem",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dragite_Gem&format=json"
+  },
+  {
+    "name": "Dual-Phase Modification",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "4500",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Dual-Phase_Modification",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dual-Phase_Modification&format=json"
+  },
+  {
+    "name": "Etaan Crystal",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "12000",
+    "rarity": "9",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Etaan_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Etaan_Crystal&format=json"
+  },
+  {
+    "name": "Extended Hilt",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "3800",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Extended_Hilt",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Extended_Hilt&format=json"
+  },
+  {
+    "name": "Flickerphase Blade",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "5000",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Flickerphase_Blade",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Flickerphase_Blade&format=json"
+  },
+  {
+    "name": "Fusion Shunt",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "2000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Fusion_Shunt",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fusion_Shunt&format=json"
+  },
+  {
+    "name": "Ghostfire Crystal",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "14000",
+    "rarity": "9",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ghostfire_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ghostfire_Crystal&format=json"
+  },
+  {
+    "name": "Hilt-masking Kit",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "Varies",
+    "rarity": "Varies",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hilt-masking_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hilt-masking_Kit&format=json"
+  },
+  {
+    "name": "Ilum Crystal (GaG, FaD)",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "9000",
+    "rarity": "10",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ilum_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ilum_Crystal&format=json"
+  },
+  {
+    "name": "Ilum Crystal (CotR, RotS)",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "9000",
+    "rarity": "9",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ilum_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ilum_Crystal&format=json"
+  },
+  {
+    "name": "Ionizing Emitter Matrix",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "4000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ionizing_Emitter_Matrix",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ionizing_Emitter_Matrix&format=json"
+  },
+  {
+    "name": "Kimber Stone",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "6500",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Kimber_Stone",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Kimber_Stone&format=json"
+  },
+  {
+    "name": "Krayt Dragon Pearl",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "15000",
+    "rarity": "10",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Krayt_Dragon_Pearl",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Krayt_Dragon_Pearl&format=json"
+  },
+  {
+    "name": "Lorrdian Gemstone",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "9600",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Lorrdian_Gemstone",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Lorrdian_Gemstone&format=json"
+  },
+  {
+    "name": "Mephite Crystal",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "10000",
+    "rarity": "10",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mephite_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mephite_Crystal&format=json"
+  },
+  {
+    "name": "Nishalorite Stone",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "12500",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Nishalorite_Stone",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Nishalorite_Stone&format=json"
+  },
+  {
+    "name": "Overcharged Power Cell",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Overcharged_Power_Cell",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Overcharged_Power_Cell&format=json"
+  },
+  {
+    "name": "Pistol Hilt",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "750",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pistol_Hilt",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pistol_Hilt&format=json"
+  },
+  {
+    "name": "Pommel Cap",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "3000",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pommel_Cap",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pommel_Cap&format=json"
+  },
+  {
+    "name": "Reflex Grip",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "4000",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Reflex_Grip",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Reflex_Grip&format=json"
+  },
+  {
+    "name": "Sapith Gem",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "18000",
+    "rarity": "10",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sapith_Gem",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sapith_Gem&format=json"
+  },
+  {
+    "name": "Seeker Crystal",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "16000",
+    "rarity": "9",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Seeker_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Seeker_Crystal&format=json"
+  },
+  {
+    "name": "Shien Reverse Grip Customization",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "100",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Shien_Reverse_Grip_Customization",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Shien_Reverse_Grip_Customization&format=json"
+  },
+  {
+    "name": "Solari Crystal",
+    "hardPoints": 3,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "16000",
+    "rarity": "9",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Solari_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Solari_Crystal&format=json"
+  },
+  {
+    "name": "Sorian Crystal",
+    "hardPoints": 4,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "16000",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sorian_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sorian_Crystal&format=json"
+  },
+  {
+    "name": "Stun Blaster Attachment (GaG, DoH)",
+    "hardPoints": 3,
+    "encumbrance": 1,
+    "restricted": false,
+    "price": "750",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Stun_Blaster_Attachment",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Stun_Blaster_Attachment&format=json"
+  },
+  {
+    "name": "Stun Blaster Attachment (DoH table entry)",
+    "hardPoints": 2,
+    "encumbrance": 1,
+    "restricted": false,
+    "price": "750",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Stun_Blaster_Attachment",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Stun_Blaster_Attachment&format=json"
+  },
+  {
+    "name": "Superior Hilt Personalization",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "5000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Superior_Hilt_Personalization",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Superior_Hilt_Personalization&format=json"
+  },
+  {
+    "name": "Tainted Nightsister Crystal",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "13000",
+    "rarity": "10",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Tainted_Nightsister_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tainted_Nightsister_Crystal&format=json"
+  },
+  {
+    "name": "Thisspiasian Stabilizing Coils",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "5500",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Thisspiasian_Stabilizing_Coils",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Thisspiasian_Stabilizing_Coils&format=json"
+  },
+  {
+    "name": "Tholothian Heartwood Hilt",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "8000",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Tholothian_Heartwood_Hilt",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tholothian_Heartwood_Hilt&format=json"
+  },
+  {
+    "name": "Thontiin Crystal",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "9000",
+    "rarity": "9",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Thontiin_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Thontiin_Crystal&format=json"
+  },
+  {
+    "name": "Tripod Mount",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "250",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Tripod_Mount",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tripod_Mount&format=json"
+  },
+  {
+    "name": "Unstable Kyber Crystal",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "16000",
+    "rarity": "10",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Unstable_Kyber_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Unstable_Kyber_Crystal&format=json"
+  },
+  {
+    "name": "Training Lightsaber Emitter",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "100",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Training_Lightsaber_Emitter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Training_Lightsaber_Emitter&format=json"
+  },
+  {
+    "name": "Varpeline Crystal",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "14000",
+    "rarity": "9",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Varpeline_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Varpeline_Crystal&format=json"
+  },
+  {
+    "name": "Walking Stick Hilt Disguise",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "2500",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Walking_Stick_Hilt_Disguise",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Walking_Stick_Hilt_Disguise&format=json"
+  },
+  {
+    "name": "Zophis Crystal",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "11000",
+    "rarity": "10",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Zophis_Crystal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Zophis_Crystal&format=json"
+  },
+  {
+    "name": "Accu-Strike Integrated Targeting Computer",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "3000",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/%22Accu-Strike%22_Integrated_Targeting_Computer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=%2522Accu-Strike%2522_Integrated_Targeting_Computer&format=json"
+  },
+  {
+    "name": "Amphibious Modification",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Amphibious_Modification",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Amphibious_Modification&format=json"
+  },
+  {
+    "name": "Armor Insert",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "450",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Armor_Insert",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Armor_Insert&format=json"
+  },
+  {
+    "name": "Armor Spikes",
+    "hardPoints": 3,
+    "encumbrance": 2,
+    "restricted": false,
+    "price": "500",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Armor_Spikes",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Armor_Spikes&format=json"
+  },
+  {
+    "name": "Automated Weapon Mounting",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "3000",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Automated_Weapon_Mounting",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Automated_Weapon_Mounting&format=json"
+  },
+  {
+    "name": "Bio-Support Dispenser",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "4000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bio-Support_Dispenser",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bio-Support_Dispenser&format=json"
+  },
+  {
+    "name": "Biofeedback System",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "3300",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Biofeedback_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Biofeedback_System&format=json"
+  },
+  {
+    "name": "Boot Blade (GaG)",
+    "hardPoints": 0,
+    "encumbrance": 2,
+    "restricted": false,
+    "price": "100",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Boot_Blade",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Boot_Blade&format=json"
+  },
+  {
+    "name": "Boot Blade (CaM)",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "100",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Boot_Blade",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Boot_Blade&format=json"
+  },
+  {
+    "name": "Ceremonial Adornment",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "2500",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ceremonial_Adornment",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ceremonial_Adornment&format=json"
+  },
+  {
+    "name": "Multi-Band Comlink",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "200",
+    "rarity": "1",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Chedak_Communications_Multi-Band_Comlink",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Chedak_Communications_Multi-Band_Comlink&format=json"
+  },
+  {
+    "name": "Clone Polarized Electrobinoculars",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Clone_Polarized_Electrobinoculars",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Clone_Polarized_Electrobinoculars&format=json"
+  },
+  {
+    "name": "Cortosis Weave",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "10000",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cortosis_Weave",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cortosis_Weave&format=json"
+  },
+  {
+    "name": "Custom Fit",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "400",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Custom_Fit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Custom_Fit&format=json"
+  },
+  {
+    "name": "Droid Brain Defense System",
+    "hardPoints": 3,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "5000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Droid_Brain_Defense_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Droid_Brain_Defense_System&format=json"
+  },
+  {
+    "name": "Energy Dispersion System",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Energy_Dispersion_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Energy_Dispersion_System&format=json"
+  },
+  {
+    "name": "Enhanced Optics Suite",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1750",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Enhanced_Optics_Suite",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Enhanced_Optics_Suite&format=json"
+  },
+  {
+    "name": "Hardened",
+    "hardPoints": 2,
+    "encumbrance": 2,
+    "restricted": false,
+    "price": "900",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hardened",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hardened&format=json"
+  },
+  {
+    "name": "Heating System",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1000",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Heating_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Heating_System&format=json"
+  },
+  {
+    "name": "In-Helmet Scanner",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "750",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/In-Helmet_Scanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=In-Helmet_Scanner&format=json"
+  },
+  {
+    "name": "Integrated Ascension Gear",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "350",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Integrated_Ascension_Gear",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Integrated_Ascension_Gear&format=json"
+  },
+  {
+    "name": "Integrated Holsters",
+    "hardPoints": 2,
+    "encumbrance": 4,
+    "restricted": false,
+    "price": "300",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Integrated_Holsters",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Integrated_Holsters&format=json"
+  },
+  {
+    "name": "Integrated Slicer Gear",
+    "hardPoints": 3,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "750",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Integrated_Slicer_Gear",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Integrated_Slicer_Gear&format=json"
+  },
+  {
+    "name": "Ion Shielding",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "2000",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ion_Shielding",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ion_Shielding&format=json"
+  },
+  {
+    "name": "Jump Boots",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1200",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Jump_Boots",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jump_Boots&format=json"
+  },
+  {
+    "name": "Kiirium Coating",
+    "hardPoints": 2,
+    "encumbrance": 1,
+    "restricted": false,
+    "price": "2500",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Kiirium_Coating",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Kiirium_Coating&format=json"
+  },
+  {
+    "name": "Low-Friction Coating",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "750",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Low-Friction_Coating",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Low-Friction_Coating&format=json"
+  },
+  {
+    "name": "MB-7 Ranger Range Finder",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1500",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/MB-7_%22Ranger%22_Range_Finder",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=MB-7_%2522Ranger%2522_Range_Finder&format=json"
+  },
+  {
+    "name": "Micro-Rocket Armor Mounting",
+    "hardPoints": 2,
+    "encumbrance": 3,
+    "restricted": true,
+    "price": "800",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Micro-Rocket_Armor_Mounting",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Micro-Rocket_Armor_Mounting&format=json"
+  },
+  {
+    "name": "Omniscan 3 Integrated Scanner",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1000",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Omniscan_3_Integrated_Scanner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Omniscan_3_Integrated_Scanner&format=json"
+  },
+  {
+    "name": "Optical Camouflage System",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "5500",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Optical_Camouflage_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Optical_Camouflage_System&format=json"
+  },
+  {
+    "name": "Passive Foliage Suit",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "75",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Passive_Foliage_Suit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Passive_Foliage_Suit&format=json"
+  },
+  {
+    "name": "Personal Vibrosaw",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "900",
+    "rarity": "1",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Personal_Vibrosaw",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Personal_Vibrosaw&format=json"
+  },
+  {
+    "name": "Physiological Enhancement System (clones)",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "3000",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Physiological_Enhancement_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Physiological_Enhancement_System&format=json"
+  },
+  {
+    "name": "Physiological Enhancement System (custom)",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "10000",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Physiological_Enhancement_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Physiological_Enhancement_System&format=json"
+  },
+  {
+    "name": "Portable Plasma Shield",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "2500",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Portable_Plasma_Shield",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Portable_Plasma_Shield&format=json"
+  },
+  {
+    "name": "Quick Shed",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "650",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Quick_Shed",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Quick_Shed&format=json"
+  },
+  {
+    "name": "Radiation Shielding",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Radiation_Shielding",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Radiation_Shielding&format=json"
+  },
+  {
+    "name": "Reactive Plating",
+    "hardPoints": 2,
+    "encumbrance": 4,
+    "restricted": false,
+    "price": "2000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Reactive_Plating",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Reactive_Plating&format=json"
+  },
+  {
+    "name": "Reactive Plating (table entry)",
+    "hardPoints": 4,
+    "encumbrance": 4,
+    "restricted": false,
+    "price": "2000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Reactive_Plating",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Reactive_Plating&format=json"
+  },
+  {
+    "name": "Reflec Adaptive Skin",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "3500",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Reflec_Adaptive_Skin",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Reflec_Adaptive_Skin&format=json"
+  },
+  {
+    "name": "Reflec Shadowskin (GaG)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1200",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Reflec_Shadowskin",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Reflec_Shadowskin&format=json"
+  },
+  {
+    "name": "Reflec Shadowskin (KtP)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "1200",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Reflec_Shadowskin",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Reflec_Shadowskin&format=json"
+  },
+  {
+    "name": "Scannerweave (GaG)",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "1800",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Scannerweave",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Scannerweave&format=json"
+  },
+  {
+    "name": "Scannerweave (CaM)",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "1800",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Scannerweave",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Scannerweave&format=json"
+  },
+  {
+    "name": "Self-Repair Systems",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "3000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Self-Repair_Systems",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Self-Repair_Systems&format=json"
+  },
+  {
+    "name": "SmartMed 2000 Integrated Med-systems",
+    "hardPoints": 2,
+    "encumbrance": 1,
+    "restricted": false,
+    "price": "2500",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/SmartMed_2000_Integrated_Med-systems",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=SmartMed_2000_Integrated_Med-systems&format=json"
+  },
+  {
+    "name": "Squad Tactical Systems",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "2000",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Squad_Tactical_Systems",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Squad_Tactical_Systems&format=json"
+  },
+  {
+    "name": "Stealth Field Generator",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": true,
+    "price": "3800",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Stealth_Field_Generator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Stealth_Field_Generator&format=json"
+  },
+  {
+    "name": "Strength Enhancing System",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "5500",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Strength_Enhancing_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Strength_Enhancing_System&format=json"
+  },
+  {
+    "name": "Stun Matrix (GaG, KtP)",
+    "hardPoints": 3,
+    "encumbrance": 1,
+    "restricted": false,
+    "price": "1750",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Stun_Matrix",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Stun_Matrix&format=json"
+  },
+  {
+    "name": "Stun Matrix (KtP table entry)",
+    "hardPoints": 1,
+    "encumbrance": 1,
+    "restricted": false,
+    "price": "1750",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Stun_Matrix",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Stun_Matrix&format=json"
+  },
+  {
+    "name": "Superior Armor Customization",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "5000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Superior_Armor_Customization",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Superior_Armor_Customization&format=json"
+  },
+  {
+    "name": "Thermal Shielding System",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1000",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Thermal_Shielding_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Thermal_Shielding_System&format=json"
+  },
+  {
+    "name": "Threat Monitor",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "750",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Threat_Monitor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Threat_Monitor&format=json"
+  },
+  {
+    "name": "Tracking System",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1000",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Tracking_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tracking_System&format=json"
+  },
+  {
+    "name": "Utility Arm",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "2000",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Utility_Arm",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Utility_Arm&format=json"
+  },
+  {
+    "name": "Vacuum Sealed (KtP)",
+    "hardPoints": 1,
+    "encumbrance": 1,
+    "restricted": false,
+    "price": "1000",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Vacuum_Sealed",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Vacuum_Sealed&format=json"
+  },
+  {
+    "name": "Vacuum Sealed (KtP table entry)",
+    "hardPoints": 1,
+    "encumbrance": 1,
+    "restricted": false,
+    "price": "1750",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Vacuum_Sealed",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Vacuum_Sealed&format=json"
+  },
+  {
+    "name": "Vacuum Sealed (AoR, EotE)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1000",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Vacuum_Sealed",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Vacuum_Sealed&format=json"
+  },
+  {
+    "name": "VX Hands-Free Weapon System",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "1000",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/VX_Hands-Free_Weapon_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=VX_Hands-Free_Weapon_System&format=json"
+  },
+  {
+    "name": "Water Reclamation System",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "500",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Water_Reclamation_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Water_Reclamation_System&format=json"
+  },
+  {
+    "name": "Whipcord Thrower",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "600",
+    "rarity": "1",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Whipcord_Thrower",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Whipcord_Thrower&format=json"
+  },
+  {
+    "name": "Advanced Subspace Encryption Array",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Advanced_Subspace_Encryption_Array",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Advanced_Subspace_Encryption_Array&format=json"
+  },
+  {
+    "name": "Advanced Targeting Array",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Advanced_Targeting_Array",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Advanced_Targeting_Array&format=json"
+  },
+  {
+    "name": "All-Terrain Legs",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "x Silhouette",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/All-Terrain_Legs",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=All-Terrain_Legs&format=json"
+  },
+  {
+    "name": "Missile Pack",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Arakyd_Missile_Pack_%26_Mini-pack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Arakyd_Missile_Pack_%2526_Mini-pack&format=json"
+  },
+  {
+    "name": "Mini-Missile Pack",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Arakyd_Missile_Pack_%26_Mini-pack",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Arakyd_Missile_Pack_%2526_Mini-pack&format=json"
+  },
+  {
+    "name": "Armored Computer Core",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Armored_Computer_Core",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Armored_Computer_Core&format=json"
+  },
+  {
+    "name": "Astrogation Droid Brain",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Astrogation_Droid_Brain",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Astrogation_Droid_Brain&format=json"
+  },
+  {
+    "name": "Astromech Droid Socket",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Astromech_Droid_Socket",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Astromech_Droid_Socket&format=json"
+  },
+  {
+    "name": "Augmented Buffer",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Augmented_Buffer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Augmented_Buffer&format=json"
+  },
+  {
+    "name": "Autopilot Droid Brain (FO)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Autopilot_Droid_Brain",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Autopilot_Droid_Brain&format=json"
+  },
+  {
+    "name": "Autopilot Droid Brain (FC)",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Autopilot_Droid_Brain",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Autopilot_Droid_Brain&format=json"
+  },
+  {
+    "name": "Ax-108 Ground Buzzer Surface-Defense Blaster Cannon",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ax-108_%22Ground_Buzzer%22_Surface-Defense_Blaster_Cannon",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ax-108_%2522Ground_Buzzer%2522_Surface-Defense_Blaster_Cannon&format=json"
+  },
+  {
+    "name": "Briefing Auditorium",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Briefing_Auditorium",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Briefing_Auditorium&format=json"
+  },
+  {
+    "name": "Cloaked Smuggling Compartments",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cloaked_Smuggling_Compartments",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cloaked_Smuggling_Compartments&format=json"
+  },
+  {
+    "name": "Cloaking Device",
+    "hardPoints": 4,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "9",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cloaking_Device",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cloaking_Device&format=json"
+  },
+  {
+    "name": "Collision Avoidance System",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Collision_Avoidance_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Collision_Avoidance_System&format=json"
+  },
+  {
+    "name": "Containment Field",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "9",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Containment_Field",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Containment_Field&format=json"
+  },
+  {
+    "name": "CZ-88 Heavy Loader Arm",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/CZ-88_Heavy_Loader_Arm",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=CZ-88_Heavy_Loader_Arm&format=json"
+  },
+  {
+    "name": "Decoy Buoy",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Decoy_Buoy",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Decoy_Buoy&format=json"
+  },
+  {
+    "name": "Ejection System",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ejection_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ejection_System&format=json"
+  },
+  {
+    "name": "Electromagnetic Tow Cable Launcher",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Electromagnetic_Tow_Cable_Launcher",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Electromagnetic_Tow_Cable_Launcher&format=json"
+  },
+  {
+    "name": "Electronic Counter-Countermeasures Suite",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Electronic_Counter-Countermeasures_Suite",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Electronic_Counter-Countermeasures_Suite&format=json"
+  },
+  {
+    "name": "Electronic Countermeasures Suite",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Electronic_Countermeasures_Suite",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Electronic_Countermeasures_Suite&format=json"
+  },
+  {
+    "name": "Encrypted Computer",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Encrypted_Computer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Encrypted_Computer&format=json"
+  },
+  {
+    "name": "Engine Boosting System",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Engine_Boosting_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Engine_Boosting_System&format=json"
+  },
+  {
+    "name": "Enhanced Carbon-Durasteel Armor",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "x silhouette",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Enhanced_Carbon-Durasteel_Armor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Enhanced_Carbon-Durasteel_Armor&format=json"
+  },
+  {
+    "name": "Enhanced Hyperspace Shields",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Enhanced_Hyperspace_Shields",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Enhanced_Hyperspace_Shields&format=json"
+  },
+  {
+    "name": "Enhanced Prisoner Lockup",
+    "hardPoints": 3,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Enhanced_Prisoner_Lockup",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Enhanced_Prisoner_Lockup&format=json"
+  },
+  {
+    "name": "Enhanced Repulsorlift",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "x Silhouette",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Enhanced_Repulsorlift",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Enhanced_Repulsorlift&format=json"
+  },
+  {
+    "name": "Environmental Simulators",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Environmental_Simulators",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Environmental_Simulators&format=json"
+  },
+  {
+    "name": "Fogger Smoke Generator",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Fabritech_Fogger_Smoke_Generator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fabritech_Fogger_Smoke_Generator&format=json"
+  },
+  {
+    "name": "Flak Cannons (light)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Flak_Cannons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Flak_Cannons&format=json"
+  },
+  {
+    "name": "Flak Cannons (medium)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Flak_Cannons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Flak_Cannons&format=json"
+  },
+  {
+    "name": "Flak Cannons (heavy)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Flak_Cannons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Flak_Cannons&format=json"
+  },
+  {
+    "name": "Foreign Debris Ejector",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Foreign_Debris_Ejector",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Foreign_Debris_Ejector&format=json"
+  },
+  {
+    "name": "Gravity Mine Launcher",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gravity_Mine_Launcher",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gravity_Mine_Launcher&format=json"
+  },
+  {
+    "name": "Handling Upgrades",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Handling_Upgrades",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Handling_Upgrades&format=json"
+  },
+  {
+    "name": "Hardened Circuits",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hardened_Circuits",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hardened_Circuits&format=json"
+  },
+  {
+    "name": "High-Output Ion Turbine",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/High-Output_Ion_Turbine",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=High-Output_Ion_Turbine&format=json"
+  },
+  {
+    "name": "High-Output Repulsor Coils",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/High-Output_Repulsor_Coils",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=High-Output_Repulsor_Coils&format=json"
+  },
+  {
+    "name": "Holo-Tank",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Holo-Tank",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Holo-Tank&format=json"
+  },
+  {
+    "name": "Holographic Shell",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Holographic_Shell",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Holographic_Shell&format=json"
+  },
+  {
+    "name": "HoloNet Pirate Array",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/HoloNet_Pirate_Array",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=HoloNet_Pirate_Array&format=json"
+  },
+  {
+    "name": "Hull/Keel Reinforcement",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "per point of silhouette",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hull/Keel_Reinforcement",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hull%2FKeel_Reinforcement&format=json"
+  },
+  {
+    "name": "Hull/Keel Reinforcement (table entry)",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hull/Keel_Reinforcement",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hull%2FKeel_Reinforcement&format=json"
+  },
+  {
+    "name": "Hush Kit",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hush_Kit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hush_Kit&format=json"
+  },
+  {
+    "name": "Hydraulic Control Circuits",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hydraulic_Control_Circuits",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hydraulic_Control_Circuits&format=json"
+  },
+  {
+    "name": "Hyperdrive Generator",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hyperdrive_Generator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hyperdrive_Generator&format=json"
+  },
+  {
+    "name": "Interior Broadcast Suite",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Interior_Broadcast_Suite",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Interior_Broadcast_Suite&format=json"
+  },
+  {
+    "name": "Ion Torpedo Launcher",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ion_Torpedo_Launcher",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ion_Torpedo_Launcher&format=json"
+  },
+  {
+    "name": "Laser Focusing Array",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "per laser weapon enhanced",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Laser_Focusing_Array",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Laser_Focusing_Array&format=json"
+  },
+  {
+    "name": "Laser Focusing Array (table entry)",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Laser_Focusing_Array",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Laser_Focusing_Array&format=json"
+  },
+  {
+    "name": "Luxury Passenger Compartments",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "per passenger",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Luxury_Passenger_Compartments",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Luxury_Passenger_Compartments&format=json"
+  },
+  {
+    "name": "Maneuvering Thrusters",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "times silhouette",
+    "rarity": "",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Maneuvering_Thrusters",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Maneuvering_Thrusters&format=json"
+  },
+  {
+    "name": "Minelayer",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Minelayer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Minelayer&format=json"
+  },
+  {
+    "name": "Mobile Listening Post",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mobile_Listening_Post",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mobile_Listening_Post&format=json"
+  },
+  {
+    "name": "Nightshadow Coating",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Nightshadow_Coating",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Nightshadow_Coating&format=json"
+  },
+  {
+    "name": "Onboard Amenities Unit",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Onboard_Amenities_Unit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Onboard_Amenities_Unit&format=json"
+  },
+  {
+    "name": "Overcharged Ion Engines",
+    "hardPoints": 3,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Overcharged_Ion_Engines",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Overcharged_Ion_Engines&format=json"
+  },
+  {
+    "name": "Overcharged Shields",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Overcharged_Shields",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Overcharged_Shields&format=json"
+  },
+  {
+    "name": "Oversized External Weapons Mount",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "x silh.",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Oversized_External_Weapons_Mount",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Oversized_External_Weapons_Mount&format=json"
+  },
+  {
+    "name": "Pair of Podracer Engines",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pair_of_Podracer_Engines",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pair_of_Podracer_Engines&format=json"
+  },
+  {
+    "name": "Physical Countermeasures",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Physical_Countermeasures",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Physical_Countermeasures&format=json"
+  },
+  {
+    "name": "Plasma Drill",
+    "hardPoints": 3,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Plasma_Drill",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Plasma_Drill&format=json"
+  },
+  {
+    "name": "Plasma Drill (table entry)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Plasma_Drill",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Plasma_Drill&format=json"
+  },
+  {
+    "name": "Podracer Control Cables",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Podracer_Control_Cables",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Podracer_Control_Cables&format=json"
+  },
+  {
+    "name": "Pseudo-Cloaking Device",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pseudo-Cloaking_Device",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pseudo-Cloaking_Device&format=json"
+  },
+  {
+    "name": "Ram Attachment",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ram_Attachment",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ram_Attachment&format=json"
+  },
+  {
+    "name": "Rapid Cargo Evacuation Chute",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Rapid_Cargo_Evacuation_Chute",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Rapid_Cargo_Evacuation_Chute&format=json"
+  },
+  {
+    "name": "Reinforced Armor Plating",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "/silhouette",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Reinforced_Armor_Plating",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Reinforced_Armor_Plating&format=json"
+  },
+  {
+    "name": "Reinforced Engine Cowlings",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Reinforced_Engine_Cowlings",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Reinforced_Engine_Cowlings&format=json"
+  },
+  {
+    "name": "Repeating Ion Cannon",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Repeating_Ion_Cannon",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Repeating_Ion_Cannon&format=json"
+  },
+  {
+    "name": "Secondary Transponder",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Secondary_Transponder",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Secondary_Transponder&format=json"
+  },
+  {
+    "name": "Security Measures",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "x Silhouette",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Security_Measures",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Security_Measures&format=json"
+  },
+  {
+    "name": "Sensor Baffler",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sensor_Baffler",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sensor_Baffler&format=json"
+  },
+  {
+    "name": "Sensor Shunt",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sensor_Shunt",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sensor_Shunt&format=json"
+  },
+  {
+    "name": "Sensor Shunt (table entry)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sensor_Shunt",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sensor_Shunt&format=json"
+  },
+  {
+    "name": "Shield Generator",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Shield_Generator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Shield_Generator&format=json"
+  },
+  {
+    "name": "Grappler 213 Tactical Tractor Beam",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sienar_Grappler_213_Tactical_Tractor_Beam",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sienar_Grappler_213_Tactical_Tractor_Beam&format=json"
+  },
+  {
+    "name": "MM-XT Mini-Missile Tube",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sienar_MM-XT_Mini-Missile_Tube",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sienar_MM-XT_Mini-Missile_Tube&format=json"
+  },
+  {
+    "name": "T9 Stinger Assault Boarding Tube",
+    "hardPoints": 3,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "x silh.",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sienar_T9_Stinger_Assault_Boarding_Tube",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sienar_T9_Stinger_Assault_Boarding_Tube&format=json"
+  },
+  {
+    "name": "Slave Circuit",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Slave_Circuit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Slave_Circuit&format=json"
+  },
+  {
+    "name": "Slicing Computer",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Slicing_Computer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Slicing_Computer&format=json"
+  },
+  {
+    "name": "Smuggling Compartments",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "1",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Smuggling_Compartments",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Smuggling_Compartments&format=json"
+  },
+  {
+    "name": "Tactical Command, Control, and Communications Suite",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Tactical_Command,_Control,_and_Communications_Suite",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tactical_Command%2C_Control%2C_and_Communications_Suite&format=json"
+  },
+  {
+    "name": "Termite Torpedo Launcher",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Termite_Torpedo_Launcher",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Termite_Torpedo_Launcher&format=json"
+  },
+  {
+    "name": "Theater Command and Control System",
+    "hardPoints": 2,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Theater_Command_and_Control_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Theater_Command_and_Control_System&format=json"
+  },
+  {
+    "name": "Upgraded Comms Array",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Comms_Array",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Comms_Array&format=json"
+  },
+  {
+    "name": "Upgraded Firepower",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Firepower",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Firepower&format=json"
+  },
+  {
+    "name": "Upgraded Weapons (auto-blaster)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Weapons&format=json"
+  },
+  {
+    "name": "Upgraded Weapons (light blaster)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Weapons&format=json"
+  },
+  {
+    "name": "Upgraded Weapons (heavy blaster)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Weapons&format=json"
+  },
+  {
+    "name": "Upgraded Weapons (concussion missile)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Weapons&format=json"
+  },
+  {
+    "name": "Upgraded Weapons (light ion)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Weapons&format=json"
+  },
+  {
+    "name": "Upgraded Weapons (medium ion)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Weapons&format=json"
+  },
+  {
+    "name": "Upgraded Weapons (heavy ion)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Weapons&format=json"
+  },
+  {
+    "name": "Upgraded Weapons (battleship ion)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Weapons&format=json"
+  },
+  {
+    "name": "Upgraded Weapons (proton torpedo)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Weapons&format=json"
+  },
+  {
+    "name": "Upgraded Weapons (quad laser)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Weapons&format=json"
+  },
+  {
+    "name": "Upgraded Weapons (light tractor)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Weapons&format=json"
+  },
+  {
+    "name": "Upgraded Weapons (medium tractor)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Weapons&format=json"
+  },
+  {
+    "name": "Upgraded Weapons (heavy tractor)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Weapons&format=json"
+  },
+  {
+    "name": "Upgraded Weapons (light turbolaser)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Weapons&format=json"
+  },
+  {
+    "name": "Upgraded Weapons (medium turbolaser)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Weapons&format=json"
+  },
+  {
+    "name": "Upgraded Weapons (heavy turbolaser)",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "8",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Upgraded_Weapons",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Upgraded_Weapons&format=json"
+  },
+  {
+    "name": "WhisperThrust Engine",
+    "hardPoints": 1,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "",
+    "rarity": "7",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/WhisperThrust_Engine",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=WhisperThrust_Engine&format=json"
+  },
+  {
+    "name": "Comlink Bug",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "150",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Comlink_Bug",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Comlink_Bug&format=json"
+  },
+  {
+    "name": "Concealed Climbing Cord",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "100",
+    "rarity": "2",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Concealed_Climbing_Cord",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Concealed_Climbing_Cord&format=json"
+  },
+  {
+    "name": "Dart Gun",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "200",
+    "rarity": "4",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Dart_Gun",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dart_Gun&format=json"
+  },
+  {
+    "name": "Hidden Compartment",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "50",
+    "rarity": "3",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hidden_Compartment",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hidden_Compartment&format=json"
+  },
+  {
+    "name": "Holo Converter",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "600",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Holo_Converter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Holo_Converter&format=json"
+  },
+  {
+    "name": "Self-Destruct System",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "450",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Self-Destruct_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Self-Destruct_System&format=json"
+  },
+  {
+    "name": "Self-Destruct System (table entry)",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "550",
+    "rarity": "6",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Self-Destruct_System",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Self-Destruct_System&format=json"
+  },
+  {
+    "name": "Subminiature Holocam",
+    "hardPoints": 0,
+    "encumbrance": 0,
+    "restricted": false,
+    "price": "300",
+    "rarity": "5",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Subminiature_Holocam",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Subminiature_Holocam&format=json"
+  }
+]

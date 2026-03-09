@@ -162,10 +162,12 @@ export async function fetchSpeciesData(): Promise<{ items: SpeciesRow[]; outputF
 		}
 	}
 	const items = [...uniqueByName.values()];
+	console.log(`Found ${items.length} species`);
 	const outputDir = join(dirname(fromFileUrl(import.meta.url)), "list");
 	await Deno.mkdir(outputDir, { recursive: true });
 	const outputFile = join(outputDir, OUTPUT_FILE_NAME);
 
 	await Deno.writeTextFile(outputFile, JSON.stringify(items, null, 2));
+	console.log(`Saved ${items.length} species to ${outputFile}`);
 	return { items, outputFile };
 }

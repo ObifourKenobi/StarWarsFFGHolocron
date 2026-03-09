@@ -10,7 +10,7 @@ interface ShipItem {
   armor: string;
   hullTrauma: number;
   systemStrain: number;
-  restricted: string;
+  restricted: boolean;
   price: string;
   rarity: string;
   sourceURL: string;
@@ -63,8 +63,8 @@ function toShipItem(cells: Element[]): ShipItem | null {
     armor: extractCellText(cells[5]),
     hullTrauma: toInteger(extractCellText(cells[6])),
     systemStrain: toInteger(extractCellText(cells[7])),
-    restricted: extractCellText(cells[8]),
-    price: extractCellText(cells[9]),
+    restricted: extractCellText(cells[8]) === "(R)",
+    price: extractCellText(cells[9]).replace(/,/g, ""),
     rarity: extractCellText(cells[10]),
     sourceURL,
     sourceAPIURL,
@@ -117,12 +117,14 @@ export async function fetchShipsData(): Promise<{
   }
 
   const items = Array.from(shipMap.values());
+  console.log(`Found ${items.length} ships`);
 
   const outputDir = new URL("./list", import.meta.url).pathname;
   await Deno.mkdir(outputDir, { recursive: true });
 
   const outputFile = join(outputDir, "ships.json");
   await Deno.writeTextFile(outputFile, JSON.stringify(items, null, 2));
+  console.log(`Saved ${items.length} ships to ${outputFile}`);
 
   return { items, outputFile };
 }
