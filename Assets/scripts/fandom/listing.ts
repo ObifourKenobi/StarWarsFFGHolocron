@@ -4,7 +4,8 @@ import { fetchAttachmentData } from "./fetchAttachment.ts";
 import { fetchGearData } from "./fetchGear.ts";
 import { fetchDroidData } from "./fetchDroid.ts";
 import { fetchBeastData } from "./fetchBeast.ts";
-import { saveCareers } from "./fetchCareers.ts";
+import { fetchCareersData } from "./fetchCareers.ts";
+import { fetchForcePowerData } from "./fetchForcePower.ts";
 import { fetchSpeciesData } from "./fetchSpecies.ts";
 import { fetchVehiclesData } from "./fetchVehicle.ts";
 import { fetchShipsData } from "./fetchShip.ts";
@@ -19,7 +20,8 @@ async function listAll(): Promise<void> {
 	await fetchGearData();
 	await fetchDroidData();
 	await fetchBeastData();
-	await saveCareers();
+	await fetchCareersData();
+	await fetchForcePowerData();
 	await fetchSpeciesData();
 	await fetchVehiclesData();
 	await fetchShipsData();
@@ -68,7 +70,10 @@ async function run(): Promise<void> {
 			result = await fetchBeastData();
 			break;
 		case "careers":
-			await saveCareers();
+			result = await fetchCareersData();
+			break;
+		case "forcepower":
+			result = await fetchForcePowerData();
 			break;
 		case "species":
 			result = await fetchSpeciesData();
@@ -84,7 +89,7 @@ async function run(): Promise<void> {
 			break;
 		default:
 			console.error(
-				`Unsupported type: ${type}. Supported: books, armor, attachment, gear, droid, beast, careers, species, vehicles, ships, weapons.`,
+				`Unsupported type: ${type}. Supported: books, armor, attachment, gear, droid, beast, careers, forcepower, species, vehicles, ships, weapons.`,
 			);
 			Deno.exit(1);
 	}

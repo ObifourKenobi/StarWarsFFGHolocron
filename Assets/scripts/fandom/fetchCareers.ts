@@ -78,10 +78,14 @@ async function fetchCareers(): Promise<Career[]> {
 			}
 		}
 	}
+	console.log(`Found ${careers.length} careers`);
 	return careers;
 }
 
-export async function saveCareers() {
+export async function fetchCareersData(): Promise<{
+	items: Career[];
+	outputFile: string;
+}> {
 	const careers = await fetchCareers();
 	
 	const outputPath = "./list/careers.json";
@@ -89,8 +93,12 @@ export async function saveCareers() {
 		outputPath,
 		JSON.stringify(careers, null, 2)
 	);
+	
+	console.log(`Saved ${careers.length} careers to ${outputPath}`);
+	
+	return { items: careers, outputFile: outputPath };
 }
 
 if (import.meta.main) {
-	await saveCareers();
+	await fetchCareersData();
 }

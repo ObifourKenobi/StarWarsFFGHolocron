@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Alter",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Alter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Alter&format=json"
+  },
+  {
+    "name": "Battle Meditation",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Battle_Meditation",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Battle%20Meditation&format=json"
+  },
+  {
+    "name": "Bind",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bind",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bind&format=json"
+  },
+  {
+    "name": "Conjure",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Conjure",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Conjure&format=json"
+  },
+  {
+    "name": "Ebb/Flow",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ebb%2FFlow",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ebb%2FFlow&format=json"
+  },
+  {
+    "name": "Endure",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Endure",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Endure&format=json"
+  },
+  {
+    "name": "Enhance",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Enhance",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Enhance&format=json"
+  },
+  {
+    "name": "Farsight",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Farsight",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Farsight&format=json"
+  },
+  {
+    "name": "Foresee",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Foresee",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Foresee&format=json"
+  },
+  {
+    "name": "Heal/Harm",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Heal%2FHarm",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Heal%2FHarm&format=json"
+  },
+  {
+    "name": "Imbue",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Imbue",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Imbue&format=json"
+  },
+  {
+    "name": "Influence",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Influence",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Influence&format=json"
+  },
+  {
+    "name": "Jerserra's Influence",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Jerserra's_Influence",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jerserra's%20Influence&format=json"
+  },
+  {
+    "name": "Koren's Projection",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Koren's_Projection",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Koren's%20Projection&format=json"
+  },
+  {
+    "name": "Manipulate",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Manipulate",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Manipulate&format=json"
+  },
+  {
+    "name": "Misdirect",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Misdirect",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Misdirect&format=json"
+  },
+  {
+    "name": "Move",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Move",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Move&format=json"
+  },
+  {
+    "name": "Protect/Unleash",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Protect%2FUnleash",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Protect%2FUnleash&format=json"
+  },
+  {
+    "name": "Seek",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Seek",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Seek&format=json"
+  },
+  {
+    "name": "Sense",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sense",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sense&format=json"
+  },
+  {
+    "name": "Suppress",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Suppress",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Suppress&format=json"
+  },
+  {
+    "name": "Warde's Foresight",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Warde's_Foresight",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Warde's%20Foresight&format=json"
+  }
+]
