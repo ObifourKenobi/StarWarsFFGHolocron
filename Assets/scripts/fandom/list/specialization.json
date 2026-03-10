@@ -1,0 +1,912 @@
+[
+  {
+    "name": "Acolyte",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Acolyte",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Acolyte&format=json"
+  },
+  {
+    "name": "Advisor",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Advisor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Advisor&format=json"
+  },
+  {
+    "name": "Advocate",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Advocate",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Advocate&format=json"
+  },
+  {
+    "name": "Aggressor",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Aggressor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Aggressor&format=json"
+  },
+  {
+    "name": "Agitator",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Agitator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Agitator&format=json"
+  },
+  {
+    "name": "Alchemist",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Alchemist",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Alchemist&format=json"
+  },
+  {
+    "name": "Ambassador",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ambassador",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ambassador&format=json"
+  },
+  {
+    "name": "Analyst",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Analyst",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Analyst&format=json"
+  },
+  {
+    "name": "Arbiter",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Arbiter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Arbiter&format=json"
+  },
+  {
+    "name": "ARC Trooper",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/ARC_Trooper",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=ARC%20Trooper&format=json"
+  },
+  {
+    "name": "Archaeologist",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Archaeologist",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Archaeologist&format=json"
+  },
+  {
+    "name": "Archaeologist (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Archaeologist_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Archaeologist%20(reSpec)&format=json"
+  },
+  {
+    "name": "Armorer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Armorer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Armorer&format=json"
+  },
+  {
+    "name": "Artisan",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Artisan",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Artisan&format=json"
+  },
+  {
+    "name": "Ascetic",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ascetic",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ascetic&format=json"
+  },
+  {
+    "name": "Assassin",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Assassin",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Assassin&format=json"
+  },
+  {
+    "name": "Assassin (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Assassin_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Assassin%20(reSpec)&format=json"
+  },
+  {
+    "name": "Ataru Striker",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ataru_Striker",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ataru%20Striker&format=json"
+  },
+  {
+    "name": "Beast Hunter",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Beast_Hunter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Beast%20Hunter&format=json"
+  },
+  {
+    "name": "Beast Rider",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Beast_Rider",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Beast%20Rider&format=json"
+  },
+  {
+    "name": "Big Game Hunter (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Big_Game_Hunter_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Big%20Game%20Hunter%20(reSpec)&format=json"
+  },
+  {
+    "name": "Big-Game Hunter",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Big-Game_Hunter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Big-Game%20Hunter&format=json"
+  },
+  {
+    "name": "Blademaster",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Blademaster",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Blademaster&format=json"
+  },
+  {
+    "name": "Bodyguard",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bodyguard",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bodyguard&format=json"
+  },
+  {
+    "name": "Bodyguard (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bodyguard_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bodyguard%20(reSpec)&format=json"
+  },
+  {
+    "name": "Cartel Dealer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cartel_Dealer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cartel%20Dealer&format=json"
+  },
+  {
+    "name": "Charmer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Charmer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Charmer&format=json"
+  },
+  {
+    "name": "Clone Commander",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Clone_Commander",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Clone%20Commander&format=json"
+  },
+  {
+    "name": "Clone Officer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Clone_Officer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Clone%20Officer&format=json"
+  },
+  {
+    "name": "Clone Pilot",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Clone_Pilot",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Clone%20Pilot&format=json"
+  },
+  {
+    "name": "Clone Trooper",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Clone_Trooper",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Clone%20Trooper&format=json"
+  },
+  {
+    "name": "Clone Veteran",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Clone_Veteran",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Clone%20Veteran&format=json"
+  },
+  {
+    "name": "Colossus",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Colossus",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Colossus&format=json"
+  },
+  {
+    "name": "Commando",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Commando",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Commando&format=json"
+  },
+  {
+    "name": "Commodore",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Commodore",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Commodore&format=json"
+  },
+  {
+    "name": "Courier",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Courier",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Courier&format=json"
+  },
+  {
+    "name": "Cyber Tech",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cyber_Tech",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cyber%20Tech&format=json"
+  },
+  {
+    "name": "Cyber Tech (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cyber_Tech_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cyber%20Tech%20(reSpec)&format=json"
+  },
+  {
+    "name": "Dark Side Cultist",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Dark_Side_Cultist",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dark%20Side%20Cultist&format=json"
+  },
+  {
+    "name": "Death Watch Warrior",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Death_Watch_Warrior",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Death%20Watch%20Warrior&format=json"
+  },
+  {
+    "name": "Demolitionist",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Demolitionist",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Demolitionist&format=json"
+  },
+  {
+    "name": "Demolitionist (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Demolitionist_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Demolitionist%20(reSpec)&format=json"
+  },
+  {
+    "name": "Doctor",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Doctor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Doctor&format=json"
+  },
+  {
+    "name": "Doctor (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Doctor_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Doctor%20(reSpec)&format=json"
+  },
+  {
+    "name": "Driver",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Driver",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Driver&format=json"
+  },
+  {
+    "name": "Driver (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Driver_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Driver%20(reSpec)&format=json"
+  },
+  {
+    "name": "Droid Specialist",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Droid_Specialist",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Droid%20Specialist&format=json"
+  },
+  {
+    "name": "Droid Tech",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Droid_Tech",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Droid%20Tech&format=json"
+  },
+  {
+    "name": "Droid Tech (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Droid_Tech_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Droid%20Tech%20(reSpec)&format=json"
+  },
+  {
+    "name": "Enforcer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Enforcer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Enforcer&format=json"
+  },
+  {
+    "name": "Enforcer (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Enforcer_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Enforcer%20(reSpec)&format=json"
+  },
+  {
+    "name": "Entrepreneur",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Entrepreneur",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Entrepreneur&format=json"
+  },
+  {
+    "name": "Entrepreneur (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Entrepreneur_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Entrepreneur%20(reSpec)&format=json"
+  },
+  {
+    "name": "Executioner",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Executioner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Executioner&format=json"
+  },
+  {
+    "name": "Figurehead",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Figurehead",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Figurehead&format=json"
+  },
+  {
+    "name": "First Order Defector",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/First_Order_Defector",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=First%20Order%20Defector&format=json"
+  },
+  {
+    "name": "First Order Loyalist",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/First_Order_Loyalist",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=First%20Order%20Loyalist&format=json"
+  },
+  {
+    "name": "Force Adherent",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Force_Adherent",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Force%20Adherent&format=json"
+  },
+  {
+    "name": "Force Sensitive Exile",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Force_Sensitive_Exile",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Force%20Sensitive%20Exile&format=json"
+  },
+  {
+    "name": "Force-Sensitive Emergent",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Force-Sensitive_Emergent",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Force-Sensitive%20Emergent&format=json"
+  },
+  {
+    "name": "Force-Sensitive Outcast",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Force-Sensitive_Outcast",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Force-Sensitive%20Outcast&format=json"
+  },
+  {
+    "name": "Fringer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Fringer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fringer&format=json"
+  },
+  {
+    "name": "Fringer (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Fringer_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fringer%20(reSpec)&format=json"
+  },
+  {
+    "name": "Gadgeteer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gadgeteer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gadgeteer&format=json"
+  },
+  {
+    "name": "Gadgeteer (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gadgeteer_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gadgeteer%20(reSpec)&format=json"
+  },
+  {
+    "name": "Gambler",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gambler",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gambler&format=json"
+  },
+  {
+    "name": "General",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/General",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=General&format=json"
+  },
+  {
+    "name": "Gladiator",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gladiator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gladiator&format=json"
+  },
+  {
+    "name": "Gunner",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gunner",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gunner&format=json"
+  },
+  {
+    "name": "Gunslinger",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gunslinger",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gunslinger&format=json"
+  },
+  {
+    "name": "Healer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Healer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Healer&format=json"
+  },
+  {
+    "name": "Heavy",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Heavy",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Heavy&format=json"
+  },
+  {
+    "name": "Heavy (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Heavy_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Heavy%20(reSpec)&format=json"
+  },
+  {
+    "name": "Hermit",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hermit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hermit&format=json"
+  },
+  {
+    "name": "Hotshot",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hotshot",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hotshot&format=json"
+  },
+  {
+    "name": "Hunter",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hunter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hunter&format=json"
+  },
+  {
+    "name": "Imperial Academy Cadet",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Imperial_Academy_Cadet",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Imperial%20Academy%20Cadet&format=json"
+  },
+  {
+    "name": "Imperial Loyalist",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Imperial_Loyalist",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Imperial%20Loyalist&format=json"
+  },
+  {
+    "name": "Infiltrator",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Infiltrator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Infiltrator&format=json"
+  },
+  {
+    "name": "Instructor",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Instructor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Instructor&format=json"
+  },
+  {
+    "name": "Interrogator",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Interrogator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Interrogator&format=json"
+  },
+  {
+    "name": "Investigator",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Investigator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Investigator&format=json"
+  },
+  {
+    "name": "Jedi Archivist",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Jedi_Archivist",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jedi%20Archivist&format=json"
+  },
+  {
+    "name": "Jedi Explorer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Jedi_Explorer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jedi%20Explorer&format=json"
+  },
+  {
+    "name": "Jedi Wayseeker",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Jedi_Wayseeker",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jedi%20Wayseeker&format=json"
+  },
+  {
+    "name": "Juyo Berserker",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Juyo_Berserker",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Juyo%20Berserker&format=json"
+  },
+  {
+    "name": "Knight",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Knight",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Knight&format=json"
+  },
+  {
+    "name": "Lord",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Lord",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Lord&format=json"
+  },
+  {
+    "name": "Magus",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Magus",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Magus&format=json"
+  },
+  {
+    "name": "Makashi Duelist",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Makashi_Duelist",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Makashi%20Duelist&format=json"
+  },
+  {
+    "name": "Mandalorian Crusader",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mandalorian_Crusader",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mandalorian%20Crusader&format=json"
+  },
+  {
+    "name": "Marauder",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Marauder",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Marauder&format=json"
+  },
+  {
+    "name": "Marauder (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Marauder_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Marauder%20(reSpec)&format=json"
+  },
+  {
+    "name": "Marshal",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Marshal",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Marshal&format=json"
+  },
+  {
+    "name": "Marshal (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Marshal_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Marshal%20(reSpec)&format=json"
+  },
+  {
+    "name": "Martial Artist",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Martial_Artist",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Martial%20Artist&format=json"
+  },
+  {
+    "name": "Martial Artist (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Martial_Artist_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Martial%20Artist%20(reSpec)&format=json"
+  },
+  {
+    "name": "Master",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Master",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Master&format=json"
+  },
+  {
+    "name": "Mechanic",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mechanic",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mechanic&format=json"
+  },
+  {
+    "name": "Mechanic (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mechanic_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mechanic%20(reSpec)&format=json"
+  },
+  {
+    "name": "Medic",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Medic",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Medic&format=json"
+  },
+  {
+    "name": "Mercenary Soldier",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mercenary_Soldier",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mercenary%20Soldier&format=json"
+  },
+  {
+    "name": "Mercenary Soldier (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mercenary_Soldier_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mercenary%20Soldier%20(reSpec)&format=json"
+  },
+  {
+    "name": "Modder",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Modder",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Modder&format=json"
+  },
+  {
+    "name": "Modder (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Modder_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Modder%20(reSpec)&format=json"
+  },
+  {
+    "name": "Navigator",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Navigator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Navigator&format=json"
+  },
+  {
+    "name": "Nightsister",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Nightsister",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Nightsister&format=json"
+  },
+  {
+    "name": "Niman Disciple",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Niman_Disciple",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Niman%20Disciple&format=json"
+  },
+  {
+    "name": "Operator",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Operator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Operator&format=json"
+  },
+  {
+    "name": "Operator (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Operator_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Operator%20(reSpec)&format=json"
+  },
+  {
+    "name": "Outlaw Tech",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Outlaw_Tech",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Outlaw%20Tech&format=json"
+  },
+  {
+    "name": "Outlaw Tech (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Outlaw_Tech_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Outlaw%20Tech%20(reSpec)&format=json"
+  },
+  {
+    "name": "Padawan",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Padawan",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Padawan&format=json"
+  },
+  {
+    "name": "Padawan Survivor",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Padawan_Survivor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Padawan%20Survivor&format=json"
+  },
+  {
+    "name": "Pathfinder",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pathfinder",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pathfinder&format=json"
+  },
+  {
+    "name": "Peacekeeper",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Peacekeeper",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Peacekeeper&format=json"
+  },
+  {
+    "name": "Performer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Performer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Performer&format=json"
+  },
+  {
+    "name": "Performer (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Performer_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Performer%20(reSpec)&format=json"
+  },
+  {
+    "name": "Pilot",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pilot",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pilot&format=json"
+  },
+  {
+    "name": "Pirate",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pirate",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pirate&format=json"
+  },
+  {
+    "name": "Politico",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Politico",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Politico&format=json"
+  },
+  {
+    "name": "Politico (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Politico_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Politico%20(reSpec)&format=json"
+  },
+  {
+    "name": "Propagandist",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Propagandist",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Propagandist&format=json"
+  },
+  {
+    "name": "Prophet",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Prophet",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Prophet&format=json"
+  },
+  {
+    "name": "Protector",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Protector",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Protector&format=json"
+  },
+  {
+    "name": "Quartermaster",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Quartermaster",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Quartermaster&format=json"
+  },
+  {
+    "name": "Racer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Racer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Racer&format=json"
+  },
+  {
+    "name": "RDC Navigator",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/RDC_Navigator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=RDC%20Navigator&format=json"
+  },
+  {
+    "name": "RDC Officer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/RDC_Officer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=RDC%20Officer&format=json"
+  },
+  {
+    "name": "RDC Peacekeeper",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/RDC_Peacekeeper",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=RDC%20Peacekeeper&format=json"
+  },
+  {
+    "name": "Recruit",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Recruit",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Recruit&format=json"
+  },
+  {
+    "name": "Republic Diplomat",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Republic_Diplomat",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Republic%20Diplomat&format=json"
+  },
+  {
+    "name": "Republic Navy Officer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Republic_Navy_Officer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Republic%20Navy%20Officer&format=json"
+  },
+  {
+    "name": "Republic Representative",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Republic_Representative",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Republic%20Representative&format=json"
+  },
+  {
+    "name": "Retired Clone Trooper",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Retired_Clone_Trooper",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Retired%20Clone%20Trooper&format=json"
+  },
+  {
+    "name": "Rigger",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Rigger",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Rigger&format=json"
+  },
+  {
+    "name": "Saboteur",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Saboteur",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Saboteur&format=json"
+  },
+  {
+    "name": "Sage",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sage",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sage&format=json"
+  },
+  {
+    "name": "Sapper",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sapper",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sapper&format=json"
+  },
+  {
+    "name": "Scavenger",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Scavenger",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Scavenger&format=json"
+  },
+  {
+    "name": "Scholar",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Scholar",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Scholar&format=json"
+  },
+  {
+    "name": "Scholar (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Scholar_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Scholar%20(reSpec)&format=json"
+  },
+  {
+    "name": "Scientist",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Scientist",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Scientist&format=json"
+  },
+  {
+    "name": "Scoundrel",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Scoundrel",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Scoundrel&format=json"
+  },
+  {
+    "name": "Scout",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Scout",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Scout&format=json"
+  },
+  {
+    "name": "Scout (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Scout_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Scout%20(reSpec)&format=json"
+  },
+  {
+    "name": "Seasoned Adventurer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Seasoned_Adventurer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Seasoned%20Adventurer&format=json"
+  },
+  {
+    "name": "Seer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Seer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Seer&format=json"
+  },
+  {
+    "name": "Senator",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Senator",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Senator&format=json"
+  },
+  {
+    "name": "Sentry",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sentry",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sentry&format=json"
+  },
+  {
+    "name": "Separatist Commander",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Separatist_Commander",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Separatist%20Commander&format=json"
+  },
+  {
+    "name": "Shadow",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Shadow",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Shadow&format=json"
+  },
+  {
+    "name": "Sharpshooter",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sharpshooter",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sharpshooter&format=json"
+  },
+  {
+    "name": "Shien Expert",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Shien_Expert",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Shien%20Expert&format=json"
+  },
+  {
+    "name": "Shii-Cho Knight",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Shii-Cho_Knight",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Shii-Cho%20Knight&format=json"
+  },
+  {
+    "name": "Ship Captain",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ship_Captain",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ship%20Captain&format=json"
+  },
+  {
+    "name": "Shipwright",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Shipwright",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Shipwright&format=json"
+  },
+  {
+    "name": "Shipwright (High Republic)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Shipwright_(High_Republic)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Shipwright%20(High%20Republic)&format=json"
+  },
+  {
+    "name": "Skip Tracer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Skip_Tracer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Skip%20Tracer&format=json"
+  },
+  {
+    "name": "Skip Tracer (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Skip_Tracer_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Skip%20Tracer%20(reSpec)&format=json"
+  },
+  {
+    "name": "Sleeper Agent",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sleeper_Agent",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sleeper%20Agent&format=json"
+  },
+  {
+    "name": "Slicer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Slicer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Slicer&format=json"
+  },
+  {
+    "name": "Slicer (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Slicer_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Slicer%20(reSpec)&format=json"
+  },
+  {
+    "name": "Sorcerer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sorcerer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sorcerer&format=json"
+  },
+  {
+    "name": "Soresu Defender",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Soresu_Defender",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Soresu%20Defender&format=json"
+  },
+  {
+    "name": "Squadron Leader",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Squadron_Leader",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Squadron%20Leader&format=json"
+  },
+  {
+    "name": "Starfighter Ace",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Starfighter_Ace",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Starfighter%20Ace&format=json"
+  },
+  {
+    "name": "Steel Hand Adept",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Steel_Hand_Adept",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Steel%20Hand%20Adept&format=json"
+  },
+  {
+    "name": "Strategist",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Strategist",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Strategist&format=json"
+  },
+  {
+    "name": "Survivalist",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Survivalist",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Survivalist&format=json"
+  },
+  {
+    "name": "Survivalist (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Survivalist_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Survivalist%20(reSpec)&format=json"
+  },
+  {
+    "name": "Tactician",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Tactician",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tactician&format=json"
+  },
+  {
+    "name": "Teacher",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Teacher",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Teacher&format=json"
+  },
+  {
+    "name": "Temple Guardian",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Temple_Guardian",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Temple%20Guardian&format=json"
+  },
+  {
+    "name": "Thief",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Thief",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Thief&format=json"
+  },
+  {
+    "name": "Trader",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Trader",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Trader&format=json"
+  },
+  {
+    "name": "Trader (High Republic)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Trader_(High_Republic)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Trader%20(High%20Republic)&format=json"
+  },
+  {
+    "name": "Trader (reSpec)",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Trader_(reSpec)",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Trader%20(reSpec)&format=json"
+  },
+  {
+    "name": "Trailblazer",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Trailblazer",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Trailblazer&format=json"
+  },
+  {
+    "name": "Vanguard",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Vanguard",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Vanguard&format=json"
+  },
+  {
+    "name": "Warden",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Warden",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Warden&format=json"
+  },
+  {
+    "name": "Warleader",
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Warleader",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Warleader&format=json"
+  }
+]
