@@ -20,7 +20,7 @@ interface BeastItem {
 	meleeDefense: number;
 	rangedDefense: number;
 	restricted: boolean;
-	price: string;
+	price: number;
 	rarity: string;
 	sourceURL: string;
 	sourceAPIURL: string;
@@ -76,7 +76,7 @@ function toBeastItem(cells: Element[]): BeastItem | null {
 		meleeDefense: defense.melee,
 		rangedDefense: defense.ranged,
 		restricted: extractCellText(cells[10]) === "(R)",
-		price: extractCellText(cells[11]).replace(/,/g, ""),
+		price: toInteger(extractCellText(cells[11]).replace(/,/g, "")),
 		rarity: extractCellText(cells[12]),
 		sourceURL,
 		sourceAPIURL,

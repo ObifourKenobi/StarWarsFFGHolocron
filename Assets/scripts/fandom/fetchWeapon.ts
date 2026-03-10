@@ -16,7 +16,7 @@ interface WeaponItem {
   encumbrance: number;
   hardPoints: number;
   restricted: boolean;
-  price: string;
+  price: number;
   rarity: string;
   special: string;
   sourceURL: string;
@@ -55,7 +55,7 @@ function toWeaponItem(cells: Element[]): WeaponItem | null {
     encumbrance: toInteger(extractCellText(cells[5])),
     hardPoints: toInteger(extractCellText(cells[6])),
     restricted: extractCellText(cells[7]) === "(R)",
-    price: extractCellText(cells[8]).replace(/,/g, ""),
+    price: toInteger(extractCellText(cells[8]).replace(/,/g, "")),
     rarity: extractCellText(cells[9]),
     special: extractCellText(cells[10]),
     sourceURL,

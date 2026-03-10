@@ -10,7 +10,7 @@ import {
 interface GearItem {
 	name: string;
 	encumbrance: number;
-	price: string;
+	price: number;
 	rarity: string;
 	restricted: boolean;
 	sourceURL: string;
@@ -43,7 +43,7 @@ function toGearItem(cells: Element[]): GearItem | null {
 	// Parse columns by position: Item | Encumbrance | Restriction | Price | Rarity
 	const encumbranceText = extractCellText(cells[1]);
 	const restricted = extractCellText(cells[2]) === "(R)";
-	const price = extractCellText(cells[3]).replace(/,/g, "");
+	const price = toInteger(extractCellText(cells[3]).replace(/,/g, ""));
 	const rarityText = extractCellText(cells[4]);
 
 	// Convert encumbrance to number (handle "-" for dashes)

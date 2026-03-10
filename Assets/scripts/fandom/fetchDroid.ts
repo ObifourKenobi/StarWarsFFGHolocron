@@ -24,7 +24,7 @@ interface DroidItem {
 	rangedDefense: number;
 	skills: string;
 	restricted: boolean;
-	price: string;
+	price: number;
 	rarity: string;
 	sourceURL: string;
 	sourceAPIURL: string;
@@ -92,7 +92,7 @@ function toDroidItem(cells: Element[], category: string): DroidItem | null {
 	const defense = parseDefense(extractCellText(cells[6]));
 	const skills = extractCellText(cells[7]);
 	const restricted = extractCellText(cells[8]) === "(R)";
-	const price = extractCellText(cells[9]).replace(/,/g, "");
+	const price = toInteger(extractCellText(cells[9]).replace(/,/g, ""));
 	const rarity = extractCellText(cells[10]);
 
 	return {

@@ -18,7 +18,7 @@ type VehicleItem = {
 	hullTrauma: number;
 	systemStrain: number;
 	restricted: boolean;
-	price: string;
+	price: number;
 	rarity: number;
 	sourceURL: string;
 	sourceAPIURL: string;
@@ -58,7 +58,7 @@ function toVehicleItem(cells: Element[]): VehicleItem | null {
 		hullTrauma: toInteger(extractCellText(cells[6])),
 		systemStrain: toInteger(extractCellText(cells[7])),
 		restricted: extractCellText(cells[8]) === "(R)",
-		price: extractCellText(cells[9]).replace(/,/g, ""),
+		price: toInteger(extractCellText(cells[9]).replace(/,/g, "")),
 		rarity: toInteger(extractCellText(cells[10])),
 		sourceURL,
 		sourceAPIURL,

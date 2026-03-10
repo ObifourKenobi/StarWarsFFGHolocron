@@ -14,7 +14,7 @@ type BeastItem = {
 	meleeDefense: number;
 	rangedDefense: number;
 	restricted: boolean;
-	price: string;
+	price: number;
 	rarity: string;
 	sourceURL: string;
 	sourceAPIURL: string;

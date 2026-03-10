@@ -6,7 +6,7 @@ type AttachmentItem = {
 	hardPoints: number;
 	encumbrance: number;
 	restricted: boolean;
-	price: string;
+	price: number;
 	rarity: string;
 	sourceURL: string;
 	sourceAPIURL: string;

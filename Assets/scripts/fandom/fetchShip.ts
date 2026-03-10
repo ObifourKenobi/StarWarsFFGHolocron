@@ -17,7 +17,7 @@ interface ShipItem {
   hullTrauma: number;
   systemStrain: number;
   restricted: boolean;
-  price: string;
+  price: number;
   rarity: string;
   sourceURL: string;
   sourceAPIURL: string;
@@ -56,7 +56,7 @@ function toShipItem(cells: Element[]): ShipItem | null {
     hullTrauma: toInteger(extractCellText(cells[6])),
     systemStrain: toInteger(extractCellText(cells[7])),
     restricted: extractCellText(cells[8]) === "(R)",
-    price: extractCellText(cells[9]).replace(/,/g, ""),
+    price: toInteger(extractCellText(cells[9]).replace(/,/g, "")),
     rarity: extractCellText(cells[10]),
     sourceURL,
     sourceAPIURL,

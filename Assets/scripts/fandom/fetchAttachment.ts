@@ -12,7 +12,7 @@ interface AttachmentItem {
 	hardPoints: number;
 	encumbrance: number;
 	restricted: boolean;
-	price: string;
+	price: number;
 	rarity: string;
 	sourceURL: string;
 	sourceAPIURL: string;
@@ -49,7 +49,7 @@ function toAttachmentItem(cells: Element[]): AttachmentItem | null {
 		hardPoints: toInteger(extractCellText(cells[1])),
 		encumbrance: encumText === "-" ? 0 : toInteger(encumText),
 		restricted: extractCellText(cells[3]) === "(R)",
-		price: extractCellText(cells[4]).replace(/,/g, ""),
+		price: toInteger(extractCellText(cells[4]).replace(/,/g, "")),
 		rarity: extractCellText(cells[5]),
 		sourceURL,
 		sourceAPIURL,
