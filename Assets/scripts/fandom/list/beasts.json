@@ -15,7 +15,25 @@
     "price": "2500",
     "rarity": "1",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Bantha",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bantha&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Bantha&format=json",
+    "subtitle": "The ubiquitous bantha is found on thousands of worlds across the galaxy, with hundreds of variant species demonstrating this mammal's adaptability.",
+    "description": "While Stay on Target: A Sourcebook for Aces shows this as \"Silhouette 3\", the Errata (Page 3) corrects this to \"Silhouette 2\".",
+    "skills": "Brawl 1, Resilience 2.",
+    "talents": "None.",
+    "abilities": "Silhouette 2, Domesticable 1 (downgrade the difficulty of checks to train banthas by one), Trained Mount 1 (add a boost die to a rider's Survival checks while mounted on a bantha), Beast of Burden 10 (banthas add 10 to their encumbrance threshold).",
+    "equipment": "Horns (Brawl: Damage 10; Critical 4; Range , Disorient 2).",
+    "books": [
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "83"
+      }
+    ]
   },
   {
     "name": "Cracian Thumper",
@@ -33,7 +51,20 @@
     "price": "7500",
     "rarity": "2",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cracian_Thumper",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cracian_Thumper&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cracian_Thumper&format=json",
+    "subtitle": "Exported from Craci in the Corporate Sector, Cracian thumpers have become one of the most widespread riding animals in the galaxy.",
+    "description": "",
+    "skills": "Brawl 2, Cool 1, Perception 1, Stealth 3.",
+    "talents": "None.",
+    "abilities": "Silhouette 2, Domesticable 1 (downgrade the difficulty of checks to train Cracian thumpers by one), Trained Mount 2 (add two boost dice to a rider's Survival checks while mounted on a Cracian thumper).",
+    "equipment": "Claws (Brawl; Damage 6; Critical 2; Range ), tail (Brawl; Damage 8; Critical 5; Range ; Disorient 2).",
+    "books": [
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      }
+    ]
   },
   {
     "name": "Dalgo",
@@ -51,7 +82,20 @@
     "price": "15000",
     "rarity": "5",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Dalgo",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dalgo&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dalgo&format=json",
+    "subtitle": "The imposing dalgo is a riding beast native to Onderon and has a long history as both a beast of burden and a powerful mount.",
+    "description": "",
+    "skills": "Athletics 2, Brawl 1.",
+    "talents": "None.",
+    "abilities": "Silhouette 2, Trained Mount 2 (add two boost dice to a rider's Survival checks while mounted on a dalgo).",
+    "equipment": "Trampling hooves (Brawl; Damage 7; Critical 4; Range ; Knockdown).",
+    "books": [
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      }
+    ]
   },
   {
     "name": "Dewback",
@@ -69,7 +113,25 @@
     "price": "6500",
     "rarity": "3",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Dewback",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dewback&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dewback&format=json",
+    "subtitle": "Originating from the Dune Sea on Tatooine, dewbacks are large four-legged reptiles who are well-suited to desert environments.",
+    "description": "",
+    "skills": "Brawl 2, Resilience 2.",
+    "talents": "None.",
+    "abilities": "Silhouette 2, Domesticable 1 (downgrade the difficulty of checks to train dewbacks by one), Sand Walker (dewbacks remove a setback die from any checks made to traverse sandy or desert terrain).",
+    "equipment": "Teeth (Brawl; Damage 7; Critical 2; Range ; Ensnare 2).",
+    "books": [
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "85"
+      }
+    ]
   },
   {
     "name": "Eopie (Cameloid)",
@@ -87,7 +149,25 @@
     "price": "3500",
     "rarity": "4",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Eopie_(Cameloid)",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Eopie_(Cameloid)&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Eopie_(Cameloid)&format=json",
+    "subtitle": "Eopies are ponderous but surprisingly strong and resilient animals used as both mounts and labor animals on their native Tatooine.",
+    "description": "",
+    "skills": "Resilience 2, Survival 2.",
+    "talents": "None.",
+    "abilities": "Silhouette 2, Stubborn 1 (upgrade the difficulty of checks to train eopies by one), Trained Mount 1 (add a boost die to a rider's Survival checks while mounted on an eopie), Sand Walker (eopies remove a setback die from any checks made to traverse sandy or desert terrain), Beast of Burden 5 (eopies add 5 to their encumbrance threshold).",
+    "equipment": "Trampling hooves (Brawl; Damage 5; Critical 6; Range ; Knockdown).",
+    "books": [
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "85"
+      }
+    ]
   },
   {
     "name": "Horse (Equinoid)",
@@ -105,7 +185,25 @@
     "price": "5000",
     "rarity": "1",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Horse_(Equinoid)",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Horse_(Equinoid)&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Horse_(Equinoid)&format=json",
+    "subtitle": "\"Horse\" is the generic term in Basic for a wide array of single-hoofed quadruped species found throughout the galaxy.",
+    "description": "",
+    "skills": "Athletics 2, Coordination 1.",
+    "talents": "None.",
+    "abilities": "Silhouette 2, Domesticable 2 (downgrade the difficulty of checks to train horses by two), Trained Mount 2 (add two boost dice to a rider's Survival checks while mounted on a horse).",
+    "equipment": "Trampling hooves (Brawl; Damage 8; Critical 4; Range ; Knockdown).",
+    "books": [
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "85"
+      }
+    ]
   },
   {
     "name": "Hurghol",
@@ -123,7 +221,25 @@
     "price": "2000",
     "rarity": "3",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hurghol",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hurghol&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hurghol&format=json",
+    "subtitle": "The mountain-dwelling hurghols are surefooted, reptilian climbers whose many-jointed limbs allow them to move across almost any incline or surface.",
+    "description": "",
+    "skills": "Athletics 2, Brawl 1, Perception 1, Vigilance 1.",
+    "talents": "None.",
+    "abilities": "Beast of Burden 6 (hurghols add 6 to their encumbrance threshold), Domesticable 1 (downgrade the difficulty of checks to train hurghols by one), Silhouette 2, Sure-footed (hurghols suffer no penalties when moving through difficult terrain), Sustained by the Force (hurghols do not need to consume food or water to stay alive).",
+    "equipment": "Headbutt (Brawl; Damage 7; Critical 4; Range ; Disorient 1).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      },
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "75"
+      }
+    ]
   },
   {
     "name": "Kaadu",
@@ -141,7 +257,25 @@
     "price": "8000",
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Kaadu",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Kaadu&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Kaadu&format=json",
+    "subtitle": "Sometimes compared to the Cracian thumper or kybuck, kaadu are swift bipedal duck-billed reptavians native to the swamps of Naboo.",
+    "description": "",
+    "skills": "Athletics 2, Vigilance 2",
+    "talents": "None.",
+    "abilities": "Silhouette 2, Amphibious (kaadu may breathe underwater without penalty and never suffer movement penalties for traveling through water), Domesticable 1 (downgrade the difficulty of checks to train kaadu by one).",
+    "equipment": "Legs (Brawl; Damage 7; Critical 4; Range ).",
+    "books": [
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "86"
+      }
+    ]
   },
   {
     "name": "Kybuck",
@@ -159,7 +293,25 @@
     "price": "10000",
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Kybuck",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Kybuck&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Kybuck&format=json",
+    "subtitle": "The amazingly swift kybuck is native to the Woolwarricca plains on the Wookiee homeworld of Kashyyyk.",
+    "description": "",
+    "skills": "Athletics 2, Brawl 1, Survival 1.",
+    "talents": "None.",
+    "abilities": "Silhouette 2, Sure-Footed (kybucks suffer no penalties when moving through difficult terrain).",
+    "equipment": "Horns (Brawl; Damage 6; Critical 5; Range ; Disorient 1).",
+    "books": [
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "86"
+      }
+    ]
   },
   {
     "name": "Narglatch",
@@ -177,7 +329,35 @@
     "price": "9000",
     "rarity": "4",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Narglatch",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Narglatch&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Narglatch&format=json",
+    "subtitle": "There are many subspecies of narglatch in the galaxy, found in places ranging from the frozen wastes of Orto Plutonia to the swamplands of Naboo.",
+    "description": "",
+    "skills": "Athletics 3, Brawl 2, Discipline 2, Perception 1, Resilience 2, Stealth 2.",
+    "talents": "None.",
+    "abilities": "Fierce pounce (If the narglatch uses the aim maneuver, it gains the Knockdown quality on its next attack), Silhouette 2, Fearless (narglatch are immune to the effects of fear), Suited to the Cold (narglatch are immune to the effects of cold and below-freezing environments).",
+    "equipment": "Claws (Brawl; Damage 9; Critical 2; Range ; Linked 1, Vicious 3).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      },
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "77"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "87"
+      }
+    ]
   },
   {
     "name": "Reek",
@@ -195,7 +375,25 @@
     "price": "10000",
     "rarity": "5",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Reek",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Reek&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Reek&format=json",
+    "subtitle": "Although reeks are naturally herbivorous and non-aggressive, their fearsome appearance as well as great size and strength have seen them used for combat and blood sport in arenas throughout the galaxy.",
+    "description": "",
+    "skills": "Athletics 3, Brawl 2, Perception 2, Vigilance 2.",
+    "talents": "None.",
+    "abilities": "Silhouette 2.",
+    "equipment": "Horns (Brawl; Damage 7; Critical 3; Range ; Disorient 1, Knockdown).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      },
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "78"
+      }
+    ]
   },
   {
     "name": "Ronto",
@@ -213,7 +411,25 @@
     "price": "4500",
     "rarity": "3",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ronto",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ronto&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ronto&format=json",
+    "subtitle": "Often seen as beasts of burden and mounts for Jawas, rontos are known to be effective, if skittish, mounts.",
+    "description": "",
+    "skills": "Survival 2.",
+    "talents": "None.",
+    "abilities": "Silhouette 2, Domesticable 1 (downgrade the difficulty of checks to train rontos by one), Trained Mount 1 (add a boost die to a rider's Survival checks while mounted on a ronto), Beast of Burden 10 (rontos add 10 to their encumbrance threshold).",
+    "equipment": "Trampling hooves (Brawl; Damage 12; Critical 4; Range ; Knockdown).",
+    "books": [
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "87"
+      }
+    ]
   },
   {
     "name": "Tauntaun",
@@ -231,7 +447,25 @@
     "price": "10000",
     "rarity": "10",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Tauntaun",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tauntaun&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tauntaun&format=json",
+    "subtitle": "Native to the frigid environs of Hoth, the common tauntaun is the largest of several species of the bipedal reptomammals.",
+    "description": "",
+    "skills": "Resilience 3, Survival 1, Vigilance 1.",
+    "talents": "None.",
+    "abilities": "Silhouette 2, Trained Mount 1 (add a boost die to a rider's Survival checks while mounted on a tauntaun).",
+    "equipment": "Horns (Brawl: Damage 7; Critical 5; Range , Disorient 1).",
+    "books": [
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "88"
+      }
+    ]
   },
   {
     "name": "Fambaa",
@@ -249,7 +483,25 @@
     "price": "60000",
     "rarity": "4",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Fambaa",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fambaa&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fambaa&format=json",
+    "subtitle": "The enormous fambaa are have been famously domesticated by Gungans for thousands of years on Naboo, but have long been exported to many other worlds including Onderon.",
+    "description": "",
+    "skills": "Brawl 1, Cool 2, Resilience 3.",
+    "talents": "None.",
+    "abilities": "Silhouette 4, Beast of Burden 20 (fambaa add 20 to their encumbrance threshold), Fearless (fambaa are immune to the effects of fear).",
+    "equipment": "Massive teeth (Brawl; Damage 12; Critical 4; Range ; Breach 2, Slow-Firing).",
+    "books": [
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "86"
+      }
+    ]
   },
   {
     "name": "Mustafarian Lava Flea",
@@ -267,7 +519,25 @@
     "price": "15000",
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mustafarian_Lava_Flea",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mustafarian_Lava_Flea&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mustafarian_Lava_Flea&format=json",
+    "subtitle": "Perhaps one of the most unusual mounts in the galaxy, the Mustafarian lava flea is a giant arthropod that evolved for life on the volcanic environment of its homeworld.",
+    "description": "",
+    "skills": "Athletics 2, Resilience 3.",
+    "talents": "None.",
+    "abilities": "Silhouette 3, Domesticable 1 (downgrade the difficulty of checks to train lava fleas by one), Suited to the Heat (lava fleas are immune to the effects of heat and hot environments), Leap (lava fleas add two boost dice to all Athletics checks made to perform vertical or horizontal jumps).",
+    "equipment": "Proboscis (Brawl; Damage 5; Critical 6; Range ).",
+    "books": [
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "87"
+      }
+    ]
   },
   {
     "name": "Uxibeast",
@@ -285,7 +555,25 @@
     "price": "2500",
     "rarity": "2",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Uxibeast",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Uxibeast&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Uxibeast&format=json",
+    "subtitle": "Shaggy uxibeasts have been used as beasts of burden on planets across the galaxy for untold years.",
+    "description": "",
+    "skills": "Athletics 1, Brawl 1, Resilience 2.",
+    "talents": "None.",
+    "abilities": "Beast of Burden 15 (uxibeasts add 15 to their encumbrance threshold), Domesticable 2 (downgrade the difficulty of checks to train uxibeasts twice), Silhouette 3.",
+    "equipment": "Trample (Brawl; Damage 10; Critical 5; Range ; Disorient 2, Inaccurate 1).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      },
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "79"
+      }
+    ]
   },
   {
     "name": "Aiwha",
@@ -303,7 +591,25 @@
     "price": "25000",
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Aiwha",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Aiwha&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Aiwha&format=json",
+    "subtitle": "Thought to be native to the waters of Naboo, aiwhas are also found on Kamino, and have been imported to other oceanic worlds.",
+    "description": "",
+    "skills": "Athletics 1, Coordination 1.",
+    "talents": "None.",
+    "abilities": "Silhouette 3, Amphibious (aiwhas may breathe underwater without penalty and never suffer movement penalties for traveling through water), Flyer (aiwhas can fly), Creature of the Sea (aiwhas are not capable of operating on land).",
+    "equipment": "None.",
+    "books": [
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "83"
+      }
+    ]
   },
   {
     "name": "Ruping",
@@ -321,7 +627,25 @@
     "price": "16000",
     "rarity": "5",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ruping",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ruping&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ruping&format=json",
+    "subtitle": "The soaring rupings of Onderon are graceful, noble reptavians that have been trained as flying mounts for generations on their homeworld.",
+    "description": "",
+    "skills": "Coordination 2, Survival 3, Vigilance 3.",
+    "talents": "None.",
+    "abilities": "Silhouette 2, Flyer (rupings can fly), Trained Mount 1 (add a boost die to a rider's Survival checks while mounted on a ruping).",
+    "equipment": "Claws (Brawl; Damage 7; Critical 3; Range ).",
+    "books": [
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "88"
+      }
+    ]
   },
   {
     "name": "Thranta",
@@ -339,7 +663,25 @@
     "price": "120000",
     "rarity": "9",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Thranta",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Thranta&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Thranta&format=json",
+    "subtitle": "Now an endangered species, the thranta were once a common sight in the skies of Alderaan prior to the planet's destruction.",
+    "description": "",
+    "skills": "Cool 1, Coordination 1.",
+    "talents": "None.",
+    "abilities": "Silhouette 2, Flyer (thrantas can fly), Hover (may reduce speed to 0 and remain aloft), Domesticated (difficulty for training this beast is not upgraded), Unstable 4 (when thrantas suffer a Critical Injury, they add +40 to the Critical Injury roll).",
+    "equipment": "Beak (Brawl: Damage 5; Critical 5; Range ).",
+    "books": [
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "88"
+      }
+    ]
   },
   {
     "name": "Varactyl",
@@ -357,7 +699,35 @@
     "price": "35000",
     "rarity": "4",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Varactyl",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Varactyl&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Varactyl&format=json",
+    "subtitle": "The Utai species of Utapau has long used varactyls as mounts, favoring the reptavian creatures for their incredible speed, as well as for their ability to defeat osbtacles by climbing using their clinging feet or even gliding over them using their feathered limbs.",
+    "description": "",
+    "skills": "Athletics 2, Brawl 2, Perception 1, Vigilance 1.",
+    "talents": "None.",
+    "abilities": "Glider (varactyls can suffer 2 strain to count as fliers for a turn), Silhouette 2.",
+    "equipment": "Beak (Brawl; Damage 11; Critical 3; Range ; Vicious 3).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "84"
+      },
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "79"
+      },
+      {
+        "code_name": "SWA25",
+        "book_name": "Stay on Target",
+        "page_number": "89"
+      }
+    ]
   },
   {
     "name": "Albek",
@@ -375,7 +745,25 @@
     "price": "700",
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Albek",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Albek&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Albek&format=json",
+    "subtitle": "The spine-backed, reptilian albeks have spread to numerous worlds across the galaxy, in large part due to a single trait of the species—its complete and utter fearlessness.",
+    "description": "",
+    "skills": "Athletics 1, Brawl 3, Discipline 2, Perception 1, Vigilance 1.",
+    "talents": "Preemptive Avoidance (immediately after an opponent moves to engage an albek, the albek may spend one Destiny Point to disengage from the opponent as an out of turn indicental).",
+    "abilities": "Silhouette 0.",
+    "equipment": "Toothy jaws (Brawl; Damage 3; Critical 3; Range ; Pierce 2, Vicious 1).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      },
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "74"
+      }
+    ]
   },
   {
     "name": "Creereen",
@@ -393,7 +781,25 @@
     "price": "400",
     "rarity": "5",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Creereen",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Creereen&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Creereen&format=json",
+    "subtitle": "Small, flight-capable mammals that dwell in tight-knit nesting groups of up to a dozen individuals, creereen survive the attention of predators through their mobility and alertness.",
+    "description": "",
+    "skills": "",
+    "talents": "None.",
+    "abilities": "Flyer, Shriek (a creereen can set up a shrieking racket as an action. All targets within short range that the creereen considers enemies must make a Hard difficulty Resilience check. Failure causes a target to suffer 4 strain and become disoriented until the noise stops. Characters in sealed armor or who are wearing ear protection are not affected.), Silhouette 0.",
+    "equipment": "Beak (Brawl; Damage 2; Critical 4; Range ).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      },
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "74"
+      }
+    ]
   },
   {
     "name": "Fissrit",
@@ -411,7 +817,25 @@
     "price": "1500",
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Fissrit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fissrit&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fissrit&format=json",
+    "subtitle": "Fissrit, also known as fire worms, are many-legged arthropods measuring just under a third of a meter in length.",
+    "description": "",
+    "skills": "",
+    "talents": "None.",
+    "abilities": "Scorching Touch (when an opponent ends its turn engaged with the fissrit, the opponent suffers 1 wound and 1 strain), Silhouette 0.",
+    "equipment": "Heated underbelly (Brawl; Damage 5; Critical 3; Range ; Burn 1).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      },
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "75"
+      }
+    ]
   },
   {
     "name": "Porvir",
@@ -429,7 +853,25 @@
     "price": "100",
     "rarity": "5",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Porvir",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Porvir&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Porvir&format=json",
+    "subtitle": "Porvir are tiny, awkward creatures.",
+    "description": "",
+    "skills": "",
+    "talents": "None.",
+    "abilities": "Unthreatening Aura (when declaring an attack against a porvir within short range, the attacker must suffer 3 strain or choose a different action or target), Silhouette 0.",
+    "equipment": "Teeth and claws (Brawl; Damage 1; Critical 4; Range ).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      },
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "78"
+      }
+    ]
   },
   {
     "name": "Runderen",
@@ -447,7 +889,25 @@
     "price": "25",
     "rarity": "1",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Runderen",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Runderen&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Runderen&format=json",
+    "subtitle": "Packs of quarter-meter long runderen are a common sight across the seedy underbellies and slums of cities across the galaxy.",
+    "description": "",
+    "skills": "",
+    "talents": "None.",
+    "abilities": "Shadowblend (upgrade the difficulty of spotting or targeting once runderen that are in darkness), Silhouette 0.",
+    "equipment": "Teeth and claws (Brawl; Damage 1; Critical 5; Range ).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      },
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "78"
+      }
+    ]
   },
   {
     "name": "Spintiri Glowbat",
@@ -465,7 +925,25 @@
     "price": "800",
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Spintiri_Glowbat",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Spintiri_Glowbat&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Spintiri_Glowbat&format=json",
+    "subtitle": "The planet Spintir is known to xenobiologists for its curious diversity of mammalian species, but few of its native lifforms are as notable as the local glowbats.",
+    "description": "",
+    "skills": "",
+    "talents": "",
+    "abilities": "",
+    "equipment": "Blinding spray (Ranged ; Damage 5; Critical 5; Range ; Disorient 3, Stun Damage, Slow-Firing 3), claws (Brawl; Damage 3; Critical 4; Range ).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      },
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "78"
+      }
+    ]
   },
   {
     "name": "Jerethian Clamberwolf",
@@ -483,7 +961,25 @@
     "price": "30000",
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Jerethian_Clamberwolf",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jerethian_Clamberwolf&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jerethian_Clamberwolf&format=json",
+    "subtitle": "The powerful, heavily furred clamberwolves are the unquestioned apex predators of the forests on their homeworld of Jereth VI.",
+    "description": "",
+    "skills": "Athletics 2, Brawl 2, Coordination 2, Perception 2, Vigilance 1.",
+    "talents": "None.",
+    "abilities": "Sure-footed (clamberwolves suffer no penalties when moving through difficult terrain).",
+    "equipment": "Claws (Brawl; Damage 7; Critical 2; Range ; Vicious 2), teeth (Brawl; Damage 7; Critical 3; Range ; Pierce 3).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      },
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "75"
+      }
+    ]
   },
   {
     "name": "Kath Hound",
@@ -501,7 +997,20 @@
     "price": "7500",
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Kath_Hound",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Kath_Hound&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Kath_Hound&format=json",
+    "subtitle": "The kath hounds of Dantooine are a species of fierce canine pack hunters, averaging about one meter tall at the shoulders.",
+    "description": "",
+    "skills": "Athletics 3, Brawl 2, Perception 2, Vigilance 3.",
+    "talents": "None.",
+    "abilities": "Pack Instincts (when performing the assist maneuver, kath hounds grant two boost dice instead of a boost die).",
+    "equipment": "Teeth (Brawl; Damage 7; Critical 3; Range ). Some sub-species also have horns, which use the following profile: horns(Brawl; Damage 5; Critical 4; Range ; Disorient 1, Knockdown).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      }
+    ]
   },
   {
     "name": "Manka Cat",
@@ -519,7 +1028,20 @@
     "price": "40000",
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Manka_Cat",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Manka_Cat&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Manka_Cat&format=json",
+    "subtitle": "A rare example of a feline predator with a pack instinct, manka cats have been found across the mountains and grasslands of a number of the Core Worlds still lightly settled enough to have wilderness areas.",
+    "description": "",
+    "skills": "Athletics 3, Brawl 1, Cool 2, Stealth 2.",
+    "talents": "None.",
+    "abilities": "Pack Instincts (when performing the assist maneuver, manka cats grant two boost dice instead of a boost die).",
+    "equipment": "Tusks and teeth (Brawl; Damage 5; Critical 3; Range ; Pierce 2, Vicious 1).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      }
+    ]
   },
   {
     "name": "Mantellian Flutterplume",
@@ -537,7 +1059,20 @@
     "price": "2500",
     "rarity": "4",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mantellian_Flutterplume",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mantellian_Flutterplume&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mantellian_Flutterplume&format=json",
+    "subtitle": "The flutterplumes of Ord Mantell are a species of large, carnivorous avians with powerful, hooked beaks and four sets of razor-sharp talons.",
+    "description": "",
+    "skills": "",
+    "talents": "None.",
+    "abilities": "Flyer.",
+    "equipment": "Beak and talons (Brawl; Damage 2; Critical 3; Range ).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      }
+    ]
   },
   {
     "name": "Nexu",
@@ -555,7 +1090,25 @@
     "price": "8000",
     "rarity": "4",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Nexu",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Nexu&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Nexu&format=json",
+    "subtitle": "Originally native to the jungles of Cholganna, nexu have been transplanted across the galaxy since they were first discovered to be domesticable.",
+    "description": "",
+    "skills": "Athletics 3, Brawl 1, Cool 2, Stealth 2, Vigilance 3.",
+    "talents": "None.",
+    "abilities": "Fierce Pounce (if the nexu uses the aim maneuver, it gains the Knockdown quality on its next attack).",
+    "equipment": "Bite (Brawl; Damage 7; Critical 3; Range ; Ensnare 1, Pierce 1), claws (Brawl; Damage 5; Critical 4; Range ), tail whip (Brawl; Damage 4; Critical 4; Range ).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      },
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "77"
+      }
+    ]
   },
   {
     "name": "Vrblther",
@@ -573,6 +1126,24 @@
     "price": "3000",
     "rarity": "3",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Vrblther",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Vrblther&format=json"
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Vrblther&format=json",
+    "subtitle": "Vrblthers are aggressive predators found across the moon of Nar Shaddaa, although they are believed to have originated on the Hutt homeworld of Varl.",
+    "description": "",
+    "skills": "",
+    "talents": "None.",
+    "abilities": "Olfactory perception (gain a boost die on all Survival checks made to track prey, and adds a boost die to enemy Stealth checks made against the vrblthers).",
+    "equipment": "Powerful claws (Brawl; Damage 8; Critical 3; Range ; Knockdown, Sunder).",
+    "books": [
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "76"
+      },
+      {
+        "code_name": "SWF41",
+        "book_name": "Savage Spirits",
+        "page_number": "79"
+      }
+    ]
   }
 ]

@@ -11,6 +11,9 @@ import { fetchSpeciesData } from "./fetchSpecies.ts";
 import { fetchVehiclesData } from "./fetchVehicle.ts";
 import { fetchShipsData } from "./fetchShip.ts";
 import { fetchWeaponData } from "./fetchWeapon.ts";
+import { fetchDetailsArmorData } from "./fetchArmorDetails.ts";
+import { fetchDetailsAttachmentData } from "./fetchAttachmentDetails.ts";
+import { fetchDetailsBeastData } from "./fetchBeastDetails.ts";
 
 type FetchResult = { outputFile: string };
 
@@ -39,8 +42,15 @@ function getArgValue(flag: string): string | undefined {
 }
 
 async function run(): Promise<void> {
+	const includeDetails = Deno.args.includes("--detail") || Deno.args.includes("--datail");
+
 	if (Deno.args.includes("--all")) {
 		await listAll();
+		if (includeDetails) {
+			await fetchDetailsArmorData();
+			await fetchDetailsAttachmentData();
+			await fetchDetailsBeastData();
+		}
 		return;
 	}
 
@@ -101,6 +111,24 @@ async function run(): Promise<void> {
 
 	if (result) {
 		console.log(`Wrote ${result.outputFile}`);
+	}
+
+	if (includeDetails) {
+		switch (type) {
+			case "armor":
+				await fetchDetailsArmorData();
+				break;
+			case "attachment":
+				await fetchDetailsAttachmentData();
+				break;
+			case "beast":
+				await fetchDetailsBeastData();
+				break;
+			default:
+				console.warn(
+					`--detail is currently supported for types: armor, attachment, beast. Skipping details for type: ${type}.`,
+				);
+		}
 	}
 }
 
