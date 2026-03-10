@@ -1,6 +1,12 @@
 // api page https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page={PAGE_TITLE}&format=json
 import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
-import { dirname, fromFileUrl, join } from "https://deno.land/std/path/mod.ts";
+import {
+	buildSourceInfoFromCell,
+	extractCellText,
+	logFound,
+	toInteger,
+	writeJsonList,
+} from "./util.ts";
 
 type VehicleItem = {
 	name: string;
@@ -24,20 +30,6 @@ const CONTENT_SELECTOR = ".mw-content-ltr.mw-parser-output";
 const TABLE_SELECTOR = "table.article-table";
 const OUTPUT_FILE_NAME = "vehicles.json";
 
-function extractCellText(cell: Element): string {
-	const raw = cell.textContent ?? "";
-	return raw
-		.replace(/\u00a0/g, " ")
-		.replace(/\[[0-9]+\]/g, "")
-		.replace(/\s*\n\s*/g, " ")
-		.replace(/\s{2,}/g, " ")
-		.trim();
-}
-
-function toInteger(value: string): number {
-	const parsed = Number(value.replace(/[^0-9-]/g, ""));
-	return Number.isFinite(parsed) ? Math.trunc(parsed) : 0;
-}
 
 function toVehicleItem(cells: Element[]): VehicleItem | null {
 	if (cells.length < 11) {
@@ -51,13 +43,10 @@ function toVehicleItem(cells: Element[]): VehicleItem | null {
 	}
 
 	// Extract URL from the link in the name cell
-	const link = nameCell.querySelector("a");
-	const href = link?.getAttribute("href") || "";
-	const pageName = href.replace(/^\/wiki\//, "");
-	const sourceURL = href ? `${BASE_URL}${href}` : "";
-	const sourceAPIURL = pageName
-		? `${BASE_URL}/api.php?action=parse&page=${encodeURIComponent(pageName)}&format=json`
-		: "";
+	const { sourceURL, sourceAPIURL } = buildSourceInfoFromCell(
+		nameCell,
+		BASE_URL,
+	);
 
 	return {
 		name,
@@ -126,14 +115,14 @@ export async function fetchVehiclesData(): Promise<{ items: VehicleItem[]; outpu
 
 	const items = tables.flatMap((table) => parseTable(table));
 	const deduped = [...new Map(items.map((item) => [item.name, item])).values()];
-	console.log(`Found ${deduped.length} vehicles`);
+	logFound(deduped.length, "vehicles");
 
-	const outputDir = join(dirname(fromFileUrl(import.meta.url)), "list");
-	await Deno.mkdir(outputDir, { recursive: true });
-	const outputFile = join(outputDir, OUTPUT_FILE_NAME);
-
-	await Deno.writeTextFile(outputFile, JSON.stringify(deduped, null, 2));
-	console.log(`Saved ${deduped.length} vehicles to ${outputFile}`);
+	const outputFile = await writeJsonList(
+		import.meta.url,
+		OUTPUT_FILE_NAME,
+		deduped,
+		"vehicles",
+	);
 
 	return { items: deduped, outputFile };
 }

@@ -1,5 +1,11 @@
-import { DOMParser } from "https://deno.land/x/deno_dom@v0.1.48/deno-dom-wasm.ts";
-import { join } from "https://deno.land/std@0.208.0/path/mod.ts";
+import { DOMParser, Element } from "jsr:@b-fuze/deno-dom";
+import {
+	buildSourceInfoFromCell,
+	extractCellText,
+	logFound,
+	toInteger,
+	writeJsonList,
+} from "./util.ts";
 
 interface BeastItem {
 	name: string;
@@ -28,18 +34,7 @@ async function fetchHtml(): Promise<string> {
 	return data.parse.text["*"];
 }
 
-function extractCellText(cell: Element): string {
-	let text = cell.textContent || "";
-	text = text.replace(/\s*\[\d+\]\s*/g, " ");
-	text = text.replace(/\s+/g, " ").trim();
-	return text;
-}
-
-function toInteger(value: string): number {
-	const cleaned = value.replace(/[^0-9-]/g, "");
-	const num = parseInt(cleaned, 10);
-	return isNaN(num) ? 0 : num;
-}
+const BASE_URL = "https://star-wars-rpg-ffg.fandom.com";
 
 function parseDefense(cellText: string): {
 	melee: number;
@@ -60,15 +55,10 @@ function toBeastItem(cells: Element[]): BeastItem | null {
 	if (!name) return null;
 
 	// Extract URL from the link in the name cell
-	const link = nameCell.querySelector("a");
-	const href = link?.getAttribute("href") || "";
-	const pageName = href.replace(/^\/wiki\//, "");
-	const sourceURL = href
-		? `https://star-wars-rpg-ffg.fandom.com${href}`
-		: "";
-	const sourceAPIURL = pageName
-		? `https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=${encodeURIComponent(pageName)}&format=json`
-		: "";
+	const { sourceURL, sourceAPIURL } = buildSourceInfoFromCell(
+		nameCell,
+		BASE_URL,
+	);
 
 	// Parse columns: Name | Br | Ag | Int | Cun | Will | Pr | Soak | WT | M/R Def. | (R) | Price | Rarity
 	const defense = parseDefense(extractCellText(cells[9]));
@@ -139,14 +129,14 @@ export async function fetchBeastData(): Promise<{
 	}
 
 	const items = Array.from(beastMap.values());
-	console.log(`Found ${items.length} beasts`);
+	logFound(items.length, "beasts");
 
-	const outputDir = new URL("./list", import.meta.url).pathname;
-	await Deno.mkdir(outputDir, { recursive: true });
-
-	const outputFile = join(outputDir, "beasts.json");
-	await Deno.writeTextFile(outputFile, JSON.stringify(items, null, 2));
-	console.log(`Saved ${items.length} beasts to ${outputFile}`);
+	const outputFile = await writeJsonList(
+		import.meta.url,
+		"beasts.json",
+		items,
+		"beasts",
+	);
 
 	return { items, outputFile };
 }

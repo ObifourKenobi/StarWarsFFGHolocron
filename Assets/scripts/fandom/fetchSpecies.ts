@@ -1,6 +1,6 @@
 // api page https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page={PAGE_TITLE}&format=json
 import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
-import { dirname, fromFileUrl, join } from "https://deno.land/std/path/mod.ts";
+import { logFound, toInteger, writeJsonList } from "./util.ts";
 
 type SpeciesRow = Record<string, string | number>;
 type SpeciesItem = {
@@ -86,16 +86,6 @@ function parseTable(table: Element): SpeciesRow[] {
 	return results;
 }
 
-function toInteger(value: string | number | undefined): number {
-	if (typeof value === "number") {
-		return Number.isFinite(value) ? Math.trunc(value) : 0;
-	}
-	if (!value) {
-		return 0;
-	}
-	const parsed = Number(String(value).replace(/[^0-9-]/g, ""));
-	return Number.isFinite(parsed) ? Math.trunc(parsed) : 0;
-}
 
 function toSpeciesItem(record: SpeciesRow): SpeciesItem | null {
 	if (typeof record.name !== "string" || record.name.trim() === "") {
@@ -162,12 +152,12 @@ export async function fetchSpeciesData(): Promise<{ items: SpeciesRow[]; outputF
 		}
 	}
 	const items = [...uniqueByName.values()];
-	console.log(`Found ${items.length} species`);
-	const outputDir = join(dirname(fromFileUrl(import.meta.url)), "list");
-	await Deno.mkdir(outputDir, { recursive: true });
-	const outputFile = join(outputDir, OUTPUT_FILE_NAME);
-
-	await Deno.writeTextFile(outputFile, JSON.stringify(items, null, 2));
-	console.log(`Saved ${items.length} species to ${outputFile}`);
+	logFound(items.length, "species");
+	const outputFile = await writeJsonList(
+		import.meta.url,
+		OUTPUT_FILE_NAME,
+		items,
+		"species",
+	);
 	return { items, outputFile };
 }

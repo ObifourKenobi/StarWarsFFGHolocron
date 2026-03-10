@@ -1,3 +1,5 @@
+import { logFound, writeJsonList } from "./util.ts";
+
 const BASE_URL = "https://star-wars-rpg-ffg.fandom.com";
 const CATEGORY_TITLE = "Category:Force_Power";
 
@@ -56,15 +58,15 @@ export async function fetchForcePowerData(): Promise<{
 	outputFile: string;
 }> {
 	const items = await fetchCategoryMembers();
-	console.log(`Found ${items.length} force powers`);
+	logFound(items.length, "force powers");
 
-	const outputDir = new URL("./list", import.meta.url).pathname;
-	await Deno.mkdir(outputDir, { recursive: true });
+	const outputFile = await writeJsonList(
+		import.meta.url,
+		"forcePowers.json",
+		items,
+		"force powers",
+	);
 
-	const outputFile = `${outputDir}/forcePowers.json`;
-	await Deno.writeTextFile(outputFile, JSON.stringify(items, null, 2));
-
-	console.log(`Saved ${items.length} force powers to ${outputFile}`);
 	return { items, outputFile };
 }
 

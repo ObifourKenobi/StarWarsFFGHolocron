@@ -1,6 +1,6 @@
 // api page https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page={PAGE_TITLE}&format=json
 import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
-import { dirname, fromFileUrl, join } from "https://deno.land/std/path/mod.ts";
+import { logFound, writeJsonList } from "./util.ts";
 
 type BookItem = {
 	code_name: string;
@@ -79,13 +79,14 @@ export async function fetchBooksData(): Promise<{ items: BookItem[]; outputFile:
 	}
 
 	const deduped = [...new Map(items.map((item) => [item.code_name, item])).values()];
-	console.log(`Found ${deduped.length} books`);
+	logFound(deduped.length, "books");
 
-	const outputDir = join(dirname(fromFileUrl(import.meta.url)), "list");
-	await Deno.mkdir(outputDir, { recursive: true });
-	const outputFile = join(outputDir, OUTPUT_FILE_NAME);
-	await Deno.writeTextFile(outputFile, JSON.stringify(deduped, null, 2));
-	console.log(`Saved ${deduped.length} books to ${outputFile}`);
+	const outputFile = await writeJsonList(
+		import.meta.url,
+		OUTPUT_FILE_NAME,
+		deduped,
+		"books",
+	);
 
 	return { items: deduped, outputFile };
 }

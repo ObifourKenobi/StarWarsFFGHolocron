@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Accurate X",
+    "activation": "Passive",
+    "effect": "Add X boost dice to the combat check.",
+    "description": "For each level of this trait, the attacker adds a boost die to [their] attack dice pools while using this weapon."
+  },
+  {
+    "name": "Auto-fire",
+    "activation": "Active",
+    "effect": "Increase combat check difficulty by one. Deal an additional hit to target or another target in range. If attacking multiple targets, the initial target must be the one with highest difficulty and defense. May be activated multiple times. May activate Critical Hits multiple times, up to the number of hits scored. May choose not to use Auto-fire quality before assembling dice pool and not take penalty.",
+    "description": "The attacker must increase the difficulty of the attack check by one difficulty die. The user may choose not to use the Auto-fire quality in a weapon; in this case [they] cannot trigger the quality but also does not suffer the aforementioned penalty."
+  },
+  {
+    "name": "Blast X",
+    "activation": "Active",
+    "effect": "If the attack is successful, spend two advantages to deal X damage to each character engaged with the target (plus one per success result). If the attack misses, may also trigger Blast by spending three advantages to deal X damage to the target and each character engaged with them. Starship scale weapons hit their primary target and every additional target within Short range.",
+    "description": "If the attack is successful and Blast activates, each character (friend or foe) engaged with the original target suffers damage equal to the weapon's Blast rating (plus an additional wound per success result as usual)."
+  },
+  {
+    "name": "Breach X",
+    "activation": "Passive",
+    "effect": "Ignore X armor of the target (or X times 10 soak).",
+    "description": "Breach weapons ignore one point of armor for every rating of Breach (meaning they also ignore 10 points of soak for every rating of Breach)."
+  },
+  {
+    "name": "Burn X",
+    "activation": "Active",
+    "effect": "Target suffers the weapon's base damage for X rounds, at the start of their turn.",
+    "description": "If the attack is successful, the target continues to suffer the weapon's base damage each round for a number of rounds equal to the weapon's Burn rating. Damage is applied at the start of each of the target's turns."
+  },
+  {
+    "name": "Concussive X",
+    "activation": "Active",
+    "effect": "Target is staggered for X rounds.",
+    "description": "The target is staggered for a number of rounds equal to the weapon's Concussive rating. A staggered target cannot perform actions."
+  },
+  {
+    "name": "Cortosis",
+    "activation": "Passive",
+    "effect": "Weapon ignores the Sunder quality. Armour ignores the Breach and Pierce qualities.",
+    "description": "Weapons with the Cortosis quality are immune to the Sunder quality. Armor with the Cortosis quality makes the wearer's soak immune to the Pierce and Breach qualities."
+  },
+  {
+    "name": "Cumbersome X",
+    "activation": "Passive",
+    "effect": "Increase the difficulty of all checks using the item by X minus the user's Brawn.",
+    "description": "To wield a Cumbersome weapon properly, the character needs a Brawn characteristic equal to or greater than the weapon's Cumbersome rating. For each point of Brawn by which the character is deficient, [they] must increase the difficulty of all checks made while using the weapon by one."
+  },
+  {
+    "name": "Defensive X",
+    "activation": "Passive",
+    "effect": "Increase melee defense by X.",
+    "description": "A character wielding a weapon with the Defensive quality increases [their] melee defense by the weapon's Defensive rating."
+  },
+  {
+    "name": "Deflection X",
+    "activation": "Passive",
+    "effect": "Increase ranged defense by X.",
+    "description": "An item with the Deflection quality increases the wearer's ranged defense by an amount equal to its Deflection rating."
+  },
+  {
+    "name": "Disorient X",
+    "activation": "Active",
+    "effect": "Target is disoriented for X rounds.",
+    "description": "When Disorient is triggered, the target is disoriented for a number of rounds equal to the weapon's Disorient rating. (A disoriented target adds a setback die to all skill checks [they] perform.)"
+  },
+  {
+    "name": "Ensnare X",
+    "activation": "Active",
+    "effect": "Target is immobilized for X rounds. They may attempt a Hard difficulty Athletics check as an action to break free.",
+    "description": "When Ensnare is triggered, the target is immobilized for a number of rounds equal to the weapon's Ensnare rating. An Ensnared target may attempt a Hard difficulty Athletics check as [their] action on [their] turn to break free from the effect. (An immobilized target cannot perform maneuvers.)"
+  },
+  {
+    "name": "Guided X",
+    "activation": "Active",
+    "effect": "Requires three advantages to activate. If the attack misses, may make a check at the end of the round with X ability dice and a difficulty calculated by comparing Silhouette 0 to the target's Silhouette. If successful, the weapon hits the target.",
+    "description": "If a character misses while firing a Guided weapon and if Guided is activated, [they] may make an attack check at the end of the round. The difficulty of the check is calculated by comparing the weapon's silhouette of 0 to the silhouette of the target; the check's ability dice is equal to the weapon's Guided rating. If the check is successful, the weapon strikes the target, and damage is dealt normally."
+  },
+  {
+    "name": "Knockdown",
+    "activation": "Active",
+    "effect": "Requires an additional advantage to activate per Silhouette of the target beyond 1. Target is knocked prone.",
+    "description": "When Knockdown triggers, the target is knocked prone."
+  },
+  {
+    "name": "Inaccurate X",
+    "activation": "Passive",
+    "effect": "Add X setback dice to the combat check.",
+    "description": "Inaccurate weapons add a setback die to the attacker's dice pool equal to their Inaccurate rating."
+  },
+  {
+    "name": "Inferior",
+    "activation": "Passive",
+    "effect": "Weapons add a threat result to all checks and decrease their base damage by 1. Armor increases its encumbrance by 1 and decreases its soak value by 1.",
+    "description": "An Inferior weapon generates [an] automatic threat result on all checks related to its use, and its base damage is decreased by one. Inferior armor has its encumbrance increased by one and its defense decreased by one. If it does not have defense, decrease its soak value by one, to a minimum of zero."
+  },
+  {
+    "name": "Ion",
+    "activation": "Passive",
+    "effect": "Damage is dealt to strain threshold, after reducing by armor and soak. Weapon only effects electronics.",
+    "description": "Damage is dealt to the target (usually a vehicle) as system strain. The damage is still reduced by armor and soak. Droids are affected by ion weapons, taking damage to their strain threshold."
+  },
+  {
+    "name": "Limited Ammo X",
+    "activation": "Passive",
+    "effect": "The weapon runs out of ammunition after X attacks.",
+    "description": "A weapon with the Limited Ammo quality may be used to make a number of attacks equal to its Limited Ammo rating before it must be reloaded with a maneuver. In addition, each shot expends one of a limited number of rounds of ammo, which, once used, must be purchased or otherwise obtained before firing the weapon again. This also applies to grenades and other one-use weapons that have the Limited Ammo 1 quality (here, the user is not reloading the grenade, but drawing another to use—mechanically, they are equivalent)."
+  },
+  {
+    "name": "Linked X",
+    "activation": "Active",
+    "effect": "Deal an additional hit to the target. May be activated X times.",
+    "description": "When firing a linked weapon, on a successful attack, the weapon deals one hit. The wielder may spend two advantage results to gain an additional hit, and may do so a number of times equal to the weapon's Linked rating. Additional hits from the Linked weapon may only be applied against the original target. Each hit deals the weapon's base damage plus the total uncanceled success results scored on the check."
+  },
+  {
+    "name": "Pierce X",
+    "activation": "Passive",
+    "effect": "Ignore X soak of the target.",
+    "description": "An attack made with this weapon ignores one point of soak for each rank of Pierce. If the weapon has more ranks of Pierce than the target's total soak, it completely ignores the target's soak. For example, Pierce 3 against a soak of 2 ignores 2 points of soak, but the extra point of Pierce has no further effect."
+  },
+  {
+    "name": "Prepare X",
+    "activation": "Passive",
+    "effect": "The user must perform X maneuvers to prepare the weapon before they make an attack.",
+    "description": "The user must perform a number of preparation maneuvers equal to the weapon's Prepare rating before making attacks with that weapon."
+  },
+  {
+    "name": "Slow-firing X",
+    "activation": "Passive",
+    "effect": "Must wait X rounds after firing before it can be fired again.",
+    "description": "A weapon's Slow-Firing rating dictates how soon the weapon can be fired again after attacking. For example, a heavy turbolaser with Slow-Firing 2 must wait two rounds after being fired before it can be fired again."
+  },
+  {
+    "name": "Stun X",
+    "activation": "Active",
+    "effect": "The target suffers X strain (ignoring soak).",
+    "description": "When the Stun quality is activated, it inflicts strain equal to the weapon's Stun rating."
+  },
+  {
+    "name": "Stun Damage",
+    "activation": "Passive",
+    "effect": "Damage is dealt to strain threshold, after reducing by armour and soak.",
+    "description": "The weapon deals damage to strain instead of wounds. This damage is still reduced by a target's soak."
+  },
+  {
+    "name": "Stun Setting",
+    "activation": "Active",
+    "effect": "May be activated as an incidental. Damage is dealt to strain threshold, after reducing by armour and soak. The maximum range of the attack becomes short and cannot be increased.",
+    "description": ""
+  },
+  {
+    "name": "Sunder",
+    "activation": "Active",
+    "effect": "Requires one advantage to activate. An item openly wielded by the target is damaged one step. May be activated multiple times.",
+    "description": "When activated, the attacker chooses one item openly wielded by the target (such as a weapon, shield, or item on a belt). That item is damaged one step: to minor if undamaged, from minor to moderate, or moderate to major. If a weapon already suffering major damage is the target of a successful Sunder, it is destroyed."
+  },
+  {
+    "name": "Superior",
+    "activation": "Passive",
+    "effect": "Weapons add an advantage result to all checks and increase their base damage by 1. Armor decreases its encumbrance by 1 and increases its soak value by 1.",
+    "description": "A Superior weapon generates [an] automatic advantage result on all checks related to its use, and its base damage is increased by one. Superior armor has its encumbrance reduced by one and its soak value increased by one."
+  },
+  {
+    "name": "Tractor X",
+    "activation": "Passive",
+    "effect": "If the attack is successful, the target may not use starship maneuvers unless the pilot makes a successful Piloting check against X difficulty dice as an action to break free.",
+    "description": "Once the weapon hits its target, the target may not move unless its pilot makes a successful Piloting check with a difficulty equal to the tractor beam's rating."
+  },
+  {
+    "name": "Unwieldy X",
+    "activation": "Passive",
+    "effect": "Increase the difficulty of all checks using the item by X minus the user's Agility.",
+    "description": "To wield an Unwieldy weapon properly, the character needs an Agility characteristic equal to or greater than the weapon's Unwieldy rating. For each point of Agility by which the character is deficient, [they] must increase the difficulty of all checks made while using the weapon by one."
+  },
+  {
+    "name": "Vicious X",
+    "activation": "Passive",
+    "effect": "On a Critical Hit, add X times 10 to the roll",
+    "description": "When this weapon scores a Critical Injury or Hit, the character adds ten times the Vicious rating to the Critical roll. With Vicious 3, for example, the victim adds +30 to [their] Critical Injury or Hit result."
+  }
+]

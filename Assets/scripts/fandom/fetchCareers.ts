@@ -1,4 +1,5 @@
-import { DOMParser } from "https://deno.land/x/deno_dom@v0.1.48/deno-dom-wasm.ts";
+import { DOMParser, Element } from "jsr:@b-fuze/deno-dom";
+import { logFound, writeJsonList } from "./util.ts";
 
 interface Career {
 	name: string;
@@ -78,7 +79,7 @@ async function fetchCareers(): Promise<Career[]> {
 			}
 		}
 	}
-	console.log(`Found ${careers.length} careers`);
+	logFound(careers.length, "careers");
 	return careers;
 }
 
@@ -88,15 +89,14 @@ export async function fetchCareersData(): Promise<{
 }> {
 	const careers = await fetchCareers();
 	
-	const outputPath = "./list/careers.json";
-	await Deno.writeTextFile(
-		outputPath,
-		JSON.stringify(careers, null, 2)
+	const outputFile = await writeJsonList(
+		import.meta.url,
+		"careers.json",
+		careers,
+		"careers",
 	);
 	
-	console.log(`Saved ${careers.length} careers to ${outputPath}`);
-	
-	return { items: careers, outputFile: outputPath };
+	return { items: careers, outputFile };
 }
 
 if (import.meta.main) {

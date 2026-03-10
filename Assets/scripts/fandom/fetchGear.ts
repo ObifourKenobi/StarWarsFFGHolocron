@@ -1,5 +1,11 @@
-import { DOMParser } from "https://deno.land/x/deno_dom@v0.1.48/deno-dom-wasm.ts";
-import { join } from "https://deno.land/std@0.208.0/path/mod.ts";
+import { DOMParser, Element } from "jsr:@b-fuze/deno-dom";
+import {
+	buildSourceInfoFromCell,
+	extractCellText,
+	logFound,
+	toInteger,
+	writeJsonList,
+} from "./util.ts";
 
 interface GearItem {
 	name: string;
@@ -19,18 +25,7 @@ async function fetchHtml(): Promise<string> {
 	return data.parse.text["*"];
 }
 
-function extractCellText(cell: Element): string {
-	let text = cell.textContent || "";
-	text = text.replace(/\s*\[\d+\]\s*/g, " ");
-	text = text.replace(/\s+/g, " ").trim();
-	return text;
-}
-
-function toInteger(value: string): number {
-	const cleaned = value.replace(/[^0-9-]/g, "");
-	const num = parseInt(cleaned, 10);
-	return isNaN(num) ? 0 : num;
-}
+const BASE_URL = "https://star-wars-rpg-ffg.fandom.com";
 
 function toGearItem(cells: Element[]): GearItem | null {
 	if (cells.length < 5) return null;
@@ -40,13 +35,10 @@ function toGearItem(cells: Element[]): GearItem | null {
 	if (!name) return null;
 
 	// Extract URL from the link in the name cell
-	const link = nameCell.querySelector("a");
-	const href = link?.getAttribute("href") || "";
-	const pageName = href.replace(/^\/wiki\//, "");
-	const sourceURL = href ? `https://star-wars-rpg-ffg.fandom.com${href}` : "";
-	const sourceAPIURL = pageName
-		? `https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=${encodeURIComponent(pageName)}&format=json`
-		: "";
+	const { sourceURL, sourceAPIURL } = buildSourceInfoFromCell(
+		nameCell,
+		BASE_URL,
+	);
 
 	// Parse columns by position: Item | Encumbrance | Restriction | Price | Rarity
 	const encumbranceText = extractCellText(cells[1]);
@@ -118,14 +110,14 @@ export async function fetchGearData(): Promise<{
 	}
 
 	const items = Array.from(gearMap.values());
-	console.log(`Found ${items.length} gear`);
+	logFound(items.length, "gear");
 
-	const outputDir = new URL("./list", import.meta.url).pathname;
-	await Deno.mkdir(outputDir, { recursive: true });
-
-	const outputFile = join(outputDir, "gear.json");
-	await Deno.writeTextFile(outputFile, JSON.stringify(items, null, 2));
-	console.log(`Saved ${items.length} gear to ${outputFile}`);
+	const outputFile = await writeJsonList(
+		import.meta.url,
+		"gear.json",
+		items,
+		"gear",
+	);
 
 	return { items, outputFile };
 }
