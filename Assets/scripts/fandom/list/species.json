@@ -1,5 +1,41 @@
 [
   {
+    "name": "Abednedo",
+    "brawn": 2,
+    "agility": 2,
+    "intellect": 3,
+    "cunning": 1,
+    "willpower": 2,
+    "presence": 2,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Abednedo",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Abednedo&format=json",
+    "homebrew": true
+  },
+  {
+    "name": "Aki-Aki",
+    "brawn": 2,
+    "agility": 2,
+    "intellect": 1,
+    "cunning": 2,
+    "willpower": 2,
+    "presence": 3,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Aki-Aki",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Aki-Aki&format=json",
+    "homebrew": true
+  },
+  {
+    "name": "Caarite",
+    "brawn": 1,
+    "agility": 2,
+    "intellect": 2,
+    "cunning": 2,
+    "willpower": 2,
+    "presence": 3,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Caarite",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Caarite&format=json",
+    "homebrew": true
+  },
+  {
     "name": "Clone",
     "brawn": 2,
     "agility": 2,
@@ -31,6 +67,18 @@
     "presence": 2,
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Dathomirian",
     "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dathomirian&format=json"
+  },
+  {
+    "name": "Dashade",
+    "brawn": 3,
+    "agility": 2,
+    "intellect": 2,
+    "cunning": 2,
+    "willpower": 2,
+    "presence": 1,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Dashade",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dashade&format=json",
+    "homebrew": true
   },
   {
     "name": "Gank",
@@ -110,6 +158,18 @@
     "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tholothian&format=json"
   },
   {
+    "name": "Ugor",
+    "brawn": 1,
+    "agility": 1,
+    "intellect": 2,
+    "cunning": 2,
+    "willpower": 1,
+    "presence": 1,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ugor",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ugor&format=json",
+    "homebrew": true
+  },
+  {
     "name": "Umbaran",
     "brawn": 2,
     "agility": 2,
@@ -176,6 +236,30 @@
     "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Dowutin&format=json"
   },
   {
+    "name": "Echani",
+    "brawn": 2,
+    "agility": 2,
+    "intellect": 2,
+    "cunning": 2,
+    "willpower": 2,
+    "presence": 2,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Echani",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Echani&format=json",
+    "homebrew": true
+  },
+  {
+    "name": "Evereni",
+    "brawn": 2,
+    "agility": 2,
+    "intellect": 2,
+    "cunning": 3,
+    "willpower": 2,
+    "presence": 2,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Evereni",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Evereni&format=json",
+    "homebrew": true
+  },
+  {
     "name": "Elom",
     "brawn": 3,
     "agility": 2,
@@ -220,6 +304,18 @@
     "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Kalleran&format=json"
   },
   {
+    "name": "Kaleesh",
+    "brawn": 3,
+    "agility": 2,
+    "intellect": 2,
+    "cunning": 2,
+    "willpower": 2,
+    "presence": 1,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Kaleesh",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Kaleesh&format=json",
+    "homebrew": true
+  },
+  {
     "name": "Karkarodon",
     "brawn": 3,
     "agility": 2,
@@ -229,6 +325,18 @@
     "presence": 2,
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Karkarodon",
     "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Karkarodon&format=json"
+  },
+  {
+    "name": "Kage",
+    "brawn": 2,
+    "agility": 3,
+    "intellect": 2,
+    "cunning": 2,
+    "willpower": 2,
+    "presence": 1,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Kage",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Kage&format=json",
+    "homebrew": true
   },
   {
     "name": "Lasat",
@@ -407,6 +515,42 @@
     "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mirialan&format=json"
   },
   {
+    "name": "Miraluka",
+    "brawn": 2,
+    "agility": 3,
+    "intellect": 2,
+    "cunning": 2,
+    "willpower": 3,
+    "presence": 1,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Miraluka",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Miraluka&format=json",
+    "homebrew": true
+  },
+  {
+    "name": "Mythrol",
+    "brawn": 2,
+    "agility": 2,
+    "intellect": 2,
+    "cunning": 2,
+    "willpower": 2,
+    "presence": 2,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mythrol",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mythrol&format=json",
+    "homebrew": true
+  },
+  {
+    "name": "Rattataki",
+    "brawn": 2,
+    "agility": 2,
+    "intellect": 2,
+    "cunning": 2,
+    "willpower": 2,
+    "presence": 2,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Rattataki",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Rattataki&format=json",
+    "homebrew": true
+  },
+  {
     "name": "Rodian",
     "brawn": 2,
     "agility": 3,
@@ -440,6 +584,30 @@
     "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Selonian&format=json"
   },
   {
+    "name": "Selkath",
+    "brawn": 2,
+    "agility": 2,
+    "intellect": 3,
+    "cunning": 2,
+    "willpower": 1,
+    "presence": 2,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Selkath",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Selkath&format=json",
+    "homebrew": true
+  },
+  {
+    "name": "Sith Pureblood",
+    "brawn": 2,
+    "agility": 2,
+    "intellect": 2,
+    "cunning": 3,
+    "willpower": 1,
+    "presence": 2,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sith_Pureblood",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sith_Pureblood&format=json",
+    "homebrew": true
+  },
+  {
     "name": "Shistavanen",
     "brawn": 2,
     "agility": 3,
@@ -460,6 +628,54 @@
     "presence": 2,
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sullustan",
     "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sullustan&format=json"
+  },
+  {
+    "name": "Talpini",
+    "brawn": 1,
+    "agility": 2,
+    "intellect": 2,
+    "cunning": 3,
+    "willpower": 2,
+    "presence": 2,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Talpini",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Talpini&format=json",
+    "homebrew": true
+  },
+  {
+    "name": "Talz",
+    "brawn": 3,
+    "agility": 2,
+    "intellect": 2,
+    "cunning": 2,
+    "willpower": 2,
+    "presence": 1,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Talz",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Talz&format=json",
+    "homebrew": true
+  },
+  {
+    "name": "Tarasin",
+    "brawn": 1,
+    "agility": 2,
+    "intellect": 3,
+    "cunning": 2,
+    "willpower": 2,
+    "presence": 2,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Tarasin",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tarasin&format=json",
+    "homebrew": true
+  },
+  {
+    "name": "Teedo",
+    "brawn": 2,
+    "agility": 2,
+    "intellect": 2,
+    "cunning": 3,
+    "willpower": 1,
+    "presence": 1,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Teedo",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Teedo&format=json",
+    "homebrew": true
   },
   {
     "name": "Thisspiasian",
@@ -638,6 +854,18 @@
     "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Neimoidian&format=json"
   },
   {
+    "name": "Noghri",
+    "brawn": 2,
+    "agility": 3,
+    "intellect": 2,
+    "cunning": 2,
+    "willpower": 2,
+    "presence": 1,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Noghri",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Noghri&format=json",
+    "homebrew": true
+  },
+  {
     "name": "Polis Massan",
     "brawn": 1,
     "agility": 2,
@@ -757,6 +985,18 @@
     "presence": 1,
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gotal",
     "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gotal&format=json"
+  },
+  {
+    "name": "Gozzo",
+    "brawn": 2,
+    "agility": 2,
+    "intellect": 2,
+    "cunning": 2,
+    "willpower": 1,
+    "presence": 3,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Gozzo",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Gozzo&format=json",
+    "homebrew": true
   },
   {
     "name": "Harch",
@@ -935,6 +1175,30 @@
     "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Phydolon&format=json"
   },
   {
+    "name": "Phrogg",
+    "brawn": 1,
+    "agility": 2,
+    "intellect": 2,
+    "cunning": 2,
+    "willpower": 2,
+    "presence": 3,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Phrogg",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Phrogg&format=json",
+    "homebrew": true
+  },
+  {
+    "name": "Pyke",
+    "brawn": 1,
+    "agility": 2,
+    "intellect": 2,
+    "cunning": 3,
+    "willpower": 2,
+    "presence": 2,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pyke",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pyke&format=json",
+    "homebrew": true
+  },
+  {
     "name": "Quarren",
     "brawn": 2,
     "agility": 2,
@@ -966,6 +1230,17 @@
     "presence": 3,
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Toydarian",
     "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Toydarian&format=json"
+  },{
+    "name": "Yahk-Tosh",
+    "brawn": 3,
+    "agility": 2,
+    "intellect": 2,
+    "cunning": 2,
+    "willpower": 2,
+    "presence": 1,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Yahk-Tosh",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Yahk-Tosh&format=json",
+    "homebrew": true
   },
   {
     "name": "Zabrak",
@@ -977,6 +1252,18 @@
     "presence": 1,
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Zabrak",
     "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Zabrak&format=json"
+  },
+   {
+    "name": "Zygerrian",
+    "brawn": 2,
+    "agility": 2,
+    "intellect": 2,
+    "cunning": 2,
+    "willpower": 3,
+    "presence": 1,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Zygerrian",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Zygerrian&format=json",
+    "homebrew": true
   },
   {
     "name": "Bith",
@@ -1012,6 +1299,19 @@
     "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Falleen&format=json"
   },
   {
+    "name": "Filordi",
+    "brawn": 3,
+    "agility": 1,
+    "intellect": 2,
+    "cunning": 2,
+    "willpower": 2,
+    "presence": 2,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Filordi",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Filordi&format=json",
+    "homebrew": true
+  },
+
+  {
     "name": "Gran",
     "brawn": 2,
     "agility": 2,
@@ -1043,6 +1343,18 @@
     "presence": 3,
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pantoran",
     "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pantoran&format=json"
+  },
+  {
+    "name": "Patrolian",
+    "brawn": 1,
+    "agility": 2,
+    "intellect": 3,
+    "cunning": 3,
+    "willpower": 2,
+    "presence": 1,
+    "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Patrolian",
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Patrolian&format=json",
+    "homebrew": true
   },
   {
     "name": "Twi'Lek",

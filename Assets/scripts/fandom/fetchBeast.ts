@@ -2,7 +2,6 @@ import { DOMParser, Element } from "jsr:@b-fuze/deno-dom";
 import {
 	buildSourceInfoFromCell,
 	extractCellText,
-	logFound,
 	toInteger,
 	writeJsonList,
 } from "./util.ts";
@@ -129,7 +128,7 @@ export async function fetchBeastData(): Promise<{
 	}
 
 	const items = Array.from(beastMap.values());
-	logFound(items.length, "beasts");
+	console.log(`Found ${items.length} beasts`);
 
 	const outputFile = await writeJsonList(
 		import.meta.url,

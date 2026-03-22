@@ -1,16 +1,13 @@
 // api page https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page={PAGE_TITLE}&format=json
 import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
-import { logFound, writeJsonList } from "./util.ts";
+import { fetchFromfandomAPI, writeJsonList } from "./util.ts";
 
 type BookItem = {
 	code_name: string;
 	book_name: string;
 };
 
-const BASE_URL = "https://star-wars-rpg-ffg.fandom.com";
-const PAGE_TITLE = "Category:Source_Book";
-const CONTENT_SELECTOR = ".mw-content-ltr.mw-parser-output";
-const OUTPUT_FILE_NAME = "books.json";
+const SOURCE_URL: string = "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Category:Source_Book&format=json";
 
 function parseCodeName(text: string): string | null {
 	const match = text.match(/\[([^\]]+)\]/);
@@ -36,30 +33,14 @@ function extractBookName(paragraph: Element): string {
 	return fullText.split(" - ")[0].trim();
 }
 
-async function fetchHtml(): Promise<string> {
-	const apiUrl = `${BASE_URL}/api.php?action=parse&page=${encodeURIComponent(PAGE_TITLE)}&format=json`;
-	const response = await fetch(apiUrl);
-	if (!response.ok) {
-		throw new Error(`Failed to fetch page: ${PAGE_TITLE} (${response.status})`);
-	}
-
-	const payload = await response.json();
-	const html = payload?.parse?.text?.["*"];
-	if (!html || typeof html !== "string") {
-		throw new Error(`Missing HTML for page: ${PAGE_TITLE}`);
-	}
-
-	return html;
-}
-
 export async function fetchBooksData(): Promise<{ items: BookItem[]; outputFile: string }> {
-	const html = await fetchHtml();
+	const html = await fetchFromfandomAPI(SOURCE_URL);
 	const document = new DOMParser().parseFromString(html, "text/html");
 	if (!document) {
 		throw new Error("Failed to parse HTML response.");
 	}
 
-	const scope = document.querySelector(CONTENT_SELECTOR) ?? document;
+	const scope = document.querySelector(".mw-content-ltr.mw-parser-output") ?? document;
 	const paragraphs = [...scope.querySelectorAll("p")];
 
 	const items: BookItem[] = [];
@@ -79,11 +60,11 @@ export async function fetchBooksData(): Promise<{ items: BookItem[]; outputFile:
 	}
 
 	const deduped = [...new Map(items.map((item) => [item.code_name, item])).values()];
-	logFound(deduped.length, "books");
+	console.log(`Found ${deduped.length} books`);
 
 	const outputFile = await writeJsonList(
 		import.meta.url,
-		OUTPUT_FILE_NAME,
+		"books.json",
 		deduped,
 		"books",
 	);

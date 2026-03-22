@@ -2,7 +2,7 @@ import { DOMParser, Element } from "jsr:@b-fuze/deno-dom";
 import {
 	buildSourceInfoFromCell,
 	extractCellText,
-	logFound,
+	fetchFromfandomAPI,
 	toInteger,
 	writeJsonList,
 } from "./util.ts";
@@ -18,14 +18,7 @@ interface AttachmentItem {
 	sourceAPIURL: string;
 }
 
-async function fetchHtml(): Promise<string> {
-	const url =
-		"https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Category:Attachments&format=json";
-	const response = await fetch(url);
-	const data = await response.json();
-	return data.parse.text["*"];
-}
-
+const SOURCE_URL: string = "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Category:Attachments&format=json";
 const BASE_URL = "https://star-wars-rpg-ffg.fandom.com";
 
 function toAttachmentItem(cells: Element[]): AttachmentItem | null {
@@ -77,7 +70,7 @@ export async function fetchAttachmentData(): Promise<{
 	items: AttachmentItem[];
 	outputFile: string;
 }> {
-	const html = await fetchHtml();
+	const html = await fetchFromfandomAPI(SOURCE_URL);
 	const parser = new DOMParser();
 	const doc = parser.parseFromString(html, "text/html");
 
@@ -104,7 +97,7 @@ export async function fetchAttachmentData(): Promise<{
 	}
 
 	const items = Array.from(attachmentMap.values());
-	logFound(items.length, "attachments");
+	console.log(`Found ${items.length} attachments`);
 
 	const outputFile = await writeJsonList(
 		import.meta.url,

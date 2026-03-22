@@ -2,9 +2,9 @@ import { DOMParser, Element } from "jsr:@b-fuze/deno-dom";
 import {
 	buildSourceInfoFromCell,
 	extractCellText,
-	logFound,
 	toInteger,
 	writeJsonList,
+	fetchFromfandomAPI
 } from "./util.ts";
 
 interface ArmorItem {
@@ -20,14 +20,7 @@ interface ArmorItem {
 	sourceAPIURL: string;
 }
 
-async function fetchHtml(): Promise<string> {
-	const url =
-		"https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Category:Armor&format=json";
-	const response = await fetch(url);
-	const data = await response.json();
-	return data.parse.text["*"];
-}
-
+const SOURCE_URL: string = "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Category:Armor&format=json";
 const BASE_URL = "https://star-wars-rpg-ffg.fandom.com";
 
 function toArmorItem(cells: Element[]): ArmorItem | null {
@@ -78,7 +71,7 @@ export async function fetchArmorData(): Promise<{
 	items: ArmorItem[];
 	outputFile: string;
 }> {
-	const html = await fetchHtml();
+	const html = await fetchFromfandomAPI(SOURCE_URL);
 	const parser = new DOMParser();
 	const doc = parser.parseFromString(html, "text/html");
 
@@ -103,7 +96,7 @@ export async function fetchArmorData(): Promise<{
 	}
 
 	const items = Array.from(armorMap.values());
-	logFound(items.length, "armor");
+	console.log(`Found ${items.length} armor`);
 
 	const outputFile = await writeJsonList(
 		import.meta.url,

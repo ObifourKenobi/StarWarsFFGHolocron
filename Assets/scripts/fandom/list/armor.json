@@ -6,29 +6,10 @@
     "hardPoints": 0,
     "encumbrance": 0,
     "restricted": false,
-    "price": "25",
+    "price": 25,
     "rarity": "0",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Banal_Apparel",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Banal_Apparel&format=json",
-    "subtitle": "Stealth equipment can render a person literally invisible to the naked eye, but sometimes simply fading into the crowd offers a more elegant and effective solution.",
-    "description": "Opposing character upgrade the difficulty of any checks made to identify the wearer once.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "68"
-      },
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "48"
-      },
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "47"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Banal_Apparel&format=json"
   },
   {
     "name": "Cargo Clothes",
@@ -37,29 +18,10 @@
     "hardPoints": 0,
     "encumbrance": 1,
     "restricted": false,
-    "price": "30",
+    "price": 30,
     "rarity": "0",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cargo_Clothes",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cargo_Clothes&format=json",
-    "subtitle": "Having the right tools for the job can be crucial to performing a task, and some individuals believe that the best approach to life is to have the right tools for any eventuality.",
-    "description": "A character wearing cargo clothing may carry up to three items of encumbrance 1 or lower without their counting toward the character's encumbrance value.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "68"
-      },
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "48"
-      },
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "47"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cargo_Clothes&format=json"
   },
   {
     "name": "Concealing Robes",
@@ -68,19 +30,10 @@
     "hardPoints": 0,
     "encumbrance": 1,
     "restricted": false,
-    "price": "150",
+    "price": 150,
     "rarity": "2",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Concealing_Robes",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Concealing_Robes&format=json",
-    "subtitle": "Many ancient Jedi Knights favored heavy concealing robes for their anonymity, and now Force users throughout the galaxy use them to avoid notice.",
-    "description": "Models Include: Various cuts and combinations.",
-    "books": [
-      {
-        "code_name": "SWF02",
-        "book_name": "Force & Destiny",
-        "page_number": "179"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Concealing_Robes&format=json"
   },
   {
     "name": "Diplomat's Robes",
@@ -89,24 +42,10 @@
     "hardPoints": 0,
     "encumbrance": 2,
     "restricted": false,
-    "price": "400",
+    "price": 400,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Diplomat%27s_Robes",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Diplomat's_Robes&format=json",
-    "subtitle": "A diplomat's robes—whether Senatorial attire, Ambassadorial dress, or similar attire—clearly indicate that the wearer is a person of importance.",
-    "description": "A character wearing diplomat's robes adds a boost die to social checks related to claiming diplomatic authority, accessing classified data, and using organizational status to bypass normal protocol.",
-    "books": [
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "48"
-      },
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "47"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Diplomat's_Robes&format=json"
   },
   {
     "name": "Heavy Clothing",
@@ -115,34 +54,10 @@
     "hardPoints": 0,
     "encumbrance": 1,
     "restricted": false,
-    "price": "50",
+    "price": 50,
     "rarity": "0",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Heavy_Clothing",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Heavy_Clothing&format=json",
-    "subtitle": "The most basic form of protection for many is simple yet durable heavy clothing.",
-    "description": "Models Include: Aye-lixe Fabrico \"Hard Wear\" work clothes, Kamperdine Clothing Specialists ToughSuit adventuring gear.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "71"
-      },
-      {
-        "code_name": "SWF02",
-        "book_name": "Force & Destiny",
-        "page_number": "179"
-      },
-      {
-        "code_name": "SWA02",
-        "book_name": "Age of Rebellion",
-        "page_number": "183"
-      },
-      {
-        "code_name": "SWE02",
-        "book_name": "Edge of the Empire",
-        "page_number": "170"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Heavy_Clothing&format=json"
   },
   {
     "name": "Heavy Robes",
@@ -151,19 +66,10 @@
     "hardPoints": 0,
     "encumbrance": 1,
     "restricted": false,
-    "price": "150",
+    "price": 150,
     "rarity": "2",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Heavy_Robes",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Heavy_Robes&format=json",
-    "subtitle": "Many Jedi wear thick robes, sometimes with ceremonial significance, and sometimes simply to protect themselves against the elements in the course of their work.",
-    "description": "",
-    "books": [
-      {
-        "code_name": "SWR11",
-        "book_name": "Rise of the Separatists",
-        "page_number": "57"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Heavy_Robes&format=json"
   },
   {
     "name": "Holographic Costume",
@@ -172,24 +78,10 @@
     "hardPoints": 0,
     "encumbrance": 2,
     "restricted": false,
-    "price": "750",
+    "price": 750,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Holographic_Costume",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Holographic_Costume&format=json",
-    "subtitle": "One of the more ingenious utilizations of holographic technology comes in the form of wearable tech, commonly used for communications and advertisements.",
-    "description": "Models include: A/KT \"Versatility\" Outfit, Plescinia Micro Holo Suit.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "71"
-      },
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "48"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Holographic_Costume&format=json"
   },
   {
     "name": "Lector's Outfit",
@@ -198,19 +90,10 @@
     "hardPoints": 1,
     "encumbrance": 2,
     "restricted": false,
-    "price": "525",
+    "price": 525,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Lector%27s_Outfit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Lector's_Outfit&format=json",
-    "subtitle": "For major addresses, politicians usually rely advanced, large-scale public address systems.",
-    "description": "Models include: TaggeCo \"Confidence\" Outfit.",
-    "books": [
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "48"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Lector's_Outfit&format=json"
   },
   {
     "name": "Noble Regalia",
@@ -219,24 +102,10 @@
     "hardPoints": 3,
     "encumbrance": 1,
     "restricted": false,
-    "price": "750",
+    "price": 750,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Noble_Regalia",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Noble_Regalia&format=json",
-    "subtitle": "Although often inconvenient to wear, severely limiting to movement, and historically archaic, few things command innate respect as much as the traditional attire of a planet's nobility.",
-    "description": "The wearer downgrades the difficulty of social checks to interact with other nobility and their subordinates once.",
-    "books": [
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "48"
-      },
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "49"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Noble_Regalia&format=json"
   },
   {
     "name": "Nomad Greatcoat",
@@ -245,19 +114,10 @@
     "hardPoints": 0,
     "encumbrance": 1,
     "restricted": false,
-    "price": "100",
+    "price": 100,
     "rarity": "4",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Nomad_Greatcoat",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Nomad_Greatcoat&format=json",
-    "subtitle": "Long associated with the inhabitants of the Nomad Mountains, this distinctive greatcoat has become popular since its adoption by the military of Corellia as cold weather gear.",
-    "description": "The Nomad Greatcoat reduces the difficulty of Resilience checks made to resist the effects of extreme cold by one, and removes a setback die added to checks due to extreme cold.",
-    "books": [
-      {
-        "code_name": "SWE07",
-        "book_name": "Suns of Fortune",
-        "page_number": "99"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Nomad_Greatcoat&format=json"
   },
   {
     "name": "Performer's Attire",
@@ -266,24 +126,10 @@
     "hardPoints": 0,
     "encumbrance": 0,
     "restricted": false,
-    "price": "50",
+    "price": 50,
     "rarity": "4",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Performer%27s_Attire",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Performer's_Attire&format=json",
-    "subtitle": "Many diplomats perform not only on the political stage, but on actual stages as well.",
-    "description": "A character wearing performer's attire adds a boost die to checks to perform or otherwise attract attention.",
-    "books": [
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "48"
-      },
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "49"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Performer's_Attire&format=json"
   },
   {
     "name": "Pit Crew Coveralls",
@@ -292,19 +138,10 @@
     "hardPoints": 1,
     "encumbrance": 1,
     "restricted": false,
-    "price": "150",
+    "price": 150,
     "rarity": "2",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pit_Crew_Coveralls",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pit_Crew_Coveralls&format=json",
-    "subtitle": "Working as a mechanic in a pit crew, whether fixing lowly groundcars on a dusty Outer Rim backwater or maintaining elaborate podracers in a high-end racing circuit, is a dirty job.",
-    "description": "When wearing pit crew coveralls, a character reduces damage suffer from fires and weapons with the Burn quality by 1. In addition, wearing pit crew coveralls increases the character's encumbrance threshold by 1.",
-    "books": [
-      {
-        "code_name": "SWF30",
-        "book_name": "Endless Vigil",
-        "page_number": "44"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pit_Crew_Coveralls&format=json"
   },
   {
     "name": "Polis Massan Bodysuit",
@@ -313,19 +150,10 @@
     "hardPoints": 1,
     "encumbrance": 1,
     "restricted": false,
-    "price": "300",
+    "price": 300,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Polis_Massan_Bodysuit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Polis_Massan_Bodysuit&format=json",
-    "subtitle": "The Polis Massans, also known as Kallidahin, employ unique, tight-fitting bodysuits in their day-to-day lives.",
-    "description": "[...] All Polis Massan bodysuits include a tiny head-mounted multidirectional glow rod as well as an integrated utility belt (which increases the wearer's encumbrance threshold by one).",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "75"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Polis_Massan_Bodysuit&format=json"
   },
   {
     "name": "Resplendent Robes",
@@ -334,24 +162,10 @@
     "hardPoints": 0,
     "encumbrance": 2,
     "restricted": false,
-    "price": "500",
+    "price": 500,
     "rarity": "5",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Resplendent_Robes",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Resplendent_Robes&format=json",
-    "subtitle": "Some beings naturally become the center of attention when they enter a room, but dressing for the part never hurts, either.",
-    "description": "As long as the character wearing resplendent robes purposefully draws attention to , each of allies in medium range adds a boost die to Perception, Skulduggery, and Stealth checks.",
-    "books": [
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "48"
-      },
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "49"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Resplendent_Robes&format=json"
   },
   {
     "name": "Smuggler's Trenchcoat",
@@ -360,24 +174,10 @@
     "hardPoints": 0,
     "encumbrance": 3,
     "restricted": false,
-    "price": "1650",
+    "price": 1650,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Smuggler%27s_Trenchcoat",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Smuggler's_Trenchcoat&format=json",
-    "subtitle": "Every smuggler gets searched; that part of the job is inevitable.",
-    "description": "Checks made to find anything hidden within a smuggler's trenchcoat while it is being worn are opposed by the Skulduggery of the wearer. The coat can conceal items with a total encumbrance value of up to 2.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "78"
-      },
-      {
-        "code_name": "SWE12",
-        "book_name": "Fly Casual",
-        "page_number": "47"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Smuggler's_Trenchcoat&format=json"
   },
   {
     "name": "Tracker Utility Vest",
@@ -386,29 +186,10 @@
     "hardPoints": 1,
     "encumbrance": 0,
     "restricted": false,
-    "price": "100",
+    "price": 100,
     "rarity": "2",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Tracker_Utility_Vest",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tracker_Utility_Vest&format=json",
-    "subtitle": "Common among wilderness enthusiasts, scouts, and hunters, Tracker utility vests from Ayelixe/Krongbing Textiles are the explorer's best friend.",
-    "description": "When worn, the Tracker utility vest increases the wearer's encumbrance threshold by 2.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "79"
-      },
-      {
-        "code_name": "SWE06",
-        "book_name": "Enter the Unknown",
-        "page_number": "44"
-      },
-      {
-        "code_name": "SWE06",
-        "book_name": "Enter the Unknown",
-        "page_number": "45"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Tracker_Utility_Vest&format=json"
   },
   {
     "name": "\"Gundark\" Scav-Suit",
@@ -417,24 +198,10 @@
     "hardPoints": 2,
     "encumbrance": 2,
     "restricted": false,
-    "price": "3000",
+    "price": 3000,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/%22Gundark%22_Scav-Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=%22Gundark%22_Scav-Suit&format=json",
-    "subtitle": "The peculiar brainchild of an exiled Arkanian engineer, the \"Gundark\" scav-suit is becoming an increasingly common sight across the galactic underworld.",
-    "description": "The inbuilt sensor array on a \"Gundark\" scav-suit adds a boost die to the wearer's Perception checks, and an additional boost die to all checks to detect or analyze technological parts and items. However, if the suit's systems become damaged due to a Critical Injury, aimed shot, or other circumstance, the wearer instead suffers a setback die due to sensor feedback on all Perception checks instead until the suit is repaired..",
-    "books": [
-      {
-        "code_name": "SWR11",
-        "book_name": "Rise of the Separatists",
-        "page_number": "57"
-      },
-      {
-        "code_name": "SWR11",
-        "book_name": "Rise of the Separatists",
-        "page_number": "56"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=%22Gundark%22_Scav-Suit&format=json"
   },
   {
     "name": "Shockrider Crash Suit",
@@ -443,34 +210,10 @@
     "hardPoints": 1,
     "encumbrance": 2,
     "restricted": false,
-    "price": "3000",
+    "price": 3000,
     "rarity": "3",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/A/KT_Shockrider_Crash_Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=A%2FKT_Shockrider_Crash_Suit&format=json",
-    "subtitle": "Specially designed for those who make their living behind the wheel, the Shockrider crash suits from Ayelixe/Krongbing Textiles Corporation are built to help pilots of speeders, speeder bikes, swoops, and other fast atmospheric vehicles survive even the worst crashes.",
-    "description": "Thanks to its rugged construction and integrated armor, a crash suit reduces any strain received from Critical Hits dealt to the wearer's vehicle by 1 (to a minimum of 1) and the flame-resistant coating reduces the damage dealt to the wearer by fires and weapons with the Burn quality by 1.",
-    "books": [
-      {
-        "code_name": "SWA25",
-        "book_name": "Stay on Target",
-        "page_number": "43"
-      },
-      {
-        "code_name": "SWE06",
-        "book_name": "Enter the Unknown",
-        "page_number": "44"
-      },
-      {
-        "code_name": "SWA25",
-        "book_name": "Stay on Target",
-        "page_number": "42"
-      },
-      {
-        "code_name": "SWE06",
-        "book_name": "Enter the Unknown",
-        "page_number": "45"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=A%2FKT_Shockrider_Crash_Suit&format=json"
   },
   {
     "name": "Adverse Environment Gear",
@@ -479,49 +222,10 @@
     "hardPoints": 1,
     "encumbrance": 2,
     "restricted": false,
-    "price": "500",
+    "price": 500,
     "rarity": "1",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Adverse_Environment_Gear",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Adverse_Environment_Gear&format=json",
-    "subtitle": "Rebels, Force users, and scoundrels may find themselves operating in some of the harshest, most inhospitable environments the galaxy has to offer.",
-    "description": "Models Include: Pretormin Environmental HS-90 Hazmat Suit, ScorSear 200 Survival Kit, Pretormin Environmental Froz 350.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "67"
-      },
-      {
-        "code_name": "SWF02",
-        "book_name": "Force & Destiny",
-        "page_number": "179"
-      },
-      {
-        "code_name": "SWA02",
-        "book_name": "Age of Rebellion",
-        "page_number": "183"
-      },
-      {
-        "code_name": "SWE02",
-        "book_name": "Edge of the Empire",
-        "page_number": "170"
-      },
-      {
-        "code_name": "SWF02",
-        "book_name": "Force & Destiny",
-        "page_number": "178"
-      },
-      {
-        "code_name": "SWA02",
-        "book_name": "Age of Rebellion",
-        "page_number": "184"
-      },
-      {
-        "code_name": "SWE02",
-        "book_name": "Edge of the Empire",
-        "page_number": "169"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Adverse_Environment_Gear&format=json"
   },
   {
     "name": "Biogel Suit",
@@ -530,19 +234,10 @@
     "hardPoints": 0,
     "encumbrance": 6,
     "restricted": false,
-    "price": "350",
+    "price": 350,
     "rarity": "1",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Biogel_Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Biogel_Suit&format=json",
-    "subtitle": "During martial arts training, both students and teachers put themselves at risk as they work through the process of education.",
-    "description": "The armor gains +1 soak when the wearer suffers damage from Brawl weapons or bludgeoning Melee weapons. A character adds a setback die to any Brawn- or Agility-based checks while wearing this armor.",
-    "books": [
-      {
-        "code_name": "SWF35",
-        "book_name": "Disciples of Harmony",
-        "page_number": "45"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Biogel_Suit&format=json"
   },
   {
     "name": "CF-9 Republic Naval Flight Suit",
@@ -551,24 +246,10 @@
     "hardPoints": 2,
     "encumbrance": 3,
     "restricted": true,
-    "price": "1200",
+    "price": 1200,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/CF-9_Republic_Naval_Flight_Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=CF-9_Republic_Naval_Flight_Suit&format=json",
-    "subtitle": "Clones assigned to operate starfighters, combat airspeeders, and similar vehicles are not typically issued full bodysuits of armor like their brethren in the infantry.",
-    "description": "CF-9 flight suits include a built-in respirator. Characters wearing CF-9 Republic naval flight suits remove up to one setback die from Piloting (Space) and Piloting (Planetary) checks added due to the danger or physical stress of the action.",
-    "books": [
-      {
-        "code_name": "SWR11",
-        "book_name": "Rise of the Separatists",
-        "page_number": "57"
-      },
-      {
-        "code_name": "SWR11",
-        "book_name": "Rise of the Separatists",
-        "page_number": "56"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=CF-9_Republic_Naval_Flight_Suit&format=json"
   },
   {
     "name": "Climbsuit",
@@ -577,29 +258,10 @@
     "hardPoints": 2,
     "encumbrance": 2,
     "restricted": false,
-    "price": "1450",
+    "price": 1450,
     "rarity": "4",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Climbsuit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Climbsuit&format=json",
-    "subtitle": "Ayelixe/Kronbing's Climbsuit is a popular set of lightweight armor designed for climbing and rappelling.",
-    "description": "Wearing a Climbsuit upgrades the ability of the wearer's checks to climb or rappel down a surface once. The Climbsuit also reduces damage and strain suffered from falling by 5 and reduces any Critical Injury results from falling by 10.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "69"
-      },
-      {
-        "code_name": "SWA53",
-        "book_name": "Cyphers & Masks",
-        "page_number": "42"
-      },
-      {
-        "code_name": "SWA53",
-        "book_name": "Cyphers & Masks",
-        "page_number": "41"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Climbsuit&format=json"
   },
   {
     "name": "Cloaking Coat",
@@ -608,29 +270,10 @@
     "hardPoints": 1,
     "encumbrance": 4,
     "restricted": true,
-    "price": "550",
+    "price": 550,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cloaking_Coat",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cloaking_Coat&format=json",
-    "subtitle": "While spies, thieves, and saboteurs favor more expensive personal stealth fields, a skilled slicer typically considers staying unnoticed by sensors and probes the most important part of breaking through security.",
-    "description": "A cloaking coat upgrades the difficulty of checks using sensors or electronic forms of detection to find an individual wearing it twice. Droids with an Intellect lower than the wearer's ranks in Computers are affected similarly when trying to detect the wearer.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "69"
-      },
-      {
-        "code_name": "SWE14",
-        "book_name": "Special Modifications",
-        "page_number": "48"
-      },
-      {
-        "code_name": "SWE14",
-        "book_name": "Special Modifications",
-        "page_number": "47"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cloaking_Coat&format=json"
   },
   {
     "name": "Crash Gear",
@@ -639,24 +282,10 @@
     "hardPoints": 1,
     "encumbrance": 1,
     "restricted": false,
-    "price": "550",
+    "price": 550,
     "rarity": "3",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Crash_Gear",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Crash_Gear&format=json",
-    "subtitle": "Most sets of crash gear consist of an assortment of protective wear designed to allow a user to better survive the inevitable collisions and buffeting that are part of every race or mission.",
-    "description": "A character wearing crash gear ignores the effects of ongoing Critical Injuries on any Intellect- or Cunning-related checks, but still suffers from the injuries themselves. also cannot be disoriented.",
-    "books": [
-      {
-        "code_name": "SWF30",
-        "book_name": "Endless Vigil",
-        "page_number": "44"
-      },
-      {
-        "code_name": "SWF30",
-        "book_name": "Endless Vigil",
-        "page_number": "43"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Crash_Gear&format=json"
   },
   {
     "name": "EOD-Mk II Explosives Disposal Armor",
@@ -665,24 +294,10 @@
     "hardPoints": 0,
     "encumbrance": 8,
     "restricted": false,
-    "price": "5300",
+    "price": 5300,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Creshaldyne_EOD-Mk_II_Explosives_Disposal_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Creshaldyne_EOD-Mk_II_Explosives_Disposal_Armor&format=json",
-    "subtitle": "EOD-Mk II armor by Creshaldyne is one of the most popular explosives disposal suits in the galaxy.",
-    "description": "Due to its extremely thick padding and ponderous form, character wearing EOD-Mk II armor lose their free movement.",
-    "books": [
-      {
-        "code_name": "SWA47",
-        "book_name": "Fully Operational",
-        "page_number": "42"
-      },
-      {
-        "code_name": "SWA47",
-        "book_name": "Fully Operational",
-        "page_number": "43"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Creshaldyne_EOD-Mk_II_Explosives_Disposal_Armor&format=json"
   },
   {
     "name": "Enviro-suit",
@@ -691,29 +306,10 @@
     "hardPoints": 1,
     "encumbrance": 2,
     "restricted": false,
-    "price": "750",
+    "price": 750,
     "rarity": "2",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Enviro-suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Enviro-suit&format=json",
-    "subtitle": "At their most basic, enviro-suits are fully sealed, full-body suits made of sturdy materials designed to keep sentients alive in inhospitable places.",
-    "description": "Enviro-suits have an operation life of eight hours until they need to be recharged and refilled. Due to their many layers of protective shielding, enviro-suits tend to be bulky and reduce a wearer's sense of their surroundings. An individual wearing an enviro-suit suffers one setback die on Agility- and Perception-based checks.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "70"
-      },
-      {
-        "code_name": "SWE06",
-        "book_name": "Enter the Unknown",
-        "page_number": "44"
-      },
-      {
-        "code_name": "SWE06",
-        "book_name": "Enter the Unknown",
-        "page_number": "45"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Enviro-suit&format=json"
   },
   {
     "name": "Fabricators' Protective Gear",
@@ -722,24 +318,10 @@
     "hardPoints": 0,
     "encumbrance": 1,
     "restricted": false,
-    "price": "450",
+    "price": 450,
     "rarity": "1",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Fabricators%27_Protective_Gear",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fabricators'_Protective_Gear&format=json",
-    "subtitle": "Worn by welders, machinists, tinkerers, and mechanics throughout the galaxy, fabricators' protective gear is a catchall term for a varied collection of heavy padded clothing.",
-    "description": "This armor allows the wearer to ignore the effects of fires or acids of rating 1 or 2. It has a soak value of 3 against damage from weapons with the Blast quality, but only when the quality is activated and used to inflict damage on the wearer. It provides only 1 point of soak against all other damage that was not inflicted through that quality.",
-    "books": [
-      {
-        "code_name": "SWA47",
-        "book_name": "Fully Operational",
-        "page_number": "42"
-      },
-      {
-        "code_name": "SWA47",
-        "book_name": "Fully Operational",
-        "page_number": "43"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Fabricators'_Protective_Gear&format=json"
   },
   {
     "name": "G-suit",
@@ -748,19 +330,10 @@
     "hardPoints": 1,
     "encumbrance": 2,
     "restricted": false,
-    "price": "2000",
+    "price": 2000,
     "rarity": "3",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/G-suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=G-suit&format=json",
-    "subtitle": "Most sets of crash gear consist of an assortment of protective wear designed to allow a user to better survive the inevitable collisions and buffeting that are part of every race or mission.",
-    "description": "A character wearing a g-suit reduces the strain cost to perform a second Pilot Only maneuver during a turn by 1.",
-    "books": [
-      {
-        "code_name": "SWF30",
-        "book_name": "Endless Vigil",
-        "page_number": "44"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=G-suit&format=json"
   },
   {
     "name": "Hauling Harness",
@@ -769,19 +342,10 @@
     "hardPoints": 2,
     "encumbrance": 3,
     "restricted": false,
-    "price": "1000",
+    "price": 1000,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hauling_Harness",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hauling_Harness&format=json",
-    "subtitle": "Beloved by harried quartermasters across the galaxy, hauling harnesses offer convenient means to lift and move heavy loads.",
-    "description": "Models include: TaggeCo. Mobile Lifting Gear.",
-    "books": [
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "48"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hauling_Harness&format=json"
   },
   {
     "name": "Individual Field Disruptor",
@@ -790,24 +354,10 @@
     "hardPoints": 0,
     "encumbrance": 0,
     "restricted": true,
-    "price": "9500",
+    "price": 9500,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Individual_Field_Disruptor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Individual_Field_Disruptor&format=json",
-    "subtitle": "An individual field disruptor creates a sphere of disruptive energy around the wearer that interferes with most energy fields and offers some protection to the wearer.",
-    "description": "The field creates a shimmering field around the wearer, forming a two-meter-diameter sphere around the device and individual while obscuring the wearer's visibility. If the field contacts another energy field, the other field ceases to offer any defense as long as the two fields intersect. If a character wearing an active field enters engaged range with a droid, the droid suffers 5 Stun damage. If the field enters engaged range with any other electronic device, the device shorts out and becomes inactive for the remainder of the encounter. If the wearer makes a melee attack while the field is active, the wearer counts as being armed with a Melee weapon with +2 damage and the Stun Damage item quality.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "72"
-      },
-      {
-        "code_name": "SWF35",
-        "book_name": "Disciples of Harmony",
-        "page_number": "45"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Individual_Field_Disruptor&format=json"
   },
   {
     "name": "Mechanic's Utility Suit",
@@ -816,19 +366,10 @@
     "hardPoints": 1,
     "encumbrance": 5,
     "restricted": false,
-    "price": "1175",
+    "price": 1175,
     "rarity": "3",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mechanic%27s_Utility_Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mechanic's_Utility_Suit&format=json",
-    "subtitle": "Not so much armor as an adaptation applied to the rugged clothing common to Technicians on the go, a utility suit is bedecked with pockets, attachment hooks, and gear straps.",
-    "description": "The wearer counts as having a tool kit.",
-    "books": [
-      {
-        "code_name": "SWE14",
-        "book_name": "Special Modifications",
-        "page_number": "48"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mechanic's_Utility_Suit&format=json"
   },
   {
     "name": "P-14 Hazardous Industry Suit",
@@ -837,24 +378,10 @@
     "hardPoints": 2,
     "encumbrance": 7,
     "restricted": false,
-    "price": "1000",
+    "price": 1000,
     "rarity": "4",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/P-14_Hazardous_Industry_Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=P-14_Hazardous_Industry_Suit&format=json",
-    "subtitle": "Hazardous industry suits allow technical experts and laborers alike to deal with workshop or factory conditions dangerous to most living species.",
-    "description": "A hazardous industry suit creates an environmental seal when the helmet is worn. and is good for up to eight hours of protection from hostile atmospheres. deadly radiation. or even direct exposure to the void. Finally, the suit's special chemical coating insulates the wearer from burns and shocks.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "74"
-      },
-      {
-        "code_name": "SWE14",
-        "book_name": "Special Modifications",
-        "page_number": "48"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=P-14_Hazardous_Industry_Suit&format=json"
   },
   {
     "name": "Personal Deflector Shield",
@@ -863,34 +390,10 @@
     "hardPoints": 0,
     "encumbrance": 3,
     "restricted": false,
-    "price": "10000",
+    "price": 10000,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Personal_Deflector_Shield",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Personal_Deflector_Shield&format=json",
-    "subtitle": "Rare, expensive, and difficult to use, personal deflector shields are one of the few types of personal armor capable of withstanding sustained blaster fire.",
-    "description": "When the wielder is using a PDS, the GM can spend any despair result they generate to have it run out of power for the remainder of the encounter.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "75"
-      },
-      {
-        "code_name": "SWA02",
-        "book_name": "Age of Rebellion",
-        "page_number": "183"
-      },
-      {
-        "code_name": "SWE02",
-        "book_name": "Edge of the Empire",
-        "page_number": "170"
-      },
-      {
-        "code_name": "SWA02",
-        "book_name": "Age of Rebellion",
-        "page_number": "185"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Personal_Deflector_Shield&format=json"
   },
   {
     "name": "Reflect Body Glove",
@@ -899,29 +402,10 @@
     "hardPoints": 0,
     "encumbrance": 2,
     "restricted": false,
-    "price": "2500",
+    "price": 2500,
     "rarity": "5",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Reflect_Body_Glove",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Reflect_Body_Glove&format=json",
-    "subtitle": "A reflect body glove is a skintight suit that can be worn underneath traditional garments.",
-    "description": "Add two setback dice to a character's Vigilance and Perception checks to notice the user is wearing armor. After a successful combat check has been resolved against the wearer, the reflect body glove's soak is reduced by one, to a minimum of zero. The suit's soak may be restored to its original value by making an Average difficulty Mechanics check.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "76"
-      },
-      {
-        "code_name": "SWF35",
-        "book_name": "Disciples of Harmony",
-        "page_number": "45"
-      },
-      {
-        "code_name": "SWF35",
-        "book_name": "Disciples of Harmony",
-        "page_number": "46"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Reflect_Body_Glove&format=json"
   },
   {
     "name": "Reinforced Environment Gear",
@@ -930,24 +414,10 @@
     "hardPoints": 2,
     "encumbrance": 2,
     "restricted": false,
-    "price": "850",
+    "price": 850,
     "rarity": "4",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Reinforced_Environment_Gear",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Reinforced_Environment_Gear&format=json",
-    "subtitle": "Produced by a number of companies, such a Pretormin Environmental and Gandorthral Atmospherics, reinforced environment gear is essentially improved adverse environment gear.",
-    "description": "Reinforced environment gear allows a wearer to ignore a setback die imposed by environmental conditions and reduces Critical Injuries suffered from falling by 20. The suit also includes a filter, granting a boost die to Resilience checks to resist toxic atmospheres or airborne toxins.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "76"
-      },
-      {
-        "code_name": "SWE10",
-        "book_name": "Far Horizons",
-        "page_number": "44"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Reinforced_Environment_Gear&format=json"
   },
   {
     "name": "Sakiyan Shadowsuit",
@@ -956,29 +426,10 @@
     "hardPoints": 1,
     "encumbrance": 1,
     "restricted": false,
-    "price": "2500",
+    "price": 2500,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sakiyan_Shadowsuit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sakiyan_Shadowsuit&format=json",
-    "subtitle": "Woven from the silk of the umbraspider, Sakiyan shadowsuits are used by assassins who wish to remain unseen.",
-    "description": "A Sakiyan shadowsuit grants two boost dice to Stealth checks the wearer makes.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "77"
-      },
-      {
-        "code_name": "SWE11",
-        "book_name": "Lords of Nal Hutta",
-        "page_number": "104"
-      },
-      {
-        "code_name": "SWE11",
-        "book_name": "Lords of Nal Hutta",
-        "page_number": "105"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sakiyan_Shadowsuit&format=json"
   },
   {
     "name": "SeaScape Diving Suit",
@@ -987,29 +438,10 @@
     "hardPoints": 0,
     "encumbrance": 3,
     "restricted": false,
-    "price": "400",
+    "price": 400,
     "rarity": "2",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/SeaScape_Diving_Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=SeaScape_Diving_Suit&format=json",
-    "subtitle": "When air-breathers must work closely with aquatic species—or travel beneath an ocean's surface for any other reason—a self-contained diving suit is required.",
-    "description": "The SeaScape diving suit can provide six hours of atmosphere to an air-breather. During this time, the wearer also has access to fresh water, nutrition supplements, and other biological necessities. While wearing a SeaScape diving suit, a character does not suffer movement penalties for traveling through water.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "77"
-      },
-      {
-        "code_name": "SWF35",
-        "book_name": "Disciples of Harmony",
-        "page_number": "45"
-      },
-      {
-        "code_name": "SWF35",
-        "book_name": "Disciples of Harmony",
-        "page_number": "46"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=SeaScape_Diving_Suit&format=json"
   },
   {
     "name": "Sith Pain Harness",
@@ -1018,19 +450,10 @@
     "hardPoints": 0,
     "encumbrance": 2,
     "restricted": true,
-    "price": "3500",
+    "price": 3500,
     "rarity": "9",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Sith_Pain_Harness",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sith_Pain_Harness&format=json",
-    "subtitle": "Developed over generations, the Sith Pain Harness represents the pinnacle of their philosophy.",
-    "description": "While wearing the Sith Pain Harness, a character can choose to suffer one wound as an incidental to add an automatic success result to the next Discipline check they make during the current round. They then suffer 1 Conflict.",
-    "books": [
-      {
-        "code_name": "SWF52",
-        "book_name": "Unlimited Power",
-        "page_number": "51"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Sith_Pain_Harness&format=json"
   },
   {
     "name": "Thinsuit",
@@ -1039,29 +462,10 @@
     "hardPoints": 0,
     "encumbrance": 0,
     "restricted": false,
-    "price": "1200",
+    "price": 1200,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Thinsuit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Thinsuit&format=json",
-    "subtitle": "Used by professional scouts, science-lab workers, and special forces the galaxy over, the Thinsuit by Karflo Corporation is among the most popular environmental protection gear around.",
-    "description": "[...] It comes with a facemask and filtration system that purifies standard atmosphere for up to six hours and provides one hour of internal power. The stock suit comes with six removable filters and power packs, easily stored in its many pockets.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "78"
-      },
-      {
-        "code_name": "SWA42",
-        "book_name": "Forged in Battle",
-        "page_number": "49"
-      },
-      {
-        "code_name": "SWA42",
-        "book_name": "Forged in Battle",
-        "page_number": "50"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Thinsuit&format=json"
   },
   {
     "name": "Training Suit",
@@ -1070,29 +474,10 @@
     "hardPoints": 0,
     "encumbrance": 6,
     "restricted": true,
-    "price": "400",
+    "price": 400,
     "rarity": "9",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Training_Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Training_Suit&format=json",
-    "subtitle": "The typical Jedi training suit features bulky, heavily padded chest, leg, and arm pieces designed to absorb the stunning blows of training lightsabers.",
-    "description": "Unless the integrated weights are removed, a Jedi training suit has an encumbrance of 6. Removal of these weights, which requires an Easy difficulty Mechanics check, reduces the suit's encumbrance to 4. At the GM's discretion, training while wearing the weights might help a character develop physical fitness or adapt to high-gravity environments.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "73"
-      },
-      {
-        "code_name": "SWF24",
-        "book_name": "Keeping the Peace",
-        "page_number": "47"
-      },
-      {
-        "code_name": "SWF24",
-        "book_name": "Keeping the Peace",
-        "page_number": "48"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Training_Suit&format=json"
   },
   {
     "name": "TX-3 Combat Flight Suit",
@@ -1101,24 +486,10 @@
     "hardPoints": 2,
     "encumbrance": 4,
     "restricted": true,
-    "price": "3000",
+    "price": 3000,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/TX-3_Combat_Flight_Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=TX-3_Combat_Flight_Suit&format=json",
-    "subtitle": "An armored flight suit manufactured by Corellian Technologies primarily for starfighter pilots, the TX-3 is used by the Corellian Defense Force and pilots of the security forces of several other systems.",
-    "description": "[...] Without an external oxygen source, a person wearing a TX-3 flight suit can survive for up to 24 hours in hard vacuum.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "79"
-      },
-      {
-        "code_name": "SWE07",
-        "book_name": "Suns of Fortune",
-        "page_number": "99"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=TX-3_Combat_Flight_Suit&format=json"
   },
   {
     "name": "Wing Commander Armored Flight Suit",
@@ -1127,29 +498,10 @@
     "hardPoints": 1,
     "encumbrance": 3,
     "restricted": false,
-    "price": "1500",
+    "price": 1500,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Wing_Commander_Armored_Flight_Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Wing_Commander_Armored_Flight_Suit&format=json",
-    "subtitle": "The popular Wing Commander armored flight suit by Ayelixe/Krongbing Textiles is the latest advancement in pilot comfort and protection.",
-    "description": "Thanks to its rugged construction and integrated armor, the Wing Commander suit reduces any strain received from Critical Hits dealt to the wearer's vehicle by one (to a minimum of 1) and the flame-resistant coating reduces damage dealt to the wearer by fires and weapons with the Burn quality by 1.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "79"
-      },
-      {
-        "code_name": "SWA25",
-        "book_name": "Stay on Target",
-        "page_number": "43"
-      },
-      {
-        "code_name": "SWA25",
-        "book_name": "Stay on Target",
-        "page_number": "42"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Wing_Commander_Armored_Flight_Suit&format=json"
   },
   {
     "name": "Zephyr Stealth Suit",
@@ -1158,19 +510,10 @@
     "hardPoints": 1,
     "encumbrance": 2,
     "restricted": true,
-    "price": "5500",
+    "price": 5500,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Zephyr_Stealth_Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Zephyr_Stealth_Suit&format=json",
-    "subtitle": "Stealth suits, produced by companies like Ayelix/Krongbing Textils and Creshaldyne, are designed to make a wearer difficult or impossible to detect by visual or technological means.",
-    "description": "A character wearing a zephyr stealth suit upgrade the ability of any Stealth checks make once.",
-    "books": [
-      {
-        "code_name": "SWF30",
-        "book_name": "Endless Vigil",
-        "page_number": "44"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Zephyr_Stealth_Suit&format=json"
   },
   {
     "name": "\"Storm\" Charge Suit (GaG)",
@@ -1179,29 +522,10 @@
     "hardPoints": 0,
     "encumbrance": 3,
     "restricted": false,
-    "price": "2000",
+    "price": 2000,
     "rarity": "2",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/%22Storm%22_Charge_Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=%22Storm%22_Charge_Suit&format=json",
-    "subtitle": "The \"Storm\" charge suit offers protection similar to other makes a padded armor, but it offers several unique features.",
-    "description": "If the wearer of the charge suit is hit by a melee attack and the attack generates a despair result, the attacker is automatically hit by an attack dealing 8 damage. This damage is applied to the attacker's strain threshold. If the attack generates two threat results, the attacker is disoriented for one round. Wearing a charge suit counts as being equipped with shock gloves (Brawl; Damage +0; Critical 5; Range ; Stun 3).",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "78"
-      },
-      {
-        "code_name": "SWE08",
-        "book_name": "Dangerous Covenants",
-        "page_number": "49"
-      },
-      {
-        "code_name": "SWE08",
-        "book_name": "Dangerous Covenants",
-        "page_number": "50"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=%22Storm%22_Charge_Suit&format=json"
   },
   {
     "name": "\"Storm\" Charge Suit (DC)",
@@ -1210,29 +534,10 @@
     "hardPoints": 0,
     "encumbrance": 3,
     "restricted": false,
-    "price": "2000",
+    "price": 2000,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/%22Storm%22_Charge_Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=%22Storm%22_Charge_Suit&format=json",
-    "subtitle": "The \"Storm\" charge suit offers protection similar to other makes a padded armor, but it offers several unique features.",
-    "description": "If the wearer of the charge suit is hit by a melee attack and the attack generates a despair result, the attacker is automatically hit by an attack dealing 8 damage. This damage is applied to the attacker's strain threshold. If the attack generates two threat results, the attacker is disoriented for one round. Wearing a charge suit counts as being equipped with shock gloves (Brawl; Damage +0; Critical 5; Range ; Stun 3).",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "78"
-      },
-      {
-        "code_name": "SWE08",
-        "book_name": "Dangerous Covenants",
-        "page_number": "49"
-      },
-      {
-        "code_name": "SWE08",
-        "book_name": "Dangerous Covenants",
-        "page_number": "50"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=%22Storm%22_Charge_Suit&format=json"
   },
   {
     "name": "Alliance Engineer's Helmet and Vest",
@@ -1241,19 +546,10 @@
     "hardPoints": 0,
     "encumbrance": 1,
     "restricted": false,
-    "price": "75",
+    "price": 75,
     "rarity": "1",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Alliance_Engineer%27s_Helmet_and_Vest",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Alliance_Engineer's_Helmet_and_Vest&format=json",
-    "subtitle": "Similar to helmets worn by civilian engineers and construction workers, an Alliance engineer's helmet is made of sturdy, lightweight, fiber-reinforced polycarbonate and fitted with a shock-absorbing gel liner.",
-    "description": "While wearing an Alliance engineer's helmet and vest, the character counts as having 1 rank (or one additional rank) in the Durable talent.",
-    "books": [
-      {
-        "code_name": "SWA47",
-        "book_name": "Fully Operational",
-        "page_number": "42"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Alliance_Engineer's_Helmet_and_Vest&format=json"
   },
   {
     "name": "Alliance Light Stealth Armor",
@@ -1262,24 +558,10 @@
     "hardPoints": 2,
     "encumbrance": 3,
     "restricted": true,
-    "price": "2200",
+    "price": 2200,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Alliance_Light_Stealth_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Alliance_Light_Stealth_Armor&format=json",
-    "subtitle": "The inferior resources of the Alliance military force Rebel soldiers to rely on stealth and subterfuge to accomplish most of their missions.",
-    "description": "This armor adds a boost die to the wearer's Stealth checks.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "67"
-      },
-      {
-        "code_name": "SWA42",
-        "book_name": "Forged in Battle",
-        "page_number": "49"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Alliance_Light_Stealth_Armor&format=json"
   },
   {
     "name": "Armored Clothing",
@@ -1288,49 +570,10 @@
     "hardPoints": 1,
     "encumbrance": 3,
     "restricted": false,
-    "price": "1000",
+    "price": 1000,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Armored_Clothing",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Armored_Clothing&format=json",
-    "subtitle": "Available in a variety of styles, armored clothing is an excellent option for those who need light, flexible protection.",
-    "description": "Models Include: Ayelixe Fabrico Armorweave, A/KT Tuff1 Combat Jumpsuit, Tenloss Syndicate \"ShadowStalker\" Assassin Gear.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "67"
-      },
-      {
-        "code_name": "SWF02",
-        "book_name": "Force & Destiny",
-        "page_number": "179"
-      },
-      {
-        "code_name": "SWA02",
-        "book_name": "Age of Rebellion",
-        "page_number": "183"
-      },
-      {
-        "code_name": "SWE02",
-        "book_name": "Edge of the Empire",
-        "page_number": "170"
-      },
-      {
-        "code_name": "SWA02",
-        "book_name": "Age of Rebellion",
-        "page_number": "184"
-      },
-      {
-        "code_name": "SWF02",
-        "book_name": "Force & Destiny",
-        "page_number": "178"
-      },
-      {
-        "code_name": "SWE02",
-        "book_name": "Edge of the Empire",
-        "page_number": "169"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Armored_Clothing&format=json"
   },
   {
     "name": "Armored Drop Suit",
@@ -1339,24 +582,10 @@
     "hardPoints": 2,
     "encumbrance": 6,
     "restricted": false,
-    "price": "7500",
+    "price": 7500,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Armored_Drop_Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Armored_Drop_Suit&format=json",
-    "subtitle": "Armored drop suits are light laminate body armor constructed around a powerful repulsorlift unit, allowing the wearer to fly between firing positions or rain down attacks from above.",
-    "description": "As a maneuver, the wearer can engage the suit's flight systems to function as a silhouette 0, speed 2, handling +2, system strain threshold 3 vehicle that requires Piloting (Planetary) to operate. Further, while the flight systems are engaged and the wearer is conscious, they do not suffer damage from falling.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "67"
-      },
-      {
-        "code_name": "SWE16",
-        "book_name": "No Disintegrations",
-        "page_number": "49"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Armored_Drop_Suit&format=json"
   },
   {
     "name": "Armored Half-vest",
@@ -1365,29 +594,10 @@
     "hardPoints": 0,
     "encumbrance": 3,
     "restricted": false,
-    "price": "500",
+    "price": 500,
     "rarity": "5",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Armored_Half-vest",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Armored_Half-vest&format=json",
-    "subtitle": "Referred to snidely as \"bounty hunter insurance\" by cynics across the galaxy, the Koromondain armored half-vest is designed to protect the wearer from ambushes and sudden attacks from unexpected directions.",
-    "description": "Whenever a character wearing an armored half-vest suffers a Critical Injury, the armor becomes damaged by one step.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "68"
-      },
-      {
-        "code_name": "SWF24",
-        "book_name": "Keeping the Peace",
-        "page_number": "47"
-      },
-      {
-        "code_name": "SWF24",
-        "book_name": "Keeping the Peace",
-        "page_number": "49"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Armored_Half-vest&format=json"
   },
   {
     "name": "Beast-hide Armor (GaG)",
@@ -1396,39 +606,10 @@
     "hardPoints": 0,
     "encumbrance": 2,
     "restricted": false,
-    "price": "300",
+    "price": 300,
     "rarity": "3",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Beast-hide_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Beast-hide_Armor&format=json",
-    "subtitle": "Blasters and other advanced weapons can make a mockery of even the most sophisticated armor.",
-    "description": "When wearing beast-hide armor, a character gains an automatic advantage result on Coercion checks and an automatic threat on Charm checks. The GM may determine that this armor provides further benefits or drawbacks depending on the situation.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "68"
-      },
-      {
-        "code_name": "SWF41",
-        "book_name": "Savage Spirits",
-        "page_number": "45"
-      },
-      {
-        "code_name": "SWE08",
-        "book_name": "Dangerous Covenants",
-        "page_number": "49"
-      },
-      {
-        "code_name": "SWF41",
-        "book_name": "Savage Spirits",
-        "page_number": "44"
-      },
-      {
-        "code_name": "SWE08",
-        "book_name": "Dangerous Covenants",
-        "page_number": "50"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Beast-hide_Armor&format=json"
   },
   {
     "name": "Beast-hide Armor (SS, DC)",
@@ -1437,39 +618,10 @@
     "hardPoints": 0,
     "encumbrance": 3,
     "restricted": false,
-    "price": "300",
+    "price": 300,
     "rarity": "2",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Beast-hide_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Beast-hide_Armor&format=json",
-    "subtitle": "Blasters and other advanced weapons can make a mockery of even the most sophisticated armor.",
-    "description": "When wearing beast-hide armor, a character gains an automatic advantage result on Coercion checks and an automatic threat on Charm checks. The GM may determine that this armor provides further benefits or drawbacks depending on the situation.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "68"
-      },
-      {
-        "code_name": "SWF41",
-        "book_name": "Savage Spirits",
-        "page_number": "45"
-      },
-      {
-        "code_name": "SWE08",
-        "book_name": "Dangerous Covenants",
-        "page_number": "49"
-      },
-      {
-        "code_name": "SWF41",
-        "book_name": "Savage Spirits",
-        "page_number": "44"
-      },
-      {
-        "code_name": "SWE08",
-        "book_name": "Dangerous Covenants",
-        "page_number": "50"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Beast-hide_Armor&format=json"
   },
   {
     "name": "Blast Vest",
@@ -1478,19 +630,10 @@
     "hardPoints": 1,
     "encumbrance": 3,
     "restricted": false,
-    "price": "200",
+    "price": 200,
     "rarity": "3",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Blast_Vest",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Blast_Vest&format=json",
-    "subtitle": "Light armor designed to protect the wearer from bullets and flying debris, militia and planetary defense forces commonly wear blast vests, as do troopers and crew men aboard starships.",
-    "description": "The armor gains +2 soak when the wearer suffers damage from a slugthrower or other physical projectile.",
-    "books": [
-      {
-        "code_name": "SWE12",
-        "book_name": "Fly Casual",
-        "page_number": "47"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Blast_Vest&format=json"
   },
   {
     "name": "Catch Vest",
@@ -1499,24 +642,10 @@
     "hardPoints": 0,
     "encumbrance": 1,
     "restricted": false,
-    "price": "300",
+    "price": 300,
     "rarity": "3",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Catch_Vest",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Catch_Vest&format=json",
-    "subtitle": "A common piece of attire for well-traveled Corellians, the innocuous catch vest has saved the lives of many free traders.",
-    "description": "Catch vests have a soak value of 2 against damage from energy-based weapons only; they provide only 1 point of soak against all other forms of damage.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "69"
-      },
-      {
-        "code_name": "SWE07",
-        "book_name": "Suns of Fortune",
-        "page_number": "99"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Catch_Vest&format=json"
   },
   {
     "name": "Clone Dive Armor",
@@ -1525,24 +654,10 @@
     "hardPoints": 2,
     "encumbrance": 3,
     "restricted": true,
-    "price": "4500",
+    "price": 4500,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Clone_Dive_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Clone_Dive_Armor&format=json",
-    "subtitle": "Some battlefronts are on water worlds such as Mon Cala, where clone troopers must fight while swimming through the depths.",
-    "description": "Clone dive armor provides twelve hours of oxygen. During this time, the wearer also has fresh water, nutrition supplements, and other biological necessities. While wearing clone dive armor, a character does not suffer movement penalties for travelling through water and removes up to one setback die from Perception checks due to underwater conditions.",
-    "books": [
-      {
-        "code_name": "SWR15",
-        "book_name": "Collapse of the Republic",
-        "page_number": "57"
-      },
-      {
-        "code_name": "SWR15",
-        "book_name": "Collapse of the Republic",
-        "page_number": "56"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Clone_Dive_Armor&format=json"
   },
   {
     "name": "Clone Reconnaissance Armor",
@@ -1551,24 +666,10 @@
     "hardPoints": 2,
     "encumbrance": 3,
     "restricted": true,
-    "price": "4000",
+    "price": 4000,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Clone_Reconnaissance_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Clone_Reconnaissance_Armor&format=json",
-    "subtitle": "Often, clone troopers need to operate in environments and situations where stealth is vital.",
-    "description": "Characters wearing clone reconnaissance armor add a boost die to Stealth checks they make. These suits incorporate visors with integrated thermal and low-light sensors, allowing wearers to remove a setback die from visual Perception checks they make.",
-    "books": [
-      {
-        "code_name": "SWR15",
-        "book_name": "Collapse of the Republic",
-        "page_number": "57"
-      },
-      {
-        "code_name": "SWR15",
-        "book_name": "Collapse of the Republic",
-        "page_number": "56"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Clone_Reconnaissance_Armor&format=json"
   },
   {
     "name": "Custom Tailored Armored Jacket",
@@ -1577,24 +678,10 @@
     "hardPoints": 0,
     "encumbrance": 1,
     "restricted": false,
-    "price": "6200",
+    "price": 6200,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Custom_Tailored_Armored_Jacket",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Custom_Tailored_Armored_Jacket&format=json",
-    "subtitle": "Kamperdine Clothing Specialists is a boutique manufacturer of custom clothing.",
-    "description": "Kamperdine armored jackets are each tailored to a specific wearer. When worn by that wearer, they add an advantage result to any successful Charm, Deception, or Negotiation checks the character makes (the GM may decide that the bonus does not apply in certain situations, such as dealings over a comlink).",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "70"
-      },
-      {
-        "code_name": "SWE10",
-        "book_name": "Far Horizons",
-        "page_number": "44"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Custom_Tailored_Armored_Jacket&format=json"
   },
   {
     "name": "Flare Jacket",
@@ -1603,24 +690,10 @@
     "hardPoints": 0,
     "encumbrance": 3,
     "restricted": false,
-    "price": "1500",
+    "price": 1500,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Flare_Jacket",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Flare_Jacket&format=json",
-    "subtitle": "Originally designed by a high-end clothing manufacturer for making literally flashy entrances, the flare jacket caught the attention of organizations that saw potential military use and contracted Ayelixe/Krongbing Textiles to produce a more intense version for a personal defense coat.",
-    "description": "Models include: Ayelixe/Krongbing Personal Defense Coat, Brennkeyes Syndicate flare jacket.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "70"
-      },
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "48"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Flare_Jacket&format=json"
   },
   {
     "name": "Formal Council Armor",
@@ -1629,19 +702,10 @@
     "hardPoints": 2,
     "encumbrance": 5,
     "restricted": true,
-    "price": "8000",
+    "price": 8000,
     "rarity": "10",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Formal_Council_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Formal_Council_Armor&format=json",
-    "subtitle": "In rare circumstances, Jedi were called in to treat and societies for which status and associated symbols played a significant factor in negotiations.",
-    "description": "A character wearing formal Council armor adds two automatic advantage results to Negotiation checks when interacting with individuals who hold Jedi in high regard. At the GM's discretion, the character may add two automatic advantage results to Coercion checks when interacting with individuals who hate or fear the Jedi (such as representatives of the Galactic Empire).",
-    "books": [
-      {
-        "code_name": "SWF35",
-        "book_name": "Disciples of Harmony",
-        "page_number": "45"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Formal_Council_Armor&format=json"
   },
   {
     "name": "Hunter's Trophy Armor (completed)",
@@ -1650,24 +714,10 @@
     "hardPoints": 1,
     "encumbrance": 4,
     "restricted": true,
-    "price": "2000",
+    "price": 2000,
     "rarity": "9",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hunter%27s_Trophy_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hunter's_Trophy_Armor&format=json",
-    "subtitle": "Bounty hunters who specialize in wild animals and dangerous beasts sometimes make a habit of collecting trophies to show off their accomplishments.",
-    "description": "A character wearing trophy armor suffers a setback die to Charm checks, but gains two boost die to Coercion checks due to the armor's intimidating appearance. At the GM's discretion, Charm checks made to impress or persuade other characters of the wearer's prowess may receive two boost dice instead of a setback die.",
-    "books": [
-      {
-        "code_name": "SWE16",
-        "book_name": "No Disintegrations",
-        "page_number": "49"
-      },
-      {
-        "code_name": "SWE16",
-        "book_name": "No Disintegrations",
-        "page_number": "50"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hunter's_Trophy_Armor&format=json"
   },
   {
     "name": "Hunter's Trophy Armor (custom-made)",
@@ -1676,24 +726,10 @@
     "hardPoints": 1,
     "encumbrance": 4,
     "restricted": true,
-    "price": "1000",
+    "price": 1000,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hunter%27s_Trophy_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hunter's_Trophy_Armor&format=json",
-    "subtitle": "Bounty hunters who specialize in wild animals and dangerous beasts sometimes make a habit of collecting trophies to show off their accomplishments.",
-    "description": "A character wearing trophy armor suffers a setback die to Charm checks, but gains two boost die to Coercion checks due to the armor's intimidating appearance. At the GM's discretion, Charm checks made to impress or persuade other characters of the wearer's prowess may receive two boost dice instead of a setback die.",
-    "books": [
-      {
-        "code_name": "SWE16",
-        "book_name": "No Disintegrations",
-        "page_number": "49"
-      },
-      {
-        "code_name": "SWE16",
-        "book_name": "No Disintegrations",
-        "page_number": "50"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hunter's_Trophy_Armor&format=json"
   },
   {
     "name": "Imperial Storm Commando Armor",
@@ -1702,24 +738,10 @@
     "hardPoints": 4,
     "encumbrance": 4,
     "restricted": true,
-    "price": "5000",
+    "price": 5000,
     "rarity": "9",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Imperial_Storm_Commando_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Imperial_Storm_Commando_Armor&format=json",
-    "subtitle": "Storm commandos are among the Empire's most elite troopers, and they utilize the most advanced equipment available.",
-    "description": "The armor's helmet is equipped with macrobinoculars and scanner goggles, as well as a comlink.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "72"
-      },
-      {
-        "code_name": "SWA42",
-        "book_name": "Forged in Battle",
-        "page_number": "49"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Imperial_Storm_Commando_Armor&format=json"
   },
   {
     "name": "Jedi Commander Armor",
@@ -1728,19 +750,10 @@
     "hardPoints": 3,
     "encumbrance": 5,
     "restricted": true,
-    "price": "5000",
+    "price": 5000,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Jedi_Commander_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jedi_Commander_Armor&format=json",
-    "subtitle": "The traditional robes of the Jedi are appropriate for their work as mediators and peacekeepers, but when leading detachments of clone troopers, many Jedi have opted for additional protection to fit their new role.",
-    "description": "",
-    "books": [
-      {
-        "code_name": "SWR11",
-        "book_name": "Rise of the Separatists",
-        "page_number": "57"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jedi_Commander_Armor&format=json"
   },
   {
     "name": "Jedi Reconnaissance Armor",
@@ -1749,24 +762,10 @@
     "hardPoints": 2,
     "encumbrance": 2,
     "restricted": false,
-    "price": "4000",
+    "price": 4000,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Jedi_Reconnaissance_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jedi_Reconnaissance_Armor&format=json",
-    "subtitle": "In the chaos of a major conflict, many clone troopers fear that the sheer volume of blaster bolts fired from both sides could catch even a Jedi Master unprepared.",
-    "description": "Characters wearing Jedi reconnaissance armor add a boost die to Stealth checks they make.",
-    "books": [
-      {
-        "code_name": "SWR15",
-        "book_name": "Collapse of the Republic",
-        "page_number": "57"
-      },
-      {
-        "code_name": "SWR15",
-        "book_name": "Collapse of the Republic",
-        "page_number": "56"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jedi_Reconnaissance_Armor&format=json"
   },
   {
     "name": "Jedi Temple Guard Armor",
@@ -1775,29 +774,10 @@
     "hardPoints": 3,
     "encumbrance": 4,
     "restricted": true,
-    "price": "12000",
+    "price": 12000,
     "rarity": "10",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Jedi_Temple_Guard_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jedi_Temple_Guard_Armor&format=json",
-    "subtitle": "The Jedi Temple Guard were some of the best fighters the Jedi Order had to offer, sworn to protect the temple to the end.",
-    "description": "The armored mask contains a helmet comlink and in-helmet scanner.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "72"
-      },
-      {
-        "code_name": "SWF24",
-        "book_name": "Keeping the Peace",
-        "page_number": "47"
-      },
-      {
-        "code_name": "SWF24",
-        "book_name": "Keeping the Peace",
-        "page_number": "48"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jedi_Temple_Guard_Armor&format=json"
   },
   {
     "name": "Mk I NightStalker Infiltrator Suit",
@@ -1806,29 +786,10 @@
     "hardPoints": 1,
     "encumbrance": 2,
     "restricted": true,
-    "price": "4800",
+    "price": 4800,
     "rarity": "9",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mk_I_NightStalker_Infiltrator_Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mk_I_NightStalker_Infiltrator_Suit&format=json",
-    "subtitle": "The Mk I NightStalker is a lightweight, surprisingly durable suit of armor that Bantin Corp recently produced.",
-    "description": "When wearing a NightStalker suit, the wearer adds an automatic success result to Stealth checks they make and adds an automatic threat result to social skill checks they make.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "73"
-      },
-      {
-        "code_name": "SWA53",
-        "book_name": "Cyphers & Masks",
-        "page_number": "42"
-      },
-      {
-        "code_name": "SWA53",
-        "book_name": "Cyphers & Masks",
-        "page_number": "41"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mk_I_NightStalker_Infiltrator_Suit&format=json"
   },
   {
     "name": "Mk III Flak Vest",
@@ -1837,29 +798,10 @@
     "hardPoints": 1,
     "encumbrance": 3,
     "restricted": false,
-    "price": "300",
+    "price": 300,
     "rarity": "2",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mk_III_Flak_Vest",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mk_III_Flak_Vest&format=json",
-    "subtitle": "The Mk III flak vest from Pacnorval Defense Systems is a basic jacket consisting of light durasteel plates under layered ballistic fabric.",
-    "description": "This armor gains +1 soak when the wearer suffers damage from the Blast quality.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "74"
-      },
-      {
-        "code_name": "SWE08",
-        "book_name": "Dangerous Covenants",
-        "page_number": "49"
-      },
-      {
-        "code_name": "SWE08",
-        "book_name": "Dangerous Covenants",
-        "page_number": "50"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mk_III_Flak_Vest&format=json"
   },
   {
     "name": "Mk IX Personal Mimetic Concealment Suit (GaG, CaM)",
@@ -1868,29 +810,10 @@
     "hardPoints": 1,
     "encumbrance": 2,
     "restricted": true,
-    "price": "8000",
+    "price": 8000,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mk_IX_Personal_Mimetic_Concealment_Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mk_IX_Personal_Mimetic_Concealment_Suit&format=json",
-    "subtitle": "Cyricept's Mk IX Personal Mimetic Concealment Suits use active stealth technologies combined with advanced textiles to provide some of the best personal stealth armor available.",
-    "description": "Wearing this armor upgrades the ability of all Stealth checks made by the wearer twice. In addition, the GM may spend a despair result or three threat results on any Stealth checks made by the wearer while the suit is active to have its power pack run dry. The suit cannot be used again until the powerpack is replaced, which requires a maneuver.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "74"
-      },
-      {
-        "code_name": "SWA53",
-        "book_name": "Cyphers & Masks",
-        "page_number": "42"
-      },
-      {
-        "code_name": "SWE12",
-        "book_name": "Fly Casual",
-        "page_number": "47"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mk_IX_Personal_Mimetic_Concealment_Suit&format=json"
   },
   {
     "name": "Mk IX Personal Mimetic Concealment Suit (FC)",
@@ -1899,29 +822,10 @@
     "hardPoints": 2,
     "encumbrance": 2,
     "restricted": true,
-    "price": "8000",
+    "price": 8000,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mk_IX_Personal_Mimetic_Concealment_Suit",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mk_IX_Personal_Mimetic_Concealment_Suit&format=json",
-    "subtitle": "Cyricept's Mk IX Personal Mimetic Concealment Suits use active stealth technologies combined with advanced textiles to provide some of the best personal stealth armor available.",
-    "description": "Wearing this armor upgrades the ability of all Stealth checks made by the wearer twice. In addition, the GM may spend a despair result or three threat results on any Stealth checks made by the wearer while the suit is active to have its power pack run dry. The suit cannot be used again until the powerpack is replaced, which requires a maneuver.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "74"
-      },
-      {
-        "code_name": "SWA53",
-        "book_name": "Cyphers & Masks",
-        "page_number": "42"
-      },
-      {
-        "code_name": "SWE12",
-        "book_name": "Fly Casual",
-        "page_number": "47"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mk_IX_Personal_Mimetic_Concealment_Suit&format=json"
   },
   {
     "name": "Mountaineer Armor",
@@ -1930,29 +834,10 @@
     "hardPoints": 2,
     "encumbrance": 3,
     "restricted": false,
-    "price": "1800",
+    "price": 1800,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mountaineer_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mountaineer_Armor&format=json",
-    "subtitle": "Another offering from Ayelixe/Krongbing Textiles, mountaineer armor is a suit of light, flexible armor designed to assist the wearer in climbing and navigating mountainous terrain.",
-    "description": "Mountaineer armor adds two boost dice to all Athletics checks made by the wearer to climb or rappel.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "74"
-      },
-      {
-        "code_name": "SWE06",
-        "book_name": "Enter the Unknown",
-        "page_number": "44"
-      },
-      {
-        "code_name": "SWE06",
-        "book_name": "Enter the Unknown",
-        "page_number": "45"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mountaineer_Armor&format=json"
   },
   {
     "name": "Padded Armor",
@@ -1961,34 +846,10 @@
     "hardPoints": 0,
     "encumbrance": 2,
     "restricted": false,
-    "price": "500",
+    "price": 500,
     "rarity": "1",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Padded_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Padded_Armor&format=json",
-    "subtitle": "Made of thick, reinforced, wear-resistant textiles woven with energy dispersion mesh, this light armor is one of the most common forms of personal armor protection in the galaxy.",
-    "description": "Models Include: Creshaldyne Industries Light Combat Armor, TaggeCo. \"Protector X\" Law Enforcement Armor.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "75"
-      },
-      {
-        "code_name": "SWF02",
-        "book_name": "Force & Destiny",
-        "page_number": "179"
-      },
-      {
-        "code_name": "SWA02",
-        "book_name": "Age of Rebellion",
-        "page_number": "183"
-      },
-      {
-        "code_name": "SWE02",
-        "book_name": "Edge of the Empire",
-        "page_number": "170"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Padded_Armor&format=json"
   },
   {
     "name": "Pioneer Armor (GaG)",
@@ -1997,29 +858,10 @@
     "hardPoints": 2,
     "encumbrance": 1,
     "restricted": false,
-    "price": "200",
+    "price": 200,
     "rarity": "4",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pioneer_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pioneer_Armor&format=json",
-    "subtitle": "Designed with the combat engineer in mind, pioneer armor consists of rugged, reinforced jacket and trousers, sturdy boots with plasteel toe caps, gloves, and a modified engineer's helmet.",
-    "description": "Pioneer armor increases a wearer's encumbrance threshold by 3.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "75"
-      },
-      {
-        "code_name": "SWA47",
-        "book_name": "Fully Operational",
-        "page_number": "42"
-      },
-      {
-        "code_name": "SWA47",
-        "book_name": "Fully Operational",
-        "page_number": "43"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pioneer_Armor&format=json"
   },
   {
     "name": "Pioneer Armor (FO)",
@@ -2028,29 +870,10 @@
     "hardPoints": 1,
     "encumbrance": 1,
     "restricted": false,
-    "price": "200",
+    "price": 200,
     "rarity": "4",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Pioneer_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pioneer_Armor&format=json",
-    "subtitle": "Designed with the combat engineer in mind, pioneer armor consists of rugged, reinforced jacket and trousers, sturdy boots with plasteel toe caps, gloves, and a modified engineer's helmet.",
-    "description": "Pioneer armor increases a wearer's encumbrance threshold by 3.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "75"
-      },
-      {
-        "code_name": "SWA47",
-        "book_name": "Fully Operational",
-        "page_number": "42"
-      },
-      {
-        "code_name": "SWA47",
-        "book_name": "Fully Operational",
-        "page_number": "43"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Pioneer_Armor&format=json"
   },
   {
     "name": "Riot Armor",
@@ -2059,24 +882,10 @@
     "hardPoints": 2,
     "encumbrance": 3,
     "restricted": false,
-    "price": "950",
+    "price": 950,
     "rarity": "4",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Riot_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Riot_Armor&format=json",
-    "subtitle": "Produced by countless manufacturers throughout the galaxy, riot armor is light combat armor designed for personal protection in high-intensity conflicts.",
-    "description": "",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "77"
-      },
-      {
-        "code_name": "SWF24",
-        "book_name": "Keeping the Peace",
-        "page_number": "47"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Riot_Armor&format=json"
   },
   {
     "name": "Second Skin Armor",
@@ -2085,29 +894,10 @@
     "hardPoints": 0,
     "encumbrance": 2,
     "restricted": false,
-    "price": "2000",
+    "price": 2000,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Second_Skin_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Second_Skin_Armor&format=json",
-    "subtitle": "Like most types of armored clothing, second skin armor offers moderate protection while still enabling easy movement and flexibility.",
-    "description": "Models include: Preparix Second Skin, Aylixe/Krongbing Undershield.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "77"
-      },
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "48"
-      },
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "49"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Second_Skin_Armor&format=json"
   },
   {
     "name": "Survivalist Armor",
@@ -2116,24 +906,10 @@
     "hardPoints": 2,
     "encumbrance": 3,
     "restricted": false,
-    "price": "350",
+    "price": 350,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Survivalist_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Survivalist_Armor&format=json",
-    "subtitle": "Creshaldyne Industries is known throughout the galaxy as a purveyor of finely made working clothes for hunters, scouts, and others who live in frontier settings.",
-    "description": "Wearing a suit of Survivalist armor increases the wearer's encumbrance threshold by 1.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "78"
-      },
-      {
-        "code_name": "SWF41",
-        "book_name": "Savage Spirits",
-        "page_number": "45"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Survivalist_Armor&format=json"
   },
   {
     "name": "Timber Cuirass",
@@ -2142,19 +918,10 @@
     "hardPoints": 1,
     "encumbrance": 4,
     "restricted": false,
-    "price": "4000",
+    "price": 4000,
     "rarity": "5",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Timber_Cuirass",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Timber_Cuirass&format=json",
-    "subtitle": "Armorers crafted the classic cuirass from a single living piece of Heartwood.",
-    "description": "",
-    "books": [
-      {
-        "code_name": "SWF52",
-        "book_name": "Unlimited Power",
-        "page_number": "51"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Timber_Cuirass&format=json"
   },
   {
     "name": "Type III \"Berethron\" Personal Modular Armor",
@@ -2163,24 +930,10 @@
     "hardPoints": 3,
     "encumbrance": 3,
     "restricted": true,
-    "price": "1250",
+    "price": 1250,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Type_III_%22Berethron%22_Personal_Modular_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Type_III_%22Berethron%22_Personal_Modular_Armor&format=json",
-    "subtitle": "Manufactured in the Corellian sector for the Corellian Defense Force and CorSec forces, the Type III \"Berethron\" personal modular armor system is a relatively lightweight form of armored clothing that allows for considerable mission-specific customization.",
-    "description": "",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "79"
-      },
-      {
-        "code_name": "SWE07",
-        "book_name": "Suns of Fortune",
-        "page_number": "99"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Type_III_%22Berethron%22_Personal_Modular_Armor&format=json"
   },
   {
     "name": "Verpine Fiber Ultramesh Armor",
@@ -2189,19 +942,10 @@
     "hardPoints": 2,
     "encumbrance": 3,
     "restricted": false,
-    "price": "3000",
+    "price": 3000,
     "rarity": "5",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Verpine_Fiber_Ultramesh_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Verpine_Fiber_Ultramesh_Armor&format=json",
-    "subtitle": "Fiber ultramesh armor is the standard armor of Verpine colony guards. It is a more advanced version of the Verpine fiber mesh armor, with a tighter weave and sturdier construction.",
-    "description": "As a maneuver, the wearer may power up or power down the armor. While the armor is powered up, the wearer gains +2 defense. However, any character may spend a triumph result or two advantage results from a combat check against the wearer to cause it to run out of power, at which point the armor becomes powered down and cannot be powered up until the end of the encounter.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "79"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Verpine_Fiber_Ultramesh_Armor&format=json"
   },
   {
     "name": "Ancient Battle Armor",
@@ -2210,19 +954,10 @@
     "hardPoints": 1,
     "encumbrance": 6,
     "restricted": false,
-    "price": "3750",
+    "price": 3750,
     "rarity": "9",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Ancient_Battle_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ancient_Battle_Armor&format=json",
-    "subtitle": "The precursors of the ancient Jedi faced much more primitive weapons than lightsabers and blasters, and so found heavy combat armor to be more worthwhile than did later generations.",
-    "description": "While worn by a character with a Force rating of 1 or higher, ancient battle armor gains Defense 1.",
-    "books": [
-      {
-        "code_name": "SWF46",
-        "book_name": "Knights of Fate",
-        "page_number": "47"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Ancient_Battle_Armor&format=json"
   },
   {
     "name": "PX-11 \"Battlement\" Powered Armor",
@@ -2231,24 +966,10 @@
     "hardPoints": 3,
     "encumbrance": 3,
     "restricted": true,
-    "price": "9000",
+    "price": 9000,
     "rarity": "9",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Arakyd_Industries_PX-11_%22Battlement%22_Powered_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Arakyd_Industries_PX-11_%22Battlement%22_Powered_Armor&format=json",
-    "subtitle": "The PX-11 \"Battlement\" from Arakyd Industries exemplifies powered armor suits.",
-    "description": "The suit forms a vacuum-sealed life support system, allowing the wearer to survive in a vacuum or toxic environment for up to one hour. The suit's helmet incorporates a comlink as well as sophisticated optical and auditory sensors, allowing the wearer to deduct two setback dice from all Perception, Surveillance, Vigilance and combat skill checks due to darkness, smoke, or similar environmental factors that obscure vision. PX-11 armor suit charge packs supply enough power for 12 hours of use.",
-    "books": [
-      {
-        "code_name": "SWE08",
-        "book_name": "Dangerous Covenants",
-        "page_number": "49"
-      },
-      {
-        "code_name": "SWE08",
-        "book_name": "Dangerous Covenants",
-        "page_number": "51"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Arakyd_Industries_PX-11_%22Battlement%22_Powered_Armor&format=json"
   },
   {
     "name": "Armored Robes",
@@ -2257,19 +978,10 @@
     "hardPoints": 2,
     "encumbrance": 5,
     "restricted": true,
-    "price": "4500",
+    "price": 4500,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Armored_Robes",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Armored_Robes&format=json",
-    "subtitle": "Often worn by Jedi engaging in dangerous activity during the Clone Wars, armored robes grant exceptional protection.",
-    "description": "Models Include: Various cuts and styles.",
-    "books": [
-      {
-        "code_name": "SWF02",
-        "book_name": "Force & Destiny",
-        "page_number": "179"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Armored_Robes&format=json"
   },
   {
     "name": "Chitin Armor",
@@ -2278,19 +990,10 @@
     "hardPoints": 1,
     "encumbrance": 4,
     "restricted": false,
-    "price": "600",
+    "price": 600,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Chitin_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Chitin_Armor&format=json",
-    "subtitle": "Chitin armor is usually made by hand from the husks of various giant insect species found throughout the galaxy.",
-    "description": "Chitin armor makes a strong statement about the wearer and these suits tend to have a startling effect on people in civilized society. A character wearing a suit of chitin armor adds an automatic advantage result to Coercion checks and an automatic threat result to Charm checks. The Game Master may determine that the armor provides further benefits or drawbacks, depending the situation.",
-    "books": [
-      {
-        "code_name": "SWF41",
-        "book_name": "Savage Spirits",
-        "page_number": "45"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Chitin_Armor&format=json"
   },
   {
     "name": "\"Luck\" Armor",
@@ -2299,24 +1002,10 @@
     "hardPoints": 1,
     "encumbrance": 4,
     "restricted": false,
-    "price": "1000",
+    "price": 1000,
     "rarity": "5",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Cresh_%22Luck%22_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cresh_%22Luck%22_Armor&format=json",
-    "subtitle": "Creshaldyne riot armor is a popular choice among police and paramilitary units across the galaxy.",
-    "description": "Cresh Luck armor adds an automatic advantage result to the wearer's Vigilance checks.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "69"
-      },
-      {
-        "code_name": "SWF24",
-        "book_name": "Keeping the Peace",
-        "page_number": "47"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Cresh_%22Luck%22_Armor&format=json"
   },
   {
     "name": "Heavy Battle Armor",
@@ -2325,29 +1014,10 @@
     "hardPoints": 4,
     "encumbrance": 6,
     "restricted": true,
-    "price": "5000",
+    "price": 5000,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Heavy_Battle_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Heavy_Battle_Armor&format=json",
-    "subtitle": "Heavy battle armor isn't necessarily the domain of commandos, bounty hunters, and assassin droids alone.",
-    "description": "Models Include: Mandalorian Shocktrooper Armor.",
-    "books": [
-      {
-        "code_name": "SWF24",
-        "book_name": "Keeping the Peace",
-        "page_number": "47"
-      },
-      {
-        "code_name": "SWA02",
-        "book_name": "Age of Rebellion",
-        "page_number": "183"
-      },
-      {
-        "code_name": "SWE02",
-        "book_name": "Edge of the Empire",
-        "page_number": "170"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Heavy_Battle_Armor&format=json"
   },
   {
     "name": "HT-77 Cold Assault Armor",
@@ -2356,19 +1026,10 @@
     "hardPoints": 2,
     "encumbrance": 6,
     "restricted": true,
-    "price": "4000",
+    "price": 4000,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/HT-77_Cold_Assault_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=HT-77_Cold_Assault_Armor&format=json",
-    "subtitle": "The HT-77 pattern of clone armor is a specialized suit designed for operation in cold environments, such as polar regions or planets far from the light of their local sun.",
-    "description": "HT-77 cold assault armor comes with a built-in comlink, and it adds two boost dice to the wearer's checks to avoid adverse effects from exposure to cold temperatures and weather. Additionally, the wearer removes a setback die imposed by cold-weather conditions on their Perception checks.",
-    "books": [
-      {
-        "code_name": "SWR11",
-        "book_name": "Rise of the Separatists",
-        "page_number": "57"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=HT-77_Cold_Assault_Armor&format=json"
   },
   {
     "name": "Hutt Shell Armor",
@@ -2377,19 +1038,10 @@
     "hardPoints": 4,
     "encumbrance": 6,
     "restricted": true,
-    "price": "25000",
+    "price": 25000,
     "rarity": "9",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Hutt_Shell_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hutt_Shell_Armor&format=json",
-    "subtitle": "Crafted especially from the Shell Hutts of Circumtore, these massive exoskeletons are fashioned from segmented cylinders of durasteel.",
-    "description": "[...] Shell armor allows its wearer to hover up to five meters above the ground.",
-    "books": [
-      {
-        "code_name": "SWE11",
-        "book_name": "Lords of Nal Hutta",
-        "page_number": "104"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Hutt_Shell_Armor&format=json"
   },
   {
     "name": "Imperial Hazard Trooper Armor",
@@ -2398,24 +1050,10 @@
     "hardPoints": 3,
     "encumbrance": 4,
     "restricted": true,
-    "price": "18000",
+    "price": 18000,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Imperial_Hazard_Trooper_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Imperial_Hazard_Trooper_Armor&format=json",
-    "subtitle": "Imperial hazardous environment protective armor, or \"hazard trooper armor,\" is one of the most rugged armor suits in the Stormtrooper Corps.",
-    "description": "Once active, the armor's internal life support and power systems allow the wearer to survive in radiation zones, acid and toxic environments, extreme pressures , and total vacuum for up to twenty-four hours. The armor also incorporates a high-powered comlink able to communicate from the ground to low orbit. The helmet is equipped with a multifrequency targeting and acquisition system that removes two setback die due to darkness, smoke, or similar environmental factors that obscure vision from the wearer's Perception, Vigilance, and combat checks.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "71"
-      },
-      {
-        "code_name": "SWA42",
-        "book_name": "Forged in Battle",
-        "page_number": "49"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Imperial_Hazard_Trooper_Armor&format=json"
   },
   {
     "name": "Jedi Battle Armor",
@@ -2424,24 +1062,10 @@
     "hardPoints": 5,
     "encumbrance": 5,
     "restricted": true,
-    "price": "7500",
+    "price": 7500,
     "rarity": "9",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Jedi_Battle_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jedi_Battle_Armor&format=json",
-    "subtitle": "When the Jedi battled Sith warriors in ancient days, many wore suits of armor to protect themselves from the weapons of their enemies.",
-    "description": "A character wearing Jedi battle armor fitted for somebody else adds two setback dice to all combat checks. A suit of Jedi battle armor can be fitted to a new wearer with a Hard difficulty Mechanics check that takes an hour to complete. Jedi battle armor is eligible to be sealed against vacuums and other hazardous environments.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "72"
-      },
-      {
-        "code_name": "SWF24",
-        "book_name": "Keeping the Peace",
-        "page_number": "47"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Jedi_Battle_Armor&format=json"
   },
   {
     "name": "Katarn-class Commando Armor (CotR)",
@@ -2450,29 +1074,10 @@
     "hardPoints": 3,
     "encumbrance": 4,
     "restricted": true,
-    "price": "6500",
+    "price": 6500,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Katarn-class_Commando_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Katarn-class_Commando_Armor&format=json",
-    "subtitle": "Clone commandos often accept missions that have a particularly high risk assessment and require extended independent operations.",
-    "description": "ts insulated bodysuit grants the wearer protection from heat, cold, radiation, and most known toxins. A six-hour air supply enables the wearer to function in hostile environments, including the vacuum of space. Integrated scanners and communications suites enable the wearer to track hostiles while keeping in touch with allies.",
-    "books": [
-      {
-        "code_name": "SWR15",
-        "book_name": "Collapse of the Republic",
-        "page_number": "57"
-      },
-      {
-        "code_name": "SWF46",
-        "book_name": "Knights of Fate",
-        "page_number": "47"
-      },
-      {
-        "code_name": "SWF46",
-        "book_name": "Knights of Fate",
-        "page_number": "48"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Katarn-class_Commando_Armor&format=json"
   },
   {
     "name": "Mk I Katarn-class Commando Armor (KoF)",
@@ -2481,29 +1086,10 @@
     "hardPoints": 3,
     "encumbrance": 4,
     "restricted": true,
-    "price": "6500",
+    "price": 6500,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Katarn-class_Commando_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Katarn-class_Commando_Armor&format=json",
-    "subtitle": "Clone commandos often accept missions that have a particularly high risk assessment and require extended independent operations.",
-    "description": "ts insulated bodysuit grants the wearer protection from heat, cold, radiation, and most known toxins. A six-hour air supply enables the wearer to function in hostile environments, including the vacuum of space. Integrated scanners and communications suites enable the wearer to track hostiles while keeping in touch with allies.",
-    "books": [
-      {
-        "code_name": "SWR15",
-        "book_name": "Collapse of the Republic",
-        "page_number": "57"
-      },
-      {
-        "code_name": "SWF46",
-        "book_name": "Knights of Fate",
-        "page_number": "47"
-      },
-      {
-        "code_name": "SWF46",
-        "book_name": "Knights of Fate",
-        "page_number": "48"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Katarn-class_Commando_Armor&format=json"
   },
   {
     "name": "Kav-Dann Power Armor",
@@ -2512,29 +1098,10 @@
     "hardPoints": 6,
     "encumbrance": 4,
     "restricted": true,
-    "price": "13500",
+    "price": 13500,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Kav-Dann_Power_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Kav-Dann_Power_Armor&format=json",
-    "subtitle": "Developed by various interests and groups in secret on Nubia following the Empire's rise to prominence, Kav-Dann series power armor is named after a reptilian predator native to the world.",
-    "description": "Like many other varieties of powered armor, a Kav-Dann suit is spaceworthy and includes a full life-support suite that can be modified for most alien physiologies. A wearer can survive for four hours in a vacuum or unbreathable atmosphere, and gains a boost die to checks to resist the effects of radiation. The helmet incorporates a long-range comlink and a basic visual package that allows the wearer to remove a setback die caused by to darkness, smoke, or other environmental factors that might affect vision from all Perception, Vigilance, and Combat checks.",
-    "books": [
-      {
-        "code_name": "SWF24",
-        "book_name": "Keeping the Peace",
-        "page_number": "47"
-      },
-      {
-        "code_name": "SWF24",
-        "book_name": "Keeping the Peace",
-        "page_number": "48"
-      },
-      {
-        "code_name": "SWF24",
-        "book_name": "Keeping the Peace",
-        "page_number": "49"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Kav-Dann_Power_Armor&format=json"
   },
   {
     "name": "Laminate Armor",
@@ -2543,29 +1110,10 @@
     "hardPoints": 3,
     "encumbrance": 4,
     "restricted": false,
-    "price": "2500",
+    "price": 2500,
     "rarity": "5",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Laminate_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Laminate_Armor&format=json",
-    "subtitle": "Suits of laminate armor consist of a number of formfitted plastoid plates designed to protect important areas, worn over a snug, reinforced armorweave body glove.",
-    "description": "Models Include: Imperial Department of Military Research Stormtrooper Armor.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "73"
-      },
-      {
-        "code_name": "SWA02",
-        "book_name": "Age of Rebellion",
-        "page_number": "183"
-      },
-      {
-        "code_name": "SWE02",
-        "book_name": "Edge of the Empire",
-        "page_number": "170"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Laminate_Armor&format=json"
   },
   {
     "name": "Leviathan Power Armor",
@@ -2574,13 +1122,10 @@
     "hardPoints": 1,
     "encumbrance": 8,
     "restricted": false,
-    "price": "15000",
+    "price": 15000,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Leviathan_Power_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Leviathan_Power_Armor&format=json",
-    "subtitle": "Designed by the Mon Calamari for use in subaquatic military operations, Leviathan power armor has seen plenty of use within the Rebel Alliance.",
-    "description": "Any character wearing a Leviathan suit that was not built for upgrades the difficulty of Agility and Brawn-based checks once.",
-    "books": []
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Leviathan_Power_Armor&format=json"
   },
   {
     "name": "Mandalorian Armor",
@@ -2589,29 +1134,10 @@
     "hardPoints": 5,
     "encumbrance": 6,
     "restricted": true,
-    "price": "6000",
+    "price": 6000,
     "rarity": "8/Special",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mandalorian_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mandalorian_Armor&format=json",
-    "subtitle": "Typically, skilled Mandalorian smiths custom design and build suits of armor.",
-    "description": "All Mandalorian armor suits include an integrated comlink and are vacuum sealed. Beyond that, most conform to the defense, soak, encumbrance, and hard points values presented above, though exceptions exist.",
-    "books": [
-      {
-        "code_name": "SWR15",
-        "book_name": "Collapse of the Republic",
-        "page_number": "57"
-      },
-      {
-        "code_name": "SWE16",
-        "book_name": "No Disintegrations",
-        "page_number": "49"
-      },
-      {
-        "code_name": "SWE16",
-        "book_name": "No Disintegrations",
-        "page_number": "50"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mandalorian_Armor&format=json"
   },
   {
     "name": "N-57 Armor",
@@ -2620,19 +1146,10 @@
     "hardPoints": 5,
     "encumbrance": 5,
     "restricted": false,
-    "price": "3000",
+    "price": 3000,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Merr-Sonn_N-57_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Merr-Sonn_N-57_Armor&format=json",
-    "subtitle": "The latest suit in Merr-Sonn's N-series armor for combat engineers has broken with the company's typical policy of selling exclusively to established planetary militaries, and is available for general purchase on the open market.",
-    "description": "As a maneuver, the wearer may recharge an energy weapon or device that has run out of power or ammunition in the manner of an extra reload/power pack.",
-    "books": [
-      {
-        "code_name": "SWE14",
-        "book_name": "Special Modifications",
-        "page_number": "48"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Merr-Sonn_N-57_Armor&format=json"
   },
   {
     "name": "Mk II \"Hotspot\" Insulated Armor",
@@ -2641,19 +1158,10 @@
     "hardPoints": 2,
     "encumbrance": 6,
     "restricted": true,
-    "price": "5500",
+    "price": 5500,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mk_II_%22Hotspot%22_Insulated_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mk_II_%22Hotspot%22_Insulated_Armor&format=json",
-    "subtitle": "Flame troopers are among the more specialized units in the Grand Army of the Republic.",
-    "description": "Mk II \"Hotspot\" insulated armor comes with a built-in comlink. It adds two boost dice to the wearer's checks to avoid adverse effects from exposure to extreme heat or toxic gases and reduces the damage the wearer takes from fire and hazardous environments by 1. Additionally, when targeting the wearer, attackers must spend one additional advantage result to activate the Burn item quality and treat the quality's rating as one lower.",
-    "books": [
-      {
-        "code_name": "SWR11",
-        "book_name": "Rise of the Separatists",
-        "page_number": "57"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mk_II_%22Hotspot%22_Insulated_Armor&format=json"
   },
   {
     "name": "Mk II \"Steelskin\" Anti-concussive Armor",
@@ -2662,29 +1170,10 @@
     "hardPoints": 1,
     "encumbrance": 8,
     "restricted": true,
-    "price": "6500",
+    "price": 6500,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mk_II_%22Steelskin%22_Anti-concussive_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mk_II_%22Steelskin%22_Anti-concussive_Armor&format=json",
-    "subtitle": "Some of the heaviest non-powered personal armor on the market, Steelskin armor is illegal on most worlds and sure to draw significant attention in even the roughest of Outer Rim settlements.",
-    "description": "All Brawn- and Agility-based checks while wearing Steelskin armor gain a setback die. Whenever the bearer is staggered or disoriented from a weapon's item quality, the armor reduces the rounds staggered or disoriented by one.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "73"
-      },
-      {
-        "code_name": "SWE08",
-        "book_name": "Dangerous Covenants",
-        "page_number": "49"
-      },
-      {
-        "code_name": "SWE08",
-        "book_name": "Dangerous Covenants",
-        "page_number": "51"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mk_II_%22Steelskin%22_Anti-concussive_Armor&format=json"
   },
   {
     "name": "Mk IV Riot Armor",
@@ -2693,24 +1182,10 @@
     "hardPoints": 1,
     "encumbrance": 3,
     "restricted": true,
-    "price": "1850",
+    "price": 1850,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Mk_IV_Riot_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mk_IV_Riot_Armor&format=json",
-    "subtitle": "The Mk IV riot armor is one of Creshaldyne Industries' most popular models.",
-    "description": "This armor includes a breath mask that allows the user to filter out airborne toxins and gases (but not to breathe in atmospheres without the character's required atmosphere mix). In addition, when staggered or disoriented, the wearer reduces the duration of the effect by one round, to a minimum of one round.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "74"
-      },
-      {
-        "code_name": "SWE10",
-        "book_name": "Far Horizons",
-        "page_number": "44"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Mk_IV_Riot_Armor&format=json"
   },
   {
     "name": "Phase I ARC Trooper Armor (RotS)",
@@ -2719,34 +1194,10 @@
     "hardPoints": 4,
     "encumbrance": 5,
     "restricted": true,
-    "price": "6000",
+    "price": 6000,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Phase_I_ARC_Trooper_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Phase_I_ARC_Trooper_Armor&format=json",
-    "subtitle": "The elite ARC troopers within the Grand Army of the Republic receive special gear, including a unique type of reinforced armor, to help them survive their dangerous assignments.",
-    "description": "Phase I ARC trooper armor includes a comlink. The various systems built into Phase I ARC trooper armor remove a setback die from all Perception checks made by the wearer. [And provide all the benefits of a hardened comlink.] In addition, the integrated load-bearing harness increases the wearer's encumbrance threshold by three.",
-    "books": [
-      {
-        "code_name": "SWR11",
-        "book_name": "Rise of the Separatists",
-        "page_number": "57"
-      },
-      {
-        "code_name": "SWF46",
-        "book_name": "Knights of Fate",
-        "page_number": "47"
-      },
-      {
-        "code_name": "SWR11",
-        "book_name": "Rise of the Separatists",
-        "page_number": "58"
-      },
-      {
-        "code_name": "SWF46",
-        "book_name": "Knights of Fate",
-        "page_number": "48"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Phase_I_ARC_Trooper_Armor&format=json"
   },
   {
     "name": "Phase I ARC Trooper Armor (KoF)",
@@ -2755,34 +1206,10 @@
     "hardPoints": 2,
     "encumbrance": 4,
     "restricted": true,
-    "price": "5000",
+    "price": 5000,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Phase_I_ARC_Trooper_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Phase_I_ARC_Trooper_Armor&format=json",
-    "subtitle": "The elite ARC troopers within the Grand Army of the Republic receive special gear, including a unique type of reinforced armor, to help them survive their dangerous assignments.",
-    "description": "Phase I ARC trooper armor includes a comlink. The various systems built into Phase I ARC trooper armor remove a setback die from all Perception checks made by the wearer. [And provide all the benefits of a hardened comlink.] In addition, the integrated load-bearing harness increases the wearer's encumbrance threshold by three.",
-    "books": [
-      {
-        "code_name": "SWR11",
-        "book_name": "Rise of the Separatists",
-        "page_number": "57"
-      },
-      {
-        "code_name": "SWF46",
-        "book_name": "Knights of Fate",
-        "page_number": "47"
-      },
-      {
-        "code_name": "SWR11",
-        "book_name": "Rise of the Separatists",
-        "page_number": "58"
-      },
-      {
-        "code_name": "SWF46",
-        "book_name": "Knights of Fate",
-        "page_number": "48"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Phase_I_ARC_Trooper_Armor&format=json"
   },
   {
     "name": "Phase I Clone Trooper Armor",
@@ -2791,24 +1218,10 @@
     "hardPoints": 3,
     "encumbrance": 4,
     "restricted": true,
-    "price": "2000",
+    "price": 2000,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Phase_I_Clone_Trooper_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Phase_I_Clone_Trooper_Armor&format=json",
-    "subtitle": "Mass-produced alongside the first batches of clones by the Kaminoans, the first designs of clone armor emphasize function and protection.",
-    "description": "It is pressurized against vacuum—not enough to allow extended operations, but sufficient for a few minutes of life support in an emergency.",
-    "books": [
-      {
-        "code_name": "SWR11",
-        "book_name": "Rise of the Separatists",
-        "page_number": "57"
-      },
-      {
-        "code_name": "SWR11",
-        "book_name": "Rise of the Separatists",
-        "page_number": "58"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Phase_I_Clone_Trooper_Armor&format=json"
   },
   {
     "name": "Phase II ARC Trooper Armor",
@@ -2817,19 +1230,10 @@
     "hardPoints": 2,
     "encumbrance": 4,
     "restricted": true,
-    "price": "5500",
+    "price": 5500,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Phase_II_ARC_Trooper_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Phase_II_ARC_Trooper_Armor&format=json",
-    "subtitle": "Advanced Recon Commandos, or ARC troopers, performed the initial field test of Phase II clone trooper armor.",
-    "description": "Phase II ARC trooper armor includes an integrated comlink with scrambler capable of using all standard Republic communications protocols. The survival pack incorporates emergency rations, a water filtration system, a microfiber line, and a distress beacon.",
-    "books": [
-      {
-        "code_name": "SWR15",
-        "book_name": "Collapse of the Republic",
-        "page_number": "57"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Phase_II_ARC_Trooper_Armor&format=json"
   },
   {
     "name": "Phase II Clone Trooper Armor",
@@ -2838,19 +1242,10 @@
     "hardPoints": 4,
     "encumbrance": 4,
     "restricted": true,
-    "price": "3000",
+    "price": 3000,
     "rarity": "6",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Phase_II_Clone_Trooper_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Phase_II_Clone_Trooper_Armor&format=json",
-    "subtitle": "Throughout the course of the Clone Wars, clone troopers have assumed a broad range of different battlefield roles.",
-    "description": "Phase II clone trooper armor includes an integrated comlink with scrambler capable of using all standard Republic communications protocols.",
-    "books": [
-      {
-        "code_name": "SWR15",
-        "book_name": "Collapse of the Republic",
-        "page_number": "57"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Phase_II_Clone_Trooper_Armor&format=json"
   },
   {
     "name": "Powered Capacitive Armor",
@@ -2859,29 +1254,10 @@
     "hardPoints": 2,
     "encumbrance": 4,
     "restricted": true,
-    "price": "3000",
+    "price": 3000,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Powered_Capacitive_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Powered_Capacitive_Armor&format=json",
-    "subtitle": "Popular and lightweight, capacitive armor offers moderate protection against most forms of attack whenever worn.",
-    "description": "Models include: A/KT Tuff-Powered Armor",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "76"
-      },
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "48"
-      },
-      {
-        "code_name": "SWA31",
-        "book_name": "Desperate Allies",
-        "page_number": "49"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Powered_Capacitive_Armor&format=json"
   },
   {
     "name": "Rebel Heavy Battle Armor",
@@ -2890,29 +1266,10 @@
     "hardPoints": 5,
     "encumbrance": 5,
     "restricted": true,
-    "price": "6000",
+    "price": 6000,
     "rarity": "8",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Rebel_Heavy_Battle_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Rebel_Heavy_Battle_Armor&format=json",
-    "subtitle": "Most Alliance field tactics focus on hit-and-fade strikes, sabotage, and denial operations, but sometimes the Rebellion has no choice but to stand and fight against Imperial forces.",
-    "description": "Rebel heavy battle armor is equipped with a helmet-fitted breath mask and respirator.",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "76"
-      },
-      {
-        "code_name": "SWA42",
-        "book_name": "Forged in Battle",
-        "page_number": "49"
-      },
-      {
-        "code_name": "SWA42",
-        "book_name": "Forged in Battle",
-        "page_number": "50"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Rebel_Heavy_Battle_Armor&format=json"
   },
   {
     "name": "Scavenged Clone Armor",
@@ -2921,24 +1278,10 @@
     "hardPoints": 2,
     "encumbrance": 5,
     "restricted": true,
-    "price": "1000",
+    "price": 1000,
     "rarity": "4",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Scavenged_Clone_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Scavenged_Clone_Armor&format=json",
-    "subtitle": "Bounty hunters, pirates, and other misfits often seek out the heavy protection of laminate armor and heavy bodysuits, only to find the expensive construction of the gear they seek to be a significant obstacle.",
-    "description": "Due to the piecemeal nature of its construction and the difficulty of adapting the specific fit of clone armor, all wearers of scavenged clone armor suffer a setback die to Coordination and Stealth checks while wearing it. Characters wearing scavenged clone armor may suffer one or more setback dice on interactions with Republic officials and representatives, at the GM's discretion.",
-    "books": [
-      {
-        "code_name": "SWR11",
-        "book_name": "Rise of the Separatists",
-        "page_number": "57"
-      },
-      {
-        "code_name": "SWR11",
-        "book_name": "Rise of the Separatists",
-        "page_number": "58"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Scavenged_Clone_Armor&format=json"
   },
   {
     "name": "Protector 1 Combat Armor",
@@ -2947,19 +1290,10 @@
     "hardPoints": 3,
     "encumbrance": 4,
     "restricted": true,
-    "price": "5500",
+    "price": 5500,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/TaggeCo._Protector_1_Combat_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=TaggeCo._Protector_1_Combat_Armor&format=json",
-    "subtitle": "The Protector 1 from the Tagge Company is representative of an entire class of heavy battle armor, consisting of strong durasteel plates over a ballistic mesh suit.",
-    "description": "",
-    "books": [
-      {
-        "code_name": "SWE08",
-        "book_name": "Dangerous Covenants",
-        "page_number": "49"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=TaggeCo._Protector_1_Combat_Armor&format=json"
   },
   {
     "name": "Waterweave",
@@ -2968,19 +1302,10 @@
     "hardPoints": 1,
     "encumbrance": 7,
     "restricted": false,
-    "price": "6500",
+    "price": 6500,
     "rarity": "5",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Waterweave",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Waterweave&format=json",
-    "subtitle": "Waterweave is a composite material created out of native Semblan alloys and minerals.",
-    "description": "Waterweave armor has encumbrance 7. However, while submerged, the armor's encumbrance changes to 0.",
-    "books": [
-      {
-        "code_name": "SWF52",
-        "book_name": "Unlimited Power",
-        "page_number": "51"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Waterweave&format=json"
   },
   {
     "name": "AniPro Layered Beast Armor",
@@ -2989,24 +1314,10 @@
     "hardPoints": 0,
     "encumbrance": 4,
     "restricted": false,
-    "price": "2500",
+    "price": 2500,
     "rarity": "5",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/AniPro_Layered_Beast_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=AniPro_Layered_Beast_Armor&format=json",
-    "subtitle": "Light and easy to maintain, the AniPro-series layered beast armor by VeTech strikes a good balance between protection and practicality.",
-    "description": "AniPro beast armor can only be worn by riding or working animals. In addition to providing protection to a mount, this armor allows a character to ride the animal without suffering the bareback riding penalties.",
-    "books": [
-      {
-        "code_name": "SWF41",
-        "book_name": "Savage Spirits",
-        "page_number": "45"
-      },
-      {
-        "code_name": "SWF41",
-        "book_name": "Savage Spirits",
-        "page_number": "44"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=AniPro_Layered_Beast_Armor&format=json"
   },
   {
     "name": "Caballerin-Series Riding Tack",
@@ -3015,19 +1326,10 @@
     "hardPoints": 0,
     "encumbrance": 2,
     "restricted": false,
-    "price": "250",
+    "price": 250,
     "rarity": "4",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Caballerin-Series_Riding_Tack",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Caballerin-Series_Riding_Tack&format=json",
-    "subtitle": "No matter how tame and biddable a creature is, and how much a rider belives can trust mount, a good set of riding tack is an indispensable part of a beast rider's accoutrement.",
-    "description": "Tack can only be equipped to bestial riding animals. Using it allows the character to ride the beast without suffering [...] bareback penalties [...].",
-    "books": [
-      {
-        "code_name": "SWA25",
-        "book_name": "Stay on Target",
-        "page_number": "43"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Caballerin-Series_Riding_Tack&format=json"
   },
   {
     "name": "Capari-series Padded Beast Armor",
@@ -3036,19 +1338,10 @@
     "hardPoints": 0,
     "encumbrance": 4,
     "restricted": false,
-    "price": "2500",
+    "price": 2500,
     "rarity": "5",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Capari-series_Padded_Beast_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Capari-series_Padded_Beast_Armor&format=json",
-    "subtitle": "Lighter and more flexible than the heavy Destri-series armor, Capari-series padded beast armor by Piccatech Ltd. offers an excellent balance between protection and wearability.",
-    "description": "Padded beast armor can only be equipped to bestial riding animals. In addition to its other effects, using it allows the character to ride the beast without suffering [...] bareback riding penalties [...].",
-    "books": [
-      {
-        "code_name": "SWA25",
-        "book_name": "Stay on Target",
-        "page_number": "43"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Capari-series_Padded_Beast_Armor&format=json"
   },
   {
     "name": "Destri-series Laminate Beast Armor",
@@ -3057,19 +1350,10 @@
     "hardPoints": 1,
     "encumbrance": 7,
     "restricted": false,
-    "price": "8500",
+    "price": 8500,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Destri-series_Laminate_Beast_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Destri-series_Laminate_Beast_Armor&format=json",
-    "subtitle": "Piccatech's Destri-series beast armor uses modern armor technology to provide unparalleled for working and riding beasts.",
-    "description": "Destri armor is relatively heavy, and although it's designed to be as easy as possible on the beast wearing it, the armor still necessarily restricts movement and tends to make a creature slower. Beasts wearing Destri-series beast armor have their Agility reduced by 1, to a minimum of 1.",
-    "books": [
-      {
-        "code_name": "SWA25",
-        "book_name": "Stay on Target",
-        "page_number": "43"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Destri-series_Laminate_Beast_Armor&format=json"
   },
   {
     "name": "H-series Megafauna Carriage",
@@ -3078,19 +1362,10 @@
     "hardPoints": 2,
     "encumbrance": 5,
     "restricted": false,
-    "price": "5500",
+    "price": 5500,
     "rarity": "7",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/H-series_Megafauna_Carriage",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=H-series_Megafauna_Carriage&format=json",
-    "subtitle": "Piccatech's H-series megafauna carriage is an essential piece of kit for those working with oversized creatures.",
-    "description": "A beast must have a slihouette of at least 3 and a Brawn of at least 5 to be fitted with a howdah. Basic howdah configurations are readily available for beasts with a tetrapodal or quadrupedal stance, like fambaa or dewback, at the listed price. Howdahs for creatures with more appendages, like the six-legged acklay, can be had for a small additional fee, generally 500 credits. Howdahs can be armored and fitted with one or two Gunnery or vehicle-scale weapons, following the usual restrictions for silhouette [...].",
-    "books": [
-      {
-        "code_name": "SWA25",
-        "book_name": "Stay on Target",
-        "page_number": "43"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=H-series_Megafauna_Carriage&format=json"
   },
   {
     "name": "Boba Fett's Armor",
@@ -3099,19 +1374,10 @@
     "hardPoints": 0,
     "encumbrance": 6,
     "restricted": false,
-    "price": "Not for Sale",
+    "price": 0,
     "rarity": "10",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Boba_Fett%27s_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Boba_Fett's_Armor&format=json",
-    "subtitle": "Clad in sage-green Mandalorian armor with red trim, Boba Fett draws on the history of Mandalore's legendary warriors to strike fear in his targets.",
-    "description": "Boba Fett's customized Mandalorian armor comes equipped with an enhanced optics suite (remove two setback dice from Perception, Vigilance, and combat checks due to environmental effects that obscure vision), several weapon systems, an integrated jetpack with rocket, and range finder (adds an automatic advantage result on all integrated weapon attacks).",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "68"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Boba_Fett's_Armor&format=json"
   },
   {
     "name": "Darth Vader's Armor",
@@ -3120,18 +1386,9 @@
     "hardPoints": 0,
     "encumbrance": 5,
     "restricted": false,
-    "price": "Not for Sale",
+    "price": 0,
     "rarity": "10",
     "sourceURL": "https://star-wars-rpg-ffg.fandom.com/wiki/Darth_Vader%27s_Armor",
-    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Darth_Vader's_Armor&format=json",
-    "subtitle": "Completely encased in an ebony suit of custom life support armor, Darth Vader cuts a fearsome silhouette and generates an air of mystery; the strained, unnerving gasps of his respiratory implant the only insight into stoic Vader's mood.",
-    "description": "Darth Vader's customized armor comes with an enhanced optics suite (remove two setback dice from Perception, Vigilance, and combat checks due to environmental effects that obscure vision), an integrated medical system (add a boost die to all Medicine checks to heal Vader; once per session, may activate this attachment as an incidental; this counts as using a stimpack), and are vacuum-sealed (can ignore the effects of vacuum for up to an hour).",
-    "books": [
-      {
-        "code_name": "SWR17",
-        "book_name": "Gadgets and Gear",
-        "page_number": "70"
-      }
-    ]
+    "sourceAPIURL": "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=Darth_Vader's_Armor&format=json"
   }
 ]

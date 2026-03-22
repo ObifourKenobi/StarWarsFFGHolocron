@@ -1,5 +1,5 @@
-import { DOMParser, Element } from "jsr:@b-fuze/deno-dom";
-import { logFound, writeJsonList } from "./util.ts";
+import { DOMParser } from "jsr:@b-fuze/deno-dom";
+import { fetchFromfandomAPI, writeJsonList } from "./util.ts";
 
 interface Career {
 	name: string;
@@ -13,9 +13,7 @@ const API_URL = "https://star-wars-rpg-ffg.fandom.com/api.php?action=parse&page=
 async function fetchCareers(): Promise<Career[]> {
 	console.log(`Fetching careers from ${CATEGORY_URL}...`);
 
-	const response = await fetch(API_URL);
-	const data = await response.json();
-	const html = data.parse.text["*"];
+	const html = await fetchFromfandomAPI(API_URL);
 
 	const document = new DOMParser().parseFromString(html, "text/html");
 	if (!document) {
@@ -79,7 +77,7 @@ async function fetchCareers(): Promise<Career[]> {
 			}
 		}
 	}
-	logFound(careers.length, "careers");
+	console.log(`Found ${careers.length} careers`);
 	return careers;
 }
 
@@ -97,8 +95,4 @@ export async function fetchCareersData(): Promise<{
 	);
 	
 	return { items: careers, outputFile };
-}
-
-if (import.meta.main) {
-	await fetchCareersData();
 }
